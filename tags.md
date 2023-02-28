@@ -6,8 +6,6 @@ content-type: eg
 ---
 
 
-<br>
-<div>
 {% for tag in site.tags %}
   {%- assign conc = tag | first -%}
   {%- if conc != 'Favorite' -%}
