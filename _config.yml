@@ -144,7 +144,8 @@ defaults:
       layout: Post
       permalink: /:categories/:title:output_ext
       content-type: post
-      draft: true
+      show_drafts: true
+
 
 
 # Exclude from processing.
