@@ -7,7 +7,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "jardim.w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stately-sunburst-dbafe0.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -133,7 +133,7 @@ collections:
     permalink: /:categories/:title
     name: Meus posts
     filename_pattern: posts-:title
-    draft: true
+    
 
 
 defaults:
@@ -144,6 +144,7 @@ defaults:
       layout: Post
       permalink: /:categories/:title:output_ext
       content-type: post
+      draft: true
 
 
 # Exclude from processing.
