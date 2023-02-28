@@ -184,6 +184,31 @@ b, strong {
     font-weight: 600;
 }
 
+.tags {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .tags li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: #f2f2f2;
+    padding: 2px 5px;
+    border-radius: 1px;
+    font-size: 14px;
+  }
+  
+  .tags li a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .tags li a:hover {
+    text-decoration: underline;
+  }
+
 
 /* Figures, Images, Code, Blockquotes, Tables */
 
@@ -526,6 +551,7 @@ hr {
 }
 
 .stale-link {
+    color:#f2f2f2;
     background-color:#ff7300;
 }
 
