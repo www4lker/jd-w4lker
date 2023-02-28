@@ -1,17 +1,12 @@
----
-layout: Stylesheet
----
-
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 :root {
+    --bg-color-light: #f8f8f8;
+    --text-color-light: #333;
+    --bg-color-dark: #222;
+    --text-color-dark: #fff;
     --main-hue: 0;
-    --primary-bg-color: #004e82(var(--main-hue), 0%, 100%);
-    --secondary-bg-color: #5b2900(var(--main-hue), 0%, 96.9%);
-    --ternary-bg-color: #66c2ff(var(--main-hue), 0%, 91.4%);
-    --quaternary-bg-color: #bff0ff(var(--main-hue), 0%, 93%);
-    --quinary-bg-color: #00455b(var(--main-hue), 100%, 100%);
 
     --primary-border-color: hsl(var(--main-hue), 0%, 96.9%);
     --secondary-border-color: hsl(var(--main-hue), 0%, 91.4%);
@@ -33,15 +28,26 @@ layout: Stylesheet
     --primary-font-family: sans-serif;
     --secondary-font-family: sans-serif;
 }
+.light-theme {
+    --bg-color: var(--bg-color-light);
+    --text-color: var(--text-color-light);
+  }
+  
+  .dark-theme {
+    --bg-color: var(--bg-color-dark);
+    --text-color: var(--text-color-dark);
+  }
 
-
-html {
+    html {
     scroll-behavior: smooth;
-    
-}
+    }
+
 
 body {
-    counter-reset: sidenote-counter; 
+    counter-reset: sidenote-counter;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    
 }
 
 .container {
@@ -66,7 +72,6 @@ body {
     border-right: 1px solid var(--primary-border-color);
     border-bottom: 1px solid var(--primary-border-color);
     width: 80%;
-    padding: 3em 1em;
     position: absolute;
     top: 0px;
 }
@@ -146,7 +151,7 @@ table, span {
        
 }
 
-ul a, li a,ol a, ul, li, ol, {
+ul a, li a,ol a, ul, li, ol {
     color: var(--primary-text-color);
     font-family: Georgia, 'Times New Roman', Times, serif;
     line-height: 1.75;
@@ -262,6 +267,9 @@ blockquote p {
 
 table {
     border-radius: 5px;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
 }
 
 th, td {
@@ -282,6 +290,8 @@ td a {
 
 table th {
     font-weight: 600;
+    text-align: left;
+    padding: 8px;
 }
 
 tr {
@@ -516,7 +526,7 @@ hr {
 }
 
 .stale-link {
-    background-color:#ffffc4;
+    background-color:#ff7300;
 }
 
 

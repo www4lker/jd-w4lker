@@ -21,7 +21,7 @@ subheading: # subheading won't work without a tagline,
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
-  enabled: true
+  enabled: false
   name: W4LKER
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
@@ -126,14 +126,7 @@ kramdown:
   
 sass:
   style: compressed
-
-collections:
-  posts:
-    output: true
-    permalink: /:categories/:title
-    name: Meus posts
-    filename_pattern: posts-:title
-    
+ 
 
 
 defaults:
@@ -142,12 +135,10 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /:categories/:title:output_ext
+      permalink: pretty
       content-type: post
       show_drafts: true
-
-
-
+      
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

@@ -1,34 +1,3 @@
-{%- comment -%}
-*
-* MIT License
-* Copyright (c) 2020 Raghuveer S
-*
-* Permission is hereby granted, free of charge, to any person obtaining a copy
-* of this software and associated documentation files (the "Software"), to deal
-* in the Software without restriction, including without limitation the rights
-* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-* copies of the Software, and to permit persons to whom the Software is
-* furnished to do so, subject to the following conditions:
-*
-* The above copyright notice and this permission notice shall be included in all
-* copies or substantial portions of the Software.
-*
-* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-* SOFTWARE.
-*
-* File: Header.html
-* Author@Raghuveer S
-*
-* This file contains the markup for the site heading, subheading, user description, 
-*  user avatar, searchbar, site tagline.
-*
-{%- endcomment -%}
-
 <header>
     <div class="dashboard disable-select">
         {%- assign header_direction = 'site-heading-rtl' -%}
@@ -63,9 +32,9 @@
         <div class="{{header_direction}} profile-board-col">
            <p class="main-page-heading {{main_heading_size}} {{main_heading_margin}}"><a href='/'>{{site.heading}}</a></p>
            {%- if site.tagline.enabled -%}
-             {%- if site.subheading.enabled -%}
-                <h4 class="main-page-subheading medium"><a href="/">{{site.subheading.name}}</a></h4>
-             {%- endif -%}
+           {%- if site.subheading.enabled -%}
+           <h2 class="main-page-subheading medium"><a href="/">{{site.subheading.name}}</a></h2>
+        {%- endif -%}
              <p class="main-page-tagline">{{site.tagline.name}}</p>
             {%- endif -%}
         </div>
@@ -166,6 +135,10 @@
         </div>
         {%- endif -%}
     </div>
+
+    <button>Liga - Desliga Claridade</button><script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+    
+    
     {%- if site.user.display and userboard_display == 'show' -%}
     <div class="avatar {{avatar_margin}} disable-select" title="click me to know more">
         <a class="avatar-link" href="/about">
