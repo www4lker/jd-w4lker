@@ -6,67 +6,36 @@ content-type: eg
 ---
 
 
-- I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
+| ![capa](https://i.postimg.cc/LXg2fMmb/novoretrato-por-pc-4x4.png)                  |
+| ---------------------------------------------------------------------------------- |
+| Esboço de caricatura feita pelo Paulo Cezar - Sombra. Efeitos de cor feito por mim |
 
-- I am a long time practioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
+# Bem-vindos ao meu jardim digital
 
-- On this website I write articles about [[Computer Science::/tags/#Software]], [[Philosophy::/tags/#Philosophy]], Mathematics, and [[Generic Life Stuff::/tags/#General]]. Sometimes I also [[review::/tags/#Review]] books that I've read. You can find my programming side-projects on [[github::https://www.github.com/rgvr]]
+## O que são jardins digitais
 
-- I have a [[youtube channel::https://www.youtube.com/channel/UCESc8TaWpQxpHEnfhQLgzPQ]] on which I stream my work log(live writing sessions, coding sessions, reading/researching sessions, etc).
+Jardins digitais são sites pessoais que funcionam como uma coleção de ideias, pensamentos e informações. Eles combinam características de um blog e um caderno, sendo menos estruturados e hierárquicos que os websites convencionais e mais artísticos e expressivos que os blogs comuns. A ideia de jardins digitais surge do desejo de retornar às raízes dos blogs e criar um espaço para exploração e descoberta, ao contrário do conteúdo simplificado e viral das mídias sociais. Eles representam uma reação à uniformidade das mídias sociais atuais e dos sites institucionais tradicionais. Os jardins digitais permitem que o criador exerça a criatividade, personalize o conteúdo e adicione constantemente novas informações e conexões à medida que aprende e se desenvolve.
+
+## este projeto
+
+Este jardim digital é muito mais do que uma simples coleção de notas. É um espaço pessoal na internet que serve como uma base de conhecimento abrangente e em constante evolução para mim, como pesquisador, durante o período de 2020 a 2022. O jardim inclui uma ampla gama de materiais, como notas de pesquisa, leituras online e guias de estudo, todos conectados e organizados através de uma rede de links. É como ter uma Wikipédia pessoal, onde o autor pode registrar suas percepções, opiniões e descobertas sobre diversos tópicos. Através deste projeto, o criador assume o controle de sua presença online, livre das restrições e algoritmos das plataformas tradicionais de blogs e mídias sociais. Este jardim digital permite uma abordagem criativa e exploratória do aprendizado, onde as ideias podem crescer e evoluir ao longo do tempo.
+
+## antes deste projeto
+
+Em minha tentativa anterior de criar um jardim digital usando Jekyll, descobri o conceito de Gestão de Conhecimento Pessoal (PKM) e o método Zettelkasten. No entanto, tentei combinar os dois, mas não funcionou bem para a prática de tomar notas individualmente ou para a iniciativa de criar um simples blog público. Mais tarde, encontrei uma alternativa às plataformas pagas usando o GitHub Pages, o que me permitiu usar uma URL pessoal gratuitamente, o que era parte do projeto. Além disso, não queria deixar o conteúdo dependente de plataformas que controlam a experiência online. Eu planejava usar subdomínios para explorar diferentes instâncias de criatividade online, incluindo o jardim digital, um blog (w4lker.com.br) e uma newsletter (que antes estava na Revue e agora está no Substack). Em resumo, estou entusiasmado com esse projeto e sua possibilidade de desenvolver minha criatividade online.
+
+## sempre em beta
+
+É importante destacar que este jardim digital é um projeto aberto e sempre em evolução. Ele não é um produto acabado, mas sim um espaço em constante desenvolvimento. Seguindo o espírito da fase beta de desenvolvimento de software, o jardim digital está sempre em fluxo e crescimento. Além disso, espero que mais pessoas possam apreciar o valor de criar seus próprios jardins digitais e convido os leitores a explorar esse conceito e criar seus próprios espaços pessoais na internet.
+
+De acordo com a ideia de um jardim digital, mantive a página inicial minimalista para incentivar a exploração e a descoberta pessoal. Conforme o projeto avança, novos recursos serão adicionados, incluindo pesquisa, backlinks, lista de arquivos e gráficos.
+**Segue um índice, embora minha sugestão seja se deixar levar por aquilo que parecer mais interessantes:** 
   
-- If you find anything interesting about who I am or what I do, please do reach out to me. 👇
+> 1- [[Meta Notas\|Meta Notas]] - notas que falam sobre o zettellkasten, o obsidian e sobre si mesmas
+>  2 - Notas de Pesquisa acadêmica: [[Dissertação e Projetos - índice\|Dissertação e Projetos - índice]] - notas relacionadas á pesquisa de mestrado e sobre todo um mundo de outras coisas
+>  3 - Notas Permanentes: [[Notas Permanentes - índice\|Notas Permanentes - índice]] - notas geralmente mais importantes e que abrangem todo o projeto; novas notas podem ser promovidas (ou removidas) a qualquer momento
+>  4 - Notas de Leitura: [[Notas de leituras - índice\|Notas de leituras - índice]] - notas mais literais. muitas vezes meu entendimento sobre uma coisa que li, assisti ou ouvi
+ 
+---
 
-
-## Reach out to me
-
-- Shoot me a dm or just tweet ***[[@rgvrme::https://twitter.com/r]]***. I will try to reply as soon as I can. 
-  
-- I live in Bangalore, so If you happen to be in Bangalore by chance and want to chat, drop an ***[[email::mailto:raghu@rgvr.me]]*** and include [Coffee] in the subject line, and we can work something out.
-  
-- If you are not comfortable reaching out to me directly, you can also anonymously give me [[feedback::https://www.admonymous.co/rgvr]]
-
-
-## About the website
-
-### Features:
-
-[[***Changelog***<br/>
-\- 14-05-20 Context Menu <br/>
-\- 08-05-20 Trivial Spaced Repetition <br/>
-\- 04-05-20 Removed Theming. <br/>
-\- 04-05-20 Removed Curated Notes. <br/>
-\- 01-04-20 Curated Notes. <br/>
-\- 30-04-20 Transclusion. <br/>
-\- 26-04-20 Sidenote. <br/>
-\- 20-04-20 Wiki link. <br/>
-\- 16-04-20 Theme. <br/>
-\- 16-04-20 Avatar. <br/>
-\- 11-02-20 Related Posts. <br/>
-\- 12-10-19 Searchbar. <br/>
-::rmn]]The original design[[**Original Design**<br><img src="/assets/img/firstdesign.jpg">::lsn]] of this website was a lot more ostentatious than what you see here. As I progressed through the development process of this website, the current design started emerging on its own. For reasons I don't even understand, the current design just started feeling more natural than the one I had in my mind initially. The bare and simple look-n-feel of this site, at least to me, encompasses the essence of all the things I love about the sites I frequently visit --- feed-like structure, previews, search with context, contextual backlinks, sidenotes, etc. I am hopeful that you'll love it too. :)
-
-- **Page preview** (Move your mouse over the link): [[Lorem ipsum dolor sit amet]]
-- **Transclusion**: Allows you to see a partial view of the contents of the website to the right or the left of the margin.
-- **Sidenotes** (Changelog you see on the left is an example of this).
-- **Wiki-style link:** Usually wikis allow you to specify links using double bracket, I added it here using liquid. Also added bad-link highlighting
-   - Good link: [[Lorem ipsum dolor sit amet]]
-   - Bad link: [[Title of a page that doesn't exist]]
-
-
-Some Less know features:
-
-- Go back to the blog home or to the notes page, and try to right click on any of the entry. [Hint: Zettelkasten]
-
-- Press 'Shift + s' to trigger search
-
-- Click this card[[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]
-
-
-Other Details:
-
-- The site lives on [[Github::https://github.com/rgvr/simply-jekyll]] and is served using Netlify
-- This website is statically generated using Jekyll from a set of Markdown files.
-  - The Jekyll theme can be found on my Github Page, It is called "Simply-Jekyll"
-- Except lunrjs and katex, there are no third party libraries. Discord is an opt-in, I don't use on my [[site::https://rgvr.me]]. I strongly believe in user privacy.
-
-
+Este site foi feito por mim, mas só está online com a ajuda do incrível software de notas [Obsidian](https://obsidian.md) e deste repo que se integrou muito bem ao primeiro, [Symply Jekyll](https://github.com/rgvr/simply-jekyll)

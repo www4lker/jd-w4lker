@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "jardim.w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -28,14 +28,14 @@ url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for you
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: JARDIM DIGITAL W4LKER
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes and Thoughts
+  name: W4LKER
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -45,18 +45,18 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations
+  name: NOTAS E IDEIAS
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2023
+  msg: w4lker # This is a mandatory attribute for copyright to be displayed
 
 user:
-  display: true # setting it to false will remove the header image and bio
+  display: false # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Raghuveer S
-  bio: Programmer ∪ Writer. Interested in constraints and correspondences.
+  bio: Programmer Writer. Interested in constraints and correspondences.
   email: raghu-veer@outlook.com
   photo: /assets/img/profile.png
   alt_link: rgvr.me
@@ -96,7 +96,7 @@ preferences:
     enabled: true
   highlighting:
     enabled: true
-    color: DAEDFF # Takes hexadecimal and basic names like white, red, etc. 
+    color: 004e82 # Takes hexadecimal and basic names like white, red, etc. 
                   # Do not add '#'(the pound symbol) before the hexadecimal number.
                   # In yml, it is considered as a comment
   backlinks:
@@ -139,7 +139,7 @@ kramdown:
   input: GFM
   hard_wrap: false
   math_engine: katex
-  smart_quotes: ["apos", "apos", "quot", "quot"]
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   syntax_highlighter: rouge
   
 sass:
@@ -151,7 +151,6 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /posts/:title
       content-type: post
 
 
