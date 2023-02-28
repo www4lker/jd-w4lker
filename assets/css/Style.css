@@ -85,30 +85,35 @@ main {
 
 
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
-
 h1 {
-    font-size: 47px;
-}
-
-h2 {
-    font-size: 42px;
-}
-
-h3 {
-    font-size: 26.6px;
-}
-
-h4 {
-    font-size: 25.5px;
-}
-
-h5 {
-    font-size: 20px;
-}
-
-h6 {
-    font-size: 17px;
-}
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    line-height: 1.2;
+  }
+  
+  h4 {
+    font-size: 1.25rem;
+    line-height: 1.2;
+  }
+  
+  h5 {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+  
+  h6 {
+    font-size: 0.875rem;
+    line-height: 1.2;
+  }
 
 h1, h2 {
   color: var(--primary-text-color);
@@ -127,11 +132,18 @@ h3, h4, h5, h6 {
   font-weight: bold;
 }  
 
-a, p, table, span, blockquote {
+a, p, blockquote{
     color: var(--primary-text-color);
     font-family: inherit;
     line-height: 1.75;
     font-size: 1.25em;
+}
+
+
+table, span {
+    color: var(--primary-text-color);
+    font-family: inherit;
+       
 }
 
 ul a, li a,ol a, ul, li, ol, {
@@ -245,7 +257,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: 15px;
+    font-size: inherit;
 }
 
 table {
@@ -327,6 +339,7 @@ hr {
     margin-top: -8px;
     margin-right: 20px;
 }
+
 
 
 
@@ -1112,8 +1125,11 @@ label.srs-toggle {
     margin-left: 10px;
     width: 90% !important;
     height: 100%;
+    border-color: #5b2900;
     border-radius: 10px;
     cursor: pointer;
+    font-family: sans-serif;
+    line-height: normal;
 }
 
 .related-group:hover {

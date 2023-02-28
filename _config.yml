@@ -133,6 +133,7 @@ collections:
     permalink: /:categories/:title
     name: Meus posts
     filename_pattern: posts-:title
+    draft: true
 
 
 defaults:
