@@ -1,0 +1,52 @@
+---
+tags:
+  - permanente
+  - interessesgerais
+  - wiredetal
+  - interessesdepesquisa
+  - meta
+  - promptgpt3
+  - otimistarealista
+title: 170120231155
+aliases: 170120231155
+date: 2023-02-27
+---
+# 170120231155
+## criado em: 11:55 2023-01-17
+
+### Relacionado
+- palavras-chave:    
+- [[distopia feudal digital]]
+- [[gpt3]]
+- [[BERT]]
+- [[racismo algorítmico]]
+- [[Santos, Milton]]
+- [[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte 2]]
+- [[pode inteligencia virtual fazer arte]]
+- [[midjourney]]
+- [[chat gpt me ajuda a corrigir]]
+- [[gpt3 por ele mesmo]]
+- [[o que a IA significa para a criatividade humana]]
+- [[Que outros usos para a pesquisa acadêmica nas ciências humanas eu posso usar o chatgpt3]]
+- [[como melhor usar o chatgpt para pesquisa]]
+---
+# Como fazer melhores resumos (e depender menos do gpt)
+
+Há várias técnicas que pode utilizar para resumir textos e criar melhores anotações:
+
+1.  **Identificar a ideia principal**: Ler o texto e determinar a ideia principal ou o objetivo do autor. Esta será a base do seu resumo.
+    
+2.  **Identificar os pontos-chave**: Procure detalhes, factos e argumentos importantes que apoiem a ideia principal. Estes serão os pontos-chave do seu resumo.
+    
+3.  **Elimine informações desnecessárias**: Livre-se de qualquer informação que não seja essencial para a compreensão da ideia principal ou dos pontos-chave.
+    
+4.  **Use as suas próprias palavras**: Escreva o resumo nas suas próprias palavras, em vez de copiar frases ou sentenças diretamente do texto.
+    
+5.  **Mantenha-o conciso**: Um bom resumo deve ser breve e direto ao assunto, por isso não se esqueça de o manter tão conciso quanto possível.
+    
+6.  **Use a voz ativa**: Usar voz activa ao escrever o resumo, o que ajuda a manter as frases curtas e concisas.
+    
+7.  **Anotar o texto**: Destacar ou sublinhar pontos-chave e ideias principais no texto, e escrever notas ou comentários ao seu lado.
+    
+8.  **Prática**: Quanto mais resumir os textos, melhor será o seu trabalho. Assim, pratique regularmente o resumo de diferentes tipos de textos para melhorar as suas competências.
+

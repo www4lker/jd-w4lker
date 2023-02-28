@@ -1,70 +1,39 @@
-<p align="right">
-<a href="https://jekyll-themes.com">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
-</p>
-<br><br>
+
+# Bem vindos ao meu cantinho digital nos confins do Ciberespaço
+
+## ![eu_nvr](https://i.postimg.cc/Dw9hrwgq/vilhenado.png)
+Escrevi esse blog sem tracking e 100% HTML no *github* em parte por nostalgia e em parte para fazer parte da resistência contra a platormização de toda a internet; gosto de escrever, de gatos e games.
 
 
+### Os porquês:
 
-<p align="center">
-    <img align="left" width="250px" src="./assets/img/logo.png">
-    <p><strong>Simply Jekyll</strong> is a simple yet highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for. This is an evolving project and is garanteed to be maintained at least for quite some time as I myself am a beneficiary of this theme and the project.</p><br><hr>
-    <p align="center"><strong><a href="https://simply-jekyll.netlify.app/">See it in action!</a></strong></p>
-    <img align="center" src="./assets/img/end_result.png">
-</p>
+![image.png](https://i.postimg.cc/RhvYBMBg/image.png)
+*Baseado no repositório do [Jan Raasch](https://github.com/janraasch) em cima do [Bearblog](https://bearblog.dev/), fiz esse site em HUGO que promete ser leve e muito responsivo, como se vê na medição acima.* 
+#### Mais sobre mim e sobre esse projeto:
+- Aprender a fazer um blog do zero é aprender que nada se faz do zero, e nessa jornada aprendi (e ainda aprendo) muito sobre a generosidade do meio dos desenvolvedores.
+- Minha jornada, de escrever, e escrever para a internet, de expor minha aprendizagem e meu dia a dia em um blog realmente simples está só começando.
+- Sou curioso e te convido a ser curioso comigo.
+- Meus hobbies favoritos são pedalar, meditar, jogar e ler. 
 
-## Feature Overview
+Estou também investido na escrita do mestrado, além de tentar retornar à escrita literária, e portanto investi-me recentementa na plataforma *Substack* para aumentar o alcance destes mesmos escritos. 
+Sim, por mais paradoxal que pareça aderir à plataforma de emails do momento, eu já adianto que *é ela que é um apêndice deste projeto e não o contrário* - usando de um modelo de distribuição centrífugo, pretendo sempre postar aqui antes de postar em qualquer lugar. 
 
-[View the documentation(f)](https://simply-jekyll.netlify.app/posts/explore) for feature information.
+Mais informações, leia [essa postagem (01)](https://w4lker.com.br/um-sopro-fresco-em-um-dia-quente/) e quiçá [esta aqui (02)](https://w4lker.com.br/sobre-esse-blog/).
 
-- Based on Jekyll, a static website generator
-- Creates backlinks to other notes automatically
-- Context menu on feed to instantly see related posts and backlinks
-- Search with context integrated within the blog feed
-- Supports wiki-style/roam-style double bracket link syntax to other notes
-- On hover page previews
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
+---
 
+>NOVIDADES
+# Jardim Digital
+## Bem-vindos ao meu jardim digital
+Aqui vocês encontrarão minhas musas e divagações sobre assuntos que variam desde a filosofia da ciência até o significado da vida (ou pelo menos o que eu penso sobre isso)
 
-## Installation
+>Com ajuda de um repo de [Ole Eskild Steensen](https://github.com/oleeskild/obsidian-digital-garden) finalmente eu consegui juntar os dois (o trabalho dse pesquisa e anotação com o obsidian e a vontade de compartilhar meus aprendizaos) e finalmente publicar.
 
-[View the documentation(i)](https://simply-jekyll.netlify.app/posts/setup) for setup and installation information.
+Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 
-Hopefully there will be an easier process soon.
-
-## Usage
-
-[View the documentation(u)](https://simply-jekyll.netlify.app/posts/usage) for usage information.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/rgvr/simply-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-### Submitting code changes:
-
-- Open a [Pull Request](https://github.com/rgvr/simply-jekyll/pulls)
-- Ensure all CI tests pass
-- Await code review
-
-### Design and development principles of this theme:
-
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `assets` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-
+#### Redes sociais principais e *email*:
+>- [email](mailto:niilist@gmail.com)
+>- [SUBSTACK](https://w4lker.substack.com/about)
+>- [instagram](https://www.instagram.com/w4lker____/) 
+>- [github](https://github.com/www4lker)
+>- [mastodon](https://mastodon.social/@w4lker)

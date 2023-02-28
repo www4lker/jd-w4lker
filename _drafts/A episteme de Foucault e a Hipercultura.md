@@ -1,0 +1,68 @@
+---
+tags: permanente
+title: 121020222226
+aliases: 121020222226
+date: 2023-02-27
+---
+# 121020222226
+criado em: 22:26 2022-10-12
+
+##### Relacionado
+- palavras-chave: 
+- notas: 
+- [[NOTAS DE LEITURA/LIVROS/Hiperculturalidade]]
+- [[hipercultura]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/imagens não podem dizer não.md]]
+- [[NOTAS PERMANENTES/READY-NOTES.md]]
+- [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Vivendo no fim dos tempos.md]]
+- [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Tecnodiversidade-1669928627895.md]]
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/promptgpt3.md]]
+- [[NOTAS PERMANENTES/DISSERTAÇÃO MESTRADO WALKER.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Images cannot say Ain’ t.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/joão montanaro isso não é uma granada.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/231020221805.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Notas do debate Literatura e arte digital.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/interdisciplinaridade.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/mestizaje.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Epistemes Contemporâneas.md]]
+- [[NOTAS PERMANENTES/202210201143.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/filosofia do futuro.md]]
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/globalização cultural.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222345.md]]
+- [[Episteme em Foucault]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/121020222215.md]]
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/episteme.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/061020221226.md]]
+- [[Precisamos de arte e cultura]]
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/surrealismo.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Esto no es una Pipa - video analise.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico.md]]
+- [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/cc-UM VOCABULARIO CRITICO PARA ESTUDOS SOBRE LIT DIG.md]]
+- [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/academic-this is not a review.md]]
+- [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/this is not a review.md]]
+- [[NOTAS DE LEITURA/LIVROS/220920221618.md]]
+- [[NOTAS DE LEITURA/LIVROS/Vivendo No Fim Dos Tempos.md]]
+- [[NOTAS DE LEITURA/LIVROS/Texto Labtecc Da Semana Sociolagia De La Imagem.md]]
+- [[NOTAS DE LEITURA/LIVROS/Tecnodiversidade.md]]
+- [[NOTAS DE LEITURA/LIVROS/O Que é Episteme.md]]
+- [[NOTAS DE LEITURA/LIVROS/EPISTEMES CONTEMPORÂNEAS Ecco 2020.md]]
+- [[NOTAS DE LEITURA/LIVROS/A Arqueologia Do Saber.md]]
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Foucault, Michel.md]]
+- [[NOTAS DE LEITURA/tag pages/livre associação.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/metodologia.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/SEMANAL/2022-W25.md]]
+- [[NOTAS PERMANENTES/300920221013.md]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Hipertexto.md]]
+- [[caligrama]]
+
+---
+# A episteme de Foucault e a Hipercultura
+
+
+>A episteme de Foucault é uma teoria do conhecimento que postula que existe uma relação entre a forma como o conhecimento é organizado e a forma como o poder é distribuído na sociedade. Hipercultura é um termo que tem sido usado para descrever uma sociedade que é caracterizada por um alto grau de homogeneidade cultural. O termo é frequentemente usado para descrever uma sociedade que é dominada por uma única cultura, como os Estados Unidos.
+
+---
+![[141220221005]]
+
+---
+![[Isto não é um cachimbo]]

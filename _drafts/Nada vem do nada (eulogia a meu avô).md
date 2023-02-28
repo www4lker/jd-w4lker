@@ -1,14 +1,20 @@
 ---
-title: : Nada vem do nada (eulogia a meu avô)
-layout: post
-tags: permanente
-date: 2020-01-01
+tags:
+  - permanente
+  - mementomori
+  - darkforest
+  - diario
+  - filosofia
+  - mestredeculturacontemporanea
+  - estoico
+title: Nada vem do nada (eulogia a meu avô)
+date: 2023-02-27
 ---
 # Nada vem do nada (eulogia a meu avô)
 ## criado em: 12:07 10-02-2023
 
 ### Conteúdo Relacionado
-- palavras-chave: #mementomori #darkforest #diario #filosofia #mestredeculturacontemporanea #estoico
+- palavras-chave:
 - notas: 
 - [[aquela vez que escrevi sobre meu avo no inumeraveis]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Diário Estoico]]

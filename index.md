@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: Post
 permalink: /
 ---
@@ -43,3 +40,6 @@ Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 >- [instagram](https://www.instagram.com/w4lker____/) 
 >- [github](https://github.com/www4lker)
 >- [mastodon](https://mastodon.social/@w4lker)
+
+---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/88dd7812-ade5-4b4f-bf77-dcdb164e4b73/deploy-status)](https://app.netlify.com/sites/stately-sunburst-dbafe0/deploys)

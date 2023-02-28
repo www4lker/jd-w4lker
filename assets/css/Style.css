@@ -1,13 +1,17 @@
+---
+layout: Stylesheet
+---
+
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 :root {
     --main-hue: 0;
-    --primary-bg-color: hsl(var(--main-hue), 0%, 100%);
-    --secondary-bg-color: hsl(var(--main-hue), 0%, 96.9%);
-    --ternary-bg-color: hsl(var(--main-hue), 0%, 91.4%);
-    --quaternary-bg-color: hsl(var(--main-hue), 0%, 93%);
-    --quinary-bg-color: hsl(var(--main-hue), 100%, 100%);
+    --primary-bg-color: #004e82(var(--main-hue), 0%, 100%);
+    --secondary-bg-color: #5b2900(var(--main-hue), 0%, 96.9%);
+    --ternary-bg-color: #66c2ff(var(--main-hue), 0%, 91.4%);
+    --quaternary-bg-color: #bff0ff(var(--main-hue), 0%, 93%);
+    --quinary-bg-color: #00455b(var(--main-hue), 100%, 100%);
 
     --primary-border-color: hsl(var(--main-hue), 0%, 96.9%);
     --secondary-border-color: hsl(var(--main-hue), 0%, 91.4%);
@@ -21,10 +25,10 @@
     --tertiary-text-color: hsl(var(--main-hue), 0%, 43.4%);
 
     --horizontal-rule-color: rgb(228, 227, 226);
-    --anchor-text-color: hsl(210, 52.8%, 51.0%);
-    --anchor-link-color: hsl(205, 12%, 70%);
+    --anchor-text-color: #66c2ff;
+    --anchor-link-color: #ffd5b3;
     --search-placeholder-color: hsl(var(--main-hue), 0%, 60.0%);
-    --searchbox-shadow-color:  hsl(204, 63.0%, 78.8%);
+    --searchbox-shadow-color: #bff0ff;
     --heading-font-family: Georgia, serif;
     --primary-font-family: sans-serif;
     --secondary-font-family: sans-serif;
@@ -33,6 +37,7 @@
 
 html {
     scroll-behavior: smooth;
+    
 }
 
 body {
@@ -53,13 +58,15 @@ body {
     max-width: 1100px;
     margin-right: auto;
     margin-left: auto;
+    width: 125%;
 }
 
 .box {
     border-left: 1px solid var(--primary-border-color);
     border-right: 1px solid var(--primary-border-color);
     border-bottom: 1px solid var(--primary-border-color);
-    width: 60%;
+    width: 80%;
+    padding: 3em 1em;
     position: absolute;
     top: 0px;
 }
@@ -70,6 +77,7 @@ header {
 }
 
 main {
+    
     min-height: 300px;
     margin-left: 20px;
     padding-right: 10px;
@@ -79,27 +87,27 @@ main {
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
 
 h1 {
-    font-size: 27px;
+    font-size: 47px;
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 42px;
 }
 
 h3 {
-    font-size: 16.6px;
+    font-size: 26.6px;
 }
 
 h4 {
-    font-size: 15.5px;
+    font-size: 25.5px;
 }
 
 h5 {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 h6 {
-    font-size: 13px;
+    font-size: 17px;
 }
 
 h1, h2 {
@@ -119,15 +127,20 @@ h3, h4, h5, h6 {
   font-weight: bold;
 }  
 
-a, p, ul, li, ol, table, span, blockquote {
+a, p, table, span, blockquote {
     color: var(--primary-text-color);
-    font-family:   var(--secondary-font-family);
-    font-size: 15px;  /* Let's set the font-size to something old-man friendly */
+    font-family: inherit;
+    line-height: 1.75;
+    font-size: 1.25em;
 }
 
+ul a, li a,ol a, ul, li, ol, {
+    color: var(--primary-text-color);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.75;
+    
+}
 p a,
-ul a,
-li a,
 td a,
 th a,
 h1 a,
@@ -138,11 +151,11 @@ h5 a,
 h6 a,
 span a,
 div a,
-ol a,
 blockquote a,
 cite a {
-    font-size: inherit;
-    font-family: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.75;
+    font-size: 1.25em;
     color: inherit;
 }
 
@@ -847,7 +860,13 @@ hr {
 }
 
 .content {
-  line-height: 20px;
+    
+        max-width: 70ch;
+        padding: 3em 1em;
+        margin: auto;
+        line-height: 1.75;
+        font-size: 1.25em;
+    
 }
 
 .content a {

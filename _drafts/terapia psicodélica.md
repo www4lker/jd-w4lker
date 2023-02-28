@@ -1,0 +1,40 @@
+---
+tags:
+  - permanente
+  - psicodelico
+  - insight
+  - TEONANACATL
+  - fungos
+  - naturae
+  - sciencebitch
+title: terapia psicodélica
+date: 2023-02-27
+---
+# terapia psicodélica
+criado em: 17:23 2022-08-04
+
+##### Relacionado
+- palavras-chave: 
+- notas permanentes: [[Projeto Psiconautas]] 
+- notas de dissertação:
+- notas de literatura: 
+- [[Psiconautas viagens com a ciência psicodélica brasileira 1]]
+- [[Como mudar sua mente - netflix]] 
+- [[Como mudar sua mente - livro]] 
+- [[Fungos fantasticos]] 
+- [[Merlin Sheldrake]] 
+- [[a psilocibina no cerebro]] 
+- [[As Portas Da Percepção]]
+-  [[131020221204]]
+- [[241020221931]]
+- [[o fim do álcool]]
+- [[Se você quer a cura psicodélica, seu ego pode precisar morrer]]
+
+---
+
+Embora escaners cerebrais mostrem como acontece quimicamente, a experiencia que importa é a das pessoas — e é nesse contexto maior que novas observações se fazem. O uso de drogas psicodélicas com fins terapeuticos mostra que existe uma abrangencia holistica maior e um efeito emergente desta substancia. 
+Em testes com pacientes de cancer terminal, foi naqueles com as mais profundas experiencias místicas (medidas na  [[escala psicométrica]]) que se verificaram a maiores reduções de depressão e ansiedade. Efeito semlehante com viciados em tabaco. É como se a substancia não alterasse nada em especial, mas abrisse espaço para que novas formas de pensar e conceber surgissem. A experiência parece ser parte da cura mais do que a própria substancia — e esse **paradigma** é bem diferente daquele usual onde substancias são vistas apenas como um meio determinado para um fim determinado.
+
+[[Ser arrancado das rotinas da percepção ordinária#^bf80cc]]
+
+>Ser arrancado das rotinas da percepção ordinária, contemplar por algumas horas eternas os mundos exterior e interior, não como aparecem para um animal obcecado pela sobrevivência ou para um ser humano obcecado por palavras e noções, mas tais como são apreendidos, direta e incondicionalmente, pela Mente Integrada é uma experiência de valor inestimável para todos, e especialmente para o intelectual.

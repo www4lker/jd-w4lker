@@ -1,13 +1,21 @@
 ---
-layout: post
-tags: [permanente, disserte, mestredeculturacontemporanea, insight, pessoalidades, criatividade, tecnologia, interessesgerais]
-title: : usando o ANKI para aprender QUALQUER COISA
+tags:
+  - permanente
+  - disserte
+  - mestredeculturacontemporanea
+  - insight
+  - pessoalidades
+  - criatividade
+  - tecnologia
+  - interessesgerais
+title: usando o ANKI para aprender QUALQUER COISA
+date: 2023-02-27
 ---
 # usando o ANKI para aprender QUALQUER COISA
 ## criado em: 19:23 06-02-2023
 
 ### Conteúdo Relacionado
-- palavras-chave:  #disserte #mestredeculturacontemporanea #insight #pessoalidades #criatividade #tecnologia #interessesgerais
+- palavras-chave: 
 notas:
 - [[Repetição espaçada - Spaced repetition]]
 - [[anki tips]]

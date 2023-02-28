@@ -1,13 +1,15 @@
 ---
-layout: post
-tags: permanente
-title: : agradecimento padrão
+tags:
+  - permanente
+  - promptgpt3
+title: agradecimento padrão
+date: 2023-02-27
 ---
 # agradecimento padrão
 ## criado em: 10:18 10-02-2023
 
 ### Conteúdo Relacionado
-- palavras-chave: #promptgpt3 
+- palavras-chave: 
 - notas: 
 
 #### Fontes & Links

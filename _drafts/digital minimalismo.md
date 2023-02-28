@@ -1,0 +1,47 @@
+---
+tags:
+  - permanente
+  - minimalismodigital
+  - tecnologia
+  - totalizante
+  - minimim
+  - jardimdigital
+title: digital minimalismo
+date: 2023-02-27
+---
+# digital minimalismo
+## criado em: 21:51 09-01-2023
+
+### Relacionado
+- palavras-chave: 
+- notas: 
+- [[Cal Newport]]
+- [[Simondon, Gilbert]]
+- [[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]
+- [[como trabalhar como um monge medieval]]
+- [[Você precisa pensar como um monge medieval]]
+- [[The Age of Social Media Is Ending]]
+---
+O autor é um cientista da computação e escritor otimista e crítico do papel das tecnologias de comunicação digital na sociedade. Eles estão interessados em explorar o conceito de minimalismo digital, que é a ideia de que as pessoas devem ser seletivas quanto ao uso da tecnologia e priorizar o seu uso de uma forma que agregue valor a suas vidas. O autor acredita que este conceito é particularmente relevante para o uso pessoal da tecnologia, em vez de seu uso no local de trabalho.
+
+O minimalismo digital é um conceito que está relacionado ao movimento minimalista moderno, que defende uma vida mais simples com menos posses e um foco nas coisas que trazem mais significado e valor. Os minimalistas digitais aplicam estes princípios ao seu uso da tecnologia, sendo seletivos quanto à tecnologia que utilizam e apenas incorporando-a em suas vidas de forma a agregar valor. Eles podem ser intencionais e radicais em moldar seu uso da tecnologia em torno de coisas que lhes interessam.
+
+>**Minimalismo** é um estilo de vida que ajuda as pessoas a questionar o que as coisas agregam valor às suas vidas. Ao limpar a bagunça do caminho da vida, todos nós podemos abrir espaço para os aspectos mais importantes da vida: saúde, relacionamentos, paixão, crescimento e contribuição.
+
+As ideias de minimalismo existem há muito tempo, mas o movimento ganhou popularidade recentemente através do uso de blogs e outras plataformas on-line para alcançar grandes audiências. O autor encontrou pela primeira vez estas ideias através do blog dos Hábitos Zen e elas influenciaram seu pensamento sobre a tecnologia e o papel que ela desempenha na vida das pessoas. O autor se vê como um defensor de um ramo de minimalismo focado no uso apropriado das tecnologias de comunicação digital na sociedade moderna.
+
+Ser um minimalista digital significa reconhecer o potencial da tecnologia para melhorar a vida de alguém, mas também reconhecer que ela requer esforço para realizar esse potencial. Trata-se de ser seletivo no uso da tecnologia e incorporá-la em sua vida de uma forma que agregue valor.
+
+De acordo com a filosofia do minimalismo digital:
+
+-  A falta de certas atividades não é inerentemente negativa. Os maximalistas digitais, que gastam muito tempo usando vários aplicativos e serviços on-line, podem argumentar que perderiam os benefícios potenciais se limitassem o uso da tecnologia. Entretanto, os minimalistas digitais não concordam com este argumento e acreditam que há muitas atividades no mundo que podem trazer valor. Em vez de rotular as atividades evitadas como perda de valor, os minimalistas digitais se concentram em medir o valor ganho com as atividades que abraçam e visam maximizar esse valor.
+- é melhor se concentrar em um número menor de atividades de alto valor em vez de perder tempo com as de baixo valor. Esta abordagem, conhecida como análise 80/20, envolve fazer menos, mas concentrar-se em atividades de maior qualidade, que podem, em última análise, gerar mais valor total. Esta é uma consequência natural do princípio de que faltar não é negativo e enfatiza a importância de ser seletivo quanto ao uso da tecnologia.
+- é mais produtivo partir dos primeiros princípios ao avaliar o valor de uma determinada atividade on-line. Os maximalistas digitais tendem a aceitar qualquer atividade que ofereça algum valor, mas esta abordagem não é eficaz. Em vez disso, os minimalistas digitais recomendam começar pela **identificação dos princípios que são mais importantes para um indivíduo e usar estes princípios como um filtro para determinar se uma determinada atividade agregará valor significativo a algo que é significativamente importante para sua vida.** Esta abordagem é mais eficaz ao ser seletivo quanto ao uso da tecnologia.
+- é importante considerar se uma determinada atividade on-line é a melhor maneira de agregar valor a uma área da vida, em vez de apenas boa o suficiente. Pode haver muitas atividades que podem oferecer algum valor relevante, mas os minimalistas digitais recomendam que se concentre no pequeno número de atividades que oferecem mais valor. A diferença entre o melhor e o bom o suficiente neste contexto pode ser significativa. Por exemplo, usar o Twitter como fonte de notícias diversas pode ser bom o suficiente, mas pode não ser o melhor uso de todos os recursos que a Internet tem a oferecer para atingir este objetivo.
+- A desordem digital pode ser estressante da mesma forma que a desordem física. O clique e a rolagem constantes podem contribuir para a ansiedade. Reduzir o número de coisas que se faz na vida digital pode ter um efeito calmante e este valor não deve ser subestimado. Esta ideia está de acordo com o tradicional movimento minimalista, que enfatiza a importância de viver com menos posses e menos desordem.
+- As pessoas têm uma atenção limitada para gastar a cada dia e é importante estar atento à maneira como ela é usada. As empresas investiram bilhões de dólares em esforços para captar a maior atenção possível das pessoas e direcioná-la para metas que criam valor para um pequeno grupo de interessados. Isto é uma preocupação porque estas empresas, como Twitter e Facebook, são projetadas para serem viciantes. Os minimalistas digitais recomendam ser diligentes na proteção da atenção e estar atentos à forma como ela é utilizada.
+- muitas das atividades on-line de maior retorno são aquelas que utilizam a tecnologia para melhorar aspectos importantes da vida de uma pessoa off-line. As pessoas não estão evoluídas para a vida digital e o uso excessivo de atividades online pode levar à exaustão. O valor real da tecnologia muitas vezes vem quando ela é usada para se conectar e se envolver com outros na vida real, em vez de apenas on-line.
+- Os humanos, no fundo, são artesãos. Encontramos grande satisfação em criar algo valioso que não existia antes. Algumas das atividades on-line mais satisfatórias, portanto, são aquelas que envolvem a criação de coisas, como oposição ao simples consumo. Ainda não conheço alguém que se sinta entusiasmado após uma noite virada em clickbait, mas conheço muitos que se sentem assim depois de submeter um módulo chave a um repositório de código aberto.
+- Algumas das atividades on-line mais gratificantes são aquelas que envolvem a criação de algo valioso, em vez de apenas consumir. Estas atividades exploram o desejo humano de ser artesão e encontrar satisfação em criar algo novo. Em contraste, atividades como ser preso em clickbaits não proporcionam esse sentimento de realização. O minimalismo digital enfatiza a importância de encontrar e participar de atividades on-line que envolvam criação e contribuam para um sentimento de satisfação e realização.
+
+Finalmente, o minimalismo digital é uma filosofia que se concentra no papel da tecnologia digital na vida pessoal e visa ajudar os indivíduos a encontrar um equilíbrio entre os benefícios e desvantagens potenciais dessas tecnologias. Envolve ser seletivo quanto ao uso da tecnologia e encontrar as melhores maneiras de alavancá-la em apoio aos princípios fundamentais de cada um. Esta filosofia ainda está sendo desenvolvida e se aplica principalmente à vida pessoal, em vez de à vida profissional. Ela pode proporcionar clareza e um senso de propósito, bem como desafios e áreas de melhoria na forma como a tecnologia é utilizada. O minimalismo digital não é uma rejeição da tecnologia, mas sim um abraço de seu valor potencial se ela for usada de forma consciente e intencional. 

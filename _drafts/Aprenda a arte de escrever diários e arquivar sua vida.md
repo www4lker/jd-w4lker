@@ -1,0 +1,92 @@
+---
+tags:
+  - permanente
+  - diário
+  - pessoalidades
+  - laçosfortes
+  - paginasmatinais
+  - criatividade
+  - meditacao
+title: 110120231525
+aliases: 110120231525
+date: 2023-02-27
+---
+# 110120231525
+## criado em: 15:25 2023-01-11
+
+### Relacionado
+- palavras-chave: 
+- notas: 
+- [[lições de um retiro longo de meditação]]
+- [[os hábitos influenciam a percepção]]
+- [[amor aos livros - montaigne]]
+- [[Ensaios — p. 205 “Foucault]]
+- [[o propósito do ensaio]]
+- [[aprenda com os acertos e com os erros das diversas culturas]]
+- [[Só os loucos tem certeza absoluta]]
+- [[uma abordagem mais cética da educação]]
+- [[Ensaio 26 - autenticidade - DEDC]]
+- [[árvore da generosidade]]
+- [[é dando que se recebe]]
+- [[Amar desconfiando]]
+- [[Da amizade 28]]
+- [[acabamos a the white lotus]]
+- [[sebald, paciência depois]]
+- [[LENDO IRMAOS KARAMAZOV]]
+- [[pessoalidades]]
+- [[Resumo - Homem de 38 anos com 15 anos de educação superior buscando uma mudança de carreira]]
+- [[Hoje saiu minha sentença de herdeiro]]
+- [[Thomas Merton]]
+- [[Montaigne, Michel de]]
+- [[tarot do divorcio]]
+- [[PRIMEIRA SEMANA DE JULHO]]
+- [[podcast heitor cony]]
+- [[quisquilae]]
+- [[NOTAS DA MALDADE]]
+- [[True Success Is More Than Checking Boxes]]
+- [[entrevista inumeráveis para dissertação]]
+- [[chat gpt ajudou a complementar esse texto]]
+- [[220920220128]]
+- [[14082022]]
+- [[131220222341]]
+- [[13082022]]
+- [[12082022]]
+- [[PITCH]]
+- [[muito velho para games]]
+- [[deleted_user]]
+- [[band of brothers]]
+- [[arte como efeito terapeutico]]
+- [[Vipassana]]
+- [[Meditation is like mountaineering approach it with care]]
+- [[luke, Im not your father]]
+- [[161220221116]]
+- [[091220220041]]
+- [[20082022]]
+- [[separação]]
+- [[páginas matinais]]
+- [[proposta de estágio IEL]]
+- [[O TEXTO E O TEMPO (WEBINAR)]]
+- [[o fim do álcool]]
+- [[minha mae foi embora]]
+- [[estudos]]
+- [[ANISEDADE]]
+- [[Casamento]]
+- [[4900 palavras]]
+- [[300920221643]]
+- [[202211182054]]
+- [[2002-11-27]]
+- [[021120221642 b]]
+- [[021120221642 final]]
+- [[021120221642 a]]
+- [[Um milagre termodinamico - atomico final]]
+- [[Um milagre termodinamico - atomico 4]]
+- [[Um milagre termodinamico - atomico 5]]
+- [[nome de solteira da minha mãe]]
+---
+[fonte](https://psyche.co/ideas/learn-the-art-of-journaling-and-archive-your-life)
+
+# Aprenda a arte de escrever diários e arquivar sua vida
+
+O autor desta peça reflete sobre sua experiência pessoal de revisitar seus periódicos antigos, que eles mantiveram durante seu tempo como cientista de campo no Ártico, 20 anos atrás. Eles discutem como o processo de releitura destas revistas os ajudou a acrescentar mais detalhes e cores ao seu livro atual sobre suas experiências de trabalho de campo, e como isso também os ajudou a lembrar eventos, emoções e insights que antes haviam sido esquecidos. O autor também faz referência a estudos que sugerem que manter um periódico tem benefícios como melhorar a atenção, as habilidades de comunicação, a memória e a autoconfiança, e também pode ser útil para melhorar os resultados de saúde, particularmente quando se reflete sobre eventos estressantes. Eles também observam que alguns escritores famosos, como Virginia Woolf, Sylvia Plath e Franz Kafka, mantiveram revistas que foram publicadas postumamente, dando aos leitores um vislumbre do processo de escrita e da mente do autor.
+
+Esta peça discute os passos a serem tomados quando se começa a escrever um diário. **Sugere pensar sobre os objetivos da redação de um diário, como praticar a escrita, analisar eventos diários ou limpar a mente antes de outros escritos.** Também aborda considerações como **o tempo a ser dedicado ao diário, o melhor momento do dia para escrever e sobre o que escrever.** Também entra em detalhes sobre **o meio para escrever, seja um computador, um caderno ou um diário**. O principal objetivo de escrever um diário é dedicar tempo para organizar os pensamentos, emoções e eventos da vida, ele pode ajudar as pessoas a entenderem a si mesmas e seu lugar no mundo.

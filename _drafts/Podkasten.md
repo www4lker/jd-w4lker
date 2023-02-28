@@ -1,0 +1,25 @@
+---
+tags:
+  - permanente
+  - podkasten
+  - brasil
+  - mestredeculturacontemporanea
+  - insight
+title: Podkasten 
+aliases: Podkasten 
+date: 2023-02-27
+---
+# Podkasten 
+ 
+ # notas de literatura de podcasts
+ 
+ 
+ 
+ - [[202207151739]]
+- [[a trama da vida podcast poe na estante]]
+- [[Fazer as contas]]
+- [[midnight gospel]]
+- [[podcast sobre true crime]]
+- [[referencias cruzadas, sempre]]
+- [[011120220936]]
+
