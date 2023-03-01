@@ -1,11 +1,40 @@
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
-:root {
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color-light: #333;
+        --text-color-light: #fff;
+        --bg-color-dark: #111;
+        --text-color-dark: #eee;
+        --main-hue: 220;
+    
+        --primary-border-color: hsl(var(--main-hue), 0%, 15%);
+        --secondary-border-color: hsl(var(--main-hue), 0%, 25%);
+        --ternary-border-color: hsl(var(--main-hue), 0%, 30%);
+    
+        --primary-box-shadow-color: hsl(var(--main-hue), 0%, 35%);
+        --secondary-box-shadow-color: hsl(var(--main-hue), 0%, 45%);
+    
+        --primary-text-color: hsl(var(--main-hue), 0%, 75%);
+        --secondary-text-color: hsl(var(--main-hue), 0%, 55%);
+        --tertiary-text-color: hsl(var(--main-hue), 0%, 65%);
+    
+        --horizontal-rule-color: rgb(128, 127, 126);
+        --anchor-text-color: #66c2ff;
+        --anchor-link-color: #ffd5b3;
+        --search-placeholder-color: hsl(var(--main-hue), 0%, 40%);
+        --searchbox-shadow-color: #224d5e;
+        --heading-font-family: Georgia, serif;
+        --primary-font-family: sans-serif;
+        --secondary-font-family: sans-serif;
+      }
+}
+
+    :root {
     --bg-color-light: #f8f8f8;
     --text-color-light: #333;
-    --bg-color-dark: #222;
-    --text-color-dark: #fff;
     --main-hue: 0;
 
     --primary-border-color: hsl(var(--main-hue), 0%, 96.9%);
@@ -28,16 +57,12 @@
     --primary-font-family: sans-serif;
     --secondary-font-family: sans-serif;
 }
-.light-theme {
-    --bg-color: var(--bg-color-light);
-    --text-color: var(--text-color-light);
+
+.dark-mode {
+    --bg-color: #333;
+    --text-color: #fff;
   }
   
-  .dark-theme {
-    --bg-color: var(--bg-color-dark);
-    --text-color: var(--text-color-dark);
-  }
-
     html {
     scroll-behavior: smooth;
     }
@@ -80,6 +105,18 @@ header {
     display: flex;
     flex-direction: column;
 }
+
+.navbar-toggler {
+    @extend .navbar-toggler;
+    color: var(--text-color);
+    border-color: var(--text-color);
+  }
+  
+  .navbar-toggler-icon {
+    @extend .navbar-toggler-icon;
+    background-image: escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#000000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>"));
+  }
+  
 
 main {
     
