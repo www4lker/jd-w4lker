@@ -9,8 +9,8 @@ content-type: eg
 <table>
   <thead>
     <tr>
-      <th>Tag</th>
-      <th>Posts</th>
+      <th>Hashtags</th>
+      <th>Postagens relacionadas</th>
     </tr>
   </thead>
   <tbody>

@@ -11,8 +11,12 @@
             "id": "f8282c92f1e196a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2020-03-01-customizable.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2020-03-01-customizable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2020-03-01-customizable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2020-03-01-customizable.md"
+              }
             }
           }
         ]
@@ -132,12 +140,17 @@
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "markdown-importer:Abrir importador Markdown": false
     }
   },
   "active": "f8282c92f1e196a3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2023-02-28-title1 (1).md",
+    "gaiman-neil.md",
+    "2020-03-01-customizable.md",
+    "2020-03-01-333 prompts criativos.md",
+    "2023-02-28-title1 (5).md"
+  ]
 }
