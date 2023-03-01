@@ -65,13 +65,15 @@ body {
     margin-left: auto;
     width: auto;
     font-family: "adobe-garamond-pro", serif;
-    font-weight: 400;
+    font-weight: 490;
     font-style: normal;
     line-height: 1.45;
     font-size: 1.05em;
+    
 }
 
 .box {
+    background-color:#00455b;
     border-left: 1px solid var(--primary-border-color);
     border-right: 1px solid var(--primary-border-color);
     border-bottom: 1px solid var(--primary-border-color);
@@ -147,8 +149,8 @@ h3, h4, h5, h6 {
 a, p, blockquote{
     color: var(--primary-text-color);
     font-family: inherit;
-    line-height: 1.75;
-    font-size: 1.25em;
+    
+    
 }
 
 
@@ -160,8 +162,8 @@ table, span {
 
 ul a, li a,ol a, ul, li, ol {
     color: var(--primary-text-color);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.75;
+    
+    
     
 }
 p a,
@@ -177,9 +179,9 @@ span a,
 div a,
 blockquote a,
 cite a {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.75;
-    font-size: 1.25em;
+    font-family: "adobe-garamond-pro", serif;
+    line-height: 1.45;
+    font-size: 1.05em;
     color: inherit;
 }
 
@@ -1077,12 +1079,12 @@ li .mn-right {
 
 .tooltip:hover .right {
     display:block;
-    
     color: #003b4d;
     
 }
 .tooltip a{
-color: var(--text-color);
+color: #99e6ff;
+
 
 }
 
