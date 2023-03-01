@@ -1,4 +1,5 @@
 ---
+
 tags:
   - permanente
   - 1000palavrasoumais
@@ -7,10 +8,10 @@ tags:
   - literatura
 title: 10082022
 feed: show
-date :  09-08-2022
 date: 2023-02-24
+
 ---
-# 10082022
+# A vida sem fim do Sandman
 criado em: 10:31 2022-08-09
 
 ##### Relacionado

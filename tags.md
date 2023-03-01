@@ -1,9 +1,11 @@
 ---
-layout: Tags
+layout: Post
 title: Tags
 permalink: /tags/
 content-type: eg
 ---
+![capa](https://i.postimg.cc/4357yWK6/Camada-6.png)
+
 <table>
   <thead>
     <tr>
