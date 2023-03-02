@@ -22,31 +22,19 @@
             }
           },
           {
-            "id": "11540028448307d2",
+            "id": "bc9da0491d2702fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-28-title1 (31).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "617fbf758ed0f93f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01-notas-de-projeto (drive-my-car).md",
+                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drive my",
+                "query": "Artificial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (drive-my-car).md",
+                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (drive-my-car).md",
+                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (drive-my-car).md"
+                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md"
               }
             }
           }
@@ -161,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,33 +160,33 @@
       "templates:Inserir modelo": false
     }
   },
-  "active": "617fbf758ed0f93f",
+  "active": "4e2313aee22e7093",
   "lastOpenFiles": [
-    "2023-02-28-title1 (31).md",
-    "2023-03-01-notas-de-projeto (notas de leitura).md",
-    "2023-03-01-notas-de-projeto (notas permanentes).md",
-    "2023-03-01-notas-de-projeto (índice de projetos).md",
-    "2023-03-01-notas-de-projeto (drive-my-car).md",
-    "2023-03-01-notas-de-projeto (urso sob cocaína).md",
-    "2023-03-01-notas-de-projeto (meta notas).md",
-    "2023-03-01-notas-de-projeto (MODELO PARA NOTAS).md",
-    "2023-03-01-notas-de-projeto (Desculpas e pressões o desafio de voltar a escrever publicamente).md",
-    "2023-03-02- crimes do futuro.md",
-    "2023-02-28-title1 (143).md",
-    "2020-03-01-333 prompts criativos.md",
-    "2023-03-02- O LAGOSTA.md",
-    "2023-03-01-notas-de-projeto (130).md",
-    "2023-03-01-notas-de-projeto (131).md",
-    "2023-03-01-notas-de-projeto (132).md",
-    "2023-03-01-notas-de-projeto (134).md",
-    "2023-03-01-notas-de-projeto (140).md",
-    "2023-03-01-notas-de-projeto (146).md",
-    "2023-03-01-notas-de-projeto (148).md",
-    "2023-03-01-notas-de-projeto (149).md",
-    "2023-03-01-notas-de-projeto (153).md",
-    "2023-03-01-notas-de-projeto (155).md",
-    "2023-03-01-notas-de-projeto (157).md",
-    "2023-03-01-notas-de-projeto (161).md",
-    "2023-03-01-notas-de-projeto (166).md"
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (64).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (63).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (62).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (61).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (60).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (59).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (58).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (57).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (56).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (55).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (54).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (53).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (52).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (51).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (50).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (49).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (48).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (47).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (46).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (45).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (44).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (43).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (42).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (41).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (40).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (39).md"
   ]
 }

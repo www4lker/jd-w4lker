@@ -1,18 +1,23 @@
 ---
-title: 
+title: assist drive my car
 tags:
-- tag 1
-- tag 2
+  - permanente
+  - darkforest
+  - FdC
+  - 1000palavrasoumais
+  - pessoalidades
+  - promptgpt3
+  - mestredeculturacontemporanea
+date: 2023-03-02
 ---
-
 # assist drive my car
-## criado em: 12:56 2023-03-02
+## criado em: 2023-03-02
+## modificando em12:56 2023-03-02
 
-### Conteúdo Relacionado
-- notas: 
-- 
-- Fontes & Links:
-- 
+### Um dos melhores filmes que já vi
+
+Me fez sentir coisas que nem saboia que havia,m dentro de mim; tocou em temas muito sensíveis e me fez analizar toda minha vida. É mole? Filmão.
+
 ---
 
 
@@ -21,3 +26,12 @@ tags:
 O filme ganhou vários prêmios e indicações nos principais festivais internacionais de cinema, e tem sido elogiado por sua escrita, atuação e direção. Entretanto, alguns espectadores podem achar a duração do filme um desafio, com um tempo de execução de quase três horas. Além disso, o conhecimento do "Tio Vanya" de Tchekhov é recomendado para apreciar plenamente os temas do filme e o desenvolvimento do personagem.
 
 No geral, "Drive My Car" é um filme complexo e profundamente envolvente que oferece uma perspectiva única sobre o poder da arte para curar traumas pessoais. O uso da linguagem e da atuação do filme é magistral, e a atenção aos detalhes no roteiro é impressionante. Embora alguns espectadores possam achar a duração do filme um desafio, é uma experiência gratificante que merece os elogios que recebeu.
+
+
+---
+
+Aviso: feito por mim e pelo chat gpt com o seguinte prompt:
+
+>Look at the reviews of this movie and try to make your own, which covers the same topics, but with more clarity (reveal spoilers if needed):
+
+Onde eu colei as primeiras [reviews do imdb](https://www.imdb.com/title/tt14039582/reviews?ref_=tt_urv) . Em seguida escolhi a melhor versão e o melhor título e por fim editei aqui e ali.
