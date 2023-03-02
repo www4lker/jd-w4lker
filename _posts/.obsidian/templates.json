@@ -1,3 +1,5 @@
 {
-  "dateFormat": ""
+  "dateFormat": "YYYY-MM-DD",
+  "folder": "/",
+  "timeFormat": "HH:mm"
 }

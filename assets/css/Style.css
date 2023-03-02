@@ -144,14 +144,25 @@ h3, h4, h5, h6 {
   color: var(--primary-text-color);
   font-family:  var(--primary-font-family);
   font-style: italic;
-}  
+}
 
-a, p, blockquote{
+ul, ol, blockquote {
+    color: var(--primary-text-color);
+    font-family: sans-serif;
+    line-height: 1.45;
+    font-size: 1.05em;
+  }
+a, p {
     color: var(--primary-text-color);
     font-family: inherit;
-    
-    
 }
+
+blockquote {
+    margin: 2em 0;
+    padding: 1em;
+    border-left: var(--ternary-border-color);
+    font-style: italic;
+    }
 
 
 table, span {
@@ -161,11 +172,10 @@ table, span {
 }
 
 ul a, li a,ol a, ul, li, ol {
-    color: var(--primary-text-color);
-    
-    
+    color: var(--primary-text-color);    
     
 }
+
 p a,
 td a,
 th a,
@@ -187,6 +197,7 @@ cite a {
 
 ul ul {
     list-style-type: disc;
+    
 }
 
 b, strong {

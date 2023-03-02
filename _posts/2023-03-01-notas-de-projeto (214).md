@@ -20,4 +20,7 @@ title: Precisa fazer
 6. Escrever relatório do mês de microdoses 
 7. Escrever ensaio para o concurso serrote 
 8. Pagar contas - internet e comida as mais importantes 
----[[2022-08-03]] 
+
+--- 
+
+[[2022-08-03]] 

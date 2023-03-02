@@ -12,6 +12,7 @@ title: plano de ação nr. 456379
 ### Relacionado
 - palavras-chave: 
 - notas: [[Doze dicas para terminar TCC, dissertação de mestrado e tese de doutorado]]
+- [[porque me desliguei do mestrado]]
 ---
 
 # Escrever a dissertação em tempo exíguo
@@ -28,4 +29,3 @@ title: plano de ação nr. 456379
     
 5.  Escrever no notebook, mas não necessariamente pela internet. Usar o obsidian e o libreoffice (ou mesmo google docs offline) para o texto principal.
 
-**

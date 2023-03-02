@@ -17,10 +17,10 @@ criado em: 03:09 2022-08-01
 - notas permanentes: [[Projeto Psiconautas]]
 - 
 ---
+### Tudo de ruim , essa tal de anisedade.
+
 
 - dislexia, 
 - dificuldade de aprendizagem, 
 - taquiardia, 
 - brochisse. 
-
-### Tudo de ruim , essa tal de anisedade.

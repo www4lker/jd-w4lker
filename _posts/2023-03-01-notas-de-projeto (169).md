@@ -1,9 +1,22 @@
 ---
-tags: notas de projetos
-title: hoje eu acabei o idiota
+tags: 
+- projetos
+- diário
+title: Caminhos e desafios na busca por equilíbrio emocional
 ---
 
-5 de julho de 2021
+[[2023-03-01-notas-de-leitura (141)|dostoiévski]]
+[[o idiota]]
+
+# Caminhos e desafios na busca por equilíbrio emocional
+
+---
+
+>O dois textos a seguir apresentam sentimentos de apatia, desânimo e falta de motivação para realizar atividades importantes, como a leitura de livros e a realização de um projeto de mestrado. Ambos os textos mencionam a chegada de um cabo HDMI como algo positivo e agradável, mas também evidenciam a falta de ação para resolver questões importantes, como o problema de saúde e a necessidade de exercício físico. Há uma sensação de isolamento e solidão, com a vontade de se distrair com jogos e compras, mas sem realmente se sentir satisfeito. No entanto, há uma esperança de mudança para o futuro, com a ideia de tomar a vacina da gripe e interromper o consumo de álcool.
+
+---
+
+#### 5 de julho de 2021
 
 ---
 Hoje eu acabei O idiota
@@ -26,9 +39,8 @@ Preciso sair de casa e preciso me exercitar.
 
 Hoje joguei com os amigos online, mas isso não substitui minha solidão e minha tristeza. Passo muito tempoq uase comprando coisas só para comprar outra coisas e se arrepender de qualquer jeito.  
 hoje chegou o cabo HDMI.
-
   
-  
+---
 
 Eu deveria ter feito um dossiê com as tiragem das cartas para o projeto de mestrado.
 

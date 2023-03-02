@@ -1,28 +1,3 @@
----
-tags:
-  - notas
-  - de
-  - projetos
-  - 1000palavrasoumais
-title: 2020-01-01  
----
-# 2020-01-01  
-###### Diário Onírico
->
-
-
-### Tarefas
-1. [ ]  
-
----
-
-##### Tags:
-
-##### Relacionados: 
-
----
-
-
 
 Tomando vinho sozinho....
 Vinho Portugal, azulejo.

@@ -14,7 +14,6 @@ title: fatwa realizada
 criado em: 13:43 2022-08-12
 
 ##### Relacionado
-- palavras-chave:
 - notas: 
 - [[Oriente, Ocidente]]
 - [[trajetória de salman rushdie]]

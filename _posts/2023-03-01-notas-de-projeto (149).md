@@ -27,7 +27,7 @@ title: 060120231926
 ---
 ##### Acabei o jogo hoje [[06-01-2023]]
 ---
-# análise na steam com a qual eu concordei totalmente
+# análise de CITIZEN SLEEPER na steam com a qual eu concordei totalmente
 ## O hype nunca ajuda
 
 1/ Citizen Sleeper é um romance visual funcional, mas não está à altura de suas críticas "excessivamente positivas". 

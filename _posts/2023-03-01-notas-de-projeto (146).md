@@ -16,7 +16,7 @@ criado em: 16:10 2022-08-01
 - palavras-chave: 
 - notas permanentes: [[E se]]
 - notas de literatura: 
-- [[NOTAS DA MALDADE#^03e551]]
+- [[NOTAS DA MALDADE]]
 
 ---
 

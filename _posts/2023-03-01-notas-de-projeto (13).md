@@ -8,37 +8,13 @@ title: 2020-01-02
 ---
 # 2020-01-02  
 ###### Diário Onírico
->
 
-
-### Tarefas
-1. [ ]  
-
----
-
-##### Tags:
-
-##### Relacionados: 
-
----
-
-
-  
-  
 
 Insone.
-
-  
-  
 [[games]]
 Passei o dia em casa. Virei a noite jogando the witcher um. Acordo só meio dia agora.
 
-  
-  
-
 O protagonismo nunca foi meu forte
-
-  
   
 [[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 [[quisquilae]]

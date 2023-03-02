@@ -8,12 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8282c92f1e196a3",
+            "id": "6a63096fffed88a9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-01-notas-de-projeto (meta notas).md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "02f38c7d165d851f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-03-01-customizable.md",
+                "file": "2023-03-01-notas-de-projeto (índice de projetos).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f051475e4af3d587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-01-notas-de-projeto (notas permanentes).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15212713d4723eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-01-notas-de-projeto (notas de leitura).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +76,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -48,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jardim digital w4lker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020-03-01-customizable.md",
+                "file": "2023-03-01-notas-de-projeto (meta notas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020-03-01-customizable.md",
+                "file": "2023-03-01-notas-de-projeto (meta notas).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020-03-01-customizable.md"
+                "file": "2023-03-01-notas-de-projeto (meta notas).md"
               }
             }
           }
@@ -142,15 +180,37 @@
       "graph:Abrir visualização em gráfico": false,
       "command-palette:Abrir paleta de comandos": false,
       "zk-prefixer:Criar nova nota única": false,
-      "markdown-importer:Abrir importador Markdown": false
+      "markdown-importer:Abrir importador Markdown": false,
+      "templates:Inserir modelo": false
     }
   },
-  "active": "f8282c92f1e196a3",
+  "active": "6a63096fffed88a9",
   "lastOpenFiles": [
-    "2023-02-28-title1 (1).md",
-    "gaiman-neil.md",
-    "2020-03-01-customizable.md",
+    "2023-03-01-notas-de-projeto (notas de leitura).md",
+    "2023-03-01-notas-de-projeto (notas permanentes).md",
+    "2023-03-01-notas-de-projeto (índice de projetos).md",
+    "2023-03-01-notas-de-projeto (MODELO PARA NOTAS).md",
+    "2023-03-01-notas-de-projeto (meta notas).md",
+    "2023-03-01-notas-de-projeto (Desculpas e pressões o desafio de voltar a escrever publicamente).md",
+    "2023-03-02- crimes do futuro.md",
+    "2023-02-28-title1 (143).md",
     "2020-03-01-333 prompts criativos.md",
-    "2023-02-28-title1 (5).md"
+    "2023-03-02- O LAGOSTA.md",
+    "2023-03-01-notas-de-projeto (130).md",
+    "2023-03-01-notas-de-projeto (131).md",
+    "2023-03-01-notas-de-projeto (132).md",
+    "2023-03-01-notas-de-projeto (134).md",
+    "2023-03-01-notas-de-projeto (140).md",
+    "2023-03-01-notas-de-projeto (146).md",
+    "2023-03-01-notas-de-projeto (148).md",
+    "2023-03-01-notas-de-projeto (149).md",
+    "2023-03-01-notas-de-projeto (153).md",
+    "2023-03-01-notas-de-projeto (155).md",
+    "2023-03-01-notas-de-projeto (157).md",
+    "2023-03-01-notas-de-projeto (161).md",
+    "2023-03-01-notas-de-projeto (166).md",
+    "2023-03-01-notas-de-projeto (167).md",
+    "2023-03-01-notas-de-projeto (169).md",
+    "2023-03-01-notas-de-projeto (170).md"
   ]
 }

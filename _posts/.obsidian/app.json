@@ -1,3 +1,6 @@
 {
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
 }

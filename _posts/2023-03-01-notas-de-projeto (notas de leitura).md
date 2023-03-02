@@ -1,0 +1,213 @@
+---
+title: Notas de leituras - índice
+tags:
+- permanente
+- lit
+- leitura
+- literatura
+- bibliografia
+---
+
+# Notas de leituras
+## criado em: 10:56 2023-03-02
+
+> Imagens ilustrativas são de Maurits Cornelis Escher, que é conhecido por criar ilusões óticas de bugar mentes e trabalhos artísticos de inspiração matemática.
+
+![escher](https://i.postimg.cc/wvXMNt87/0canvas.png)
+
+|Seguem as notas de leitura|
+|-------|
+|Uma nota de literatura é uma nota tirada durante a leitura de uma peça de literatura, normalmente usada para fins de referência e estudo. Ela resume e sintetiza idéias chave, temas, personagens e outras informações relevantes da literatura, com o objetivo de ajudar o leitor a compreender e lembrar melhor o trabalho. Uma nota de literatura pode ser usada para apoiar a criação de uma análise ou revisão mais abrangente da literatura, ou como uma ferramenta para estudar e reter as informações para uso futuro|
+
+## A lista a seguir é apenas para dar uma ideia das notas originais 
+### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
+
+- Cormac Mccarthy
+- Como se faz uma tese
+- Como anotar podcasts
+- Como mudar sua mente - livro
+- Camus, Albert
+- Chuang Tzu
+- Caminhar, uma filosofia
+- Bordieu, Pierre
+- Burton, Robert
+- Bergson, Henry
+- BECKER Howard S Truques da escrita
+- 5 coisas sobre romantismo alemão
+- 5 coisas sobre Kierkegaard
+- 333 páginas para tirar seu projeto do papel
+- Beiguelman, Giselle
+- Benjamin, Walter
+- Bauman, Zygmunt
+- argumento do quarto chinês
+- Ailton Krenak
+- Antônio Joaquim Severino
+- Antony Beevor
+- 5 pontos sobre Economia da Atenção
+- 240920221422
+- A teoria da individuação
+- 220920221533
+- 220920221452
+- 220920221434
+- 171020220056
+- 202207092227
+- 141220221348
+- 141220221344
+- 091020221817
+- 081020220305
+- 081020220303
+- 011220221620
+- 061020220142
+- Precisamos de arte e cultura
+- 011120222042
+- Indústria Cultural
+- inhotim na netflix
+- Hypertext 3.0
+- Husserl
+- Hui, Yuk
+- Harari, Yuval Noah
+- how to take smart notes
+- Holiday, Ryan
+- GLOBALIZAÇÃO - INDEX
+- GPT3-kazuo-ishiguro
+- Han, Byung-Chul
+- globalização cultural
+- George Landow
+- Georg Wilhelm Friedrich Hegel
+- existencialismo, notas de estudo
+- Foucault, Michel
+- filosofia da linguagem
+- Fungos fantasticos
+- garra - de duckworth
+- evergreen notes
+- etnomusicologia
+- epson-L4260
+- Escrevendo agora - Copia
+- episteme
+- ensaios, de montaigne
+- Ernaux, Annie
+- ELO
+- Derrida
+- DEFESA EM 12 PASSOS
+- Deleuze
+- Eichhorn, Kate
+- Eduardo viveiros de castro
+- différance
+- Dostoiévski, Fiodor
+- desconstrução
+- Declínio de um Homem
+- Eco, Umberto
+- David Wengrow
+- Cybertext
+- Cortázar, Julio
+- David Graeber
+- Como mudar sua mente - netflix
+- Cap. 4 - Mentes miceliais
+- Canclini, Néstor García
+- ceticismo em montaigne
+- como viver, sarah bakewell
+- Pollan, Michael
+- Políticas Da Imagem
+- Plath, Sylvia
+- resenha 451 james briddle
+- Pynchon, Thomas
+- Piglia, Ricardo
+- Pacto da branquitude
+- Psiconautas viagens com a ciência psicodélica brasileira
+- promptgpt3
+- Otto Maria Carpeaux
+- o idiota
+- Os Anéis de Saturno
+- NOTAS PASSAGEIRAS
+- o que significa escrever na era da internet
+- nathan fielder method
+- nathan for you é absolutamente genial
+- Nagel, Thomas
+- non fiction novel
+- Neil Gaiman
+- Nietzsche, Friedrich
+- Neil deGrasse Tyson
+- Manufacturing Happy Citizens
+- Montaigne, Michel de
+- Mindfulness-2
+- Merlin Sheldrake
+- Max Hastings
+- Mann, Thomas
+- London, Jack
+- Kazuo Ishiguro
+- Kierkegaard
+- LEITURA DE LIVROS DE FICÇÃO
+- literatura ergódica
+- Livros Nexo História e Política Contemporânea
+- Linguagem e capitalismo
+- Julián Fuks
+- Levy, Pierre
+- Kant
+- Karl Ove Knausgård
+- lembra que
+- Joyce, Jaime
+- Jordan B. Peterson
+- Jameson, Fredric
+- James Bridle
+- Hobsbawn, Eric
+- hibridismo
+- Heidegger, Martin
+- Irmãos Karamázov
+- Eduardo Giannetti sobre Nagel
+- 📕 DISSERTAÇÃO
+- 👨🏻‍💻🗃️NOTAS PARA PROCESSAR
+- Wittgenstein, Ludwig
+- ursula le guin
+- Vilém Flusser
+- William Zinsser
+- Varella, Drauzio
+- Stephen King
+- surrealismo
+- Sterne, Laurence
+- Tudo que é sólido desmancha no ar
+- Tzvetan Todorov
+- Understanding Sebald
+- Thomas Merton
+- The View from Nowhere
+- Thoreau, Henry David
+- série
+- Stengers, Isabelle
+- SUSAN SONTAG ON WRITING
+- Sidarta Ribeiro
+- sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas
+- Sontag, Susan
+- Stefano Mancuso
+- sindrome do impostor e dunning krugger efeito
+- SEM TAGS
+- Rushdie, Salman
+- Saramäki, Jari
+- Santos, Milton
+- Simondon, Gilbert
+- SEARLE, JOHN
+- screenshots
+- Schwanitz, Dietrich
+- resenha 451 sob o signo de saturno
+- Resenhas 451
+- r books
+- resenha 451 Quando deixamos de entender o mundo
+- Realismo Capitalista
+- referencias cruzadas, sempre
+- lendo fooquedeu de Nuno Ramos
+- joe rogan entrevistas sobre psicodélicos
+- CSFUT
+- Biblioterapia funciona (pergunta)
+- Desmilitarizar a polícia, por nexo jornal
+- O futuro é multiespécie
+- Historia da literatura pos moderna - White Noise
+- Anna L Tsing
+- Second Brain
+- Slavoj Žižek
+- Você precisa pensar como um monge medieval
+- A.-D. Sertillanges
+- O artigo discute dois livros, DEEP WORK e MINDFUL TECH
+- PEN INTERNATIONAL
+- Antologia do pensamento crítico russo
+- Tolstói, Lev
+- Elif Batuman
+- Lyotard, Jean-François
+- o que é episteme - uma abordagem

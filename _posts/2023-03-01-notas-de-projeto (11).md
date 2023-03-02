@@ -8,18 +8,21 @@ tags:
   - totalizante
   - pessoalidades
   - disserte
-title: 2002-11-27
-feed: hide
+title: 2002-11-27 uma carta escrita aos 18 anos
 date :  10-08-2022
 ---
 # 2002-11-27
-criado em: 01:24 2022-08-10
+## uma carta escrita aos 18 anos
 
-##### Relacionado
-- palavras-chave: 
-- notas permanentes: 
-- notas de dissertação:
+criado em: 01:24 2022-08-10
 - notas de literatura: [[quisquilae]]
+- notas relacionadas: [[luke, Im not your father]]
+- [[aquela vez que escrevi sobre meu avo no inumeraveis]]
+
+
+
+> O sentimento do texto é bastante complexo e variado. O autor apresenta uma mistura de nostalgia, esperança e incerteza em relação ao seu futuro. Ele demonstra entusiasmo por temas mais profundos e fora do padrão, como a morte e o racismo, além de uma paixão pela escrita e pela leitura. O autor também expressa uma aversão a certos tipos de música e uma certa rebeldia em relação às expectativas de seu pai de criação. Além disso, o autor menciona o choque que sentiu ao descobrir que seu pai biológico foi mantido em segredo por anos. No geral, o texto transmite uma sensação de autodescoberta e de tentativa de encontrar seu lugar no mundo.
+
 
 ---
 
@@ -50,4 +53,4 @@ Dantas
   
   
 
-27 do 11 de 2002
+==27 do 11 de 2002==

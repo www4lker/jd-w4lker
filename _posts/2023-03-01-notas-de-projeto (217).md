@@ -13,9 +13,9 @@ title: sebald, paciência depois
 criado em: 16:32 2022-08-30
 
 ##### Relacionado 
-[[Sebald, W. G.]]
-[[Austerlitz]]
-- - [[2022-W25]]
+- [[Sebald, W. G.]]
+- [[Austerlitz]]
+- [[2022-W25]]
 
 ---
 [[Sebald, W. G.]]

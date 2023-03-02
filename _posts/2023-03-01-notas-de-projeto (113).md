@@ -1,10 +1,8 @@
 ---
 tags:
-  - notas
-  - de
   - projetos
   - paginasmatinais
-title: 231120220906
+title: Perdido entre compras e vontades
 ---
 # 231120220906
 ## criado em: 09:06 2022-11-23
@@ -13,6 +11,10 @@ title: 231120220906
 - palavras-chave:
 - notas: 
 ---
+>Sentimento: Confusão/Desorientação 
+
+---
+
 Escreva ou morra.
 ontem eu estive na ufmt por um longo período, ou pelo menos foi o que pareceu. Eu saí de casa por volta das dezessete e a intenção era rever um amigo de longa data, o cristian.
 conversamos bastante — principalmente atualizando o que há para ser atualizado sobre a vida do outro. 

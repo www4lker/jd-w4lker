@@ -17,36 +17,4 @@ title: proposta de estágio iel
 
 #### Projeto de Inovação e Desenvolvimento Tecnológico no SISTEMA FIEMT, em parceria com IEL/IPT.
 
-Para atuação nesse projeto buscamos um bolsista conforme a descrição abaixo:
-
->MESTRE II - com título de mestre, com experiência compatível e comprovada de no mínimo 1 ano na área de execução do projeto.
-
-Formação: Comunicação Social e/ou áreas correlatas.
-
-Idioma: Inglês para leitura de materiais técnicos.
-
-## Conhecimentos Necessários:
-
-1. Pacote Adobe;
-2. Edição básica;
-3. Photoshop, Illustrator e Office 365;
-4. Domínio em criação de Plano de Comunicação.
-
-### Conhecimentos Desejáveis:
-
-• **Portfólio de criação de arte** apresentado no formato digital;
-• Conhecimento de **metodologias ágeis** para condução de projetos;
-• Excelente **comunicação e oratória**;
-• Excelente **relacionamento interpessoal**;
-• Boa percepção e avaliação de prioridades de acordo com o contexto;
-• **Resiliência e inteligência emocional**;
-• **Disponibilidade para viagens**.
-
-Carga horária: 40 horas semanais
-Valor da Bolsa: R$ 4.500,00
-
-Duração: 12 meses.
-
-*Valorizado*
-Experiência profissional
-Entre 1 e 3 anos
+>Procura-se um bolsista com título de mestre, experiência mínima de 1 ano na área de execução do projeto, formação em Comunicação Social ou áreas correlatas, fluência em inglês e habilidades em Adobe, edição, Photoshop, Illustrator, Office 365, criação de plano de comunicação e conhecimentos desejáveis em metodologias ágeis, comunicação, relacionamento interpessoal, avaliação de prioridades, resiliência emocional e disponibilidade para viagens, com carga horária de 40 horas semanais e valor da bolsa de R$4.500,00 por 12 meses.

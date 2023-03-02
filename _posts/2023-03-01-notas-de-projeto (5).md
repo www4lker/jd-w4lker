@@ -7,18 +7,8 @@ tags:
 title: 2023-01-08  
 ---
 # 2023-01-08  
-###### Diário Onírico
->
 
-
-### Tarefas
-1. [ ]  
-
----
-
-##### Tags:
-
-##### Relacionados: 
+nr - [[2023-03-01-notas-de-leitura (215)|LIT]]
 
 ---
 > Comecei a ler Zambra novamente ([[Alejandro Zambra, autor chileno que virou cult]])

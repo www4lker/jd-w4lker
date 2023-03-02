@@ -11,13 +11,14 @@ tags:
 title: páginas matinais
 ---
 # páginas matinais
+## A luta para estabelecer novos hábitos de escrita
+
 ## criado em: 23:40 13-12-2022
 
-### Relacionado
-- palavras-chave: 
-- notas: 
----
 
+>O texto é uma reflexão pessoal sobre o ato de escrever, onde o autor luta para estabelecer um hábito diário de escrita, discute sua preferência pela escrita digital e enfatiza a importância de liberar a criatividade e superar a censura mental para escrever efetivamente. O autor reconhece os benefícios da escrita à mão, mas a considera menos produtiva e menos eficaz para gerar criatividade. Em última análise, o autor prefere escrever em um teclado e acredita que a escrita pode ser obtida de forma eficaz em qualquer meio, desbloqueando a criatividade e superando as barreiras mentais.
+
+---
 
 [[12-11-2022]]
 Hoje eu estou escrevendo no teclado. Ontem eu sequer escrevi. Amanhã eu não sei. 

@@ -1,0 +1,592 @@
+---
+title: Dissertação e projetos - índice
+tags:
+- permanente
+- projetos
+- disserte
+- terapia
+- filosofia
+- interesses
+- gerais
+- pesquisa
+- diário
+- pandemia
+- lit
+---
+
+# Dissertação e projetos - índice
+## criado em: 10:46 2023-03-02
+
+> Imagens ilustrativas são de Maurits Cornelis Escher, que é conhecido por criar ilusões óticas de bugar mentes e trabalhos artísticos de inspiração matemática.
+
+![moebius](https://i.postimg.cc/MT3jDBfp/moebius0.png)
+
+|Minhas notas relacionadas à pesquisa de mestrado iniciada em 2020|
+|-------|
+|Também notas não relacionadas à dissertação em si, mas parte de minhas pesquisas|
+
+## A lista a seguir é apenas para dar uma ideia das notas originais 
+### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
+
+#### filosofia
+
+- Meditation is like mountaineering approach it with care
+- CARTA A BORGES DE SUSAN SONTAG
+- coesa da sociedade
+- ceticismo
+- ml&c
+- lendo montaigne a sério
+- Jevons paradox
+- luke, Im not your father
+- filosofia da tecnologia
+- Austerlitz
+- Autenticidade
+- barromeu
+- do pedantismo
+- como ser um niilista feliz
+- a técnica do feynman
+- as palavras e as coisas
+- apresentacao por scoralick
+- a opiniao que temos das coisas
+- 5 coisas sobre existencialismo
+- 210920221522
+- a meta de nossa existencia é a morte
+- 091020221807
+- 161220221116
+- 091220220041
+- 131020220947
+- 061020221329
+- 011120220347
+- trocando o gato por lebre
+- traço
+- Vipassana
+- sabedoria
+- The microphones em 2020 explicado
+- walker crianca
+- XXIV 2
+- teoria do ator-rede
+- sobre ser sincero
+- senso de humor como virtude moral
+- Sobre a educação das crianças
+- para que tantos projetos
+- O paradoxo da fé
+- plenitude
+- simplifique, simplifique, simplifique
+- Sebald, W. G.
+- Qual é mais difícil de ler
+- porco de pirro
+- Relacione cibernética com autenticidade
+- o medo
+- Metamorfoses de ovídio
+- montaigne e as metamorfoses de ovídio
+- morte de montaigne
+- nada demais
+- o exercício da sinceridade é condição para a sabedoria
+- INTP T
+- homem competente
+- Da amizade 28
+- Amar desconfiando
+- é dando que se recebe
+- árvore da generosidade
+- Ensaio 26 - autenticidade - DEDC
+- uma abordagem mais cética da educação
+- Só os loucos tem certeza absoluta
+- Viajar para polir o cérebro
+- aprenda com os acertos e com os erros das diversas culturas
+- o propósito do ensaio
+- Ensaios — p. 205 “Foucault
+- amor aos livros - montaigne
+- do pedantismo 25
+- detesto o sábio que não é sábio por si próprio
+- sabedoria verdadeira é fazer juízos corretos para a própria vida
+- os hábitos influenciam a percepção
+- os ensaios 23
+- as leis da natureza nascem do costume
+- Hoje, solstício de verão de 2022 disse para minha família que eu não acredito muito em Deus
+- As Muitas Metáforas da Metamorfose
+- literary ethnography
+- ImageText
+- Life is Hard - Failure
+- Shoshin
+- A canção de amor de J. Alfred Prufrock
+- tipo 4 e 5
+- Eneagrama e MBTI
+- O Individualista
+- o individualista e os amantes do tarô
+- o panda vermelho e o individualista
+- Holden Caulfield e o Individualista
+- encontre Jack, o individualista
+- o que é biohacking
+- transhumanismo
+- justificativas para o biohacking
+- life is hard - bartleby
+- Como ser um ateísta ético (conversa com o chatgpt)
+- pedi o chat gpt que recomendasse pentiment para um amigo de férias
+
+# interesses gerais
+
+---
+
+- o fim do álcool
+- COMO COMECEI A ESCREVER NOTAS ESTÚPIDAS
+- Bungo Stray Dogs
+- boas citações para imprimir
+- Assisti pleasure
+- atlanta
+- band of brothers
+- 201020221429
+- 161220221058
+- 181020221814
+- assist drive my car
+- arte como efeito terapeutico
+- 231020221805
+- Aqui estão cinco subdomínios potenciais que você poderia registrar para seu domínio na Internet
+- a beleza do texto não ficcional
+- 161220221009
+- 081220221056
+- 081220221047
+- 151220221213
+- 131220222146
+- 111220220302
+- 061220221416
+- Como criar um esboço para uma revisão do videogame na Steam
+- 041220221032
+- 061020221221
+- 011120220402
+- w4lker ponto com ponto br
+- THE PLAYLIST DOCUMENTÁRIO
+- Por que os filósofos desconfiam dos seus sentidos
+- prompts
+- prompts midjourney
+- selena gomez
+- sobre economia, agentes do mercado e a boa gestão da economia
+- recoding power
+- político brasileiro Euvaldo Lodi
+- PITCH
+- pitch educação é a resposta
+- micro horror story generator
+- markdown
+- Mastodon
+- Não temais a IA capaz de imitar arte
+- Berners-Lee e Brunelleschi
+- peso neural
+- O QUE É O IEL
+- nosurf
+- joão montanaro isso não é uma granada
+- muito velho para games
+- INFP
+- IA WRITER MINIMALISTA
+- Globalização
+- IA WRITER
+- como fazer um pitch de 3 min
+- digital garden
+- deleted_user
+- Four Tet na Pitchfork
+- Gavin Wood pede ceticismo
+- escritas da pandemia
+- escrita terapeutica nexo jornal
+- 011220221700
+- 291120221801
+- 211120222235
+- 121220222259 1
+- cheat code de dinheiro infinito
+- conte sobre seu projeto para todo mundo
+- serendipital
+- 121220222259
+- 181220221135
+- 181220221125
+- Malcolm Gladwell responde perguntas sobre pesquisa
+- solucionadores de problemas
+- pesquisas apenas on-line
+- links one tab dez de 2022
+- zettelkasten e serendipidade
+- escrita clara é como um videogame
+- Dicas de revisão para produzir uma escrita que encante o leitor
+- a guerra dos sexos -  sérgio rodrigues
+- epic games invadiu privacidade de crianças
+- Senador Pergunta por que a steam hospeda tanto conteúdo Neo-Nazista
+- Adoptable Pets
+- como a economia da China, particularmente em tecnologia, se tornou mais bem sucedida e influente globalmente
+- modelos de negócios no ramo da tecnologia
+- NoSurf is a community of people who believe in mindful use of the internet
+- 8 ações para melhorar a relação com a tecnologia em 2023
+- how to with John wilson
+- How to (Finally) Break That Bad Habit
+- trajetória de salman rushdie
+- práticas biohacker
+- jejum como biohacking
+- grinding no biohacking
+- the wandering mind
+- pentiment
+- apneia de telas
+- Criticismo ao mercado de carbono
+- responsabilidade individual pelo aquecimento global
+- 10 razões para ser bom o uso de créditos de carbono
+- otimista-realista (aquecimento global)
+- bora empreender
+- anki tips
+
+---
+
+### interesses de pesquisa
+
+- teoria da cauda longa e a indústria do conteúdo 1
+- teoria da cauda longa e a indústria do conteúdo - revisão 1
+- tensão  entre capitalismo e autenticidade na indústria cultural
+- como podemos ter uma relação minimalista com informações e conteúdo 1
+- episteme foucault
+- 121020222239
+- 121020222234
+- 101020221319
+- 1.2
+- 101020221256
+- Episteme em Foucault
+- 071220220932
+- 121020221412
+- 121020222215
+- Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a
+- 1.1
+- 1.1.1
+- 071020221000
+- 061020221232
+- 081120221122
+- 071020220916
+- 061020221226
+- 061020221218
+- Epistemes Contemporâneas
+- diversos escândalos
+- distopia feudal digital
+- digital humanities
+- DICOTOMIA ACADEMICA
+- Como fazer nada
+- contemporaneo x classico
+- Como o paradoxo de polanyi tem sido superado
+- design
+- dazed sobre amalia ulman
+- DASEIN
+- Ciberespaço
+- covid museum
+- Clean perversion in consumer culture
+- Contornando a floresta negra da web
+- chat gpt ajudou a complementar esse texto
+- chatgpt
+- chat gpt avisa
+- CE1000PD
+- CE1000PD LIVE
+- artigo sobre IA e Polanyi
+- Além do homem
+- CANTO DO CISNE
+- cap 1
+- BERT
+- blogs
+- AI Shouldn’t Compete With Workers
+- 5 coisas sobre filosofia da tecnologia
+- alienação
+- ABSTRACT PHANTOM
+- 5 livros para entender e pesquisar a cultura pop
+- a origem do termo economia da atenção
+- 220920221225
+- 131220221704
+- 131220222119
+- 131020221227
+- 220920220128
+- 210920221546
+- 131220222303
+- 141220221005
+- 121020222345
+- 141220220029
+- 131020221223
+- 131020221152
+- 131020221145
+- 121220222336
+- 121020222237
+- primeira postagem.
+- podcast o despertar de tudo
+- pode inteligencia virtual fazer arte
+- Plataformas de internet estão destruindo a democracia, diz Nobel da Paz
+- paradoxo de polanyi
+- paradoxo da contemporaneidade
+- O QUE É LITERATURA ERGÓDICA, VIA gpt3
+- o que voce planeja com minha filha me perguntou o meta
+- o que podemos aprender sobre resistência com os programadores
+- ocorrem corriqueiramente
+- O passado não é mais como era antigamente
+- O microfone
+- O rompimento com a linguagem
+- o consumo de massa
+- Notas do debate Literatura e arte digital
+- não precisa virar um marqueteiro digital
+- No tempo das catástrofes
+- musica
+- metodologia
+- mapa sonoro na pandemia
+- manipulação
+- MAGRITTE PROMPT
+- memorial vagalumes
+- Metodologia do trabalho científico
+- Literatura e Arte Digital com Chico Marinho (UFMG) e Rejane Rocha (UFSCar)
+- isso não é um blog
+- Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo
+- linguagem especial
+- Literatura Fundamental 94 A Vida e as Opiniões do Cavalheiro Tristram Shandi – Sandra Vasconcelos
+- la cienaga
+- humanidades digitais
+- homogeneização
+- HTML
+- inumeráveis no nexo
+- foto de agosto de 2007 no facebook
+- entrevista inumeráveis para dissertação
+- entre tantos outros
+- engenharia reversa do midjourney
+- her writing
+- From Internet to Gutenberg
+- hifacultura
+- hipercultura
+- hipermídia
+- Hipertexto
+- GPT COMO MICROFONE
+- Humans Have Always Been Wrong About Humans
+- interessesdepesquisa
+- imagens não podem dizer não
+- Images cannot say Ain’ t
+- Foucault e a globalização
+- Filosofo Renascentista
+- ficou mais fácil
+- filosofia do futuro
+- FAROFA DA GKAY
+- experiências hipertextuais
+- editing web pages became difficult and complicated for people
+- Esto no es una Pipa - video analise
+- estudos da mídia
+- “Hora do Vapor”
+- Web Semântica
+- trabalhos de faculdade
+- Turing Trap
+- True Success Is More Than Checking Boxes
+- wired with a coder
+- web 3.0
+- w3
+- TRABALHO DE FACULDADE POSTADO NO  FACEBOOK - SEMIOTICA
+- um terço de todos os internautas na rede.
+- Web 3.0, Semantic Web, Potayto, Potahto
+- Trabalho de Introdução à Filosofia
+- um milagre termodinámico
+- Tim Berners-Lee
+- Tim Berners-Lee Explains the Semantic Web
+- Three kinds of hypertext
+- Ted Nelson
+- The banality of ChatGPT
+- qualificação
+- racismo algorítmico
+- Refusal, she writes, was exemplified by the Greek philosopher Diogenes,
+- Resumido podcast
+- rizoma de Deleuze
+- tecnocéticos
+- reprodução da desigualdade
+- sobre como alguem le
+- respostas da IA para perguntas existenciais
+- Renascença
+- Pasted image 20220627104121
+- Jia Tolentino sobre o incío da internet
+- como separar o processo metodológico de pesquisa em pequenas partes
+- World Wide Web
+- 291120221628
+- mudar o enfoque do desenvolvimento de IA
+- Os alunos estão acertando seus deveres de casa, entregando ensaios gerados por máquinas
+- A revolução das máquinas de conteúdo
+- The Age of Social Media Is Ending
+- 8 perguntas para minha entrevista com um autor de obituário
+- PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO
+- The Question Concerning Technology
+- Kate Eichhorn on the Rise of Insta-Artists and InstaPoets
+- referência a watchmen
+- o mercado, o indivíduo e como sua atenção se tornou uma mercadoria
+- Cyberpunk Needs a Reboot
+- lendo arqueologias do futuro prefacio
+- Dívida os primeiros 5000 anos
+- Temos um índice - pergunta
+- chat gpt pode substituir o google e as redes sociais
+- copia de reserva
+- Capitalismo tardio
+- nos divertindo até a morte
+- Artigo sobre cogumelos no fim do mundo de Tsing
+- eis dois cachimbos
+- Todo projeto de texto deve ser reduzido antes de começar a escrever
+- 181220221256
+- 181220221313
+- um plano de cinco pontos para alcançar um equilíbrio
+- é importante estar aberto a novas idéias e direções à medida que elas surgem
+- teoria da cauda longa e a indústria do conteúdo
+- teoria da cauda longa e a indústria do conteúdo - revisão
+- Sobre o escopo do texto
+- sobre o argumento principal de um texto
+- A narrativa é uma ferramenta poderosa
+- como podemos ter uma relação minimalista com informações e conteúdo
+- É importante reunir o máximo de informações possíveis ao pesquisar um tópico
+- Os verbos são a mais importante de todas as suas ferramentas
+- é recomendável evitar o uso de advérbios desnecessários
+- use adjetivos na escrita com parcimônia
+- exageros na escrita
+- evitar o sexismo - podem ser feitos esforços para ser mais inclusivo dentro de limites razoáveis
+- chat gpt na vice
+- Atlantic argumentou que o ChatGPT é divertido e não persuasivo
+- a dissertação argumentativa
+- Empatia na era da IA
+- A internet corre o risco de afastar as mulheres
+- Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio
+- Máquinas Conscientes Podem Nunca Ser Possíveis
+- TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone
+- Pós-modernismo, cosmodernismo, planetarismo
+- Cosmodernism and planetarism
+- Critique Studies in Contemporary Fiction
+- A vida moderna está arruinando nossos poderes de concentração (pergunta)
+- eight by seven
+- Analogias sobre a contradição capitalisma na indústria do conteúdo
+- A ascensão da indústria de conteúdo
+- Nomades digitais e CT
+- Why the Future Doesn't Need Us
+- alan moore acertou nessa
+- o que são os deep fakes
+- o que a IA significa para a criatividade humana
+- midjourney
+- resenha the chaos machine
+- um sombrio aviso
+- 8 pontos sobre o livro The Chaos Machine
+- 130120231316
+- respostas da entrevista com o filosofo renascentista
+- Robôs com um toque humano (pergunta) Sim, por favor
+- chatgpt ta cheio de investidor babando
+- IA está assumindo enigmas cada vez maiores
+- 1610
+- AI still hasn’t passed the “imitation game”
+- o fim do antropoceno
+- a tecnologia quebrou nossos cérebros
+- chatgpt roubou seu trabalho - e agora oque farás (pergunta)
+- Como perceber uma arte gerada por IA, segundo artistas
+- Could AI help you to write your next paper
+- Entrevista - REM-MT
+- interpretação de imagens expandido
+- Criticismo às redes sociais - artigo nexo
+- Políticas da imagem, palavras-chave
+- CONTENT FARMS 050220231934
+- Medium idealizado
+- THE INTERNET IS BROKEN
+- Sumário Artigo THE INTERNET IS BROKEN
+- como consertar a internet
+- como consertar a internet  - sumário
+- ideias para corrigir o que há de erra com a internet
+- exemplo de inclusão do chatgpt na seção de métodos
+- DUAS REGRAS BÁSICAS DA NATURE PARA USO DE CHATGPT
+- Duas reagras básicas (segundo a Resvista Nature)
+- all about anki
+- a internet ta quebrada
+- quem ta consertando a internet
+
+---
+
+# meditação e insight
+- 220920221457
+- 220920221222
+- 202208011746
+- 220920221259
+- 220920221154
+- 19082022
+- 202207142321
+- 131220222341
+- 14082022
+- 8 estratégias para encontrar o problema com o qual trabalhar numa tese
+- Usando o êxtase a seu favor
+- 16082022
+- 17082022
+- 15082022
+- 141020221550
+- 13082022
+- 12082022
+- 11082022
+- 061020221357
+- quem é voce
+- Síndrome do Impostor
+- Submit and deal with reviews
+- Write and revise your draft
+- qual o ancestral do meu projeto
+- um dia uma semana um mes um ano
+- qual o seu proposito
+- quais sao seus medos
+- qual o seu porque
+- quais problemas seu projeto pode resolver
+- o que o projeto deve potencializar em mim
+- Outline the paper
+- Develop the story of the paper
+- descobrindo o que seu projeto pode ser 1
+- descobrindo o que seu projeto pode ser
+- o que o mundo precisa e ninguem esta fazendo
+- mestizaje
+- o poema cogumelos explicado
+- Não existem horas suficientes para o dia
+- mushrooms, a poem by Sylvia Plath
+- eu sou bom em quê
+- interdisciplinaridade
+- blog
+- advice to aspiring writers
+- 8 questions for my interview with a postmodern philosopher
+- Tips For Revising Content And Structure 220920221529
+- 3 melhores momentos
+- 5 estratégias para potencializar a empatia através da investigação acadêmica
+- 220920221428
+- 220920221408
+- 220920221415
+- 220920221541
+- 220920221534
+- 220920221526
+- 220920221504
+- 220920221448
+- 220920221406
+- quisquilae
+- VERDADEIRA NECESSIDADE
+- LENDO IRMAOS KARAMAZOV
+- lições de um retiro longo de meditação
+- Como analisar seus sonhos e por que é crucial para o autodesenvolvimento
+- Aplicativos de Saúde Mental não vão te tirar do sofá
+- dicas para explorar conteúdos nas plataformas
+- dicas para ajudá-lo a aceitar sua entrevista
+- Contrageografia
+- Método baseado na repetição espaçada e ANKI para me preparar para a defesa
+
+---
+
+### Terapia com psicodélicos - Psiconautas
+
+- Ser arrancado das rotinas da percepção ordinária
+- protocolo de md 2022
+- reddit brasil
+- maría sabina
+- sobre a terapia psicodélica
+- trama da vida encontra como mudar sua mente
+- Os psicodélicos mostram que a religião não é o único caminho para a espiritualidade
+- omg fungos vao controlar minha mente
+- MICÉLIO
+- McKenna e o macaco chapado
+- conclusão do capítulo
+- metamorfoses
+- A emergência da TP e como surfar na onda
+- a psilocibina no cerebro
+- 241020221931
+- como vim parar aqui
+- como começou agenda de junho 2022
+- como devemos  entender a propriedade psicodelica do fungo
+- 2022-08-04
+- cogumelos no antropoceno
+- clandestino
+- 131020221204
+- 041220221010
+- 011120220936
+- Sobre bad trips
+- cogumelos magicos na cnn soft
+- Se você quer a cura psicodélica, seu ego pode precisar morrer
+- o efeito alucinógino, ao que parece, é uma defesa
+- cogumelos mágicos matam a fome de predadores
+- microdose para produtividade
+- 5 depoimentos sobre amanita muscaria no erowid
+- amanita muscaria - padrões
+- amanita muscaria
+- como fazer chá de amanita muscária

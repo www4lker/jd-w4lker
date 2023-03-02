@@ -1,22 +1,24 @@
 ---
 tags:
-  - notas
-  - de
   - projetos
   - pessoalidades
   - totalizante
   - diário
-title: 231120220932
+title: Desculpas e pressões - o desafio de voltar a escrever publicamente
 ---
-# 231120220932
+# Desculpas e pressões: o desafio de voltar a escrever publicamente
 ## criado em: 09:32 2022-11-23
 
 
 ### Relacionado
 - palavras-chave: 
 - notas: [[substack, revue e blog]]
+
+>O sentimento presente no texto é de arrependimento e culpa, com uma pitada de ansiedade e pressão. O autor reconhece que cometeu um erro ao enviar um convite para quase duas mil pessoas e se desculpa por isso. Ele também explica que sente a necessidade de escrever novamente, mas que a ansiedade e a pressão o impedem de fazê-lo. Há uma sensação de frustração e desânimo, bem como uma preocupação com as expectativas dos outros em relação ao que ele irá escrever. No entanto, há também uma dose de esperança e desejo de retomar a escrita. 
+
 ---
-Escrevendo minha newsletter depois de ter mandado email para todo mundo avisando que agora ia ter newsletter 
+### Escrevendo minha newsletter depois de ter mandado email para todo mundo avisando que agora ia ter newsletter
+
 Eu devo a todos no mínimo desculpas pelo que aconteceu — eu abri a conta no substack (e não tenho nem a desculpa de que era a primeira vez) e depois, mexendo aqui e ali, coloquei meus contatos exportados do gmail todos ali — ainda consegui colocar uma inscrição grátis, mas cometi o deslize de mandar isso para quase dois mil emails — desde minha orientadora no mestrado até aquele conhecido que troquei emails apenas uma vez em 2007 para fazer um trabalho em grupo.
 Foi uma medida desesperada exigida por tempos desesperados — eu queria — eu precisava — muito voltar a escrever publicamente — como fiz em diversas ocasiões, sempre ignorante de qual era meu publico — ou se eu sequer tinha um. 
 Minha ideias de texto costuma vir quando estou pedalando já há uma hora pelo menos — quando estou cansado demais para resistir e mais ainda para anotar. São verdadeiras germinações e desabrochares — estou voltando para casa depois de ir até avenida itália (dez quilômetros daqui) e de repente eu sei exatamente o que daria um bom texto. Ele aparece não apenas quase completo — ele aparece sedutor e convidativo — ressoando aquela voz que todo autor almeja por ser unica ou pelo menos singular. 

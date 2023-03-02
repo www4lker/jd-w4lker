@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#00455b",
+  "baseFontSize": 20,
+  "interfaceFontFamily": "iA Writer Mono S,Montserrat",
+  "textFontFamily": "Open Sans,iA Writer Mono S,Montserrat,Adobe Caslon Pro"
 }
