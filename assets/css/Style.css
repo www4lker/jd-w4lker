@@ -139,40 +139,36 @@ main {
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
 
 h1 {
-    font-size: 2.5rem;
-    line-height: 1.2;
-  }
-  
-  h2 {
-    font-size: 2rem;
-    line-height: 1.2;
-  }
-  
-  h3 {
-    font-size: 1.5rem;
-    line-height: 1.2;
-  }
-  
-  h4 {
-    font-size: 1.25rem;
-    line-height: 1.2;
-  }
-  
-  h5 {
-    font-size: 1rem;
-    line-height: 1.2;
-  }
-  
-  h6 {
-    font-size: 0.875rem;
-    line-height: 1.2;
-  }
+font-size: 2.5em;
+}
+
+h2 {
+font-size: 2em;
+}
+
+h3 {
+font-size: 1.8em;
+}
+
+h4 {
+font-size: 1.6em;
+}
+
+h5 {
+font-size: 1.4em;
+}
+
+h6 {
+font-size: 1.2em;
+}
 
   
 h1, h2 {
   color: var(--primary-text-color);
   font-family: "adobe-garamond-pro", serif;
   font-weight: 450;
+  margin: 1em 0;
+  line-height: 1.2;
 }
 
 h2 {
@@ -185,6 +181,9 @@ h3, h4, h5, h6 {
   font-family: "adobe-garamond-pro", serif;
   font-weight: 490;
   font-style: italic;
+  margin: 1em 0;
+ font-weight: bold;
+ line-height: 1.2;
 }
 
 ul, ol {
@@ -201,10 +200,8 @@ a, p {
 blockquote {
     margin: 2em 0;
     padding: 1em;
-    border-left: var(--ternary-border-color);
+    border-left: 5px solid var(--ternary-border-color);
     font-family: 'OpenSans-Italic';
-    line-height: 1.45;
-    font-size: 1.05em;
     font-style: italic;
     }
 
@@ -234,8 +231,11 @@ div a,
 blockquote a,
 cite a {
     font-family: "adobe-garamond-pro", serif;
-    line-height: 1.45;
-    font-size: 1.05em;
+    padding-left: 50px;
+    display: block;
+    margin-top: 1em;
+    font-style: italic;
+    font-size: 0.8em;
     color: inherit;
 }
 
@@ -353,7 +353,10 @@ summary {
 
 cite {
     padding-left: 50px;
-    font-style: oblique;
+    display: block;
+    margin-top: 1em;
+    font-style: normal;
+    font-size: 0.8em;
 }
 
 blockquote p {
