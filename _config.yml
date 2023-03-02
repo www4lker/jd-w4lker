@@ -7,7 +7,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://stately-sunburst-dbafe0.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "jardim.w4lker.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
