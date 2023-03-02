@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "bc9da0491d2702fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Artificial",
+                "query": "E se minha esposa estivesse me sabotando",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
+                "file": "2023-03-01-notas-de-projeto (meta notas).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md",
+                "file": "2023-03-01-notas-de-projeto (meta notas).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-01-notas-de-projeto (urso sob cocaína).md"
+                "file": "2023-03-01-notas-de-projeto (meta notas).md"
               }
             }
           }
@@ -160,8 +148,13 @@
       "templates:Inserir modelo": false
     }
   },
-  "active": "4e2313aee22e7093",
+  "active": "6a63096fffed88a9",
   "lastOpenFiles": [
+    "2023-02-28-title1 (31).md",
+    "2023-03-01-notas-de-projeto (meta notas).md",
+    "2023-03-01-notas-de-projeto (analise-nota).md",
+    "2023-03-01-notas-de-projeto (drive-my-car).md",
+    "2023-03-01-notas-de-projeto (urso sob cocaína).md",
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (64).md",
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (63).md",
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (62).md",
@@ -182,11 +175,6 @@
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (47).md",
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (46).md",
     "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (45).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (44).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (43).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (42).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (41).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (40).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (39).md"
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (44).md"
   ]
 }
