@@ -30,4 +30,4 @@ Segue o link aqui **[W4LKER, Um Jardim Digital](https://jardim.w4lker.com.br/)**
 
 #### AVISO LEGAL
 
-Acreditamos no poder de compartilhar conhecimentos e idEias. Todas as notas de pesquisa, insights e opiniões apresentadas neste website são licenciadas sob a Licença Internacional Creative Commons Atribuição 4.0, que permite a outros distribuir, remixar e construir sobre nosso material, mesmo comercialmente, desde que eles creditem como fonte "W4LKER" e qualquer outro contribuinte e indiquem se foram feitas mudanças. Pedimos que você não plagie nosso trabalho e respeite nossos direitos de propriedade intelectual.
+>Acreditamos no poder de compartilhar conhecimentos e ideias. Todas as notas de pesquisa, insights e opiniões apresentadas neste website são licenciadas sob a Licença Internacional Creative Commons Atribuição 4.0, que permite a outros distribuir, remixar e construir sobre nosso material, mesmo comercialmente, desde que eles creditem como fonte "W4LKER" e qualquer outro contribuinte e indiquem se foram feitas mudanças. Pedimos que você não plagie nosso trabalho e respeite nossos direitos de propriedade intelectual.
