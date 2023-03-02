@@ -29,7 +29,7 @@ content-type: eg
 {% for tag in site.tags %}
 {%- assign conc = tag | first -%}
 {%- if conc != 'Favorite' -%}
-<h2 id="{{ conc }}">{{ conc }}</h2>
+<h4 id="{{ conc }}">{{ conc }}</h4>
   <ul>
     {% for post in tag.last %}
     <li><a href="{{post.url}}">{{ post.title }}</a></li>

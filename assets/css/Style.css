@@ -56,17 +56,30 @@
    
 }
 
+
+.header {
+    display: flex;
+    align-items: left;
+}
+
 .main-page-heading a {
     font-family: "cooper-black-std", serif;
-        font-weight: 600;
-        font-style: normal;
-  }
+    font-weight: 600;
+    font-style: normal;
+    padding: 0px;
+}
   
   .main-page-subheading {
     font-family: "cooper-black-std", serif;
-        font-weight: 400;
-        font-style: italic;
-  }
+    font-weight: 400;
+    font-style: italic;
+}
+
+  .main-page-tagline {
+    font-family: 'OpenSans-BoldItalic', 'Open Sans', sans-serif;
+    font-weight: bold;
+       
+}
   
 
  
@@ -87,28 +100,24 @@ body {
 }    
 
 .container {
-    display: flex;    
-    position: relative;         
-    flex-direction: column;     
+    display: flex;
+    position: relative;
+    flex-direction: column;
     justify-content: center;
     position: absolute;
-    top: 0px;  
+    top: 0px;
     left: 0px;
     right: 0px;
-    bottom: 0px;  
-    align-items: center;       
+    bottom: 0px;
+    align-items: center;
     max-width: 70ch;
-    padding: 3em 1em;
-    margin: auto;
-    margin-right: auto;
-    margin-left: auto;
-    width: auto;
+    margin: 0 auto;
+    padding: 0 1em 3em 1em;
     font-family: 'OpenSans-regular', 'open sans', sans-serif;
     font-weight: 490;
     font-style: normal;
     line-height: 1.75;
     font-size: 1.25em;
-    
 }
 
 .box {
@@ -1359,7 +1368,7 @@ label.srs-toggle {
     z-index: 10;
     padding: 12px 0;
     width: 177px;
-    background-color: var(--primary-bg-color);
+    background-color: #5b2900;
     border: solid 1px var(--ternary-border-color);
     border-radius: 5px;
     box-shadow: 1px 1px 15px var(--secondary-box-shadow-color);
@@ -1396,7 +1405,7 @@ label.srs-toggle {
 
 .context-menu__link:hover {
   color: var(--primary-text-color);
-  background-color: var(--secondary-bg-color);
+  background-color: #5b2900;
 }
 
 .popup {
@@ -1417,6 +1426,16 @@ label.srs-toggle {
     margin-left: 20px;
     margin-right: 10px;
 }
+
+@media only screen and (max-width: 600px) {
+    html {
+      font-size: 80%;
+    }
+    main {
+      max-width: 100%;
+      padding: 1rem;
+    }
+  }
 
 @media screen and (max-width: 1200px){
     .sn-right,
