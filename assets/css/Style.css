@@ -1,4 +1,31 @@
 @import "/assets/css/highlight.css";
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('/assets/fonts/OpenSans-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: 'OpenSans-Italic';
+    src: url('/assets/fonts/OpenSans-Italic.ttf');
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('/assets/fonts/OpenSans-Bold.ttf');
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: 'OpenSans-BoldItalic';
+    src: url('/assets/fonts/OpenSans-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+
+   
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
     :root {
@@ -21,14 +48,26 @@
     --anchor-link-color: #ffd5b3;
     --search-placeholder-color: #ffb980;
     --searchbox-shadow-color: #bff0ff;
-    --heading-font-family: "cooper-black-std", serif;
-    --heading-font-weight: 400;
+    --heading-font-family: "adobe-garamond-pro", serif;
+    --heading-font-weight: 490;
     --heading-font-style: normal;
-    --primary-font-family: sans-serif;
+    --primary-font-family: open, sans-serif;
     --secondary-font-family: "adobe-garamond-pro", serif;
-    --secondary-font-weight: 400;
-    --secondary-font-style: normal;
+   
 }
+
+.main-page-heading a {
+    font-family: "cooper-black-std", serif;
+        font-weight: 600;
+        font-style: normal;
+  }
+  
+  .main-page-subheading {
+    font-family: "cooper-black-std", serif;
+        font-weight: 400;
+        font-style: italic;
+  }
+  
 
  
     html {
@@ -64,11 +103,11 @@ body {
     margin-right: auto;
     margin-left: auto;
     width: auto;
-    font-family: "adobe-garamond-pro", serif;
+    font-family: 'OpenSans-regular', 'open sans', sans-serif;
     font-weight: 490;
     font-style: normal;
-    line-height: 1.45;
-    font-size: 1.05em;
+    line-height: 1.75;
+    font-size: 1.25em;
     
 }
 
@@ -129,10 +168,11 @@ h1 {
     line-height: 1.2;
   }
 
+  
 h1, h2 {
   color: var(--primary-text-color);
-  font-family:  var(--heading-font-family);
-  font-weight: normal;
+  font-family: "adobe-garamond-pro", serif;
+  font-weight: 450;
 }
 
 h2 {
@@ -142,13 +182,14 @@ h2 {
 
 h3, h4, h5, h6 {
   color: var(--primary-text-color);
-  font-family:  var(--primary-font-family);
+  font-family: "adobe-garamond-pro", serif;
+  font-weight: 490;
   font-style: italic;
 }
 
-ul, ol, blockquote {
+ul, ol {
     color: var(--primary-text-color);
-    font-family: sans-serif;
+    font-family: 'OpenSans-Italic', sans-serif;
     line-height: 1.45;
     font-size: 1.05em;
   }
@@ -161,6 +202,9 @@ blockquote {
     margin: 2em 0;
     padding: 1em;
     border-left: var(--ternary-border-color);
+    font-family: 'OpenSans-Italic';
+    line-height: 1.45;
+    font-size: 1.05em;
     font-style: italic;
     }
 
@@ -269,7 +313,10 @@ code {
     background-color: var(--secondary-bg-color);
     border-radius: 5px;
     border: none;
-    font-family: 'EB Garamond', Georgia, serif !important;
+    font-family: "adobe-garamond-pro", serif !important;
+    font-weight: 400;
+    
+    
 }
 
 
