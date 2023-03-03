@@ -5,15 +5,14 @@ tags:
   - projetos
   - 1000palavrasoumais
   - mementomori
-title: 2019-07-11  danilo peloi, eulogia
+title: 2019-07-11  
 ---
+
 # 2019-07-11  
 
 - notas relacionadas: 
 - [[MdCC]]
 - [[porque me desliguei do mestrado]]
-
-
 
 >O sentimento do texto é de admiração e respeito pelo indivíduo descrito, que parece ter sido uma fonte de inspiração e aprendizado para o autor. Há um tom de tristeza e pesar pela perda prematura do amigo e uma preocupação com o estado mental das pessoas em geral, especialmente dos estudantes e pesquisadores. O autor também aborda a questão da saúde mental e como muitas vezes é negligenciada ou tratada de forma inadequada pela sociedade. No geral, o texto transmite um sentimento de saudade e um apelo por mais compaixão e cuidado com as pessoas que sofrem de doenças mentais.
 
@@ -30,4 +29,3 @@ A última vez que o vi, era um homem bastante crente, com suas guias de proteç�
 *Adeus Danilo.*
 
 [[epígrafe do meu trabalho de mestrado]]
-

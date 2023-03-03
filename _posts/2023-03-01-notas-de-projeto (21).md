@@ -6,11 +6,13 @@ tags:
   - tarefas
 title: 2022-06-13  
 ---
+
 # 2022-06-13  
+
 ###### Diário Onírico
-- 
 
 ### Tarefas
+
 - [ ] Listar tarefas principais do dia 🔼 🔁 every day
 ---
 
@@ -19,8 +21,7 @@ title: 2022-06-13
 3. reuniao com a dolores em dois dias.
 
 ---
+
 ##### Tags:
 
 ##### Relacionados: [[202208011354]]
-
-

@@ -11,10 +11,13 @@ tags:
   - wiredetal
 title: 131220221704
 ---
+
 # 131220221704
+
 ## criado em: 17:04 2022-12-13
 
 ### Relacionado
+
 - palavras-chave:    
 - notas: 
 - [[gpt3]]
@@ -23,12 +26,15 @@ title: 131220221704
 - [[chat gpt ajudou a complementar esse texto]]
 - [[5 coisas sobre filosofia da tecnologia]]
 ---
+
 # ChatGPT, Galactica, and the Progress Trap
+
 ## When large language models fall short, the consequences can be serious. Why is it so hard to acknowledge that?
 
 >The hype around AI chatbots such as ChatGPT and Galactica distracts from their actual harms, according to a Wired article. Despite their seemingly extraordinary capabilities, large language models (LLMs) such as these are unreliable, perpetuate societal stereotypes and encode sensitive personal information from the training data. Previous deployments of LLMs, such as Google's BERT, have also provided dangerously inaccurate answers to user queries. Furthermore, the vulnerability of LLMs to simple typos and misspellings in prompts means that they are unreliable for high-stakes use. It is the responsibility of the developers of LLMs to address these issues, the article says.
 
 #### text:
+
 the release of large language models like ChatGPT (a question-answering chatbot) and Galactica (a tool for scientific writing) has revived an old conversation about what these models can do. Their capabilities have been presented as extraordinary, mind-blowing, autonomous; fascinated evangelists have claimed that these models contain “humanity’s scientific knowledge,” are approaching artificial general intelligence (AGI), and even resemble consciousness. However, such hype is not much more than a distraction from the actual harm perpetuated by these systems. People get hurt from the very practical ways such models fall short in deployment, and these failures are the result of their builders’ choices—decisions we must hold them accountable for. 
 
 Among the most celebrated AI deployments is that of BERT—one of the first large language models developed by Google—to improve the company’s search engine results. However, when a user searched how to handle a seizure, they received answers promoting things they should not do—including being told inappropriately to “hold the person down” and “put something in the person’s mouth.” Anyone following the directives Google provided would thus be instructed to do exactly the opposite of what a medical professional would recommend, potentially resulting in death. 
@@ -48,4 +54,3 @@ Overall, this recurring pattern of lackadaisical approaches to model release—a
 Although the choices of those with privilege have created these systems, for some reason it seems to be the job of the marginalized to “fix” them. In response to ChatGPT’s racist and misogynist output, OpenAI CEO Sam Altman appealed to the community of users to help improve the model. Such crowdsourced audits, especially when solicited, are not new modes of accountability—engaging in such feedback constitutes labor, albeit uncompensated labor. People at the margins of society who are disproportionately impacted by these systems are experts at vetting them, due to their lived experience. Not coincidentally, crucial contributions that demonstrate the failure of these large language models and ways to mitigate the problems are often made by scholars of color—many of them Black women—and junior scholars who are underfunded and working in relatively precarious conditions. The weight falls on them to not only provide this feedback, but to take on tasks the model builders themselves should be handling before release, such as documenting, analyzing, and carefully curating data.
 
 For us, critique is service. We critique because we care. And if these powerful companies cannot release systems that meet the expectations of those most likely to be harmed by them, then their products are not ready to serve these communities and do not deserve widespread release.
-

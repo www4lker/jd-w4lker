@@ -3,7 +3,9 @@ tags: permanente
 title: 202207071612
 date: 2023-02-24
 ---
+
 # 202207071612
+
 criado em: 16:12
 
 palavras-chave:
@@ -14,5 +16,5 @@ notas de literatura:[[📚 NOTAS 📖 DE 📘 LITERATURA/REF BIBLIOGRÁFICA/how 
 
 ---
 
-Estudo não prepara ninguém para a pesquisa.
+Estudo não prepara ninguém para a pesquisa.  
 Capítulo cinco.

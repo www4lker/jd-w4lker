@@ -8,10 +8,13 @@ tags:
   - pessoalidades
 title: band of brothers
 ---
+
 # band of brothers
+
 criado em: 12:33 2022-09-02
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Max Hastings]]

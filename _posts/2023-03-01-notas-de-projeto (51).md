@@ -6,12 +6,15 @@ tags:
   - 1000palavrasoumais
 title: 2022-08-09  
 ---
+
 # 2022-08-09  
+
 ###### Diário Onírico
+
 >
 
-
 ### Tarefas
+
 1. [ ]  
 
 ---

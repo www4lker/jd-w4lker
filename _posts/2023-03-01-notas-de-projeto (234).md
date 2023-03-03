@@ -9,10 +9,13 @@ tags:
   - insight
 title: traço
 ---
+
 # traço
+
 criado em: 12:50 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

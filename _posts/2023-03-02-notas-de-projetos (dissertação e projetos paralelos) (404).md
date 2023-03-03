@@ -9,15 +9,19 @@ tags:
   - pesquisa
 title: solucionadores de problemas
 ---
+
 # solucionadores de problemas
+
 ## criado em: 11:30 18-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[o que podemos aprender sobre resistência com os programadores]]
 - [[Como Escrever Bem]]
 ---
+
 ## favor observe se existem relações e discrepâncias nas definições do programador como "solucionador de problemas" e do escritor como "solucionador de problemas":
 
 Existem definitivamente algumas semelhanças entre os papéis de programadores e escritores como solucionadores de problemas. **Tanto programadores quanto escritores devem ser capazes de identificar e definir problemas, dividir questões complexas em partes menores e mais manejáveis, e encontrar soluções criativas para esses problemas.**

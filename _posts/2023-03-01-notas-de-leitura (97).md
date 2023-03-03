@@ -5,15 +5,19 @@ tags:
 title: Burton, Robert
 date: 2023-02-24
 ---
+
 # Burton, Robert
+
 ## criado em: 20:17 07-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Montaigne, Michel de]]
 - [[Sterne, Laurence]]
 ---
+
 Quais são os 5 pontos-chave que eu deveria saber ao estudar A Anatomia da Melancolia de Burton?
 
 1. Burton's The Anatomy of Melancholy[^1] é um tratado sobre as causas e sintomas da melancolia.
@@ -28,5 +32,4 @@ Quais são os 5 pontos-chave que eu deveria saber ao estudar A Anatomia da Melan
 
 ---
 
-
-[^1]:  Burton escreveu um livro chamado A Anatomia da Melancolia, que é sobre depressão e como tratá-la. O livro está cheio de citações de outros autores, e o próprio Burton diz que é um livro confuso. Ele o escreveu porque estava deprimido e queria encontrar uma cura para sua depressão.
+[^1]: Burton escreveu um livro chamado A Anatomia da Melancolia, que é sobre depressão e como tratá-la. O livro está cheio de citações de outros autores, e o próprio Burton diz que é um livro confuso. Ele o escreveu porque estava deprimido e queria encontrar uma cura para sua depressão.

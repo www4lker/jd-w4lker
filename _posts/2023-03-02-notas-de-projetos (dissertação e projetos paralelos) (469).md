@@ -14,10 +14,13 @@ tags:
   - mestredeculturacontemporanea
 title: 141020221529
 ---
+
 # 141020221529
+
 criado em: 15:29 2022-10-14
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: 
 - notas de dissertação: [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/quais problemas seu projeto pode resolver]]
@@ -25,6 +28,7 @@ criado em: 15:29 2022-10-14
 - [[interesses de pesquisa]]
 
 ---
+
 # 8 estratégias para encontrar o problema com o qual trabalhar numa tese de doutoramento:
 
 1. Veja a investigação que já foi feita no seu campo.

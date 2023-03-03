@@ -13,9 +13,13 @@ tags:
   - promptgpt3
 title: Develop the story of the paper
 ---
+
 # Develop the story of the paper
+
 criado em: 01:42 2022-10-19
+
 ##### Relacionado:
+
 - palavras-chave: 
 - notas permanentes: 
 - [[dissertação index]]

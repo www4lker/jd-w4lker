@@ -3,14 +3,18 @@ tags: permanente
 title: filosofia da linguagem
 date: 2023-02-24
 ---
+
 # filosofia da linguagem
+
 ## criado em: 15:11 02-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Wittgenstein, Ludwig]]
 ---
+
 ### Quais são os 5 pontos-chave que eu deveria saber ao estudar filosofia da linguagem?
 
 1. A linguagem é um sistema de símbolos que nos permite comunicar uns com os outros.

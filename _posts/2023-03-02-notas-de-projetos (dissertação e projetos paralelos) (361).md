@@ -8,16 +8,21 @@ tags:
   - sciencebitch
 title: prompts midjourney
 ---
+
 # prompts midjourney
+
 ## dalle e outras
+
 criado em: 23:26 2022-08-21
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[gpt3]]
 - [[prompts]]
 - [[Não temais a IA capaz de imitar arte]]
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao criar uma prompt de IA?
 
 1. Mantenha seu prompt de inteligência artificial curto e suave - não mais do que algumas sentenças.
@@ -31,6 +36,8 @@ criado em: 23:26 2022-08-21
 5. Tenha paciência - o aprendizado da IA é um processo iterativo, portanto pode levar algumas tentativas antes que você obtenha os resultados desejados.
 
 ---
-navegando no discord da ferramenta se aprende bastante sobre a geração de imagens através de prompts
+
+navegando no discord da ferramenta se aprende bastante sobre a geração de imagens através de prompts  
 seguem alguns [[prompts]] que trouxeram resultados interessantes
+
 - ---

@@ -5,45 +5,67 @@ tags:
   - microdose
 title: 041220221010
 ---
+
 # 041220221010
+
 ## criado em: 10:10 2022-12-04
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Projeto Psiconautas]]
 ---
+
 # lemon tek
 
 Saudações, povo do CM  
+
   
+
 Estou sumido faz um tempo, mas estou sempre rondando o fórum em busca de novos aprendizados e coisas interessantes. E falando em coisas interessantes, li em fóruns gringos sobre uma coisa que não achei aqui no CM : Lemon Tek.  
+
   
+
 Já fucei muito o fórum, usei a busca e tudo mais e não achei nada sobre isso. O mais próximo que achei foi a "Caipirinha Ventania" do nosso amigo @[Mortandello](https://teonanacatl.org/members/39/) . Então decidi criar esse tópico para discutirmos.  
+
   
+
 Primeiro vamos saber do que se trata a Lemon Tek:  
+
   
+
 **Trata-se da desfosforilação da psilocibina em psilocina, catalizada por algum tipo de [ácido](https://teonanacatl.org/biblioteca/%C3%81cido.26/ "Ácido").**  
+
   
+
 Parece complicado, mas é basicamente o que acontece com a psilocibina no ácido do nosso estômago quando comemos os cogumelos. Com base nisso, criaram a Lemon Tek, que pode ser feita da seguinte maneira:  
+
   
+
 1 - Pulverizar cogumelos secos suficientes para sua trip. Se não puder pulverizar os cogumelos, corte eles do menor tamanho possível.  
 2 - Colocá-los num copo.  
 3 - Expremer quantos limões forem necessários para que o pó/pedaços de cogumelos fiquem submersos no suco de limão.  
 4 - Deixar a mistura reagir por 15~30 minutos, misturando-a a cada 5 minutos.  
 5 - A Lemon Tek está pronta.  
 Importante: Escrevi essa "receita" com base em várias outras, tentando atingir um resultado aceitável. Se quiser realmente fazer a Lemon Tek, sugiro que procure outras receitas.  
-  
-  
+
 Depois de pesquisar um pouco, cheguei as seguintes informações:  
+
   
+
 Com essa reação, estaria-se ingerindo apenas psilocina. Com isso, o organismo não teria que quebrar a psilocibina em psilocina e então ela estaria disponível imediatamente para absorção. Isso causa um onset bem mais rápido que o normal.  
+
   
+
 Lí relatos de que a potência pode aumentar de 2 a 3 vezes com a Lemon Tek, mas a trip dura menos. Em outras palavras, uma trip moderada que duraria 6 horas, na Lemon Tek seria uma trip forte com duração de 3h (Exemplo grosseiro, não teria como quantificar isso direito e também carece de fontes).  
+
   
+
 Gostaria de saber se alguém já usou ou costuma usar essa tek e se ela traz benefícios. Pretendo testá-la num futuro próximo.
 
 ---
+
 A scientific look at the Lemon Tek: what's right, wrong, and how to massively improve it (sourced!)
 
 SEE EDIT AT BOTTOM---INTERESTING INFO--11/01/2022
@@ -51,6 +73,7 @@ SEE EDIT AT BOTTOM---INTERESTING INFO--11/01/2022
 This subreddit is the first place I am posting this, I'll probably spread it to some forums as well--just know you guys are getting the first taste. 
 
 ## TLDR...
+
 kinda towards the bottom where it says **"THE NEW LEMON TEK RECIPE"**...just read this shit. It took a while to type out and I have research I should be working on.
 
 Ok, I am aware that so many people swear by the LemonTek method to quickly get a mushroom trip started with more intensity:
@@ -87,7 +110,7 @@ So here is the main points to address:
 
 Tell me about the psilocin (or skip to the next part, I don't care)
 
-For the first one--psilocybin is turned into psilocin by some molecular surgery performed by a couple specialists(via dephosphorization)3 that only are living in your body. Basically, these guys cut off a piece of the molecule that's pretty big and there is another smaller molecule wandering about that hops in to fill the hole. (I'm talking about enzymes here--they do special functions and only those functions--remove the phosphate group here and then an OH- ion wanders because in the acidic environment, there is a big mix of H+ and OH- just hanging around). THAT is how you get psilocin out of psilocybin. This is why a lemontek trip still comes in waves, although more brief and close together. Not because there is more psilocin, but because the psilocybin still has to be turned into psilocin in your stomach. That is rate limited by how much of that enzyme you have sitting around--and more is made as it is needed.
+For the first one--psilocybin is turned into psilocin by some molecular surgery performed by a couple specialists(via dephosphorization)3 that only are living in your body. Basically, these guys cut off a piece of the molecule that's pretty big and there is another smaller molecule wandering about that hops in to fill the hole. (I'm talking about enzymes here--they do special functions and only those functions--remove the phosphate group here and then an OHion wanders because in the acidic environment, there is a big mix of H+ and OHjust hanging around). THAT is how you get psilocin out of psilocybin. This is why a lemontek trip still comes in waves, although more brief and close together. Not because there is more psilocin, but because the psilocybin still has to be turned into psilocin in your stomach. That is rate limited by how much of that enzyme you have sitting around--and more is made as it is needed.
 
 Quick Edit: As one commenter pointed out--the process is much more involved with more steps and not only within the stomach--but this paraphrase here isn't too far off. I believe more precise details are in those sources I provided...Also, it is kind of besides the point. The point is: It isn't Acidic solution + Psilocybin = psilocin.
 

@@ -1,7 +1,7 @@
 ---
 tags: permanente
 Aliases: [ "#promptgpt3" ]
-title: promptgpt3
+title: 2023-03-01-notas-de-leitura (264)
 date: 2023-02-24
 ---
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Ciberespaço.md]]

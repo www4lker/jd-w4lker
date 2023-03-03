@@ -5,10 +5,13 @@ tags:
 title: 171020220056
 date: 2023-02-24
 ---
+
 # 171020220056
+
 criado em: 00:56 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - [[NOTAS DE LEITURA/LIVROS/21 Lições Para O Século 21.md]]
 - [[101020221256]]
@@ -37,6 +40,7 @@ criado em: 00:56 2022-10-17
 - [[Bauman, Zygmunt]]
 
 ---
+
 # Globalização
 
 Quais são os 7 pontos-chave que eu deveria saber ao estudar a globalização?

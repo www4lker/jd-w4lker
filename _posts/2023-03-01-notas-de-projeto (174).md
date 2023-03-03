@@ -10,15 +10,19 @@ tags:
   - nãoficção
 title: 050120231501
 ---
+
 # 050120231501
+
 ## criado em: 15:01 2023-01-05
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[ensaística digital]]
 - [[ensaios, de montaigne]]
 ---
+
 The essay is a literary form that has dominated textual discourse in the West, but is currently seen to be in crisis. The author suggests that the essay can be viewed as a form of dialogue, with various methodologies and paradigms vying for recognition. The author also discusses the use of the **imagetext**, a hybrid form of the essay that allows for the inclusion of various elements, and speculates on how it might become more prevalent in the future. The author also mentions the essayistic novel, a milder version of the hybrid essay, as another form of the fictionalized essay. Both the imagetext and the essayistic novel can be read as essays, providing a perspective on the potential of the hybrid essay.
 
 The imagetext is a hybrid form of writing that disrupts the distinction between words and images, and subverts traditional reading conventions. It combines elements of collage, ready-made, atlas, and literary discussion, and forces readers to consider the spatial and temporal components of the text. The imagetext is often difficult to reproduce, and can be seen as a fetishized object due to its manuscript qualities, which make it more connected to the physical world. It may also be considered a form of **hypertext**, with its potential for multiple directions and connections.

@@ -4,18 +4,19 @@ title: blogs
 feed: show
 date :  23-08-2022
 ---
+
 # blogs
+
 criado em: 13:21 2022-08-23
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
-
-
 
 fonte: http://news.bbc.co.uk/2/hi/technology/4132752.stm
 

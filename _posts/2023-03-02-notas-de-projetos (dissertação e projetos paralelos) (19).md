@@ -9,10 +9,13 @@ tags:
   - escrivão
 title: 121020222239
 ---
+
 # 121020222239
+
 criado em: 22:39 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[dissertação index]]
@@ -24,8 +27,8 @@ criado em: 22:39 2022-10-12
 ---
 
 ## Discutir as principais questões de consumismo e dependência da tecnologia trazida pela globalização:
-### (0.8)
 
+### (0.8)
 
 1. O consumismo: A principal questão do consumismo trazido pela globalização é que ela criou uma cultura de superconsumo e desperdício. Isto levou a problemas ambientais, tais como mudança climática e poluição, bem como problemas sociais, tais como desigualdade de renda.
 

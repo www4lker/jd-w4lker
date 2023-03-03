@@ -7,15 +7,20 @@ tags:
   - totalizante
 title: IA WRITER MINIMALISTA
 ---
+
 # IA WRITER MINIMALISTA
+
 ## criado em: 14:33 2022-12-12
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]
 - [[markdown]]
 ---
+
 # Um aplicativo de redação amigável à ADHD
+
  [fonte no Writer](https://ia.net/topics/category/writer)
 
 ---
@@ -27,6 +32,7 @@ title: IA WRITER MINIMALISTA
 ---
 
 ## Como o iA Writer ajuda as pessoas com TDAH?
+
 ### Interface desordenada
 
 Uma vez que você começa a digitar, o iA Writer remove da vista os menus e o atalho da janela. Você fica com seu texto e a contagem de palavras, o que significa que não há distrações na página.
@@ -38,7 +44,6 @@ O aplicativo usa **Markdown**, uma maneira fácil de formatar seu conteúdo usan
 ### Modo Foco
 
 O iA Modo de Foco do Escritor destaca a frase ou parágrafo em que você está trabalhando, apagando ligeiramente o resto, ajudando-o assim a se concentrar em uma idéia de cada vez. Isto funciona tanto no modo normal quanto no modo escuro. Aqui está uma imagem da tela desta função:
-
 
 ![](https://ia.net/wp-content/uploads/2021/03/dk-w-count-1.png)
 

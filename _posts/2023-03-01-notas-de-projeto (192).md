@@ -7,13 +7,17 @@ tags:
   - psique
 title: o individualista e os amantes do tarô
 ---
+
 # o individualista e os amantes do tarô
+
 ## criado em: 22:13 10-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[OS AMANTES]]
 ---
+
 If the Enneagram type Four, the Individualist, were to be associated with a tarot card, it could be the tarot card known as "The Lovers".
 
 The Lovers card is associated with themes of love, passion, and connection. It symbolizes the importance of emotional connections and the choice between following one's heart or one's head. The card often depicts a couple making a choice to be together and the implication of a deeper emotional bond. The card represents also the concept of inner-values and choices, it depicts the individual in a moment of decision, choosing between what is rational and what is emotional.

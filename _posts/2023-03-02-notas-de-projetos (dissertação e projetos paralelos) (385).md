@@ -11,10 +11,13 @@ tags:
   - insight
 title: rizoma de Deleuze
 ---
+
 # rizoma de Deleuze
+
 criado em: 16:09 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -24,8 +27,6 @@ criado em: 16:09 2022-10-16
 ---
 
 ## Quais são os 7 pontos-chave que eu deveria saber ao estudar o rizoma de Deleuze?
-
-
 
 1. Um rizoma é um sistema de raízes que cresce horizontalmente no subsolo, permitindo que uma planta se espalhe e absorva mais nutrientes e água.
 

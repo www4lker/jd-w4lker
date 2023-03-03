@@ -5,10 +5,13 @@ tags:
 title: notas sobre artigo kashinawa
 date: 2023-02-24
 ---
+
 # notas sobre artigo kashinawa
+
 criado em: 01:14 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - notas de dissertação:

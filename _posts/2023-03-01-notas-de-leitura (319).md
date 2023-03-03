@@ -3,13 +3,17 @@ tags: permanente
 title: Wittgenstein, Ludwig
 date: 2023-02-24
 ---
+
 # Wittgenstein, Ludwig
+
 ## criado em: 15:38 02-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
+
 ### What are 5 key points I should know when studying Wittgenstein?
 
 1. Wittgenstein was an Austrian philosopher who is known for his work in the field of logic and philosophy of language.

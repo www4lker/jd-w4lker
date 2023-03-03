@@ -1,5 +1,5 @@
 ---
-title: Notas de leituras - índice
+title: Notas de leituras
 tags:
 - permanente
 - lit
@@ -9,6 +9,7 @@ tags:
 ---
 
 # Notas de leituras
+
 ## criado em: 10:56 2023-03-02
 
 > Imagens ilustrativas são de Maurits Cornelis Escher, que é conhecido por criar ilusões óticas de bugar mentes e trabalhos artísticos de inspiração matemática.
@@ -20,6 +21,7 @@ tags:
 |Uma nota de literatura é uma nota tirada durante a leitura de uma peça de literatura, normalmente usada para fins de referência e estudo. Ela resume e sintetiza idéias chave, temas, personagens e outras informações relevantes da literatura, com o objetivo de ajudar o leitor a compreender e lembrar melhor o trabalho. Uma nota de literatura pode ser usada para apoiar a criação de uma análise ou revisão mais abrangente da literatura, ou como uma ferramenta para estudar e reter as informações para uso futuro|
 
 ## A lista a seguir é apenas para dar uma ideia das notas originais 
+
 ### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
 
 - Cormac Mccarthy

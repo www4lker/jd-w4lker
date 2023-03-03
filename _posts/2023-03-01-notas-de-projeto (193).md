@@ -11,15 +11,19 @@ tags:
   - perrengue
 title: O Individualista
 ---
+
 # O Individualista
+
 ## criado em: 22:11 10-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[eneagrama]]
 - [[tipo 4 e 5]]
 ---
+
 O Eneagrama de personalidade tipo quatro, também conhecido como "O Individualista", é caracterizado por um forte senso de individualidade e uma profunda conexão emocional com o eu. Eles são frequentemente vistos como indivíduos sensíveis, introspectivos e autoconscientes que valorizam a autenticidade e a expressão pessoal. Eles têm uma profunda compreensão de suas próprias emoções, e suas experiências emocionais são frequentemente intensas e complexas. Elas podem ser percebidas como românticas e idealistas, mas também podem ser propensas ao humor e à dúvida de si mesmas.
 
 Muitas vezes são atraídas por atividades criativas e artísticas e têm o desejo de criar algo único e significativo. Muitas vezes têm um forte senso estético e podem ser atraídos pela beleza em todas as suas formas. Eles também tendem a ter um forte senso de identidade pessoal e podem sentir uma sensação de vazio ou de incompletude se não forem capazes de se expressar autenticamente.

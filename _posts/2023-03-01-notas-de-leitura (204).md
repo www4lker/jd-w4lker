@@ -3,10 +3,13 @@ tags: permanente
 title: Kazuo Ishiguro
 date: 2023-02-24
 ---
+
 # Kazuo Ishiguro
+
 criado em: 13:21 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -19,6 +22,7 @@ criado em: 13:21 2022-10-17
 - [[Kazuo Ishiguro’s ‘The Buried Giant’]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Kazuo Ishiguro?
 
 1. Kazuo Ishiguro é um romancista britânico de origem japonesa.
@@ -31,13 +35,18 @@ criado em: 13:21 2022-10-17
 
 ## Create a list of 8 questions for my interview with Kazuo Ishiguro:
 
-
 1) O que o inspirou a escrever Never Let Me Go?
-2) Quais foram alguns de seus desafios ao escrever um romance sobre clones?
-3) O que você acha que o livro Never Let Me Go diz sobre a condição humana?
-4) Quais foram seus pensamentos sobre a adaptação cinematográfica de Never Let Me Go?
-5) Qual é seu romance favorito de Kazuo Ishiguro?
-6) O que você acha que os romances de Kazuo Ishiguro dizem sobre a memória?
-7) O que você acha que os romances de Kazuo Ishiguro dizem sobre o amor?
-8) O que o inspirou a escrever The Remains of the Day?
 
+2) Quais foram alguns de seus desafios ao escrever um romance sobre clones?
+
+3) O que você acha que o livro Never Let Me Go diz sobre a condição humana?
+
+4) Quais foram seus pensamentos sobre a adaptação cinematográfica de Never Let Me Go?
+
+5) Qual é seu romance favorito de Kazuo Ishiguro?
+
+6) O que você acha que os romances de Kazuo Ishiguro dizem sobre a memória?
+
+7) O que você acha que os romances de Kazuo Ishiguro dizem sobre o amor?
+
+8) O que o inspirou a escrever The Remains of the Day?

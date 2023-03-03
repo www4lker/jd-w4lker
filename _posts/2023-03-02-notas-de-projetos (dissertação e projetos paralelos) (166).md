@@ -14,10 +14,13 @@ tags:
   - framework
 title: contemporaneo x classico
 ---
+
 # contemporaneo x classico
+
 criado em: 23:09 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - [[ensaios, de montaigne]] 
@@ -33,7 +36,7 @@ criado em: 23:09 2022-08-01
 - [[estudos]]
 - [[giuseppe paterno]]
 - [[insight sobre minha dissertação]]
--  [[o que significa escrever na era da internet]]
+- [[o que significa escrever na era da internet]]
 - [[quisquilae]]
 - [[Relatório da bolsa]]
 - [[sobre como alguem le]]
@@ -41,17 +44,18 @@ criado em: 23:09 2022-08-01
 - [[ursula le guin quote]]
 
 ---
+
 **"Trate estudos contemporâneos como se fossem clássicos e os clássicos como se fosse contemporâneo".**
 
 Isso se relaciona com o que umberto eco disse em [[Como se faz uma tese]]: 
 
->ou se faz uma tese remendada ou se faz algo novo, e em relação aos autores antigos, pelo menos, temos **esquemas interpretativos seguros aos quais podemos nos referir** ao passo que o autor moderno ainda são as opiniões vagas e contraditórias, a nossa capacidade crítica é falseada pela falta de perspectiva e tudo é imensamente difícil. 
+>ou se faz uma tese remendada ou se faz algo novo, e em relação aos autores antigos, pelo menos, temos **esquemas interpretativos seguros aos quais podemos nos referir** ao passo que o autor moderno ainda são as opiniões vagas e contraditórias, a nossa capacidade crítica é falseada pela falta de perspectiva e tudo é imensamente difícil.  
 Parafraseado de [[Como se faz uma tese]]. P. 17.
 
 e ainda:
 
 >Trabalhe sobre um contemporaneo como se fosse um antigo, e vice-versa. Será mais agradável e você fará um trabalho mais sério. p. 17
- 
+
 # Estar atualizado o tempo todo. 
 
 Disso se deduz que Montaigne odiaria a vida moderna. [[Thoreau, Henry David]] em [[Walden Or Life In The Woods]] vai dizer algo semelhante. 

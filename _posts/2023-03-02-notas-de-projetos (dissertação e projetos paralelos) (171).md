@@ -14,10 +14,13 @@ tags:
   - episteme
 title: 050120231429
 ---
+
 # 050120231429
+
 ## criado em: 14:29 2023-01-05
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Austerlitz]]
@@ -26,6 +29,7 @@ title: 050120231429
 - [[dissertação index]]
 - [[Globalização]]
 ---
+
 # Cosmodernismo e planetarismo
 
 Este texto discute o conceito de cosmodernismo, que é uma forma de **entender e mapear o mundo moderno interconectado e fluido.** Ele é caracterizado por um foco na relacionalidade e na formação do discurso e da subjetividade, e é também um imperativo ético. O autor sugere que o cosmodernismo é um subconjunto de uma mudança maior em direção à planetaridade, que é uma forma de **entender o mundo como uma única unidade de discurso e análise cultural.** Planetaridade (planetarism) envolve um repensar de conceitos como localidade e o "regionalmente específico" à luz da crescente interconexão do mundo. Ela se baseia em uma lógica geocultural característica do cosmodernismo.

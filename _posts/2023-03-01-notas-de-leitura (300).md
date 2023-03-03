@@ -7,10 +7,13 @@ tags:
 title: surrealismo
 date: 2023-02-24
 ---
+
 # surrealismo
+
 criado em: 11:41 2022-09-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Era Dos Extremos]]

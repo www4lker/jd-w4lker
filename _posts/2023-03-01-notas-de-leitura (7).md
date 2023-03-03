@@ -8,17 +8,23 @@ tags:
 title: 081020220305
 date: 2023-02-24
 ---
+
 # 081020220305
+
 criado em: 03:05 2022-10-08
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 # criar um esboço para um episódio de podcast sobre livros:  
+
   
 1. Introduzindo o tema do episódio: livros!  
   

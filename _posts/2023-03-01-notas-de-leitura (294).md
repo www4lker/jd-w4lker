@@ -6,10 +6,13 @@ tags:
 title: sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas
 date: 2023-02-24
 ---
+
 # sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas
+
 criado em: 13:20 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[contemporaneo x classico]]
@@ -18,6 +21,7 @@ criado em: 13:20 2022-10-06
 - [[Eco, Umberto]]
 
 ---
+
 ## Criar uma lista de 8 perguntas para minha entrevista com o filósofo renascentista Michel de Montaigne sobre o estudo dos antigos, em oposição ao estudo de questões contemporâneas:
 
 1. Quais você acha que são os benefícios de estudar os antigos em oposição ao estudo de questões contemporâneas?

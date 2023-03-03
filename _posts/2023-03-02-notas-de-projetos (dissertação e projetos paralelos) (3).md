@@ -8,16 +8,21 @@ tags:
   - interessesgerais
 title: 061220221416
 ---
+
 # 061220221416
+
 ## criado em: 14:16 2022-12-06
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[nosurf reddit recommendations]]
 - [[hipercultura]]
 ---
+
 # Abraçar o desleixo: ‘goblin mode’ é termo do ano segundo Oxford
+
 ## Expressão foi eleita para representar 2022 em votação popular organizada por dicionário britânico. Palavra faz oposição a busca por produtividade constante e excesso de positividade das redes sociais
 
 > O termo "goblin mode" foi escolhido como a palavra do ano pelo dicionário britânico da Universidade de Oxford em 2022. O termo se refere a um estado de conforto e preguiça, e de rejeição de atividades que exigem esforço. Tem sido ligado à tendência de desmistificação da vida nas mídias sociais, bem como à popularização do conceito de "desistência silenciosa", ambos populares entre as gerações mais jovens. O termo ganhou visibilidade após um tweet de paródia viral associado à ruptura de uma relação entre um influenciador e um rapper. Também foi visto como representando o humor das pessoas que rejeitaram a idéia de retornar a uma "vida normal" após as restrições da pandemia COVID-19 terem sido levantadas. O "modo Goblin" recebeu mais de 300.000 votos na disputa pela palavra do ano em Oxford, que foi realizada pela primeira vez pelo voto popular, e foi apoiada por 93% dos eleitores.

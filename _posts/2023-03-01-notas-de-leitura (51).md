@@ -3,10 +3,13 @@ tags: permanente
 title: 202207142326
 date: 2023-02-24
 ---
+
 # 202207142326
+
 criado em: 23:26
 
 ##### Relacionado
+
 - palavras-chave:[[novos projetos]] [[listas ordinárias]]
 - notas permanentes:
 - notas de literatura:[[📚 NOTAS 📖 DE 📘 LITERATURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]
@@ -15,7 +18,7 @@ criado em: 23:26
 
 o que o mundo esta precisando e ninguem percebeu ainda?
 
-1.  maneiras de juntar todo mundo pelo bem do planeta e trabalhar juntos para deter o pior da mudanca climatica 
+1. maneiras de juntar todo mundo pelo bem do planeta e trabalhar juntos para deter o pior da mudanca climatica 
 2. mais onibus, trens e metro - menos carros, menos carros, menos carros
 3. a importancia dos velhos na nossa vida e na nossa criacao
 4. aceitar a mundanca, aceitar a morte e educar as pessoas para aceitarem melhor ao inves de temer esse fato da vida

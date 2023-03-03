@@ -6,16 +6,18 @@ tags:
 title: Canclini, Néstor García
 date: 2023-02-24
 ---
+
 # Canclini, Néstor García
+
 criado em: 14:52 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - [[Piglia, Ricardo]]
 ---
 
 # Quais são 8 pontos-chave que eu deveria saber ao estudar Néstor García Canclini?
-
 
 1. Néstor García Canclini é um sociólogo argentino, crítico cultural e intelectual público.
 

@@ -11,10 +11,13 @@ tags:
   - criatividade
 title: Renascença
 ---
+
 # Renascença
+
 criado em: 09:24 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - [[dicotomia antigo e contemporaneo]]
 - [[Leonardo Da Vinci]]
@@ -38,4 +41,3 @@ criado em: 09:24 2022-10-07
 5. A Renascença continua a influenciar nosso mundo de hoje.
 
 6. Conclusão
-

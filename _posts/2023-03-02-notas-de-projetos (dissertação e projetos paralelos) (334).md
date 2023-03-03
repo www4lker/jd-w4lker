@@ -1,6 +1,6 @@
 ---
 tags: projetos, meta. meta-notas, zettelkasten, obsidian, markdown
-title: ORFÃOS dissertação
+title: 2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (334)
 ---
 - [[tarot do divorcio.md]]
 - [[LEITURA TAROT 10 07 22.md]]

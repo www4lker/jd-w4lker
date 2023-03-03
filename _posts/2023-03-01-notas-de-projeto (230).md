@@ -28,10 +28,13 @@ tags:
   - pão
 title: SUMÁRIO SEMANA 23 EM screenshot
 ---
+
 # SUMÁRIO SEMANA 23 EM screenshot
+
 criado em: 11:54 2022-08-02
 
 ##### Relacionado
+
 - palavras-chave:    
 - notas permanentes: [[existencial comics]]
 - [[Não existem horas suficientes para o dia]]
@@ -40,10 +43,11 @@ criado em: 11:54 2022-08-02
 ---
 
 assuntos que me interessavam a ponto de renderem uma captura de tela - e elas são muitas - é uma forma de fazer nota, mas primitivamente. muitas delas devem ser descartadas. mas é interessante notar como os interesses eram superficiais e minha curiosidade, na maioria das vezes, é inflada.
+
 - meme sobre o adulto que critica a arte porque ela pode ser crítica da sociedade
 - eu falando de escrita como se soubesse escrever: "os gringos estão descobrindo que para escrever bem se faz necessário ler muito"
 - os carros como os maiores inimigos da cidade 
-- [[midnight gospel]] nao terá segunda temporada - viva midnight gospel  ^1b8b91
+- [[midnight gospel]] nao terá segunda temporada - viva midnight gospel ^1b8b91
 - fortnite
 - bate papo de voz agora no reddit
 - tempo ameno no são sebastião (11 de junbo de 2022)
@@ -66,5 +70,5 @@ assuntos que me interessavam a ponto de renderem uma captura de tela - e elas s�
 - genildo sendo gênio: "aquela condição humana básica": descansar 
 - ursula le guin sobre amor: precisa ser refeito vez após a outra, como o pão.
 
-finalmente, poesia:
+finalmente, poesia:  
 ![[idispiando]]

@@ -2,16 +2,18 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: 5 livros para entender e pesquisar a cultura pop
 ---
+
 # 5 livros para entender e pesquisar a cultura pop
+
 ## criado em: 11:13 06-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
 
 por Thiago Soares
-
 
 >A convite da seção ‘Favoritos’, o jornalista Thiago Soares indica cinco livros para pesquisar sobre a cultura no contexto do capitalismo e da globalização — Já se foi o tempo em que você justificava um projeto de pesquisa dizendo haver “poucos estudos sobre cultura pop”. Pode procurar outro argumento. A pesquisa acadêmica sobre cultura pop avançou significativamente nas universidades brasileiras e estrangeiras, investigando conexões entre indústria do entretenimento, plataformização da cultura e marcadores de raça, gênero e classe social em produtos midiáticos da cultura pop como o cinema mainstream, a música pop, a cultura geek e os videogames.
 

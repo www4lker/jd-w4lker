@@ -9,13 +9,17 @@ tags:
   - 2020/2021
 title: 300920221648
 ---
+
 # 300920221648
+
 criado em: 16:48 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/DIÁRIO]]
 ---
+
 # 21/04/2020
 
 Escrevendo bêbado, no meu computador de dez anos já. Foi uma grande alegria o dia que ganhei este computador; ainda é uma alegria tê-lo ligado agora. Ele é um presente de meu pai, sem dúvida. No dia que falei dele para ele, com minha irmã de testemunha, não economizei entusiasmo. Se eu não fosse já adulto talvez não fosse tão constrangedor.

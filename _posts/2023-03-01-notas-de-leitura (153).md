@@ -5,10 +5,13 @@ tags:
 title: episteme
 date: 2023-02-24
 ---
+
 # episteme
+
 criado em: 12:43 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave:
 - notas:
 - [[Relationship between Decoloniality and Postmodernism]]
@@ -16,6 +19,7 @@ criado em: 12:43 2022-10-06
 - [[Postmodernism]]
 - [[8 questions for my interview with a postmodern philosopher]]
 ---
+
 Quais são os 7 pontos-chave que eu deveria saber ao estudar a tese de Michel foucault sobre episteme?
 
 1. Episteme é um termo usado por Michel Foucault para se referir a um **tipo de conhecimento** que é produzido por uma sociedade.

@@ -3,10 +3,13 @@ tags: permanente
 title: Neil Gaiman
 date: 2023-02-24
 ---
+
 # Neil Gaiman
+
 criado em: 00:23 2022-08-10
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -41,6 +44,7 @@ criado em: 00:23 2022-08-10
 5. Gaiman é um dos autores mais populares que trabalham hoje em dia.
 
 ---
+
 #### Crie uma lista de 8 perguntas para minha entrevista com Neil Gaiman sobre a infância:
 
 1. Qual é a sua memória mais antiga?

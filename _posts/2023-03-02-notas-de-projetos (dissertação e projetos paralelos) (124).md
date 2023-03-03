@@ -10,10 +10,13 @@ tags:
   - promptgpt3
 title: cap 1
 ---
+
 # cap 1
+
 criado em: 13:21 2022-08-23
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: 
 - notas de dissertação:
@@ -23,12 +26,11 @@ criado em: 13:21 2022-08-23
 
 ---
 
-
 1
 
 Uma busca rápida no _google trends_ revela que por volta de 2007, no mundo todo e no Brasil em particular, as buscas no google pelo termo web 2.0 tiveram seu maior pico. Coincide com o lançamento do facebook no Brasil, quando ganhou suporte em português. Foi também a data que eu fiz minha conta lá, e segundo consta, em 2 de junho, minha [[primeira postagem.]] Se tratava de uma poesia celebrando uma noite com amigos ouvindo música. Nos próximos meses iria testar o compartilhamento de [[trabalhos de faculdade]], empolgado em igual medida com a tecnologia e com o progresso nas disciplinas de filosofia.
 
->Temo estar romantizando. A internet do início dos anos 1990 tinha muitos dos problemas que vemos na de hoje. Embora eu lembre que o fórum de adolescentes era bem moderado, o racismo e a misoginia que povoam as seções de comentários atuais já prevaleciam há trinta anos.
+>Temo estar romantizando. A internet do início dos anos 1990 tinha muitos dos problemas que vemos na de hoje. Embora eu lembre que o fórum de adolescentes era bem moderado, o racismo e a misoginia que povoam as seções de comentários atuais já prevaleciam há trinta anos.  
 Green, John. Antropoceno: Notas Sobre a Vida na Terra (pp. 92-93). Intrínseca. Edição do Kindle.
 
 Provavelmente foi nesse ano que muitos dos nossos conhecidos começaram a usar a web. Foi quando [[ ficou mais fácil]] divulgar sua opinião e trazer fotos pessoais. O orkut, lançado em 2004 e o twitter lançado em 2006 corroboram essa afirmação. Hoje, 15 anos depois, temos como absolutamente normal possuir uma conta em uma rede social - ainda que seja somente o nome, uma foto e mais nada. Após [[diversos escândalos]] de venda de dados pessoais a manipulação de eleições, de racismo de algoritmo a aumento de depressão de jovens, o número e a influência dos assim chamados [[tecnocéticos]] só aumentou.
@@ -44,4 +46,5 @@ Não que a [[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]] tenha sido extinta d
 As plataformas também não tem intenção de mudar isso - e se um texto maior faz o leitor parar para refletir então é melhor que ele não leia - [[a origem do termo economia da atenção]] tem entre suas regras a que quanto mais tempo um usuário passa dentro de sua plataforma, mais valor a plataforma gera. Escrever na internet, por essa e outras razões, hoje em dia, é um verdadeiro, [[entre tantos outros]], ato de resistência.
 
 ---
+
 ![[chat gpt ajudou a complementar esse texto]]

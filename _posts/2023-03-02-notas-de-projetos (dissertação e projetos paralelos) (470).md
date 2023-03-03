@@ -8,16 +8,20 @@ tags:
   - mementomori
 title: 181120221646
 ---
+
 # 181120221646
+
 ## criado em: 16:46 2022-11-18
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[PROJETOS DE HUMANIDADES NA PANDEMIA VIA NEXO]]
 - [[dissertação index]]
 - [[inumeráveis no nexo]]
 - [[entrevista inumeráveis para dissertação]]
 ---
+
 # Criar uma lista de 8 perguntas para minha entrevista com um autor de obituário:
 
 1. Qual é a parte mais difícil de escrever um obituário?
@@ -30,14 +34,16 @@ title: 181120221646
 8. Quais são os aspectos mais gratificantes da escrita do obituário?
 
 ---
+
 Criar uma lista de 8 perguntas para minha entrevista com um memorialista da pandemia da covid-19:
 
 1. Qual sua opinião sobre o estado atual da pandemia?
 2. Qual foi sua experiência com o vírus?
 3. como a pandemia afetou sua vida?
 4. Qual é sua opinião sobre o estado atual do mundo?
-5) Qual foi sua experiência com o vírus?
+
+5) Qual foi sua experiência com o vírus?  
 6 De que forma a pandemia afetou sua vida?
+
 7. Qual sua opinião sobre o estado atual do mundo?
 8. Qual é sua opinião sobre o futuro do mundo?
-

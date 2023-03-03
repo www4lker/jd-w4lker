@@ -8,10 +8,13 @@ tags:
   - interessesdepesquisa
 title: um sombrio aviso
 ---
+
 # um sombrio aviso
+
 ## criado em: 13:02 13-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[resenha the chaos machine]]
@@ -19,6 +22,7 @@ title: um sombrio aviso
 - [[Swartz alerta sobre a internet]]
 - [[8 pontos sobre o livro The Chaos Machine]]
 ---
+
 [fonte the guardian](https://www.theguardian.com/books/2022/sep/22/the-chaos-machine-by-max-fisher-review-how-social-media-rewired-our-world)
 
 # The Chaos Machine by Max Fisher review – how social media rewired our world

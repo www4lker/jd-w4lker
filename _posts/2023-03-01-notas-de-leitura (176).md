@@ -6,10 +6,13 @@ tags:
 title: Han, Byung-Chul
 date: 2023-02-24
 ---
+
 # Han, Byung-Chul
+
 criado em: 09:26 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

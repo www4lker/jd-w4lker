@@ -8,13 +8,17 @@ tags:
   - Existencialismo
 title: O paradoxo da fé
 ---
+
 # O paradoxo da fé
+
 ## criado em: 11:42 03-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
+
 >Monografia apresentada ao Curso de Graduação em Filosofia, da Universidade Federal de Mato Grosso, como pré-requisito para obtenção do grau de Bacharel em Filosofia, sob orientação do Profº. Drº. Ari Tank Brito.
 
 **RESUMO**
@@ -24,8 +28,6 @@ Esta pesquisa tem o objetivo de abordar de maneira minuciosa a obra Temor e Trem
 Palavras-chave:,,.
 
 **INTRODUÇÃO**
-
-  
 
 _Temor e Tremor_, do original dinamarquês, Frygt og Baeven, foi um trabalho de Søren Aabye Kierkegaard, sob o pseudônimo de Johannes de Silentio[1](#sdfootnote1sym). O título tem referência da Bíblia nos seguintes versos: "De sorte que, meus amados, assim como sempre obedecestes, não só na minha presença, mas muito mais agora na minha ausência, assim também operai a vossa salvação com temor e tremor (Filipenses 2:12)”, e: "Temor e tremor vieram sobre mim; e o horror me cobriu (Salmos 55:5)” mas provavelmente é apenas a maneira que o autor conseguiu para dar uma ênfase maior ao tema do livro, isto é: tornar-se indivíduo singular em oposição a uma vida impensada e relapsa, indulgente na ética (KIERKEGAARD, 1979, p. 154).
 
@@ -41,16 +43,9 @@ A obra está estruturada em problemas e depois se conclui com um epílogo. Tais 
 
 O presente trabalho vai abordar a obra através da estrutura de tópicos, resumindo: Uma apresentação da obra e seus principais motivos; o Existencialismo; por que Kierkegaard é considerado o pai do existencialismo; As principais características de sua filosofia – tópicos sobre subjetividade e fé em Kierkegaard; e um prolongamento deste último com um subtópico para moralidade, que tem a função de introduzir próximo capítulo que tratará destes mesmos temas em detalhe. Ainda: O que é o Paradoxo da Fé, e qual é o papel do Cavaleiro da Fé. Um breve estudo a partir da obra cinematográfica de Dreyer, sua beleza inspiradora e sua relação com a filosofia de Kierkegaard. Alguns conceitos novos relativos à evolução do pensamento de Kierkegaard, e a conclusão.
 
-  
-  
-
-  
-
 **CAPÍTULO I**
 
 1. Sobre Temor e Tremor
-
-  
 
 “Antes de Abraão ser, eu sou” (João 8:58). Assim Jesus se proclamaria como não diferente de Deus em termos de identidade. O que se deduz então é que Abraão é o ponto de partida de toda a crença em Deus e que antes dele só havia Deus. Na cultura popular Leonard Cohen já havia cantado em “_Story_ _of_ _Isaac_”: “Um esquema não é uma visão, você nunca foi tentado por um demônio ou um deus[2](#sdfootnote2sym)” (em inglês: _A scheme is not a vision, you have never have been tempted, by a demon, or a god_) e reza uma anedota popular que Isaac disse para seus amigos quando chegou à sua casa, “Rapaz, você não vai acreditar: o velho ‘tava’ louco querendo me matar! Se eu não fosse ventríloquo…”.
 
@@ -66,15 +61,9 @@ Uma vez que Abraão se tornou consciente de sua validade eterna, chegou à porta
 
 Nestas condições pode parecer que nada é mais fácil do que o paradoxo. Torna-se-me (sic) então necessário repetir que, se cremos nisso firmemente, não se é cavaleiro da fé, porque a única legitimação concebível é a tribulação e a angústia, ainda que não se lhe possa dar uma acepção geral, porque então suprime-se o paradoxo. (KIERKEGAARD, 1979, p. 179).
 
-  
-
 Outra interpretação comumente atribuída é que a obra possa ser lida, ao menos nas entrelinhas, como um meio que o autor achou de libertar-se da dor causada pelo rompimento com Regina Olsen, sua noiva[3](#sdfootnote3sym). Ele, Kierkegaard, seria Abraão e ela seria Isaac, a quem ele deve sacrificar, isto é, divorciar-se, uma vez que ele se julga inadequado para ela.
 
-  
-
 1.1. Pensando a Existência
-
-  
 
 Quando se fala em existencialismo no contexto kierkegaardiano deve-se ter em mente que isso nunca seria possível se fosse um sistema fechado, posto que seja exatamente este o problema do qual parte Kierkegaard. Nisso ele iria de encontro com a filosofia hegeliana, especialmente sua lógica. Em Hegel (1770-1831), dito de uma maneira bastante simplista, a objetividade não tem limites aparentes e todos os paradoxos estão resolvidos. É o idealismo em sua melhor forma. Kierkegaard se opõe a tudo isso, e, portanto, o mais frequente quando se lembra de Kierkegaard é em sua oposição à Hegel. Mas esta talvez não seja a maneira mais acurada de referenciar o autor. Podemos resumir a discordância de Kierkegaard em basicamente três áreas: (1) a importância da subjetividade do individuo, (2) a falibilidade da lógica e da razão dialética para explicar o mesmo indivíduo e, por extensão, a importância do paradoxo na existência humana (3). Ainda: sua explicação do cristianismo é falha, pois ignora a importância destes mesmos paradoxos. No entanto Kierkegaard adere a algumas ideias de Hegel, principalmente no que concerne à estética.
 
@@ -94,19 +83,13 @@ Em última análise, a existência humana é repleta de angústia em todas as su
 
 Angústia, como definido em Kierkegaard, é o sentimento relacionado a algo indefinido e que assola o homem quando defrontado com a possibilidade aterradora da existência, sendo, portanto, o sentimento definidor da existência do homem enquanto ele mesmo. Por isso que a angústia é, por excelência, o único sentimento que expressa fielmente a condição pecadora do homem, pois mesmo a relação com Deus, que é a mais nobre, seria angustiante por causa dos paradoxos inerentes da fé: inspirando desconforto em relação à nossa passagem na terra; desafiando nosso senso de dever e pondo em xeque essa mesma fé. E é este o absurdo que só quem é portador de uma fé verdadeira pode conhecer, e mais ainda, suportar.
 
-  
-
 1.2. Características Centrais da Filosofia de Kierkegaard
-
-  
 
 Kierkegaard geralmente é considerado o “Pai do Existencialismo”. Isso significa que ele é o precursor do movimento que se tornaria muito popular nos anos seguintes à Segunda Guerra Mundial, e que fortemente influenciou muitas disciplinas além da filosofia, incluindo a teologia, teatro, arte, literatura e psicologia.
 
 Apesar disso, ainda é cedo para dizer se, de fato ele influenciou este movimento filosófico ou se eles foram coisas distintas, tendo ambas as hipóteses pareceres favoráveis. O que se sabe com certeza é que para sua época, Kierkegaard foi um dos pensadores mais ousados, que seus escritos são extremamente coerentes com essa visão que do individuo, de que ele tem uma importância na história que é plenamente explicável, e que, a despeito de todos os desafios, ele tem a possibilidade de se tornar melhor. Mais ainda, ele afirmaria que nem mesmo a sociedade, nem a igreja, podem decidir como o indivíduo vive a sua vida, e que apenas a reflexão deliberada dele mesmo por ele mesmo pode ser sua guia. Um trecho famoso dos seus diários[5](#sdfootnote5sym) nos dá uma ideia deste ideal kierkegaardiano de viver para a reflexão filosófica na qual ele diferencia o dever do indivíduo e a necessidade deste mesmo indivíduo em face da existência no mundo:
 
 O que eu realmente preciso é ter clareza sobre o que devo fazer e não o que eu preciso saber, a não ser na medida em que o conhecimento deve preceder cada ato. O que importa é encontrar um propósito, para ver o que realmente é que Deus quer que eu faça; o mais importante é encontrar uma verdade que é verdade para mim, encontrar a ideia para o qual estou disposto a viver e morrer. (KIERKEGAARD, 1835).
-
-  
 
 A objetividade, para Kierkegaard, não era a ordem última das coisas, e neste sentido ele foi até mesmo um visionário ao alertar sobre os perigos e a necessidade de cada pessoa nascer para si mesma, libertando-se de tudo o que é mera convenção. Posicionando-se categoricamente contra, afirmando que em primeiro lugar vem o indivíduo em sua existência particular e singular, e que a razão não tinha poder suficiente para explicar tudo dentro de meras **categorias lógicas**, e afirmando que, portanto, a **razão humana é sem limites**, Kierkegaard defendeu o indivíduo em face de um idealismo que o ignorava. Com exceção de alguns românticos, era a primeira vez que alguém tomava esta posição. Era uma época que herdava o iluminismo e todas as opiniões estava a favor dos avanços científicos, e nenhuma a favor do homem nu diante das circunstâncias da vida. Kierkegaard acusaria sua sociedade de fria, pois estava apartada da paixão da vida.
 
@@ -128,9 +111,6 @@ Por isso quando Kierkegaard fala do conflito interior pelo qual passaria Abraão
 
 A fé, por sua vez, não é uma decisão baseada na evidência empírica de que, por exemplo, certas crenças sobre Deus são verdadeiras ou que alguém possa ser digno de amor. Nenhuma evidência poderia ser suficiente para justificar completamente o tipo de compromisso total envolvido na verdadeira fé religiosa. A fé envolve tomar esta decisão de qualquer maneira, independente de ruídos na comunicação, ou interpretações diferentes das escrituras ou o que quer que seja, tamanha é a força da fé. No entanto, Kierkegaard diria que ter fé é ao mesmo tempo ter dúvida. Assim, por exemplo, para alguém realmente ter fé em Deus, nos milagres, nos santos, etc., teria também que ter a dúvida em suas crenças sobre essas coisas; a dúvida é a parte racional do pensamento de uma pessoa envolvida em pesar as evidências, sem a qual a fé não teria nenhuma substância real. Mais ainda: alguém que não percebe que a doutrina cristã é inerentemente cheia de dúvidas e que não pode haver nenhuma certeza objetiva sobre a sua verdade não tem fé: é meramente um crédulo. Cada um de nós tem que carregar este peso em nós mesmos: ter fé é aceitar, abraçar o paradoxo. Doutra maneira, como poderíamos entender as verdades paradoxais do cristianismo? A dúvida pode enfraquecer os alicerces da crença, mas é ela quem nos mostra o valor de acreditar em primeiro lugar. Mesmo que não houvesse dúvidas a respeito da existência história de cristo, ou dos milagres, ou dos santos, ainda precisaríamos da contraposição que a dúvida oferece à fé. Enfim, ele vai afirmar que a dúvida é conquistada pela fé, assim como é a fé que traz a dúvida para o mundo.
 
-  
-  
-
 1.2.2. Subjetividade em Kierkegaard
 
 Kierkegaard salienta a importância do eu, e a relação do eu com o mundo, como sendo baseada na autorreflexão e introspecção. Segundo um famoso manifesto por seu pseudônimo Johannes Climacus_:_ “Verdade é subjetividade” (KIERKEGAARD, 2009. P. 159). Com isso ele quer dizer que a verdade religiosa só pode ser alcançada através da subjetividade, pois que os métodos objetivos nunca poderão, entre outras coisas, lidar com o paradoxo da fé. A subjetividade neste caso é o método e o objetivo a se alcançar; é através dela que temos um vislumbre de nossa consciência eterna e de nosso papel no mundo. No entanto isso se aplica somente àquele indivíduo que já está inserido subjetivamente na introspecção, lutando com a compreensão do paradoxo. Surge então uma inversão de valores: se antes o homem olhava para as estrelas e através desta observação estabelecia verdades eternas, agora o homem vai olhar para si mesmo e, em humildade, aceitará que nada existe fora dele que não seja parte dele mesmo.
@@ -139,17 +119,11 @@ Climacus, que era um pseudônimo que não era cristão, justamente por achar ess
 
 Vamos usar um exemplo que o próprio Climacus nos dá, de maneira a ver como ele delineia estas definições:
 
-  
-
 Vamos pegar o conhecimento de Deus como exemplo. Objetivamente, reflexão está em ser ele o verdadeiro Deus, subjetivamente no indivíduo se relacionando a algo de _tal forma_ que sua relação é verdadeiramente uma relação para-com-Deus. De que lado pode agora a verdade ser achada? Ora, não estamos forçados neste ponto a voltar à mediação e dizer: não está em lugar nenhum, está na mediação? Bem colocado, se alguém pudesse explicar como um indivíduo faz parte de uma mediação, por que estar em mediação é estar pronto, **existir é se tornar**. (Tradução própria, como em KIERKEGAARD, 2009, p. 168, destaque à parte).
-
-  
 
 Por isso se pode afirmar que Kierkegaard quando discute subjetividade só a discute no que diz respeito a questões religiosas. Como já mencionado, ele argumenta que a dúvida é um elemento de fé e que é impossível para alguém ganhar alguma certeza objetiva sobre doutrinas religiosas, tais como a vida histórica de Cristo. O máximo que se poderia esperar seria a conclusão de que é provável que as doutrinas cristãs sejam verdadeiras, mas se uma pessoa tivesse que acreditar em tais doutrinas apenas na medida em que parece provável de ser verdade, ela não seria genuinamente religiosa. A fé consiste em uma relação subjetiva de compromisso absoluto com essas doutrinas. Este compromisso absoluto é o dever que temos para com Deus e seus mandamentos, pois por fé, em Kierkegaard, se entende sempre **fé cristã.**
 
 Subjetividade aqui é, portanto, relacionada à introspecção, à “apropriação” de uma verdade objetiva. Com isso se explica, por exemplo, os simbolismos que a bíblia nos dá. Também significa que o filtro da subjetividade estará sempre entre o homem e o conhecimento de Deus, pois a fé é a única possibilidade que o homem tem de se relacionar diretamente com o divino. Ele era enfático em afirmar que não se tratava de dogmas, mas de vida. Assim, uma pessoa não pode simplesmente ter a verdade, mas deve estar na verdade, viver a verdade, à exemplo da vida de Cristo, que nunca escreveu nada de próprio punho, mas que ainda assim estabeleceu através de seus atos na terra toda uma genealogia de bondade. A verdade cristã, finalmente, não é para ser entendida meramente como uma série de doutrinas; para Kierkegaard ser um cristão no sentido que o Novo Testamento apresenta significa principalmente que o indivíduo se relacionará pessoalmente com Cristo por meio de uma decisão apaixonada e de coração, e que isso, por si só, é um salto da fé.
-
-  
 
 1.2.1.1 Moralidade em Kierkegaard
 
@@ -159,11 +133,7 @@ Estas normas sociais comuns, que são a primeira concepção de ética, são o m
 
 Existiria um poder maior que as normas sociais? Kierkegaard argumenta que sim, e neste caso, é lícito se perguntar se haveria um conflito entre ambos: a ética da mentalidade geral e a ética que subentende o mesmo dever com o divino. O conflito talvez possa existir, sim, mas no coração do indivíduo. Abraão é o caso de um indivíduo que se tornou indivíduo singular através da superação da moralidade estabelecida, pois na primeira acepção de ética haverá primeiramente um rompimento com o primeiro estágio (estético), onde há a busca de sensação e repouso acrítico na imaginação, que leva ao tédio e por sua vez é trocada por um dever de comunicabilidade com os outros sobre a intenção de suas ações (ao menos para com sua família, como teria feito Abraão se fosse um indivíduo nos moldes hegelianos, porém acontece que Abraão rompeu com todas estas formas de moralidade), o que se caracteriza como o estágio intermediário, o Ético. Este estágio é um dos mais importantes para Kierkegaard, pois é nele que o indivíduo tem mais possibilidades de despertar para a verdade do eterno através da angústia. Também é nele que se estabelecem a maioria das relações mundanas. Finalmente, este estágio é do qual parte o estudo de Kierkegaard em sua busca da compreensão da grandeza de Abraão, visto que tal exemplo de patriarca já não era mais possível de ser encontrado na sua época. No entanto, do ponto de vista do último estágio, o estágio religioso, a linha que distingue bem e mal estão nubladas e não dependem mais das normas sociais, mas, sem dúvidas, apenas de Deus. E visto que Abraão visou obedecer apenas Deus quando partiu em sua jornada ao monte Morija, não houve conflito entre as duas formas de ética. E nisso residirá a qualidade de sua grandeza. Se antes ele era apenas um membro do geral, isto é, da moralidade das normas sociais comuns, agora ele teve que subir ao monte para imolar seu filho em segredo e absoluto dever com Deus, que lhe testava a fé. Isso o tornaria um cavaleiro da fé e o pai da fé.
 
-  
-
 Então por que é que o fez Abraão? Por amor de Deus, como, de maneira absolutamente idêntica, por amor de si mesmo. Por amor de Deus porque este exige essa prova de fé; e por amor de si mesmo para dar a prova. Esta conformidade encontra o seu termo adequado na frase que sempre tem designado esta situação: é uma prova, uma tentação. Mas que quer dizer uma tentação? Geralmente pretende desviar o homem do dever; mas aqui a tentação é a moral, ciosa de impedir Abraão de realizar a vontade de Deus. Que é, então, o dever? A expressão da vontade de Deus. (KIERKEGAARD, 1979, p. 245).
-
-  
 
 Abraão realizou a vontade de Deus através de um expediente que seria chamado por Kierkegaard de “suspensão teleológica da moralidade”, ou seja, Abraão escolhe outro plano de ação tendo em vista seu dever de obedecer à vontade de Deus, abandonando os preceitos da ética do geral, desenvolvendo sua individualidade e enfrentando o paradoxo. Abraão reconhece o dever de algo maior do que seu dever social de não matar uma pessoa inocente e que ainda por cima é seu filho tão querido, porém isso e a exigência de comunicabilidade e procedimentos distintos de decisão também pode ser suspensa por decreto divino. Isto torna um caso como o de Abraão muito difícil de julgar, já que não existe nenhum recurso que guie a razão pública para decidir se ele está legitimamente obedecendo a uma ordem de Deus ou se ele é um candidato a assassino. Uma vez que a razão pública não pode decidir a questão por nós, ele nos diz que temos de decidir por nós mesmos como uma questão de fé religiosa.
 
@@ -173,24 +143,9 @@ Interessante notar que teleologia aqui também se assemelha ao conceito hegelian
 
 Teoria característica do hegelianismo e seus epígonos, segundo a qual o processo histórico da humanidade — assim como o movimento de cada realidade particular — é explicável como um trajeto em direção a uma finalidade que, em última instância, é a realização plena e exequível do espírito humano (Houaiss, edição eletrônica, 2009).
 
-  
-
 Kierkegaard irá com todas as suas forças de encontro a essa conclusão: que o homem seja sempre um projeto a ser concluído, que nele se encontra uma razão que nunca se exaure, ancorada em uma fé que subsiste até mesmo nos mais racionais dos esquemas, e que, à maneira de Sócrates, pretenda colocar o indivíduo no centro da existência, ignorando qualquer pretensão de essência determinada, estes argumentos serão apenas algumas das armas de que ele se valerá neste embate.
 
-  
-
-  
-
-  
-
-  
-
-  
-
 **CAPÍTULO II**
-
-  
-  
 
 1. A Realidade da Fé
 
@@ -199,8 +154,6 @@ O relato do Gênesis é o relato de uma grande provação pela qual passa Abraã
 Kierkegaard vai usar do relato de Gênesis para nos mostrar quão longe a fé de um homem pode leva-lo. Também servirá como breve estudo das dificuldades do espírito no trajeto da existência quando este espírito resolve ser fiel a si mesmo e seguir seus instintos mais nobres, doutra maneira, aceitando o paradoxo, tomando para si o dever, e enfrentando a angústia com resignação. Finalmente, podemos entender Kierkegaard como o arauto da grande verdade da fé, uma fé que raramente se encontra hoje em dia e que, de fato, pode mover montanhas:
 
 A história de Abraão comporta uma suspensão teleológica da moral. Como Indivíduo, superou o geral. Tal é o paradoxo que se recusa à mediação [da dialética]. Não se pode explicar nem como aí entra nem como aí permanece. Se não é este o caso de Abraão, nem sequer este alcança ser herói trágico, é um assassino (…). A fé é um milagre; no entanto ninguém dela está excluído; porque é na paixão que toda a vida humana encontra a sua unidade, e a fé é uma paixão. (KIERKEGAARD, 1979, p. 252).
-
-  
 
 O entendimento comum diz que fé é uma força espiritual que nos faz acreditar e que independe de religião. Que a fé parece ser um termo pré-religioso, mas, aqui, não é este o caso. Quando se fala em fé se fala especificamente em **fé cristã** – ou de outra maneira, qualquer outro objeto de fé que não seja cristo é idolatria, tratando-se, portanto, a fé como uma invenção unilateral dos homens para adorar Deus. Dito isso, se começa a perguntar do que esta fé, afinal, é capaz. Ou seria melhor perguntar do que ela não é capaz. Thoreau, pensador norte-americano que era contemporâneo de Kierkegaard, disse: “Embora eu não acredite que uma planta vai brotar onde não há semente plantada, tenho grande fé na semente. Convença-me de que você tem uma semente lá, e eu estou preparado para esperar maravilhas.[11](#sdfootnote11sym)”.
 
@@ -226,17 +179,11 @@ Quando Kierkegaard usa da expressão (e ele a usa muitas vezes, dez vezes pelo m
 
 A dialética da fé é a mais sutil e notável de todas; tem uma sublimidade de que posso ter uma ideia, mas não mais que isso. (…) Tal é o cume onde está Abraão. O último estádio de que ele se distancia é a resignação infinita. Vai mais longe realmente e chega até a fé — porque, na verdade, todas as caricaturas da fé, essa lamentável preguiça dos lábios que dizem: nada urge, inútil é lançar-nos ao caminho antes do tempo, essa mesquinha esperança que calcula: pode saber-se o que sucederá? ... Talvez que…, todas essas paródias da fé fazem parte dos mistérios da vida e já a infinita resignação as cobriu com o seu infinito desprezo. (KIERKEGAARD, 1979, pp. 128-129).
 
-  
-  
-
 Aqui Kierkegaard faz jus ao papel de _pai do existencialismo_ quando afirma que devemos nos lançar na vida, por que de nada adiantam conjecturas vazias ou cálculos exagerados. Na mesma página ele ainda vai dizer que nunca encontrou um cavaleiro da fé, mas que se houvesse uma oportunidade, em contraste com aqueles que buscam conhecer o mundo e suas maravilhas, ele não mediria esforços para encontrar tal homem.
 
 Com a expressão “Fé em virtude do absurdo”, Kierkegaard passa a considerar o paradoxo e o absurdo como aquilo que é essencialmente cristão. Neste sentido o homem só pode se aproximar de Deus a partir de uma firme aceitação do paradoxo como parte da própria ontologia do indivíduo perante a verdade eterna. Este é o significado de fé para Kierkegaard, e deveria assim ser para todo cristão. Mais além ele irá enfatizar que a marca do cristianismo é o paradoxo, e que Deus representa o paradoxo absoluto:
 
 A resignação não implica a fé; porque o que eu adquiro no seio da resignação é a minha consciência eterna; e é isso um movimento estritamente filosófico que tenho a coragem de efetuar quando é requerido e que posso infligir a mim próprio; porque, de cada vez que uma circunstância finita me vai ultrapassar, imponho a mim próprio o jejum até o instante de realizar o movimento; porque a consciência da minha eternidade é o meu amor para com Deus e este amor é tudo para mim. Para alguém se resignar, não é indispensável a fé, mas ela é precisa [necessária] para obter a mínima coisa para além da minha consciência eterna: é esse o paradoxo. (KIERKEGAARD, 1979, p.118).
-
-  
-  
 
 O homem tem em si a semente do infinito. Sua escolha é (dever) de aceitar esta condição e prezar por ela. Aqui Kierkegaard vai dizer que a resignação infinita é infinita a partir da consciência que se tem de si mesmo, mas que essa mesma consciência não é suficiente para elevar o homem ao estágio mais avançado da existência, daí a necessidade do salto, da ruptura, pois não há harmonia de opostos aqui. Doutra maneira ele está condenado a angustiar-se até o fim, seja por querer ser a si mesmo ou querer ser outro. Mesmo a relação com Deus está sob o risco de perder-se, pois o homem tem de encontrar em si a força que o libere. Conclui-se daí que a fé é o fator determinante da salvação; que a fé é parte indissociável do paradoxo e que ela vai inverter os valores estabelecidos: o que antes era interior se torna exterior, o que era exterior fica sendo interior. (KIERKEGAARD, 1979, p.254).
 
@@ -274,9 +221,6 @@ As obras de Kierkegaard assinadas com pseudônimo começam com um prólogo. _Tem
 
 Dito de outro modo, pensa-se que existir como Indivíduo é a mais fácil das coisas e por conseguinte interessa constranger os homens a alcançarem o geral. Não partilho nem deste receio, nem desta opinião e pelo mesmo motivo. Quando se sabe, por experiência, que não há nada de mais terrível que existir na qualidade de Indivíduo, não se deve temer afirmar que não há nada de maior; mas também é-se obrigado a exprimi-lo de maneira a não fazer dessas palavras uma ratoeira para o extraviado que é necessário, antes de mais, reconduzir ao geral, ainda quando as suas palavras não deixem lugar ao heroísmo. Se não se ousa citar semelhantes textos, também se não deve ter o atrevimento de mencionar Abraão; e se pensamos que é relativamente fácil existir como Indivíduo, mostramos indiretamente uma inquietante indulgência para conosco; porque se realmente se tem respeito por si próprio e cuidado com a alma, está-se seguro de que aquele que vive sob o seu próprio domínio, sozinho no seio do mundo, leva uma vida mais austera e mais isolada que a de uma jovem no seu quarto. (…) O herói trágico renuncia a si mesmo para exprimir o geral; o Cavaleiro da Fé renuncia ao geral para se converter em Indivíduo. (KIERKEGAARD, 1979, p.174).
 
-  
-  
-
 Kierkegaard tomará emprestados alguns exemplos dos clássicos. Assim ele vai se referir ao mito grego do sacrifício de Ifigênia para nos lembrar de que com resignação Agamenon alcançaria o epíteto de herói trágico, encontrando repouso no geral; porém para um homem da estatura de Abraão, para se tornar **Indivíduo** o geral era empecilho. Assim: Agamenon renunciou ao seu amor paternal e o dever de cuidar de sua filha de modo a exprimir a vontade geral de acalmar os ânimos do deuses, porém Abraão foi infinitamente maior pois renunciou a si mesmo e ao geral, e por isso mesmo nunca mais voltou ao geral, se transformando em indivíduo.
 
 Nisso fica subentendido a importância da escolha na existência, pois, se muitas vezes ficamos presos entre alternativas, outras vezes sequer sabemos que estamos escolhendo, criando escolhas de escolhas. A importância da **subjetividade** e seu papel nuclear na escolha do indivíduo são declarados por Kierkegaard quando, analisando o recolhimento e a profunda introspecção de Abraão diante da escolha que teria de fazer declara que: “só o indivíduo pode decidir se está em crise ou se é um cavaleiro da fé” (KIERKEGAARD, 1979, p. 157). Mais uma vez, Kierkegaard deixa ao cargo do leitor decidir qual a culpa de Abraão nos atos que precederam a ordem de Deus de imolar seu filho.
@@ -285,26 +229,17 @@ Dando continuidade à apresentação da obra:
 
 O presente autor de nenhum modo é um filósofo. Não compreendeu nenhum sistema da filosofia se é que algum existe ou esteja concluso. O seu débil cérebro assusta-se já bastante ao pensar na prodigiosa inteligência que é necessária a cada um, sobretudo hoje, quando toda a gente estadeia tão prodigiosos pensamentos! Embora se possa formular em conceito toda a substância da fé, não resulta daí que se alcance a fé, como se a penetrássemos ou ela se houvesse introduzido dentro de nós. O presente autor de nenhum modo é filósofo. É sim, poetice et eleganter, um amador que nem escreve sistema nem promessas de sistema; não caiu em tal excesso nem a ele se consagrou. Para ele, escrever é um luxo suscetível de ganhar tanto mais significação e evidência quanto menos leitores e compradores tiver para as suas obras. (KIERKEGAARD, 1979, p.110).
 
-  
-  
-
 É no prólogo que o autor anuncia que não é filósofo no sentido de criador de sistemas. O “sistema” é uma referência ao sistema de filosofia hegeliano, o qual buscou explicar todos os fenômenos possíveis de serem explicados, incluindo os fenômenos religiosos. Ele pensou que tal tarefa era logicamente impossível, uma vez que o filósofo vive dentro do sistema que ele está tentando avaliar; ainda que se julgue estar de fora.
 
 Enquanto Kierkegaard considera a si mesmo como um poeta, em algum ponto ele dirá “Mas eu paro; eu não sou um poeta; deixo-me guiar simplesmente pela dialética.” (KIERKEGAARD, 1979, p. 164). Isso pode ser sua maneira de dizer que o paradoxo da fé é impossível de ser resolvido por meio da dialética hegeliana. No entanto às vezes o pseudônimo de Kierkegaard alternativamente clama ser um dialético (filósofo) e um poeta.
 
 O poeta não pode cumprir aquilo que o herói realiza: só lhe resta admirá-lo, amá-lo e rejubilar com ele. Entretanto não é menos favorecido do que este porque o herói é, por assim dizer, o melhor de si mesmo, aquele de quem está enamorado, feliz por não ser herói, para que o seu amor seja feito de admiração. O poeta é o gênio da recordação. (KIERKEGAARD, 1979, p. 117).
 
-  
-  
-
 Em relação à declaração de que para ele é um luxo “quanto menos leitores e compradores tiver sua obra”, é verdade que Kierkegaard não vendeu bem. De fato, seus livros foram publicados a custo próprio, o _Post Scriptum_ na época vendeu menos de 200 cópias, e só em 1849 outro livro anterior seu, _Enten/Eller_ (Ou isso ou aquilo: fragmentos da vida), seria publicado em nova edição[13](#sdfootnote13sym).
 
 Do que se tratará o Elogio de Abraão? Como Abraão se tornou o pai da fé? Kierkegaard diz:
 
 Não! Nada será perdido dos que foram grandes; cada um a seu modo e segundo a grandeza do objeto que amou. Porque aquele que se amou a si próprio foi grande pela sua pessoa; quem amou a outrem foi grande dando-se; mas o que amou a Deus foi o maior de todos.(…) “Um engrandeceu-se na esperança de atingir o possível; um outro na esperança das coisas eternas — mas aquele que quis alcançar o impossível foi, de todos, o maior. Os grandes homens hão-de sobreviver na memória dos vindouros, mas cada um deles foi grande pela importância do que combateu. Porque aquele que lutou contra o mundo, foi grande triunfando do mundo, o que combateu consigo próprio foi grande pela vitória que alcançou sobre si — mas aquele que lutou contra Deus foi o maior de todos (KIERKEGAARD, 1979, pp. 117-118).
-
-  
-  
 
 Mais uma vez vemos aqui a obra filosófica interpelando a realidade vivida. Kierkegaard também enfrentaria grande parcela de sofrimento quando decidira romper o noivado, abandonando o conforto de uma vida próspera em sociedade, escolhendo a solidão como companhia e sofrendo o julgamento tenaz da sociedade em que vivia, e pode-se dizer que esta foi a sua luta com o anjo.
 
@@ -314,9 +249,6 @@ Para Kierkegaard o trabalho filosófico era o trabalho de aliviar aquilo que opr
 
 Era uma vez um homem que tinha ouvido, na sua infância, a formosa história de Abraão, que, posto à prova por Deus, vencida a tentação sem perder a fé, recebia, contra toda a expectativa, o seu filho pela segunda vez. (KIERKEGAARD, 1979, p. 113).
 
-  
-  
-
 E termina assim: “Este homem não era um sábio exegeta, pois nem sequer conhecia o hebreu. Se o tivesse podido ler, então teria, sem dúvida, compreendido facilmente a história de Abraão.” Sabe-se que Kierkegaard sabia Hebraico e que ele tinha alguns livros nesta língua em sua biblioteca particular. Neste caso quem não poderia saber hebraico era Johannes de Silentio.
 
 A Atmosfera consiste de quatro diferentes e fantasiosas versões da história da subida de Abraão ao monte Morija para sacrificar seu filho. Cada uma delas enfatiza um ponto de vista diferente que traz luz ao texto. Mas o primeiro exórdio começa contando como um homem ouviu a história de Abraão quando criança, e quão frequentemente retornaria à história como homem já crescido. Isto parece guiar toda a obra, sendo que a criança (o leitor) precisa desenvolver-se na estrutura mental religiosa que trará luz ao relato de Gênesis.
@@ -325,26 +257,17 @@ Na primeira abordagem da história do Gênesis, Abraão fala com seu filho, Isaa
 
 Estúpido! Supões que sou teu pai? Sou um idólatra! Crês que obedeço às ordens de Deus? Faço o que me apetece! Então Isaac fremente e com grande angústia, gritou: Deus do Céu? Tem piedade de mim! Deus de Abraão, tem piedade de mim, sê meu pai, porque já não tenho outro na Terra! Mas Abraão ciciava: Deus do Céu, dou-te graças. Vale mais que me julgue um monstro do que perca a fé em ti. (KIERKEGAARD, 1979, p. 114).
 
-  
-  
-
 Alguns intérpretes veem aqui uma aparente relação com a vida do autor; quando Kierkegaard e Regine Olsen eram noivos. Quando Kierkegaard se determinou inadequado para o papel de marido, ele passou a convencer Regine que era um canalha, a fim de que ela não entrasse em um relacionamento duradouro com ele. Se esta interpretação estiver correta, ele consideraria a si mesmo como Abraão e ela como Isaac. Ele usou deste expediente para romper com seu relacionamento: pintando-se com pinceladas negras, tudo de forma a preservá-la. Isto se torna mais evidente no final da obra “Diário de um sedutor”.
 
 Na segunda abordagem da história do Gênesis, Abraão sacrifica o cordeiro, e assim preserva Isaac.
 
 Daquele dia em diante, Abraão ficou velho; ele não podia se esquecer que Deus tinha ordenado ele a fazer aquilo com Isaac. Isaac resplandecia como sempre, mas os olhos de Abraão tinham se escurecido, e ele não via mais alegria. (KIERKEGAARD, 1979, p. 114).
 
-  
-  
-
 Na terceira abordagem, Abraão vai sozinho, se arremessa no chão, implorando a Deus que perdoe ele por ter contemplado sacrificar Isaac, e por ter esquecido sua conduta ética. Na abordagem quatro Abraão não consegue se trazer para sacrificar Isaac e ambos voltam para casa juntos. Isaac perde a fé por causa disso. A Atmosfera fecha com Johannes dizendo, “Então, não há ninguém com a estatura de Abraão? Ninguém capaz de o compreender? (sic)” (KIERKEGAARD, 1979, p. 115).
 
 No final de cada abordagem do relato da Bíblia, Kierkegaard adiciona um pequeno adendo sobre uma criança, presumivelmente a criança que Johannes fora quando ele ouviu a história pela primeira vez. O primeiro adendo diz:
 
 Quando chega o tempo do desmame, a mãe enegrece o seio, porque manter o seu atrativo será prejudicial ao filho que o deve abandonar. Assim ele acredita que a mãe mudou, embora o coração dela continue firme e o olhar conserve a mesma ternura e amor. Feliz aquele que não tenha de recorrer a meios ainda mais terríveis para desmamar o seu filho! (KIERKEGAARD, 1979, p. 114).
-
-  
-  
 
 Assim como Johannes é a criança que primeiro ouviu a história de Abraão, talvez Kierkegaard seja ele mesmo como a mãe cujo peito deve enegrecer, para que assim o leitor possa “desmamar”. Uma tarefa dura, mas necessária no forjar da individualidade. Para isso ele terá de ser o poeta que é como que guiado dialeticamente pela verdade (KIERKEGAARD, 1979, p. 164).
 
@@ -354,26 +277,17 @@ Primeiro, Kierkegaard, em um argumento de redução ao absurdo, pergunta como um
 
 Como explicar esta contradição do nosso pregador? [Hegel] Poder-se-á dizer que Abraão adquiriu por prescrição o título de grande homem, de tal modo que um ato é nobre quando por ele praticado e revoltante se for praticado por um outro? Neste caso não tenho desejo de subscrever tão absurdo elogio. (...) Sob o ponto de vista moral, a conduta de Abraão exprime-se dizendo que quis matar Isaac e, sob o ponto de vista religioso, que pretendeu sacrificá-lo. Nesta contradição reside a angústia que nos conduz à insônia e sem a qual, entretanto, Abraão não é o homem que é. (KIERKEGAARD, 1979, p. 125).
 
-  
-  
-
 Kierkegaard nos oferece então o conceito de Cavaleiro da Fé. Ele usa de analogia entre dois exemplos de cavaleiros, Cavaleiro da Fé e o Cavaleiro da Resignação Infinita, para nos demonstrar a superioridade do primeiro. No fim entendemos que o cavaleiro da resignação infinita é a designação que ele daria a si mesmo e a todos os filósofos, reservando a designação de cavaleiro da fé apenas para pouquíssimos homens na história, entre eles, Abraão.
 
 Resignação, de acordo com a definição kierkegaardiana, é “um ato de vontade, não abdicação desesperançada”. O Cavaleiro da Resignação Infinita não é um covarde, mas um homem comprometido por um ato volitivo a agir ou aderir algum código ético. Um exemplo seria o de um comerciante que não se deixa corromper e sempre oferece preços justos aos seus fregueses. Ele tem um código de conduta, embora careça de fé. Sua resignação infinita lhe permite viver com a boa consciência de que fez o melhor que poderia ser feito em determinada situação. Porém, a resignação infinita é inferior à fé, pois a resignação infinita não é capaz de alcançar o estágio mais avançado da existência, a saber, o estágio religioso. O Cavaleiro da Fé é um homem que também é bravo, mas de uma maneira diferente. Ele adere pela fé a um **Telos** (objetivo, meta) impossível (absurdo aos olhos de quem não crê). Abraão não é apenas um homem de resignação (determinação), mas é o Pai da fé, o supremo exemplo da fé contra e apesar do absurdo. Deus lhe prometeu um filho. Ele teve que esperar por décadas para aquele filho (Isaac) nascer, ainda que em virtude da dúvida de Sara. Então Deus ordena que Abraão sacrifique seu tão aguardado filho. De alguma maneira, Abraão teve a fé de obedecer a Deus mais uma vez, ignorando qualquer tipo de especulação ulterior.
 
 Esta ideia seria inconcebível se, nos nossos dias, não se procurasse por tantas maneiras o insinuar-se sub-repticiamente nas coisas grandiosas. Um cavaleiro da fé não pode de maneira alguma socorrer um outro. Ou o Indivíduo se transforma em cavaleiro da fé, carregando ele mesmo o paradoxo, ou nunca chega realmente a sê-lo. Nessas regiões, não se pode pensar em ir acompanhado. (KIERKEGARD, 1979, p.152).
 
-  
-  
-
 O paradoxo aqui é a “cruz”, ou o fardo do cristão, que precisa crer antes mesmo de ver, o que parece absurdo. Também, este é o paradoxo da fé tal qual é ilustrado naquele ensinamento de Jesus: “aqueles que quiserem salvar suas vidas a perderão, mas aqueles que a perderem por minha causa, serão salvos” (Lucas 9:24). E a solidão que fica subentendida neste parágrafo é a mesma solidão do homem que caminha em direção ao seu destino. É a solidão de Abraão por três dias em silencio em direção ao monte Morija, e é a solidão de Jesus no jardim das oliveiras quando ora para que lhe afastem o cálice se isso for possível.
 
 O dever com Deus nasce, portanto, de uma vontade livre de egoísmo. Kierkegaard se interessará profundamente por este tema do dever e pelo paradoxo que nele se insere. E irá além. Dirá que este evangelho em particular nos dá a chave que abre nosso coração para nossa verdadeira condição no mundo. Ele usa o exemplo do homem que se casa e exige que a esposa abandone os pais, mas que não pode esperar que isso seja demonstração de amor, pois o amor manifestado pelos pais iria também retornar a ele (KIERKEGAARD, 1979, pp. 153-154). Então ele pergunta: o que Jesus queria dizer quando disse para abandonarmos tudo se quisermos ser seus discípulos?
 
 Pelo contrário, se considero a tarefa como um paradoxo, compreendo-a, como se pode compreender um paradoxo. O dever absoluto pode então levar à realização do que a moral proibiria, mas de forma alguma pode incitar o cavaleiro da fé a deixar de amar. É o que mostra Abraão. (KIERKEGAARD, 1979, p.154).
-
-  
-  
 
 Assim, ele estabelece limites para a concepção do Cavaleiro da Fé. Se, ora, ele tem a coragem de avançar para a outra margem e enfrentar a incerteza causada pelo paradoxo, uma coisa que ele nunca deixará de fazer é amar a Deus, e isso, dito em retrospecto é coisa que apenas uma fé verdadeira pode justificar.
 
@@ -387,17 +301,11 @@ Kierkegaard trata de questões essenciais ao desenvolvimento humano e espiritual
 
 No seguinte consiste o direito da vontade subjetiva: que o que ela reconheça como válido por ela seja considerado como bom. É por isso que as suas ações, como fins que ela introduz na objetividade exterior, não lhe devem ser imputadas como justas e injustas, boas e más, legais e ilegais, senão segundo o conhecimento que ela tem do valor destas ações nesta objetividade. (...) Este direito de examinar o bem é muito diferente do direito de examinar uma ação como tal (§ 117Q). Deste ponto de vista, o direito da objetividade adquire a forma seguinte: como é uma modificação que tem de existir no mundo real, e também pretende portanto ser nele reconhecida, a ação há de estar necessariamente conforme com os valores deste mundo real. Quem nesta realidade quer introduzir a sua ação, no mesmo passo se submete às leis dela e reconhece os direitos da objetividade**.** Do mesmo modo, no Estado como objetividade do princípio da razão, a decisão jurídica de responsabilidade não pode limitar-se ao que se considera conforme à sua razão própria, à apreciação subjetiva do justo e injusto, do bem e do mal ou às exigências que se levantam para satisfazer a sua opinião. No terreno da objetividade, o direito de apreciação tanto vale para o lícito como para o ilícito, tais como se apresentam no direito em vigor, e reduz-se ao sentido mais estreito da palavra: conhecimento como fato de ser informado acerca do que é lícito e, por conseguinte, obrigatório. Com a publicação das leis e a vigência dos costumes, o Estado tira ao direito de exame o aspecto formal e a contingência que para o sujeito o direito ainda conserva ao nível em que nos encontramos. (HEGEL, 1997, p. 115).
 
-  
-  
-
 A história de Abraão iria de encontro com esta teoria. Kierkegaard diz que Hegel estava errado por que ele não protestara contra Abraão negando sua posição como pai da fé e o chamara de assassino (KIERKEGAARD, 1979, pp.141-142). De fato, ele suspendera a moralidade e “falhara” em seu dever de seguir o geral.
 
 O que Hegel não entenderia, é que Abraão suspendeu temporariamente a moralidade em virtude de um objetivo maior e que,
 
 Para tanto é necessário paixão. Todo o infinito se efetua apaixonadamente; a reflexão não pode produzir qualquer movimento. É o salto perpétuo na vida que explica o movimento. A mediação é uma quimera que, em Hegel, tudo deve explicar e que constitui, ao mesmo tempo, a única coisa que ele jamais tentou explicar. Mesmo para estabelecer a distinção socrática entre aquilo que se compreende e não compreende é indispensável paixão e ainda com maior razão, naturalmente, para realizar o movimento socrático propriamente dito: o da ignorância. (KIERKEGAARD, 1979, p.133).
-
-  
-  
 
 Com mediação, Kierkegaard quer dizer a mediação efetuada através do geral, para o geral. Segundo ele, a fé é exatamente aquele “fator” que inverte o jogo: o indivíduo, antes submetido ao geral, passa agora a lhe ser superior; e este é um paradoxo que precisa ser aceito se quisermos entender como se efetua o salto da fé, da esfera ética para a religiosa. Por exemplo: Abraão era apenas um humilde servo de Deus até receber seu chamado, então, pela fé e através da fé, ele deixou para trás sua vida de pai de família e seguiu para cumprir seu destino, não sem antes passar pela dor da separação, da resignação e, finalmente, da ruptura com o modo de vida ético, da vida em família, do casamento, do acordo em comum de comunicação. Na narração de Kierkegaard o vemos apontando a volta de Abraão ao seio da família, mas, na bíblia, seu destino é ainda mais árduo, como ele partindo sozinho para o lugar que Deus lhe designara para viver o resto dos dias.
 
@@ -439,12 +347,7 @@ Com isso se afirma logo que paradoxo não é um fato objetivo, mas apenas uma co
 
 A obra _Temor e Tremor_ não foi o que se chama _groundbreaking_, uma obra que abalou todas as crenças estabelecidas, que alterou a maneira de pensar da elite intelectual de sua época, mas, dentro do _corpus_ kierkegaardiano é uma obra que merece um destaque especial. Ela é a obra que faz a transição gradual do filósofo para o teólogo. Suas ideias darão continuidade ao projeto de desacreditar Hegel, e darão cabo também do projeto dos três “estágios da vida”, demonstrando a importância da fé nesta mudança de um modo de vida ético para o religioso sem, contudo, abandonar a dialética como método de trabalho. Para Kierkegaard a fé prescindia a filosofia. Suas obras aos poucos se voltarão para uma visão cada vez mais religiosa da vida, e sua preocupação se tornará cada vez mais voltada para o que significa ser um indivíduo cristão em face de um mundo onde a verdade cristã está morta, ou corrompida.
 
-  
-
 **REFERÊNCIAS BIBLIOGRÁFICAS**
-
-  
-  
 
 ABBAGNANO. Nicola, _Dicionário de Filosofia_. Martins Fontes, 4ª edição. São Paulo. 2003.
 
@@ -478,28 +381,15 @@ STORM, D. Anthony. _D. Anthony Storm's Commentary on Kierkegaard_. Disponível e
 
 THOREAU, Henry D. _The Succession Of Forest Trees_. 1860. Disponível em: <[www.thoreau.eserver.org](http://www.thoreau.eserver.org/)> Acessado em 13-04-2016
 
-  
-  
-
 [1](#sdfootnote1anc)KIERKEGAARD, Søren Aabye. _Diário de um sedutor; Temor e tremor; O desespero humano 1813-1855._ Traduções de Carlos Grifo, Maria José Marinho, Adolfo Casais Monteiro. Editor: Victor Civita, Abril Cultural. São Paulo. 1979 (Os pensadores).
-
-  
 
 [2](#sdfootnote2anc)Leonard Cohen, “Songs from a room” 1969. Columbia Records.
 
-  
-
 [3](#sdfootnote3anc) Cf. STORM, D. Anthony. _D. Anthony Storm's Commentary on Kierkegaard._
-
-  
 
 [4](#sdfootnote4anc) Cf. MCDONALD, William, “Søren Kierkegaard”, the Stanford Encyclopedia of Philosophy. Disponível em <http://plato.stanford.edu/archives/win2014/entries/kierkegaard/>.
 
-  
-
 [5](#sdfootnote5anc)Kierkegaard, Søren Aabye. _“The Book of the Judge” Søren Kierkegaard's Journals & Papers._
-
-  
 
 [6](#sdfootnote6anc)KIERKEGAARD, Søren Aabye. Concluding Unscientific postscript to The philosophical crumbs. Tradução e edição HANNAY, Alastair. Editora Cambridge University Press 2009, p. 280-281.
 
@@ -513,16 +403,10 @@ THOREAU, Henry D. _The Succession Of Forest Trees_. 1860. Disponível em: <[www.
 
 [11](#sdfootnote11anc)Cf. THOREAU, Henry D. The Succession Of Forest Trees. 1860.
 
-  
-
 [12](#sdfootnote12anc)Em referência ao filme norte-americano de 1999 de mesmo nome.
 
 [13](#sdfootnote13anc)Cf. STORM, D. Anthony. D. Anthony Storm's Commentary on Kierkegaard.
 
-  
-
 [14](#sdfootnote14anc)Cf. HANNAY, Alastair, apud. KIERKEGAARD, 2009, p. xxiii.
-
-  
 
 [15](#sdfootnote15anc)Cf. O Desespero Humano, KIERKEGAARD, 1979 ed. Os pensadores.

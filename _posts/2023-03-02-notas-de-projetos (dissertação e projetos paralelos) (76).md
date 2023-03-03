@@ -13,17 +13,20 @@ tags:
   - escrivão
 title: a dissertação argumentativa
 ---
+
 # a dissertação argumentativa
+
 ## criado em: 11:31 20-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como Escrever Bem]]
 - [[Why They Can't Write Killing the Five-Paragraph Essay and Other Necessities]]
 - [[eight by seven]]
 ---
--   O ensaio de cinco parágrafos é uma construção artificial que é utilizada nas salas de aula para conter e controlar a escrita dos alunos
+- O ensaio de cinco parágrafos é uma construção artificial que é utilizada nas salas de aula para conter e controlar a escrita dos alunos
 - O formato é conveniente e padronizado, mas não permite que os alunos pratiquem as habilidades da escrita real
 - O ensaio de cinco parágrafos é frequentemente usado em avaliações padronizadas e é fácil de ensinar e avaliar para professores
 - A forma é um compromisso promulgado para comparar eficientemente os estudantes uns com os outros e conduzi-los à proficiência ou competência, mas esta é uma barra muito baixa e não valoriza o aprendizado.

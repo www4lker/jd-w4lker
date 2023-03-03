@@ -12,11 +12,15 @@ tags:
   - escrivão
 title: Submit and deal with reviews
 ---
+
 # Submit and deal with reviews
+
 criado em: 01:43 2022-10-19
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - [[dissertação index]]
 - [[How To Write A Scientific Paper]]

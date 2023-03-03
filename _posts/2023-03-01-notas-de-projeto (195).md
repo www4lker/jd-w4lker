@@ -6,13 +6,17 @@ tags:
   - psique
 title: o panda vermelho e o individualista
 ---
+
 # o panda vermelho e o individualista
+
 ## criado em: 22:14 10-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[O Individualista]]
 ---
+
 If the Enneagram type Four, the Individualist, were to be associated with a mammalian animal, one possibility could be the red panda.
 
 The red panda, also known as the "firefox," is a solitary and elusive animal that is not typically found in large groups. They tend to be quite independent and prefer to spend most of their time alone in the trees, away from the noise and distractions of their surroundings. Red pandas are known for their unique and striking appearance and their individualism.

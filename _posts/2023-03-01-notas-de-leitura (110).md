@@ -5,10 +5,13 @@ feed: show
 date :  03-08-2022
 date: 2023-02-24
 ---
+
 # Como se faz uma tese
+
 criado em: 17:55 2022-08-03
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

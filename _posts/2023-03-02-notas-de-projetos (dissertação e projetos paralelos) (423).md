@@ -2,29 +2,33 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: 041220221014
 ---
+
 # 041220221014
+
 ## criado em: 10:14 2022-12-04
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Heidegger, Martin]]
 - [[filosofia da tecnologia]]
 ---
+
 # The Question Concerning Technology
 
-Vorträge und Aufsätze
-Martin Heidegger [[Heidegger, Martin]]
-Die Frage nach der Technik
-Country	Germany
+Vorträge und Aufsätze  
+Martin Heidegger [[Heidegger, Martin]]  
+Die Frage nach der Technik  
+Country	Germany  
 Language	German
 
 Phenomenology, Philosophy of technology
 
-Publication date
+Publication date  
 	1954
 
-Published in English
+Published in English  
 	1977
 
 Preceded by	Hölderlin's Hymn "The Ister" 
@@ -35,7 +39,7 @@ Followed by	The Origin of the Work of Art 
 
 The Question Concerning Technology (German: Die Frage nach der Technik) is a work by Martin Heidegger, in which the author discusses the essence of technology. Heidegger originally published the text in 1954, in Vorträge und Aufsätze.
 
-Heidegger initially developed the themes in the text in the lecture "The Framework" ("Das Gestell"), first presented on December 1, 1949, in Bremen. "The Framework" was presented as the second of four lectures, collectively called "Insight into what is." The other lectures were titled "The Thing" ("Das Ding"), "The Danger" ("Die Gefahr"), and "The Turning" ("Die Kehre").[1]
+Heidegger initially developed the themes in the text in the lecture "The Framework" ("Das Gestell"), first presented on December 1, 1949, in Bremen. "The Framework" was presented as the second of four lectures, collectively called "Insight into what is." The other lectures were titled "The Thing" ("Das Ding"), "The Danger" ("Die Gefahr"), and "The Turning" ("Die Kehre").[1]  
 Summary[edit]
 
 The question concerning technology is asked, as Heidegger notes, “so as to prepare a free relationship to it”.[2] The relationship will be free “if it opens our human existence (Dasein) to the essence of technology”.[2] This is because “[o]nly the true brings us into a free relationship with that which concerns us from out of its essence”.[3] Thus, questioning uncovers the questioned in its (true) essence as it is; enabling it to be “experienced within its own bounds”[4] by seeking “the true by way of the correct”.[4] This is akin to the Aristotelian way of advancing “from what is more obscure by nature, but clearer to us, towards what is more clear and more knowable by nature.”

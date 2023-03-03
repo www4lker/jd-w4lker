@@ -7,24 +7,28 @@ tags:
 title: Alejandro Zambra, autor chileno que virou cult
 date: 2023-02-24
 ---
+
 # Alejandro Zambra, autor chileno que virou cult
+
 ## criado em: 13:02 08-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Sebald, W. G.]]
 - [[Benjamín Labatut]]
 
 ---
-*Li um pouco  ontem, [[07-01-2023]]* 
+
+*Li um pouco ontem, [[07-01-2023]]* 
 
 ## Quem é Alejandro Zambra, autor chileno que virou cult com literatura sussurrante
 
-Francesca Angiolillo
+Francesca Angiolillo  
 [FOLHA DE SÃO PAULO](https://www1.folha.uol.com.br/ilustrada/2021/10/quem-e-alejandro-zambra-autor-chileno-que-virou-cult-com-literatura-sussurrante.shtml)
 
-(…)
+(…)  
 A ficção de Zambra é povoada por protagonistas que são escritores em plena ação, escrevendo livros e tentando viver da escrita. Ganham o pão com trabalhos como contar carros ou atender telefonemas de serviço ao cliente, como o próprio autor fez.
 
 Suas aventuras mínimas são relatadas por narradores que, por sua vez, se referem ao ato de eles próprios estarem escrevendo aquela história.
@@ -39,7 +43,7 @@ Em “Ficção 2006-2014”, a reunião que sai agora, os romances "Bonsai", “
 
 Mas a contenção como desígnio, pondera Zambra, se aplica apenas a “Bonsai”. Ali, “a síntese e a capacidade de sugerir eram parte do projeto”.
 
-Num giro improvável para tão curto livrinho, “Bonsai” ganhou as telas de cinema. Segundo longa do chileno Cristián Jiménez, o filme esteve na mostra Un Certain Regard do Festival de Cannes em 2011.
+Num giro improvável para tão curto livrinho, “Bonsai” ganhou as telas de cinema. Segundo longa do chileno Cristián Jiménez, o filme esteve na mostra Un Certain Regard do Festival de Cannes em 2011.  
 Jiménez tinha amigos em comum com Zambra e conhecia sua obra poética. Conta que adorou “Bonsai”, mas foi só numa releitura que sentiu que “tinha ali algo formal, um desafio —e nada adaptável”.
 
 Ele explica. O livro “tem um narrador com muito protagonismo, não tem muita psicologia, não tem trama. Acontece coisa à beça, mas não em termos de conflito dramático”. Foi preciso “acrescentar e reconstruir um montão”.

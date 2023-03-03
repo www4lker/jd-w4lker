@@ -6,16 +6,20 @@ tags:
 title: 5 coisas sobre romantismo alemão
 date: 2023-02-24
 ---
+
 # 5 coisas sobre romantismo alemão
+
 ## criado em: 12:13 03-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Georg Wilhelm Friedrich Hegel]]
 - [[Otto Maria Carpeaux]]
 - [[READY-NOTES]]
 - ![[Georg Wilhelm Friedrich Hegel#^6ef1cd]]
 ---
+
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar o Romantismo alemão?
 
 1. Ênfase na emoção, na imaginação e na intuição: O Romantismo alemão foi caracterizado por uma ênfase na emoção, imaginação e intuição, em oposição ao racionalismo e à lógica.

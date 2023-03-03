@@ -12,10 +12,13 @@ feed: show
 date :  04-08-2022
 date: 2023-02-24
 ---
+
 # fenotipo estendido
+
 criado em: 11:27 2022-08-04
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Projeto Psiconautas]]
 - notas de dissertação:

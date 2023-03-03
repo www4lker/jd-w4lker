@@ -9,15 +9,19 @@ tags:
   - chatgpt
 title: interpretação de imagens expandido
 ---
+
 # interpretação de imagens expandido
+
 ## criado em: 12:33 02-02-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[dicas para ajudá-lo a aceitar sua entrevista]]
 - [[dicas para ajudá-lo a aceitar sua entrevista]]
 ---
+
 ## Sure, here is a more detailed explanation of point 5: Image Interpretation.
 
 A interpretação de imagens é o processo de análise e extração de informações de imagens de sensoriamento remoto, tais como imagens de satélite ou aéreas. Este processo é crítico para a criação de sistemas de informação geográfica (SIG) e para a compreensão das características físicas e culturais da Terra. O objetivo da interpretação de imagens é identificar e compreender os padrões, relacionamentos e características que existem nas imagens e usar essas informações para tomar decisões e resolver problemas.

@@ -6,10 +6,13 @@ tags:
   - disserte
 title: estudos da mídia
 ---
+
 # estudos da mídia
+
 criado em: 09:12 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: [[hipercultura]]
 - [[Vilém Flusser]]

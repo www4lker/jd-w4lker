@@ -3,13 +3,17 @@ tags: permanente
 title: Heidegger, Martin
 date: 2023-02-24
 ---
+
 # Heidegger, Martin
+
 ## criado em: 11:08 06-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[DASEIN]]
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Heidegger?
 
 1. O trabalho de Heidegger é difícil de ler e entender.
@@ -21,7 +25,9 @@ date: 2023-02-24
 4. A obra de Heidegger teve uma grande influência no existencialismo e no pós-modernismo.
 
 5. Heidegger é considerado um dos mais importantes pensadores do século 20.
+
 ### Bônus
+
  Mais 5 pontos-chave que eu deveria saber ao estudar Heidegger?
 
 2. Heidegger é uma figura chave no desenvolvimento do existencialismo. [[existencialismo, notas de estudo]]

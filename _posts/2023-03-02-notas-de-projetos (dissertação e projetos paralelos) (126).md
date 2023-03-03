@@ -9,10 +9,13 @@ tags:
   - orientador
 title: CE1000PD LIVE
 ---
+
 # CE1000PD LIVE
+
 criado em: 22:39 2022-08-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[dissertação index]]
 - [[📕 DISSERTAÇÃO]]
@@ -24,9 +27,6 @@ criado em: 22:39 2022-08-17
 # Como escrever mil palavras por dia me ajudou e como você também pode fazer: A Live
 
 ## Análise em vídeo de um texto de 2018 com o mesmo título
-
-  
-  
 
 Fiz um vídeo sobre um texto de 2018 onde analiso ponto a ponto aquilo que foi escrito
 

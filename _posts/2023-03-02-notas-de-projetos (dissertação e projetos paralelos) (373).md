@@ -10,9 +10,11 @@ title: racismo algorítmico
 ---
 
 # racismo algorítmico
+
 criado em: 18:06 2022-08-16
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: 
 - [[gpt3]] 
@@ -24,14 +26,13 @@ criado em: 18:06 2022-08-16
 
 ---
 
-fonte: https://www.nexojornal.com.br/entrevista/2022/03/26/%E2%80%98As-big-techs-devem-responder-pelo-racismo-algor%C3%ADtmico%E2%80%99
-fonte: https://www.technologyreview.com/2020/10/23/1011116/chatbot-gpt3-openai-facebook-google-safety-fix-racist-sexist-language-ai/
+fonte: https://www.nexojornal.com.br/entrevista/2022/03/26/%E2%80%98As-big-techs-devem-responder-pelo-racismo-algor%C3%ADtmico%E2%80%99  
+fonte: https://www.technologyreview.com/2020/10/23/1011116/chatbot-gpt3-openai-facebook-google-safety-fix-racist-sexist-language-ai/  
 fonte: https://www.wired.com/story/dall-e-2-ai-text-image-bias-social-media/
 
 ---
+
 ## Criar um esboço para um ensaio sobre algoritmo racista e algoritmo tendencioso:
-
-
 
 1. Introduzir o tópico dos algoritmos racistas e tendenciosos, destacando como estes algoritmos podem ter impacto na vida das pessoas.
 

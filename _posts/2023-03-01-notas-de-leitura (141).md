@@ -9,10 +9,13 @@ date :  03-08-2022
 aliases: dostoiévski
 date: 2023-02-24
 ---
+
 # dostoiévski
+
 criado em: 12:17 2022-08-03
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - [[📚 NOTAS 📖 DE 📘 LITERATURA/REF BIBLIOGRÁFICA/dostoiévski]] 

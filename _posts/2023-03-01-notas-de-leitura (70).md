@@ -7,14 +7,18 @@ tags:
 title: A pessoa deprimida (dfw)
 date: 2023-02-24
 ---
+
 # A pessoa deprimida (dfw)
+
 ## criado em: 15:38 05-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Breves entrevistas com homens hediondos]]
 - [[terapia psicodélica]]
 ---
+
 # A Pessoa Deprimida
 
 A terapia mudou ao longo dos anos e agora é caracterizada por um diálogo mais colaborativo entre paciente e terapeuta. Esta mudança também se reflete na ficção contemporânea, que agora retrata os terapeutas como mais compreensivos e empáticos. Entretanto, o trabalho de David Foster Wallace sobre terapia tem sido largamente negligenciado e seus terapeutas são frequentemente vistos como caricaturas. Este artigo visa desafiar esta visão e examinar a complicada relação entre paciente e terapeuta no trabalho de Wallace, incluindo as várias terapias e doenças retratadas. O artigo também discute o envolvimento de Wallace com outros escritores que escreveram sobre terapia, incluindo escritores pós-modernos e Sylvia Plath, cujo retrato mais positivo dos terapeutas fornece um contexto útil para a compreensão do trabalho de Wallace.

@@ -8,10 +8,13 @@ tags:
 title: documentário sobre o pcc
 date: 2023-02-24
 ---
+
 # documentário sobre o pcc
+
 criado em: 21:13 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: [[a letra mais legal de mano brown]]
@@ -20,7 +23,7 @@ criado em: 21:13 2022-08-01
 
 [[serie documental]] 
 
-Serie sóbria e bem dirigida apresenta o PCC como ele é, um problema estrutural.
+Serie sóbria e bem dirigida apresenta o PCC como ele é, um problema estrutural.  
 Documentário que abre com uma cena de tiroteio no Paraguai na verdade fala de uma poderosa rede internacional nascida como coletivo de presos paulistas que tomou proporções colossais em menos de 30 anos.
 
 em quatro episodios de menos de uma hora essa série mostra como a organização, que a principío tentava remediar o negligenciamento do estado nos presidios (e que teve no massacre do carandiru seu seminal acontecimento) saiu das celas para as periferias (e o doc é cheio destes depoimentos de rua feito com pessoas que estiveram dos dois lados da lei) e ganhou o mundo, se tornando um ator importante no trafico de drogas e armas.

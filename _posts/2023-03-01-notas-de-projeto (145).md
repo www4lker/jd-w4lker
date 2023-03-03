@@ -8,10 +8,13 @@ tags:
   - literatura
 title: CARTA A BORGES DE SUSAN SONTAG
 ---
+
 # CARTA A BORGES DE SUSAN SONTAG
+
 ### criado em: 01:13 02-11-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Sontag, Susan]]
@@ -20,8 +23,6 @@ title: CARTA A BORGES DE SUSAN SONTAG
 - [[Borges Babilônico]]
 - [[Dossiê Borges BRAIN PICKINGS]]
 - [[bookscreens]]
-- 
-- 
 ---
  - Em um ensaio escrito no 10º aniversário de sua morte, Susan Sontag reflete sobre a genialidade e humildade do escritor Jorge Luis Borges.
 - Ela o considera um mago do tempo e um praticante magistral da arte do remix.
@@ -30,12 +31,9 @@ title: CARTA A BORGES DE SUSAN SONTAG
 - Ela argumenta que os livros não são apenas uma fonte de fuga, mas também uma forma de alcançar a autotranscendência.
 - Sontag lamenta a ascensão das telas e a perda potencial desta experiência transcendente.
 
-
-
 # Letter to Borges: Susan Sontag on Books, Self-Transcendence, and Reading in the Age of Screens
 
 >“Books are not only the arbitrary sum of our dreams, and our memory. They also give us the model of self-transcendence… a way of being fully human.”
-
 
 In October 1982, 83-year-old Jorge Luis Borges, who at that point had been blind for nearly 30 years, gathered sixty of his closest friends and admirers at a special dinner in New York. Susan Sontag was there. Speaking to a reporter covering the event, she captured the enormity of Borges’s spirit and significance with her signature eloquent precision, saying: “There is no writer living today who matters more to other writers than Borges. Many people would say he is the greatest living writer … Very few writers of today have not learned from him or imitated him.”
 

@@ -10,10 +10,13 @@ tags:
   - sciencebitch
 title: cogumelos mágicos matam a fome de predadores
 ---
+
 # cogumelos mágicos matam a fome de predadores
+
 ## criado em: 13:14 17-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Projeto Psiconautas]] 
 - [[Psiconautas viagens com a ciência psicodélica brasileira]]

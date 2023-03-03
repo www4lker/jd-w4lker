@@ -9,13 +9,17 @@ tags:
 title: 202207092227
 date: 2023-02-24
 ---
+
 # 202207092227
+
 ### criado em: 02:48 24-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[Projeto Psiconautas]]
 ---
+
 ## Psilocu
 
 - A microdosagem de psilocibina envolve a autoadministração repetida de cogumelos, em doses pequenas o suficiente para não afetar o funcionamento regular.

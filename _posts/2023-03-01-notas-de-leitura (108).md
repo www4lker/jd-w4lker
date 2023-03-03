@@ -7,10 +7,13 @@ tags:
 title: como mudar sua mente ep 2
 date: 2023-02-24
 ---
+
 # como mudar sua mente ep 2
+
 criado em: 21:16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Projeto Psiconautas]] 
 - notas de literatura: [[Pollan, Michael]] [[Como mudar sua mente - netflix]]
@@ -36,4 +39,3 @@ criado em: 21:16
 - the conscience
 - a experiencia do pollan;
 - ele avisa que a proxima parada é na estação mdma isso me lembra do livro do rezende [[Psiconautas viagens com a ciência psicodélica brasileira]] e que fala sobre isso também.
-- 

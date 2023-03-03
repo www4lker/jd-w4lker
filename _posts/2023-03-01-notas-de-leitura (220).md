@@ -7,10 +7,13 @@ title: Thomas Mann
 aliases: Thomas Mann
 date: 2023-02-24
 ---
+
 # Thomas Mann
+
 ### criado em: 15:10 22-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[20082022]]
@@ -33,6 +36,7 @@ date: 2023-02-24
 - [[Sebald, W. G.]] 
 - [[A História Concisa Da Literatura Alemã]]
 - ---
+
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar Thomas Mann?
 
 1. Thomas Mann foi um escritor e crítico social alemão.

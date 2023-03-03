@@ -12,13 +12,16 @@ tags:
   - montanha
 title: para que tantos projetos
 ---
+
 # para que tantos projetos
+
 criado em: 15:27 2022-07-29
 
 ##### Relacionado
+
 - palavras-chave: 
-- notas permanentes: [[ensaios, de montaigne]] [[LENDO MONTAIGNE]]
-[[Montaigne, Michel de]] [[como viver, sarah bakewell]]  [[LENDO MONTAIGNE]]
+- notas permanentes: [[ensaios, de montaigne]] [[LENDO MONTAIGNE]]  
+[[Montaigne, Michel de]] [[como viver, sarah bakewell]] [[LENDO MONTAIGNE]]  
 [[nota permanente]]
 
 ---

@@ -9,14 +9,16 @@ tags:
   - literatura
 title: alan moore acertou nessa
 ---
+
 # alan moore acertou nessa
+
 ## criado em: 09:09 11-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[referência a watchmen]]
 - [[O Fascismo Eterno]]
-
 
 [fonte](https://www.wired.com/story/alan-moore-superheroes/)
 

@@ -6,10 +6,13 @@ tags:
   - pessoalidades
 title: acordo de herança em andamento
 ---
+
 # acordo de herança em andamento
+
 ## criado em: 20:30 22-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
@@ -27,7 +30,7 @@ title: acordo de herança em andamento
 9. eu também quero oferecer algo que me dá trabalho; a casa emq ue a áurea está morando
 10. a casa de pimenteira é minha segunda opção — ou a moto e o carro.
 11. queremos resolver logo, em acordo amigável e em seis meses
-12. um detalhe deste acordo sendo tecido: não estamos utilizando valores atualizados, mas apenas aquilo que temos e que podemos passar  — de modo a simplificar o acordo
+12. um detalhe deste acordo sendo tecido: não estamos utilizando valores atualizados, mas apenas aquilo que temos e que podemos passar — de modo a simplificar o acordo
 13. sabemos que isso não é definitivo, que não ta nada resolvido, mas também estamos pela primeira vez vendo um fim deste processo
 14. Acreditamos que um acordo tácido com o Santiago é possível — eles não vão cobrar nossos recebimentos de alugueis, e nós não cobramos os impostos ou a dívida empregatícia de terceiros.
 15. não sabemos ainda como será a recepção por parte deles, mas achamos que se dermos o primeiro passo já estaremos na vantagem. 

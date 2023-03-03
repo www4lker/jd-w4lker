@@ -6,14 +6,17 @@ tags:
 title: evergreen notes
 date: 2023-02-24
 ---
+
 # evergreen notes
+
 criado em: 10:48 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
-- notas de literatura: 
+- notas de literatura:  
 [[zettelkasten]]
 ---
 
@@ -23,14 +26,13 @@ As notas Evergreen são escritas e organizadas para evoluir, contribuir, e acumu
 
 É difícil escrever notas que valem a pena desenvolver ao longo do tempo. Estes princípios ajudam:
 
->[!INFO] As notas Evergreen devem ser atômicas
-As notas Evergreen devem ser orientadas para o conceito
-As notas Evergreen devem ser densamente ligadas
-Preferem ontologias associativas a taxonomias hierárquicas
+>[!INFO] As notas Evergreen devem ser atômicas  
+As notas Evergreen devem ser orientadas para o conceito  
+As notas Evergreen devem ser densamente ligadas  
+Preferem ontologias associativas a taxonomias hierárquicas  
 Escreva notas para si mesmo por padrão, desconsiderando o público.
 
 Este conceito, naturalmente, está enormemente endividado com a noção de um Zettelkasten. Implementando a prática de uma nota EVERGREEN
-
 
 Note que:
 
@@ -38,9 +40,8 @@ Escreva sobre o que você leu para interiorizar profundamente os textos
 
 Uma caixa de entrada de leitura para capturar referências possivelmente úteis
 
-Uma caixa de entrada para notas transitórias e incompletas
+Uma caixa de entrada para notas transitórias e incompletas  
 Estratégia executável para a [[ESCRITA ONTEM, ESCRITA HOJE, ESCRITA AMANHÃ]]
 
->[!INFO] NÃO EXISTE SINDROME DO IMPOSTOR E BLOQUEIO CRIATIVO PARA QUEM SE CONHECE E MANTÉM UMA PRÁTICA CONSISTENTE DE ANOTAÇÃO
+>[!INFO] NÃO EXISTE SINDROME DO IMPOSTOR E BLOQUEIO CRIATIVO PARA QUEM SE CONHECE E MANTÉM UMA PRÁTICA CONSISTENTE DE ANOTAÇÃO  
 Para maior referência: [[sindrome do impostor e dunning krugger efeito]]
-

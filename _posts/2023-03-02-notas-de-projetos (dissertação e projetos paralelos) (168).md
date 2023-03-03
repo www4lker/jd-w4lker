@@ -10,10 +10,13 @@ tags:
   - insumos
 title: Contornando a floresta negra da web
 ---
+
 # Contornando a floresta negra da web
+
 criado em: 22:33 2022-08-17
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: [[dissertação index]]
 - [[📕 DISSERTAÇÃO]]
@@ -35,7 +38,6 @@ Quando comecei a escrever aqui nesse blog, eu não sabia exatamente qual seria o
 A intenção, adianto, era de retribuição e nada mais. Eu me sentia grato por ter algumas oportunidades que sei,eram esperadas há muito tempo, como a de voltar a fazer faculdade, de possuir um computador e a paciência para estudar. Eu me sentia nessa obrigação de transformar minhas bênçãos em frutos para os outros. Ainda penso isso, mas na hiperatividade e no redemoinho de informações que se transformou a internet, falta-me muitas vezes a disposição necessária (hoje mais do que nunca, em meio a uma pandemia e mortandade que atravessa qualquer alegria criativa que possa haver para se sentar e escrever). E não é coisa simples de resolver, porque nisso entram questionamentos sobre o meio utilizado, se as pessoas estão mesmo dispostas a ler (ainda mais ler em telas), se eu ainda estou em sintonia com o tema relevante, etc.
 
 A intenção se perdeu na possibilidade e o corpo se perdeu na rotina. Minha pós graduação se perdeu na origem, e o país se perdeu da democracia. Nada me parece por acaso, e quando lembro de minha pergunta ao _i ching_ (oráculo chinês, que estudei sozinho por muito tempo) sobre “escrever para os outros”, “o que eu poderia esperar” ele apenas me disse: silêncio. E de fato, houve silêncio, não da minha parte, eu queria começar a página, escrever com frequência e melhorar minhas habilidade comunicativas ao mesmo tempo que retribuía para os outros aquilo que eu achava que poderia doar. O silêncio, eu descobri, vinha do outro lado. Não haveria retorno, comunicação, feedback ou lapso retroativo do público, dos leitores, enfim, da internet. Uma gota de ideia (muito menos que isso talvez) no oceano de informação, e que mais eu poderia esperar? Nada, e aceitei apesar de ser duro, muitas vezes não saber se estava acertando ou errando (uma pequena exceção neste sentido foram alguns amigos e minha esposa que me deram dicas sobre o que leram, e agradeço a eles de coração: William-meu-malvado-favorito, Cristian-meu-revolucionário-stalinista, Victor que também escreveu aqui e Fatima, claro).
-
 
 > Aquela vez que passamos um mês em uma vila de meditadores no interior do Rio e foi tão perfeito que nunca mais voltamos
 

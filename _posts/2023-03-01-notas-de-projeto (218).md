@@ -7,10 +7,13 @@ tags:
   - promptgpt3
 title: Sebald, W. G.
 ---
+
 # Sebald, W. G.
+
 criado em: 14:11 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas
 - [[Os Anéis de Saturno]] 
@@ -38,4 +41,3 @@ criado em: 14:11 2022-10-06
 - **Ele é mais conhecido por sua prosa "hipnótica" e "assombrosa", com seus romances lendo como diários de viagem intricadamente digressivos, fundamentados em memórias impressionistas e associações**
 - Ele foi frequentemente comparado a escritores como Kafka, Nabokov, Bernhard e Borges por seu estilo e temas únicos
 - Seus livros incluem Os Emigrantes, Vertigem, Os Anéis de Saturno, e Austerlitz.
-

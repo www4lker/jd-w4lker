@@ -10,10 +10,13 @@ tags:
   - promptgpt3
 title: 201220221508
 ---
+
 # 201220221508
+
 ## criado em: 15:08 2022-12-20
 
 ### Relacionado
+
 - palavras-chave:   
 - notas: 
 - [[dissertação index]]
@@ -31,9 +34,11 @@ title: 201220221508
 - [[filosofia da tecnologia]]
 - [[5 coisas sobre filosofia da tecnologia]]
 ---
+
 [fonte](https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/)
 
 # Empatia na era da IA
+
 ## O antropomorfismo já foi considerado um perigo para o mundo animal. Não é tão simples assim.
 
 - O antropomorfismo, a atribuição de características humanas a entidades não humanas, tem uma conotação negativa e é freqüentemente desencorajado na sociedade moderna.

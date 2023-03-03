@@ -13,20 +13,22 @@ tags:
   - mestredeculturacontemporanea
 title: quais problemas seu projeto pode resolver
 ---
+
 # quais problemas seu projeto pode resolver
+
 criado em: 00:46 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave:     
 - notas permanentes: [[interesses de pesquisa]]
 - notas de dissertação:
 - notas de literatura:
 - [[300920221013]]
--  [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/# 8 estratégias para encontrar o problema com o qual trabalhar numa tese]]
+- [[DISSERTAÇÃO E PROJETOS PARALELOS/INSIGHT PENSAMENTO E MEDITAÇÃO/# 8 estratégias para encontrar o problema com o qual trabalhar numa tese]]
 ---
+
 ## Enumerar os principais problemas que uma abordagem filosófica à cibercultura e ao hipertexto terá de abordar:
-
-
 
 1. Qual é a natureza da cibercultura e do hipertexto?
 
@@ -37,7 +39,6 @@ criado em: 00:46 2022-08-14
 4. Quais são as implicações políticas da cibercultura e do hipertexto?
 
 5. Quais são as implicações sociais da cibercultura e do hipertexto?
-
 
 ## Criar um esboço para um ensaio sobre a natureza do hipertexto e os impactos na cultura:
 

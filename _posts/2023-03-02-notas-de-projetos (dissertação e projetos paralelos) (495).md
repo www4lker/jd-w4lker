@@ -8,10 +8,13 @@ tags:
   - zettelkasten
 title: 3900 palavras
 ---
+
 # 3900 palavras
+
 criado em: 16:42 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[zettelkasten]]
 - notas de literatura: 
@@ -45,11 +48,9 @@ criado em: 16:42 2022-08-01
 - [[NOTAS PERMANENTES/zettelkasten.md]]
 ---
 
-assistindo thais godinho falando sobre o metodo [[zettelkasten]]
-ela fala sobre as duas formas de notas: ideias e literatura. 
-ela usa notas de papel para fazer as notas bibliograficas; e dali apenas para ir ao obsidian. os argumentos sao razoaveis, os mesmos que lemos no livro 
+assistindo thais godinho falando sobre o metodo [[zettelkasten]]  
+ela fala sobre as duas formas de notas: ideias e literatura.  
+ela usa notas de papel para fazer as notas bibliograficas; e dali apenas para ir ao obsidian. os argumentos sao razoaveis, os mesmos que lemos no livro  
 as notas de papel, em um livro de papel faz sentido - eu posso usar um caderno mesmo -ou caderneta ou mesmo fichas, como ela. 
 
 ![[NOTAS DE LEITURA/LIVROS/How to Take Smart Notes]] 
-
-

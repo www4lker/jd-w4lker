@@ -8,10 +8,13 @@ tags:
   - interessesdepesquisa
 title: 141020221550
 ---
+
 # 141020221550
+
 criado em: 15:50 2022-10-14
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: 
 - notas de dissertação:
@@ -21,7 +24,8 @@ criado em: 15:50 2022-10-14
 - [[5 estratégias para potencializar a empatia através da investigação acadêmica]]
 
 ---
-##  6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades:
+
+## 6 palpites de coisas que o mundo precisa e ninguém está a fazer nas humanidades:
 
 1. Mais investigação sobre a história das culturas subestudadas e subrepresentadas.
 

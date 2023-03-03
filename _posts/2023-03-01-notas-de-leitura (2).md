@@ -3,14 +3,17 @@ tags: permanente
 title: 011120222042
 date: 2023-02-24
 ---
+
 # 011120222042
+
 ### criado em: 20:42 2022-11-01
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
-- 
 ---
+
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar Manuel Castells?
 
 1. Manuel Castells é um sociólogo e economista conhecido por seu trabalho sobre a sociedade da informação e a economia digital.
@@ -22,4 +25,3 @@ date: 2023-02-24
 4. Castells foi professor em várias universidades de prestígio, incluindo a Universidade da Califórnia, Berkeley, a Universidade do Sul da Califórnia e a Universidade de Barcelona.
 
 5. Castells é membro do Conselho Consultivo do Conselho Europeu de Pesquisa e Fellow da Academia Britânica.
-

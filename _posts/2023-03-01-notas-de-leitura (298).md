@@ -3,17 +3,20 @@ tags: permanente
 title: Stephen King
 date: 2023-02-24
 ---
+
 # Stephen King
+
 criado em: 16:50 2022-10-18
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 - [[Sobre a Escrita]]
-- [[Sobre a Escrita-2]]
-[[Quatro Estações]]
+- [[Sobre a Escrita-2]]  
+[[Quatro Estações]]  
 [[rose madder]]
 
 ---

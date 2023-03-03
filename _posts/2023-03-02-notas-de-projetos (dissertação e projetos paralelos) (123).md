@@ -10,16 +10,18 @@ tags:
   - insumos
 title: CANTO DO CISNE
 ---
+
 # CANTO DO CISNE
+
 criado em: 22:42 2022-08-17
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: [[dissertação index]]
 - [[📕 DISSERTAÇÃO]]
 
 ---
-
 
 # Canto do Cisne 
 

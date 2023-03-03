@@ -9,10 +9,13 @@ tags:
   - wiredetal
 title: web 3.0
 ---
+
 # web 3.0
+
 criado em: 13:47 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -24,6 +27,7 @@ criado em: 13:47 2022-10-17
 - [[hipercultura]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar a web 3.0?
 
 1. A Web 3.0 é a próxima geração da World Wide Web, onde a web é mais interativa e centrada no usuário.

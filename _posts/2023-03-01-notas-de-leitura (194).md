@@ -7,10 +7,13 @@ tags:
 title: inhotim na netflix
 date: 2023-02-24
 ---
+
 # inhotim na netflix
+
 criado em: 19:38 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

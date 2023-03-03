@@ -12,10 +12,13 @@ tags:
   - criatividade
 title: 190120231247
 ---
+
 # 190120231247
+
 ## criado em: 13:00 19-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[A.-D. Sertillanges]]
@@ -23,7 +26,9 @@ title: 190120231247
 - [[a filosofia por trás dos 10 princípios das anotações eficazes]]
 - [[Como fazer melhores resumos (e depender menos do gpt)]]
 ---
+
 # A vida intelectual — Sertilanges A-D.
+
 ## Capítulo 7 — NOTAS
 
 - Os assuntos de leitura, memória e notas estão intimamente relacionados e todos visam a completar-nos e produzir trabalho quando chegar o momento.
@@ -45,4 +50,3 @@ title: 190120231247
 - Para classificar as notas, deve-se elaborar um catálogo de assuntos com divisões e subdivisões, e numerar cada categoria usando cartões-guia.
 - Deve-se adotar um método adequado ao próprio trabalho, e ser realista para evitar complicações desnecessárias.
 - Uma vez organizadas as notas, elas serão fáceis de encontrar no momento do trabalho.
-

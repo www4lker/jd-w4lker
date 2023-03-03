@@ -7,10 +7,13 @@ tags:
   - newsletter
 title: 5 coisas sobre filosofia da tecnologia
 ---
+
 # 5 coisas sobre filosofia da tecnologia
+
 ## criado em: 10:20 04-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Heidegger, Martin]]
 - [[paradoxo de polanyi]]

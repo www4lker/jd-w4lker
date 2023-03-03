@@ -6,19 +6,23 @@ tags:
 title: PEN INTERNATIONAL
 date: 2023-02-24
 ---
+
 # PEN INTERNATIONAL
+
 ## criado em: 12:24 25-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[relendo os clássicos russos artigo new yorker]]
-- 
 ---
+
 A PEN International (conhecida como PEN Internacional até 2010) é uma associação mundial de escritores, fundada em Londres em 1921 para promover a amizade e a cooperação intelectual entre escritores em todos os lugares. A associação tem centros PEN Internacional autônomos em mais de 100 países. 
 
 Outros objetivos incluem: enfatizar o papel da literatura no desenvolvimento da compreensão mútua e da cultura mundial; lutar pela liberdade de expressão; e agir como uma voz poderosa em nome dos escritores perseguidos, presos e às vezes mortos por suas opiniões. 
 
 ---
+
 # The enemy is Putin, not Pushkin
 
 Veröffentlicht am [Sonntag, den 6. März 2022](https://www.pen-deutschland.de/de/2022/03/06/the-enemy-is-putin-not-pushkin/ "12:31") von [PEN-Zentrum](https://www.pen-deutschland.de/de/author/pen-zentrum/ "Zeige alle Beiträge von PEN-Zentrum")

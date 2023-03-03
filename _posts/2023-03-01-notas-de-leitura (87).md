@@ -1,9 +1,10 @@
 ---
 tags: permanente
-title: assisti bastard
+title: 2023-03-01-notas-de-leitura (87)
 date: 2023-02-24
 ---
-assisti *bastard!!*,  ep 1, na netflix na hora do almoço.
+
+assisti *bastard!!*, ep 1, na netflix na hora do almoço.  
 o prompt para me fazer querer ver foi a menção dele no kotaku's site. um site de games e cultura pop. [O link.](https://kotaku.com/bastard-netflix-anime-harem-heavy-metal-trashy-ecchi-1849135990?utm_source=kotaku_newsletter&utm_medium=email&utm_campaign=[[[[[[[[[[2022-07]]]]]]]]]]-03)
 
 ### Netflix’s New Heavy Metal Fantasy Anime Is Unapologetically Horny And That's OK

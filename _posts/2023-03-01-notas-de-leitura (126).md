@@ -3,16 +3,20 @@ tags: permanente
 title: David Graeber
 date: 2023-02-24
 ---
+
 # David Graeber
+
 criado em: 12:44 20-10-2022
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: [[David Wengrow]] 
 - [[O despertar de tudo]] 
 - [[Humans Have Always Been Wrong About Humans]]
 
 ---
+
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar David Graeber?
 
 1. David Graeber é um antropólogo e ativista anarquista americano que atualmente é professor da London School of Economics.
@@ -26,7 +30,9 @@ criado em: 12:44 20-10-2022
 5. Ele é uma figura controversa, e sua obra tem sido elogiada e criticada por uma variedade de estudiosos e comentaristas.
 
 ---
+
 ## Graeber by himself:
+
 fonte: https://davidgraeber.space/contact
 
 I was born and raised in New York, the child of Kenneth Graeber, a plate stripper (offset photolithography), originally from Kansas, who had fought with the International Brigades in the Spanish Civil War, and Ruth (Rubinstein) Graeber, born in Poland, a garment worker and home-maker who had been the female lead in the 1930s Labor Stage musical, Pins & Needles.

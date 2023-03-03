@@ -2,22 +2,29 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: 131220222303
 ---
+
 # 131220222303
+
 ## criado em: 23:03 2022-12-13
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[wired with a coder]]
 - [[gpt3]]
 - [[o que podemos aprender sobre resistência com os programadores]]
 ---
+
 *Stanford Computer Scientist ~~Answers~~ Coding Questions From Twitter*
+
 # CHAT GPT Answers Coding Questions From Twitter
 
 ### "How many coding languages are there?"
+
 There are many different coding languages, and new ones are being developed all the time. Some of the most popular and widely used coding languages include Python, Java, JavaScript, C, C++, and Java. There are also many specialized or niche coding languages that are used for specific purposes or industries. It is not possible to provide a definitive number of how many coding languages exist, as new ones are constantly being created and others may become obsolete over time.
 
 ### "Can coding be self taught?" 
+
 Yes, coding can be self-taught. Many successful programmers have taught themselves how to code and have gone on to have successful careers in the field. There are many online resources and classes available that can help someone learn how to code on their own.
 
 ### "I always wondered in apocalyptic and action movies, how do coders manage to save the day without ever using Stack Overflow?"
@@ -30,8 +37,8 @@ Front end and back end refer to the two sides of a website or application. The f
 
 ### What is the shortest piece of code that changed the world? 
 
-It is difficult to say which piece of code is the shortest that changed the world. Many different pieces of code have had a profound impact on society and the world, and many of these pieces of code are quite complex and long. For example, the code that powers the internet, or the code that enables smartphones to function, are both incredibly complex and long. Additionally, the impact of a piece of code is often determined by the context in which it is used, and so the importance of a piece of code may not necessarily be related to its length.
-*(What is the most genius piece of code that changed the world?)*
+It is difficult to say which piece of code is the shortest that changed the world. Many different pieces of code have had a profound impact on society and the world, and many of these pieces of code are quite complex and long. For example, the code that powers the internet, or the code that enables smartphones to function, are both incredibly complex and long. Additionally, the impact of a piece of code is often determined by the context in which it is used, and so the importance of a piece of code may not necessarily be related to its length.  
+*(What is the most genius piece of code that changed the world?)*  
 Some examples of significant pieces of code include the first digital computer program written by Ada Lovelace in the 1800s, the first software program created by Grace Hopper in the 1950s, and the first mobile app developed by Apple in the 1990s. These and many other pieces of code have had a profound impact on the world and continue to shape the way we live and interact with technology.
 
 ### "How much could a C plus plus if a C plus could plus plus?"
@@ -75,6 +82,7 @@ It is difficult to say which coding language is the easiest one, as different pe
 You do not necessarily have to be good at math to be a good coder, but having a strong foundation in math can be helpful in some situations. Many programming languages and frameworks, particularly those used in fields like data science and machine learning, involve a significant amount of math. For example, algorithms used in these fields often rely on mathematical concepts such as probability, statistics, linear algebra, and calculus. Having a strong understanding of these concepts can make it easier to understand and implement these algorithms, and can also help you to develop more efficient and effective solutions to problems. However, not all coding tasks require a high level of math proficiency, and many programmers are able to effectively use programming languages without a deep understanding of advanced mathematical concepts.
 
 ### Is coding required for web design?"
+
 Yes, coding is generally required for web design. Web designers use a variety of programming languages and technologies to create the visual and functional elements of a website. These languages can include HTML, CSS, and JavaScript, among others. HTML is used to structure the content of a website, such as text and images, while CSS is used to define the style and layout of a website, including colors, fonts, and spacing. JavaScript is a programming language that is often used to add interactivity and dynamic features to a website, such as animation and user input validation. In order to create a functional and visually appealing website, web designers must have a good understanding of these and other coding languages.
 
 ### Why is coding important?"

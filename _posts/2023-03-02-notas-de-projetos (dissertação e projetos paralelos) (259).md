@@ -10,10 +10,13 @@ tags:
   - mestredeculturacontemporanea
 title: isso não é um blog
 ---
+
 # isso não é um blog
+
 criado em: 11:43 2022-09-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -21,4 +24,3 @@ criado em: 11:43 2022-09-29
 - [[Isto não é um cachimbo por VF]]
 
 ---
-

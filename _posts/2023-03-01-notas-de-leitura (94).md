@@ -9,15 +9,19 @@ title: Bergson
 aliases: Bergson
 date: 2023-02-24
 ---
+
 # Bergson
+
 criado em: 16:13 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Camus, Albert]]
 
 ---
+
 # HENRI BERGSON
 
 ## Quais são os 8 pontos-chave que eu deveria saber ao estudar Henri Bergson?
@@ -37,4 +41,3 @@ criado em: 16:13 2022-10-12
 7. Bergson foi agraciado com o Prêmio Nobel de Literatura em 1927.
 
 8. Bergson morreu em 1941.
-

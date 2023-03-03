@@ -7,10 +7,13 @@ tags:
 title: Eduardo viveiros de castro
 date: 2023-02-24
 ---
+
 # Eduardo viveiros de castro
+
 criado em: 16:52 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -28,4 +31,3 @@ Quais são os 7 pontos-chave que eu deveria saber ao estudar Eduardo Viveiros de
 5. Ele tem trabalhado com vários povos indígenas no Brasil.
 6. Ele é membro da Ordem Nacional do Mérito Científico.
 7. Ele é professor da Universidade Federal do Rio de Janeiro.
-

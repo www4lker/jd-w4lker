@@ -7,10 +7,13 @@ tags:
 title: Harari, Yuval Noah
 date: 2023-02-24
 ---
+
 # Harari, Yuval Noah
+
 criado em: 13:01 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -30,7 +33,6 @@ criado em: 13:01 2022-10-17
 5. Harari é uma figura controversa, e seu trabalho tem sido criticado por alguns por sua falta de objetividade.
 
 ### Crie uma lista de 8 perguntas para minha entrevista com Yuval Noah Harari:
-
 
 1. O que o inspirou a escrever 'Sapiens'?
 

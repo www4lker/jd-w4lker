@@ -10,10 +10,13 @@ tags:
 title: 240920221422
 date: 2023-02-24
 ---
+
 # 240920221422
+
 criado em: 14:22 2022-09-24
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -23,20 +26,20 @@ criado em: 14:22 2022-09-24
 - [[Hipertexto]]
 
 ---
+
 # Escrevendo agora
 
 Escrevendo sobre esse _rolê_ de _markdown_. Neste ano eu andei por várias plataformas, entre eles:
 
--   _nimble_
+- _nimble_
     
--   _scrivener_
+- _scrivener_
     
--   _obsidian_
+- _obsidian_
     
--   _VS CODE ou ATOM_
+- _VS CODE ou ATOM_
     
--   _typora_
-    
+- _typora_
 
 Existem duas coisas que me fazem pesar os prós e contras - a qualidade e a viabilidadade.
 
@@ -44,25 +47,23 @@ Existem duas coisas que me fazem pesar os prós e contras - a qualidade e a viab
 
 eu sei que poderia usar um dos seguintes programas
 
--   _word_
+- _word_
     
--   _word online_
+- _word online_
     
--   _google docs_
+- _google docs_
     
--   _libre office_
-    
+- _libre office_
 
 Esses programas não são ruins; na verdade são maravilhosos, e em um deles eu vou editar e trabalhar TODO o meu texto. Mas, a função deles é diferente. No primeira categoria eu organizo as _**notas**_ e na segunda, o **texto**. Mas como posso escolher cada? O mesmo conjunto de regras se aplica a cada:
 
--   é pago ou grátis?
+- é pago ou grátis?
     
--   tem comunidade por trás ajudando ou não?
+- tem comunidade por trás ajudando ou não?
     
--   é bom no que se propõe?
+- é bom no que se propõe?
     
--   quais seus recursos?
-    
+- quais seus recursos?
 
 ## Vamos à comparação
 

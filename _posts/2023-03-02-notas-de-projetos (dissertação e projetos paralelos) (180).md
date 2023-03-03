@@ -8,14 +8,18 @@ tags:
   - promptgpt3
 title: deleted_user
 ---
+
 # deleted_user
+
 ## criado em: 13:39 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[nosurf]]
 - [[nosurf reddit recommendations]]
 ---
+
 [fio original](https://www.reddit.com/r/nosurf/comments/tiko9t/reddit_is_like_reading_a_newspaper_edited_by/)
 
 # Reddit é como ler um jornal editado por 100.000 meninos de 14 anos

@@ -6,10 +6,13 @@ tags:
   - criatividade
 title: INFP
 ---
+
 # INFP
+
 ## criado em: 03:12 11-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[111220220302]]
 ---
@@ -47,33 +50,35 @@ People with this personality type tend to feel directionless or stuck until they
 Fortunately, like flowers in the spring, Mediators’ creativity and idealism can bloom even after the darkest of seasons. Although they know the world will never be perfect, Mediators still care about making it better however they can. This quiet belief in doing the right thing may explain why these personalities so often inspire compassion, kindness, and beauty wherever they go.
 
 ---
+
 # Strengths & Weaknesses
 
 ## Mediator (INFP) Strengths
 
 ![Mediator (INFP) strengths](https://static.neris-assets.com/images/personality-types/scenes/diplomats_Mediator_INFP_strengths.svg)
 
--   **Empathetic** – Mediators don’t just care about other people in an abstract sense. These personalities can actually feel another person’s emotions, from joy and elation to sorrow and regret. Because of this sensitivity, Mediators tend to be thoughtful and kindhearted, and they hate the idea of hurting anyone, even unintentionally.
--   **Generous** – Mediators rarely enjoy succeeding at other people’s expense. They feel called to share the good things in their lives, give credit where it’s due, and uplift the people around them. These personalities want to contribute to a world where every voice is heard and no one’s needs go unmet.
--   **Open-Minded** – Tolerant and accepting, Mediators try not to judge anyone else’s beliefs, lifestyles, or decisions. This is a personality type that prefers compassion to fault-finding, and many Mediators feel empathy even for those who have done wrong. Because they’re so accepting, Mediators often become confidants for their friends and loved ones – and occasionally for total strangers.
--   **Creative** – Mediators love to see things from unconventional perspectives. Few things give them more pleasure than allowing their minds to wander through all sorts of ideas and possibilities and daydreams. It’s no wonder, then, that many Mediators are drawn to creative pursuits – or that this personality type is well represented among writers and artists.
--   **Passionate** – When an idea or movement captures their imagination, Mediators want to give their whole heart to it. People with this personality type may not always be outspoken, but that doesn’t diminish their strong feelings for a cause that speaks to their beliefs and convictions.
--   **Idealistic** – Mediators strive to follow their conscience, even when doing the right thing isn’t easy or convenient. They rarely lose sight of their desire to live a meaningful, purpose-filled life – one that helps others and leaves the world a better place.
+- **Empathetic** – Mediators don’t just care about other people in an abstract sense. These personalities can actually feel another person’s emotions, from joy and elation to sorrow and regret. Because of this sensitivity, Mediators tend to be thoughtful and kindhearted, and they hate the idea of hurting anyone, even unintentionally.
+- **Generous** – Mediators rarely enjoy succeeding at other people’s expense. They feel called to share the good things in their lives, give credit where it’s due, and uplift the people around them. These personalities want to contribute to a world where every voice is heard and no one’s needs go unmet.
+- **Open-Minded** – Tolerant and accepting, Mediators try not to judge anyone else’s beliefs, lifestyles, or decisions. This is a personality type that prefers compassion to fault-finding, and many Mediators feel empathy even for those who have done wrong. Because they’re so accepting, Mediators often become confidants for their friends and loved ones – and occasionally for total strangers.
+- **Creative** – Mediators love to see things from unconventional perspectives. Few things give them more pleasure than allowing their minds to wander through all sorts of ideas and possibilities and daydreams. It’s no wonder, then, that many Mediators are drawn to creative pursuits – or that this personality type is well represented among writers and artists.
+- **Passionate** – When an idea or movement captures their imagination, Mediators want to give their whole heart to it. People with this personality type may not always be outspoken, but that doesn’t diminish their strong feelings for a cause that speaks to their beliefs and convictions.
+- **Idealistic** – Mediators strive to follow their conscience, even when doing the right thing isn’t easy or convenient. They rarely lose sight of their desire to live a meaningful, purpose-filled life – one that helps others and leaves the world a better place.
 
 ## Mediator (INFP) Weaknesses
 
 ![Mediator (INFP) weaknesses](https://static.neris-assets.com/images/personality-types/scenes/diplomats_Mediator_INFP_weaknesses.svg)
 
--   **Unrealistic** – Nothing in this world is perfect – and that can be a difficult truth for Mediators to accept. People with this personality type can be hopeless romantics, with rose-colored visions of what their lives should be like. This can set Mediators up for disappointment when reality inevitably falls short of their dreams.
--   **Self-Isolating** – Mediators long to connect with others, but they don’t always know how. Especially in new environments, Mediators may be reluctant to put themselves out there in ways that would help them make new friends or become involved in a new community. As a result, people with this personality type may sometimes feel lonely or isolated.
--   **Unfocused** – Mediators’ imaginative, introspective nature doesn’t always lend itself to productivity. Many Mediators get frustrated by how difficult they find it to buckle down and get things done. The problem isn’t that they are incapable – rather, it’s that they run into problems when they become so caught up in different ideas and ideals that they fail to commit to a course of action.
--   **Emotionally Vulnerable** – The emotional attunement of these personalities is among their greatest strengths. But unless Mediators establish boundaries, they can be at risk of absorbing other people’s negative moods or attitudes.
--   **Desperate to Please** – Conflict tends to be stressful for Mediators, who yearn for harmony and acceptance. When someone dislikes or disapproves of them, these personalities may become fixated on trying to clear the air and change that person’s mind. Unfortunately, Mediators’ desire to please others can drain their energy, eclipsing their inner wisdom and their awareness of their own needs.
--   **Self-Critical** – Mediators believe in their unique potential, and they desperately want to live up to it. But this can cause them to have unrealistic expectations for themselves. When Mediators fail to live up to these visions, they may accuse themselves of being useless or selfish or woefully inadequate. Taken too far, this self-criticism can discourage Mediators, leading them to give up on even their dearest dreams.
+- **Unrealistic** – Nothing in this world is perfect – and that can be a difficult truth for Mediators to accept. People with this personality type can be hopeless romantics, with rose-colored visions of what their lives should be like. This can set Mediators up for disappointment when reality inevitably falls short of their dreams.
+- **Self-Isolating** – Mediators long to connect with others, but they don’t always know how. Especially in new environments, Mediators may be reluctant to put themselves out there in ways that would help them make new friends or become involved in a new community. As a result, people with this personality type may sometimes feel lonely or isolated.
+- **Unfocused** – Mediators’ imaginative, introspective nature doesn’t always lend itself to productivity. Many Mediators get frustrated by how difficult they find it to buckle down and get things done. The problem isn’t that they are incapable – rather, it’s that they run into problems when they become so caught up in different ideas and ideals that they fail to commit to a course of action.
+- **Emotionally Vulnerable** – The emotional attunement of these personalities is among their greatest strengths. But unless Mediators establish boundaries, they can be at risk of absorbing other people’s negative moods or attitudes.
+- **Desperate to Please** – Conflict tends to be stressful for Mediators, who yearn for harmony and acceptance. When someone dislikes or disapproves of them, these personalities may become fixated on trying to clear the air and change that person’s mind. Unfortunately, Mediators’ desire to please others can drain their energy, eclipsing their inner wisdom and their awareness of their own needs.
+- **Self-Critical** – Mediators believe in their unique potential, and they desperately want to live up to it. But this can cause them to have unrealistic expectations for themselves. When Mediators fail to live up to these visions, they may accuse themselves of being useless or selfish or woefully inadequate. Taken too far, this self-criticism can discourage Mediators, leading them to give up on even their dearest dreams.
 
 Feeling self-critical right now? Before going to the next section, scroll up to reread your strengths – and let them serve as a reminder of how much you, dear Mediator, can bring to this world.
 
 ---
+
 # Romantic Relationships
 
 Mediators (INFPs) are dreamers and idealists, especially when it comes to romance. People with this personality type believe in the power and beauty of true love, and they sincerely hope never to settle for anything less.
@@ -111,6 +116,7 @@ People with this personality type may need to remind themselves that open, hones
 As long as they communicate openly, Mediators are more than capable of staying true to themselves in a relationship – and encouraging the person they care about to do the same. By bringing their whole hearts and minds to their relationships, Mediators can find out what it truly means to love and be loved.
 
 ---
+
 # Friendships
 
 When it comes to their social lives, Mediators (INFPs) may find themselves caught in a web of contradictions. People with this personality type crave alone time, but they’re also vulnerable to loneliness. They long to feel accepted and well-liked, but they hate the idea of pretending to be anyone but their authentic selves. And while they hesitate to draw attention to themselves, they don’t want to be invisible, either.
@@ -142,6 +148,7 @@ Even as their friendships grow stronger, Mediators’ enigmatic qualities never 
 Mediators look for ways to improve their friendships and share their affection with those who matter to them. Often, this takes the form of spending quality time with their friends – coming up with grand visions for the future and sharing their secret dreams and ideas with someone they know they can trust. But even when Mediators are entirely on their own, they always hold their friends in their hearts.
 
 ---
+
 # Parenthood
 
 For Mediators (INFPs), life is a journey. But even as they find their own way through the world, these personalities feel called to help other people embark on their own journeys toward meaning, fulfillment, and happiness. In their understated, nondomineering way, Mediators love guiding others to learn and grow – and parenthood can be an incredibly rewarding opportunity for them to do exactly that.
@@ -171,6 +178,7 @@ Another hurdle for many parents with this personality type is establishing pract
 When they balance structure with spontaneity, Mediators can help their children grow into their most caring, responsible, and joyful selves. And that is exactly what these parents strive for – to raise children who recognize their unique gifts and talents and share them with the world.
 
 ---
+
 # Career Paths
 
 Many Mediators (INFPs) long for a career that doesn’t just take care of the bills but also feels fulfilling. They want to spend their days doing something they genuinely love, preferably without too much stress or drama.
@@ -200,6 +208,7 @@ Mediators are adaptable, but they may find it demotivating to work in high-stres
 That said, Mediators don’t need ideal conditions to thrive professionally. These personalities want to live in tune with their values, in their careers as much as in any other aspect of their lives. They can put up with – and overcome – any number of challenges as they pursue a sense of mission in their work.
 
 ---
+
 # Workplace Habits
 
 Mediators (INFPs) want to feel a sense of purpose in their work. Wherever they find themselves on the job ladder, they try to cultivate an emotional and moral connection to what they do – looking for reassurance that their day-to-day efforts are helping other people in some shape or form. This desire to be of service colors how Mediator personalities respond to authority in the workplace as well as how they express it.
@@ -231,6 +240,7 @@ In general, people with this personality type don’t micromanage. Instead, they
 There is a downside to this management style. Sometimes Mediators may struggle to set boundaries, drill down on inefficiencies, or offer criticism, even when it’s necessary. This can slow down their team and create needless stress, both for Mediators and for their employees. At times, managers with this personality type may need to be strict for the good of their team – and the workplace as a whole.
 
 ---
+
 # Conclusion
 
 Few personality types are as poetic and kindhearted as Mediators (INFPs). With their unique gifts, Mediators can overcome all sorts of challenges and obstacles – _and_ brighten the lives of those around them in the process.

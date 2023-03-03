@@ -5,15 +5,16 @@ tags:
 title: Cortázar, Julio
 date: 2023-02-24
 ---
+
 # Cortázar, Julio
+
 ### criado em: 09:48 26-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
-- 
 ---
-
 
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Julio Cortazar?
 

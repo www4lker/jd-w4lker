@@ -6,10 +6,13 @@ tags:
 title: 202207241214
 date: 2023-02-24
 ---
+
 # 202207241214
+
 criado em: 12:14
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: 
@@ -30,9 +33,10 @@ criado em: 12:14
 - [[novas fontes]]
 - [[Primeira postagem]]
 - [[screenshots]]
-- [[zettelkasten]]
+- [[zettelkasten]]  
 [[nota permanente]]
 
 ---
-nesse sistema o mais importante 'e pensar, analisar e escrever
+
+nesse sistema o mais importante 'e pensar, analisar e escrever  
 [[zettelkasten]]

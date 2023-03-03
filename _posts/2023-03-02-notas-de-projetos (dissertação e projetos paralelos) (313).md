@@ -13,10 +13,13 @@ tags:
   - framework
 title: novos projetos
 ---
+
 # novos projetos
+
 criado em: 20:28 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura:[[LENDO MONTAIGNE]]
@@ -27,6 +30,7 @@ criado em: 20:28 2022-08-01
 - [[49 dias atrás]]
 
 ## RESOLUÇÃO
+
 - **Mover a vida através de projetos** ao invés de meros prazos - e criar através disso ao invés de obrigações.
 - Medir os períodos em dias, semanas, meses e **49 dias** - este último o ciclo completo de um prazo a menos que seja deliberado que precise de outro maior. 
 - usar um para ser mais produtivo, COMO O DA DÚZIA DE PROBLEMAS FAVORITOS

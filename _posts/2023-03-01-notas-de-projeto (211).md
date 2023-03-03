@@ -6,10 +6,13 @@ tags:
   - pessoalidades
 title: proposta de estágio iel
 ---
+
 # proposta de estágio iel
+
 ## criado em: 14:38 07-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[O QUE É O IEL]]
 - [[PITCH]]

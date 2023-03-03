@@ -14,10 +14,13 @@ title: podcast heitor cony
 feed: show
 date :  25-08-2022
 ---
+
 # podcast heitor cony
+
 criado em: 13:40 2022-08-25
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: [[dissertação index]] [[interesses de pesquisa]] [[Um milagre termodinamico - atomico]] [[Um milagre termodinamico - atomico 5]]
 - notas de dissertação:
@@ -27,9 +30,9 @@ criado em: 13:40 2022-08-25
 
 fonte: https://open.spotify.com/episode/33IvvAlLdOspzpIxbn7Tvr?si=3bd0ef951cfe45bf
 
-1.  porque ler? porque é necessidade humana
+1. porque ler? porque é necessidade humana
 2. ler no dia a dia? no geral, porque é uma forma de acessar o mundo e a realidade; no particular forma de viver, forma de ganhar a vida, forma de estar próximo dos outros (ser escritor é roubar do mundo e depois devolver)
-3.  influencia do pai? é a maior referencia do autor, a maior influencia que ele possui. Quando ele morreu o autor ficou sem escrever (mais de 20 anos sem ficção) — e quando o autor vai fazer uma coisa, ele sempre pensa no que o pai dele faria. O livro [[Quase Memória]] fala muito disso. Ser um jornalista foi uma influencia direta do pai dele.
+3. influencia do pai? é a maior referencia do autor, a maior influencia que ele possui. Quando ele morreu o autor ficou sem escrever (mais de 20 anos sem ficção) — e quando o autor vai fazer uma coisa, ele sempre pensa no que o pai dele faria. O livro [[Quase Memória]] fala muito disso. Ser um jornalista foi uma influencia direta do pai dele.
 4. como nasceu o quase memoria? ele queria fazer justiça ao pai na literatura, entre outras coisas. 
 5. porque parou de escrever mesmo? desencantou-se, ao que parece. Interessante dizer que ele não aguentava mais usar maquina de escrever e o computador foi uma salvação.
 6. os autores (cariocas) que influenciaram, [[machado de assis]], [[Lima Barreto]], mas principalmente Manuel Antônio de Almeida com seu Memórias de um sargento de milícias. 

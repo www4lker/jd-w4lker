@@ -11,12 +11,14 @@ tags:
   - promptgpt3
 title: 221220221438
 ---
+
 # 221220221438
+
 ## criado em: 14:38 2022-12-22
 
 ### Relacionado
+
 - palavras-chave: 
--    
 
 - [[dissertação index]]
 - [[BERT]]
@@ -30,6 +32,7 @@ title: 221220221438
 - [[gpt3]]
 - [[Turing Trap]]
 ---
+
 [fonte](https://www.wired.co.uk/article/intelligence-consciousness-science)
 
 # Máquinas Conscientes Podem Nunca Ser Possíveis

@@ -1,8 +1,10 @@
 ---
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
-title: TRABALHO DE FACULDADE POSTADO NO  FACEBOOK - SEMIOTICA
+title: 2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (431)
 ---
+
 ### SEMIÓTICA
+
 postado no blog "[[Além do homem]]"
 
 **1 - Introdução**

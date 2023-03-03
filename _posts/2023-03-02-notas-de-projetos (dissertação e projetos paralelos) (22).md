@@ -6,13 +6,17 @@ tags:
   - internet
 title: 121220222259
 ---
+
 # 121220222259
+
 ## criado em: 22:59 2022-12-12
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[acabamos a the white lotus]]
 ---
+
 # Série The White Lotus
 
 - O final da temporada dois da série "The White Lotus" da HBO revelou que o corpo flutuante do primeiro episódio era Tanya, que havia se afogado após atirar "nos gays" que estavam tentando matá-la.

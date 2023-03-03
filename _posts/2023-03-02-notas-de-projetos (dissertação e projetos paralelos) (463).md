@@ -7,12 +7,15 @@ tags:
   - 333parteum
 title: 3 melhores momentos
 ---
+
 # 3 melhores momentos
+
 criado em: 00:10 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave: 
--  notas: [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]
+- notas: [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]
 
 ---
 - aos 15, flanando por campo grande

@@ -15,6 +15,7 @@ tags:
 ---
 
 # Dissertação e projetos - índice
+
 ## criado em: 10:46 2023-03-02
 
 > Imagens ilustrativas são de Maurits Cornelis Escher, que é conhecido por criar ilusões óticas de bugar mentes e trabalhos artísticos de inspiração matemática.
@@ -26,6 +27,7 @@ tags:
 |Também notas não relacionadas à dissertação em si, mas parte de minhas pesquisas|
 
 ## A lista a seguir é apenas para dar uma ideia das notas originais 
+
 ### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
 
 #### filosofia
@@ -202,7 +204,7 @@ tags:
 - zettelkasten e serendipidade
 - escrita clara é como um videogame
 - Dicas de revisão para produzir uma escrita que encante o leitor
-- a guerra dos sexos -  sérgio rodrigues
+- a guerra dos sexos - sérgio rodrigues
 - epic games invadiu privacidade de crianças
 - Senador Pergunta por que a steam hospeda tanto conteúdo Neo-Nazista
 - Adoptable Pets
@@ -232,7 +234,7 @@ tags:
 
 - teoria da cauda longa e a indústria do conteúdo 1
 - teoria da cauda longa e a indústria do conteúdo - revisão 1
-- tensão  entre capitalismo e autenticidade na indústria cultural
+- tensão entre capitalismo e autenticidade na indústria cultural
 - como podemos ter uma relação minimalista com informações e conteúdo 1
 - episteme foucault
 - 121020222239
@@ -244,7 +246,7 @@ tags:
 - 071220220932
 - 121020221412
 - 121020222215
-- Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a
+- Cibernética - Quais são os 5 pontos-chave que eu deveria saber ao estudar a
 - 1.1
 - 1.1.1
 - 071020221000
@@ -366,7 +368,7 @@ tags:
 - wired with a coder
 - web 3.0
 - w3
-- TRABALHO DE FACULDADE POSTADO NO  FACEBOOK - SEMIOTICA
+- TRABALHO DE FACULDADE POSTADO NO FACEBOOK - SEMIOTICA
 - um terço de todos os internautas na rede.
 - Web 3.0, Semantic Web, Potayto, Potahto
 - Trabalho de Introdução à Filosofia
@@ -473,7 +475,7 @@ tags:
 - THE INTERNET IS BROKEN
 - Sumário Artigo THE INTERNET IS BROKEN
 - como consertar a internet
-- como consertar a internet  - sumário
+- como consertar a internet - sumário
 - ideias para corrigir o que há de erra com a internet
 - exemplo de inclusão do chatgpt na seção de métodos
 - DUAS REGRAS BÁSICAS DA NATURE PARA USO DE CHATGPT
@@ -485,6 +487,7 @@ tags:
 ---
 
 # meditação e insight
+
 - 220920221457
 - 220920221222
 - 202208011746
@@ -573,7 +576,7 @@ tags:
 - 241020221931
 - como vim parar aqui
 - como começou agenda de junho 2022
-- como devemos  entender a propriedade psicodelica do fungo
+- como devemos entender a propriedade psicodelica do fungo
 - 2022-08-04
 - cogumelos no antropoceno
 - clandestino

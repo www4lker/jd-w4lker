@@ -8,10 +8,13 @@ tags:
   - criatividade
 title: Ted Nelson
 ---
+
 # Ted Nelson
+
 criado em: 10:42 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[World Wide Web]]
@@ -20,6 +23,7 @@ criado em: 10:42 2022-10-07
 - [[From Internet to Gutenberg]]
 - [[markdown]]
 ---
+
 # Quais são os 7 pontos-chave que eu deveria saber ao estudar o ted nelson?
 
 1. Ted Nelson é o criador dos conceitos de hipertexto e hipermídia.
@@ -37,6 +41,7 @@ criado em: 10:42 2022-10-07
 7. Nelson também é um conhecido defensor de padrões abertos e software de código aberto, e tem sido crítico sobre a forma como as empresas de software proprietário monopolizaram o mercado.
 
 ---
+
 What are 5 key points I should know when studying TED NELSON, Literary Machines?
 
 1. Ted Nelson is a pioneer in the field of hypertext and computing, and is best known for his work on the Xanadu Project.

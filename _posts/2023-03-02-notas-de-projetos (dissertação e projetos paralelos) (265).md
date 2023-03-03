@@ -11,16 +11,20 @@ tags:
   - mestredeculturacontemporanea
 title: 031120221150
 ---
+
 # 031120221150
+
 ## criado em: 11:50 2022-11-03
 
 ### Relacionado
+
 - palavras-chave:
 - notas: [[its the content killing the culture - wisecrack edition]]
 - [[tecnocracia podcast — de narrar]]
 - [[dazed sobre amalia ulman]]
 - [[O TEXTO E O TEMPO (WEBINAR)]]
 ---
+
 # Kate Eichhorn on the Rise of Insta-Artists and Insta-Poets
 
 ### And What the Digitalization Of the Arts Means For Culture

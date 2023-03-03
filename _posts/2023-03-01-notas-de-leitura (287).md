@@ -1,6 +1,6 @@
 ---
 tags: permanente
-title: SEM TAGS
+title: 2023-03-01-notas-de-leitura (287)
 date: 2023-02-24
 ---
 - [[crime e castigo top quote]]
@@ -57,7 +57,6 @@ date: 2023-02-24
 - [[202207071612]]
 - [[202207071607]]
 - [[assisti bastard]]
-- 
 ---
 
 - [[📚 NOTAS 📖 DE 📘 LITERATURA/REF BIBLIOGRÁFICA/Neil Gaiman.md]]

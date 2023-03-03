@@ -2,10 +2,15 @@
 tags: notas de projetos
 title: 2022-07-07  
 ---
+
 # [[2022-07]]-07  
+
 ###### Sonhos
+
 - Sonhei com muitas coisas. Uma delas era um balde vermelho com excrementos.
+
 #### Tarefas
+
 1. Ler irmãos Karamazov 
 2. Ler Montaigne
 3. Ler material de pesquisa propriamente dito

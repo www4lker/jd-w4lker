@@ -13,18 +13,23 @@ tags:
   - insight
 title: sobre como alguem le
 ---
+
 # sobre como alguem le
+
 criado em: 19:31 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: 
 
 ---
+
 ## Sumário de vídeo do besmart:
 
 ### "the unbelieveble science science of how we read" do canal **be smart**
+
 - a ilusao de otica escondida na tipografia - nos lemos com o cerebro e ele se ilude. no caso, como a letra arredondada precisa ser maior que as letras quadradas (exemplo entre letra T e letra C) para que nosso cerebro ache que sao do mesmo tamanho.
 - ler nao é automatico como parece. a possibilidade de ler para o cerebro é uma das mais recentes adquiridas.
 - paradoxo da leitura: um cerebro que temos ha 100 mil anos capaz de fazer algo inventado a apenas 5000 anos. 

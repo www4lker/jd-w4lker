@@ -8,16 +8,21 @@ title: NOTAS PASSAGEIRAS
 aliases: NOTAS PASSAGEIRAS 
 date: 2023-02-24
 ---
+
 # NOTAS PASSAGEIRAS 
+
  
  ## nota rápida 
-escrita na hora
+
+escrita na hora  
 em um dia ou dois - *revisar*
 
 ## nota de leitura
+
 nota relacionada especialmente à leituras.
 
 ## nota permanente
+
 nota feita para durar e ser compreendida por mim no futuro; expressa apenas uma ideia por vez, traz consigo referencias cruzadas e fonte.
 
 existem dois links que ela pode fazer - o link de panorama - para uma nota que dá uma ideia do escopo do projeto, que serve de entrada para o projeto. Ela é também uma meta nota que traz "links fracos" para conectar em uma nota aquilo que precisa ser entendido de modo a entender o escopo. ela estará no INDEX das notas permanentes
@@ -32,9 +37,10 @@ Os acima mencionados links fracos, são assim chamados por serem mais generaliza
 
 Notas rápidas são feitas para liberar distrações e só depois processadas. Podem ser de uma palavra a um parágrafo.
 
-mais notas efêmeras, em vias de processamento, podem ser encontradas em [[👨🏻‍💻🗃️NOTAS PARA PROCESSAR]]
-ideia de novas notas:
+mais notas efêmeras, em vias de processamento, podem ser encontradas em [[👨🏻‍💻🗃️NOTAS PARA PROCESSAR]]  
+ideia de novas notas:  
 [[novas fontes]]
+
 ```ccard
 type: folder_brief_live
 ```

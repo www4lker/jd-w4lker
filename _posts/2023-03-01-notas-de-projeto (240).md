@@ -8,10 +8,13 @@ tags:
   - householder
 title: Vipassana
 ---
+
 # Vipassana
+
 ## criado em: 17:21 02-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - - [[lições de um retiro longo de meditação]]
@@ -48,9 +51,11 @@ title: Vipassana
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/300920221642.md]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/2020-01-02.md]]
 ---
+
 ## um tipo de meditação
 
 >Como eu dizia, o sentimento de Ternura de que Knausgård fala era a minha ponte para o coração do pai; eu posso não saber como é ter uma criança e vê-la crescer, mas sei o que é ser um filho, e como é sentir ternura pelos próprios pais. De amá-los incondicionalmente, mesmo sabendo de todas as suas falhas, esse sentimento podendo às vezes tomar uma proporção esmagadora, como uma vez que fiz um retiro de **meditação** no Rio em 2013, e tive que ficar em uma cabine sozinho o dia todo; tudo o que habitava em mim então, tudo o que importava e que compunha meus pensamentos eram meus pais.
 
 ---
-Eu meditei com o monge mais durão do mundo, eis  que aprendi (é click bait, mas é bom): [[lições de um retiro longo de meditação]]
+
+Eu meditei com o monge mais durão do mundo, eis que aprendi (é click bait, mas é bom): [[lições de um retiro longo de meditação]]

@@ -10,17 +10,22 @@ tags:
 title: 141220221334
 date: 2023-02-24
 ---
+
 # 141220221334
+
 ## criado em: 13:34 2022-12-14
 
 ### Relacionado
+
 palavras-chave:
+
 - notas: 
 - [[William Zinsser]]
 - [[Como Escrever Bem]]
 - [[O Fim Da Procrastinação]]
 - [[101020221241]]
 ---
+
 # "Writing is an act of ego, and you might as well admit it."
 
 "Escrever é um ato de ego, e é melhor admiti-lo".

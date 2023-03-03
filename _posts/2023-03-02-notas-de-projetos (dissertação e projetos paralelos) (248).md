@@ -8,10 +8,13 @@ tags:
   - interessesgerais
 title: IA WRITER
 ---
+
 # IA WRITER
+
 ## criado em: 14:36 12-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como se faz uma tese]]
@@ -20,6 +23,7 @@ title: IA WRITER
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]
 - [[markdown]]
 ---
+
 [fonte](https://ia.net/topics/after-all-everyone-is-distracted-once-in-a-while)
 
 # Afinal de contas, todos se distraem de vez em quando
@@ -66,7 +70,6 @@ O iA Writer foi projetado com o foco em mente. Esta rodada de feedback confirmou
 
 **Use Style Check.** A verificação de estilo não é um mestre da escola dizendo-lhe que isto é ruim e isso é ruim. Ele o faz refletir sobre o que você escreveu, se você está falando sério ou se você queria dizer algo mais. Experimente-o, ele, mais uma vez, pode ajudá-lo tremendamente a se concentrar e permitir que você mergulhe no texto.
 
-
 ## Pronto para o jornal
 
 Os bullet journals podem ajudar as pessoas com TDAH a se manterem organizadas e atentas. Naturalmente, hoje em dia, o diário é muitas vezes feito digitalmente e as pessoas têm exigências diferentes em relação à plataforma que podem usar para o propósito. Um de nossos usuários, Daniel escreveu que pretende manter seu bullet journal por décadas, e explicou porque ele encontra o iA Writer certo para a tarefa:
@@ -74,7 +77,6 @@ Os bullet journals podem ajudar as pessoas com TDAH a se manterem organizadas e 
 **O futuro do desenvolvedor não afetará seu acesso aos seus arquivos. Você pode exportar seus documentos a qualquer momento em outros formatos e hospedar seus próprios dados em seu dispositivo ou na nuvem.
 
 **Graças aos recursos de conectividade do iA Writer, é possível sincronizar documentos entre seus dispositivos (ou seja, entre Mac e iPhone via iCloud, entre seu laptop Windows e o telefone Android via Dropbox ou Google Drive). Isto ajuda a estacionar seus pensamentos (como sugerido pelos especialistas da ADHD) a qualquer momento sem medo de perder as informações.
-
 
 ## Melhor para pessoas com ADHD, melhor para todos
 

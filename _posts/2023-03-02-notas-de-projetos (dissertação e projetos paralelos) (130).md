@@ -10,10 +10,13 @@ tags:
   - interessesgerais
 title: chat gpt avisa
 ---
+
 # chat gpt avisa
+
 ## criado em: 14:23 2022-12-12
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[filosofia da tecnologia]]
@@ -21,6 +24,7 @@ title: chat gpt avisa
 - [[ceticismo]]
 - [[5 coisas sobre filosofia da tecnologia]]
 ---
+
 # chat gpt avisa
 
 *Explique a maneira mais simples de evitar preconceitos e m'a-informação ao usar o gpt chat:*

@@ -8,16 +8,19 @@ tags:
 title: Escrevendo agora - Copia
 date: 2023-02-24
 ---
+
 # Escrevendo agora - Copia
+
 ### criado em: 15:36 23-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[I wrote 10,000 words of my dissertation in 5 days]]
 - [[4900 palavras dia]]
 - [[3900 palavras]]
-- 
 ---
+
 Escrevendo sobre esse *rolê* de *markdown*. Neste ano eu andei por várias plataformas, entre eles:
 
 - *nimble*
@@ -41,7 +44,7 @@ Esses programas não são ruins; na verdade são maravilhosos, e em um deles eu 
 
 - é pago ou grátis?
 - tem comunidade por trás ajudando ou não?
-- é bom  no que se propõe?
+- é bom no que se propõe?
 - quais seus recursos?
 
 ## Vamos à comparação
@@ -60,7 +63,7 @@ Esse é bom. Muito completo, embora não use *markdown*. Ele é um conjunto de f
 
 *obsidian*
 
-O que mais investi tempo e  atenção. É grátis (ponto positivo), tem uma comunidade ativa por trás, usa markdown e wikilinks.  Já adianto que é o melhor que há disponível para mim.
+O que mais investi tempo e atenção. É grátis (ponto positivo), tem uma comunidade ativa por trás, usa markdown e wikilinks. Já adianto que é o melhor que há disponível para mim.
 
 ---
 
@@ -97,8 +100,3 @@ Escrever o texto, finalmente, segue a mesma lógica, e uso, portanto:
 ### G docs
 
 É grátis, completo e tem (infelizmente) uma corporação forte.
-
-
-
-
-

@@ -6,19 +6,26 @@ tags:
 title: Declínio de um Homem
 date: 2023-02-24
 ---
+
 # Declínio de um Homem
+
 ## criado em: 18:12 13-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Bungo Stray Dogs]]
 - [[dazai e o pósmodernismo]]
 ---
+
 > **_Declínio de um homem_** é um romance de Osamu Dazai que conta a história de um jovem chamado Yozo Oba que luta para se encaixar na sociedade. Apesar de seus melhores esforços para agir como uma pessoa normal, Yozo sente-se fundamentalmente diferente dos que o rodeiam, e se torna cada vez mais isolado e deprimido. À medida que o romance avança, as interações de Yozo com os outros se tornam cada vez mais tensas, e ele se torna cada vez mais autodestrutivo. O romance explora temas de alienação, isolamento e a busca de sentido em um mundo que parece hostil e indiferente.
+
 ---
+
 [451](https://quatrocincoum.folha.uol.com.br/br/resenhas/literatura-japonesa/nao-mais-humano)
 
 Artigo completo
+
 # Não mais humano
 
 ## Em seu livro mais célebre, Osamu Dazai faz um bilhete de adeus mergulhando na melancolia e no desprezo por si mesmo

@@ -9,14 +9,19 @@ tags:
   - wiredetal
 title: 161220221009
 ---
+
 # 161220221009
+
 ## criado em: 10:09 2022-12-16
 
 ### Relacionado
+
 palavras-chave:
+
 - notas: [[chatgpt]]
 - [[gpt3]]
 ---
+
 # ChatGPT’s Most Charming Trick Is Also Its Biggest Flaw
 
 ## The articulate new chatbot has won over the internet and shown how engaging conversational AI can be—even when it makes stuff up.
@@ -26,6 +31,7 @@ O chatbot do OpenAI, ChatGPT, é um serviço gratuito que ganhou popularidade na
 >Alguns especialistas elogiaram a interface naturalista do chatbot e seu potencial para tornar as ferramentas da linguagem AI mais acessíveis, mas outros apontaram que ela ainda é propensa a inventar fatos e regurgitar declarações tendenciosas ou de ódio.
 
 ---
+
 # Wired’s plaintext on chatgpt
 
 >A professora Sandra Wachter do Oxford Internet Institute fala sobre o potencial do ChatGPT, um chatbot gratuito que usa uma variante do modelo GPT-3 do OpenAI, para ser usado para enganar os estudantes. Wachter sugere o uso de marcas d'água e ferramentas tecnológicas para detectar a produção criada artificialmente como soluções potenciais para esta questão, além de fomentar a pesquisa de ferramentas independentes para detectar a produção de IA e ser mais criativa na avaliação dos estudantes. Wachter também discute a importância de contrafactuais, ou ser capaz de mudar os dados de entrada para ver como isso afeta as decisões sobre IA, na compreensão e prevenção de danos causados pela IA. Ela destaca o potencial para bons e maus usos da tecnologia, mas observa que ela é neutra e depende de como ela é usada.
@@ -40,7 +46,9 @@ O chatbot do OpenAI, ChatGPT, é um serviço gratuito que ganhou popularidade na
 - **É importante ter uma combinação de tecnologia e supervisão humana** para evitar que o ChatGPT e outros sistemas de IA causem danos.
 
 ---
+
 https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/
+
 # 3 Ways to Tame ChatGPT
 
 Governments around the world are pushing AI regulation that has nothing to say about generative models. That could be dangerous.

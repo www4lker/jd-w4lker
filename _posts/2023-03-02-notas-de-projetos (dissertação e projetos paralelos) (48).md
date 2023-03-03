@@ -9,10 +9,13 @@ tags:
   - sacro-ofício
 title: 202207142321
 ---
+
 # 202207142321
+
 criado em: 23:21
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes:
 - notas de literatura:
@@ -20,6 +23,7 @@ criado em: 23:21
 [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]
 
 ---
+
 ## que sacrifícios estou disposto a fazer por meus 🏡 PROJETOS E JARDIM DIGITAL🌱?
 
 - sacrifico a riqueza pois ninguem ligado a arte fica rico.

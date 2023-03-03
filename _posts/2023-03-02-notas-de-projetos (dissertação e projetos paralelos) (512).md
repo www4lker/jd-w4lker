@@ -5,17 +5,19 @@ tags:
   - geo
 title: 041220221032
 ---
+
 # 041220221032
+
 ## criado em: 10:32 2022-12-04
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[O Que é Geografia]]
 - [[Prisioneiros Da Geografia]]
-- 
 ---
-*Keywords: Geopolitics, Karl Haushofer, Russia, China, US, EU, Japan, Friedrich Ratzel, Halford Mackinder, Lebensraum, Mein Kampf, Sidney S Alderman Robert H Jackson Edmund Walsh Alexander Dugin Vladimir Putin*
 
+*Keywords: Geopolitics, Karl Haushofer, Russia, China, US, EU, Japan, Friedrich Ratzel, Halford Mackinder, Lebensraum, Mein Kampf, Sidney S Alderman Robert H Jackson Edmund Walsh Alexander Dugin Vladimir Putin*
 
 In the past twenty years, the term "geopolitics" has gone from being exotic and quaint to dominating political discourse. The surge in its usage has been seen in two periods: after the 2007-08 global financial crisis and after 2014-15 with the annexation of Crimea and the Syrian War. This shift in the use of the term reflects a change in the global landscape and is reflective of a resistance to US power projection.
 

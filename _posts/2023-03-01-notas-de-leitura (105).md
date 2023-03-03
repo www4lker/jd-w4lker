@@ -6,10 +6,13 @@ tags:
 title: Como anotar podcasts
 date: 2023-02-24
 ---
+
 # Como anotar podcasts
+
 criado em: 13:03 20-10-2022
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

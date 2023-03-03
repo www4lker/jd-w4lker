@@ -6,10 +6,13 @@ tags:
 title: Deleuze
 date: 2023-02-24
 ---
+
 # Deleuze
+
 criado em: 16:13 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -20,8 +23,6 @@ criado em: 16:13 2022-10-16
 ---
 
 ## Quais são os 7 pontos-chave que eu deveria saber ao estudar a filosofia de Deleuze?
-
-
 
 1. A filosofia de Deleuze é caracterizada por uma rejeição dos conceitos filosóficos tradicionais e por uma ênfase no potencial criativo do pensamento.
 
@@ -36,4 +37,3 @@ criado em: 16:13 2022-10-16
 6. A filosofia de Deleuze tem sido criticada por sua aparente falta de preocupação com a ética e a política.
 
 7. A filosofia de Deleuze é, no entanto, uma importante contribuição para o pensamento contemporâneo.
-

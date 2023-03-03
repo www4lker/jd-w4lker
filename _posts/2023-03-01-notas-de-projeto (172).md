@@ -6,15 +6,19 @@ tags:
   - psique
 title: Holden Caulfield e o Individualista
 ---
+
 # Holden Caulfield e o Individualista
+
 ## criado em: 22:15 10-01-2023
 
 ### Relacionado
+
 - palavras-chave:
 - notas: 
 - [[The Catcher in the Rye]]
 - [[O Individualista]]
 ---
+
 If the Enneagram type Four, the Individualist, were to be associated with a pop culture character, one possibility could be Holden Caulfield from J.D. Salinger's novel "The Catcher in the Rye."
 
 Holden Caulfield is a complex and sensitive character who is deeply in touch with his emotions and has a strong sense of individuality. He is highly introspective and self-aware, often questioning the authenticity and values of the people and the world around him. He holds a great desire to understand himself and others, and he struggles with feelings of alienation and longing.

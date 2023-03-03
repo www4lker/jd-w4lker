@@ -5,19 +5,22 @@ tags:
   - promptgpt3
 title: MICÉLIO
 ---
+
 # MICÉLIO
+
 criado em: 14:52 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:[[hifacultura]]
 - notas de literatura: [[Projeto Psiconautas]]
 - [[Cap. 4 - Mentes miceliais]]
 
-
 ---
-##  Quais são os 6 pontos-chave que eu deveria saber ao estudar o Micélio?
+
+## Quais são os 6 pontos-chave que eu deveria saber ao estudar o Micélio?
 
 1. O micélio é a parte vegetativa de um fungo, e é composto de uma rede de filamentos finos chamada **hifas**.  
 

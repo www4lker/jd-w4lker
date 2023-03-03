@@ -10,10 +10,13 @@ tags:
   - meta
 title: tecnocéticos
 ---
+
 # tecnocéticos
+
 ## criado em: 15:32 13-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[5 coisas sobre filosofia da tecnologia]]
@@ -22,6 +25,7 @@ title: tecnocéticos
 - [[chatgpt]]
 - [[gpt3 por ele mesmo]]
 ---
+
 [fonte: comciencia.br](https://www.comciencia.br/tecnologia-no-processo-de-trabalho-assim-como-o-capital-e-uma-relacao-social/)
 
 PRINCIPAIS PONTOS:
@@ -39,7 +43,6 @@ Os principais pontos de argumentação no texto são:
 >Uma possível abordagem a este desafio é o que o autor chama de "Ludismo iluminado", que reconhece a complexa interação entre a tecnologia e as relações sociais.
 
 ---
-
 
 **Por Peter Frase,** publicado originalmente na revista **_[Jacobin](https://www.jacobinmag.com/2015/03/automation-frase-robots/)_** em 18 de março de 2015, tradução de Amin Simaika
 
@@ -108,4 +111,3 @@ Uma maneira de explicar isso é que, quando os trabalhadores são baratos e cont
 _**Leia também:**_
 
 [Revolução tecnológica, automação e vigilância, por Sergio Amadeu (UFABC)](http://www.comciencia.br/revolucao-tecnologica-automacao-e-vigilancia/)
-

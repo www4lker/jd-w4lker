@@ -11,16 +11,20 @@ tags:
   - promptgpt3
 title: 241020221931
 ---
+
 # 241020221931
+
 ### criado em: 19:31 2022-10-24
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[Projeto Psiconautas]]
 - [[terapia psicodélica]]
-- 
 ---
+
 # Definição de microdose:
+
 >A microdosagem envolve a ingestão de pequenas quantidades de substâncias psicodélicas em intervalos regulares ou semi-regulares com a intenção de melhorar o bem-estar psicológico, o desempenho no trabalho e/ou a criatividade.
 
 Microdosagem é um termo usado para descrever a ingestão de uma dose sub-perceptiva de uma droga psicodélica. Uma dose sub-perceptiva é uma dose muito baixa para produzir efeitos psicadélicos tradicionais, mas que se pensa produzir mudanças positivas sutis de humor, criatividade e bem-estar geral.
@@ -38,4 +42,3 @@ As substâncias mais populares para microdosagem são LSD e cogumelos psilocibin
 Os efeitos da microdosagem podem variar de acordo com a pessoa, a substância utilizada e a dose tomada. É importante começar com uma dose muito baixa e aumentar gradualmente conforme a necessidade.
 
 Também é importante estar ciente de que drogas psicodélicas podem produzir efeitos imprevisíveis e potencialmente perigosos, mesmo em baixas doses. Por este motivo, é importante estar bem informado sobre os riscos antes de considerar a microdosagem.
-

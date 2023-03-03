@@ -10,10 +10,13 @@ tags:
   - interessesdepesquisa
 title: 071220220932
 ---
+
 # 071220220932
+
 ## criado em: 09:32 2022-12-07
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[gpt3]]
@@ -21,18 +24,16 @@ title: 071220220932
 - [[aura em benjamin]]
 - [[GPT COMO MICROFONE]]
 ---
+
 # AI Reveals the Most Human Parts of Writing
 
 ## When do writers want help finding inspiration? And when do they want full control? Computers could expose the true future of the medium.
 
 [fonte](https://www.wired.com/story/artificial-intelligence-writing-art/)
 
-
-
 abstract
+
 >The main ideas of this text are that high-quality computer-generated text can help writers overcome writer's block and other challenges, and that it poses questions for writers about what parts of the writing process they value and want to retain control over. The text also discusses the potential impact of AI writing tools on different aspects of the writing process, including planning, drafting, and revising. The author has studied the use of AI writing tools by writers and discusses the opinions of writers they have interviewed on the topic.
-
-
 
 #### text:
 

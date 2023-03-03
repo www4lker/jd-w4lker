@@ -12,16 +12,18 @@ tags:
   - estoico
 title: as leis da natureza nascem do costume
 ---
+
 # as leis da natureza nascem do costume
+
 ## criado em: 17:32 20-12-2022
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: [[os hábitos influenciam a percepção]]
 - [[Montaigne, Michel de]]
 - [[LENDO MONTAIGNE]]
 ---
-
 
 p 154
 

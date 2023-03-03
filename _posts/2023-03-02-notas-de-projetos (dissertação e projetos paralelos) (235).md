@@ -1,7 +1,8 @@
 ---
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
-title: her writing
+title: 2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (235)
 ---
+
 jia vallentino trick mirror
 
 afiadas - michelle dean

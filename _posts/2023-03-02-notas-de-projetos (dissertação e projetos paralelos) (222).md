@@ -8,10 +8,13 @@ tags:
   - literatura
 title: experiências hipertextuais
 ---
+
 # experiências hipertextuais
+
 criado em: 13:07 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -20,7 +23,9 @@ criado em: 13:07 2022-10-13
 - [[Eco, Umberto]]
 
 ---
+
 # Relacione o Finnegan’s Wake e hipertexto:
+
 (0,4)
 
 O hipertexto pode ser visto como uma extensão natural de Finnegans Wake, pois ambos são construídos em torno da ideia de não linearidade e múltiplos significados. Em Finnegans Wake, Joyce criou um texto que poderia ser lido de múltiplas maneiras, com cada leitura revelando diferentes camadas de significado. O hipertexto leva esta ideia ainda mais longe, permitindo que os leitores criem seus próprios caminhos através do texto e encontrem seus próprios significados. Em ambos os casos, o leitor é um participante ativo no processo de criação de significado, e a experiência é de exploração e descoberta.
@@ -30,6 +35,7 @@ Tanto o Finnegans Wake de Joyce quanto o hipertexto podem ser vistos como formas
 O hipertexto leva esta ideia ainda mais longe, permitindo aos leitores criar seus próprios caminhos através do texto e encontrar seus próprios significados. Em ambos os casos, o leitor é um participante ativo no processo de criação de significado, e a experiência é de exploração e descoberta.
 
 ---
+
 (0,7)
 
 No hipertexto, o leitor é apresentado com um texto não linear, não sequencial, que pode ser navegado de várias maneiras diferentes. Isto é semelhante ao Finnegans Wake de Joyce, que também é um texto não linear, não sequencial. O leitor de Finnegans Wake deve fazer seu próprio caminho através do texto, reunindo o significado das várias pistas e referências que estão espalhadas ao longo do trabalho. Em ambos os casos, o leitor é deixado à sua própria sorte para dar sentido ao texto, e a experiência pode ser frustrante e gratificante.

@@ -12,17 +12,22 @@ tags:
   - interessesdepesquisa
 title: muito velho para games
 ---
+
 # muito velho para games
+
 criado em: 23:53 2022-08-20
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[gpt3]]
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 # Fiz um texto pelo gpt3 sobre ficar velho demais para video games.
+
 ## Parágrafo original vem deste texto: [original](https://www.reddit.com/r/patientgamers/comments/qj6wbk/doom_2016_made_me_feel_like_an_old_man/)
 
 *Isso acontece às vezes. Um pensamento sombrio se insinua na parte de trás da minha cabeça: um dia, eu serei velho demais para vídeo games. Afinal, já se passaram cerca de 40 anos desde que eu joguei pela primeira vez uma moeda no arcade de Guerra Espacial em meu salão de jogos local. Os tempos mudaram, os jogos mudaram. E eu gosto de sentir que tenho acompanhado essas mudanças, nem que seja por pouco. Mas os olhos secos de longas horas no computador, as dores de cabeça, as dores nas mãos e nos pulsos — esses são alguns lembretes sombrios de que um dia, jogar jogos pode não ser mais possível.*
@@ -55,13 +60,10 @@ E, finalmente, é importante lembrar que existem outras coisas na vida além dos
 
 *Concluindo:*
 
-É importante lembrar que jogar videogames é muito mais divertido quando você está fazendo isso com outras pessoas. E espero que, algum dia, eu consiga encontrar o tempo e a oportunidade de fazer isso novamente.
+É importante lembrar que jogar videogames é muito mais divertido quando você está fazendo isso com outras pessoas. E espero que, algum dia, eu consiga encontrar o tempo e a oportunidade de fazer isso novamente.  
 Também é importante lembrar que nem todos os jogos são para ser jogados por horas de cada vez. Alguns jogos são para ser jogados em breves rajadas, e não há problema. É importante encontrar um equilíbrio que funcione para você.
 
 E, finalmente, é importante lembrar que existem outras coisas na vida além dos videogames. É importante passar tempo com a família e os amigos, perseguir outros hobbies e cuidar de sua saúde. Os videogames devem fazer parte de sua vida, mas não devem ser a única coisa que você está fazendo.
-
-
-
 
 ---
 

@@ -9,10 +9,13 @@ tags:
   - episteme
 title: Images cannot say Ain’ t
 ---
+
 # Images cannot say Ain’ t
+
 ### criado em: 10:04 26-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Eco, Umberto]]
@@ -38,7 +41,7 @@ A fotografia não é um retrato do papa. É um retrato do fotógrafo. O papa é 
 
 O papa não é um retrato do fotógrafo. O fotógrafo é um retrato do papa. O papa é o objeto da fotografia, não o sujeito.
 
-O fotógrafo não é um retrato do papa. O papa é um retrato do fotógrafo. O papa é o objeto da fotografia, não o sujeito.
+O fotógrafo não é um retrato do papa. O papa é um retrato do fotógrafo. O papa é o objeto da fotografia, não o sujeito.  
 **Posso dizer verbalmente "Unicórnios não existem", mas se eu mostrar a imagem de um unicórnio, o unicórnio está lá. Além disso, o unicórnio que eu vejo é um unicórnio ou o unicórnio, ou seja, ele representa um determinado unicórnio ou para os unicórnios em geral?**
 
 As fotos não podem dizer que não estão. 

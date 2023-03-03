@@ -6,10 +6,13 @@ tags:
 title: Ernaux, Annie
 date: 2023-02-24
 ---
+
 # Ernaux, Annie
+
 criado em: 08:58 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -19,6 +22,7 @@ criado em: 08:58 2022-10-07
 - [[Julián Fuks]]
 
 ---
+
 ## Quais são os 10 pontos-chave que eu deveria saber ao estudar Annie Ernaux?
 
 1. Annie Ernaux nasceu em 1940 na Normandia, França.

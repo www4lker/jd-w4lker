@@ -2,19 +2,24 @@
 tags: projetos, gerais
 title: Malcolm Gladwell responde perguntas sobre pesquisa
 ---
+
 # Malcolm Gladwell responde perguntas sobre pesquisa
+
 ## criado em: 13:47 2022-12-18
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[serendipital]]
 - [[Malcolm Gladwell faz apologia das bibliotecas]]
 - [[]]
 ---
+
 [fonte](https://www.wired.com/video/watch/tech-support-malcolm-gladwell-answers-research-questions-from-twitter)
 
 # Resumir e destacar os principais argumentos apresentados sobre o tema "Pesquisa":
+
 ## Aqui estão alguns dos principais argumentos sobre a pesquisa que são mencionados nesta passagem:
 
 - A Wikipédia pode ser um ponto de partida útil para a pesquisa, mas não deve ser considerada como uma única fonte de informação.
@@ -26,6 +31,7 @@ title: Malcolm Gladwell responde perguntas sobre pesquisa
 - A pesquisa pode ser influenciada por preconceitos e fontes de financiamento, e é importante considerar estes fatores ao avaliar a pesquisa.
 
 ###### transcript
+
 I'm Kevin Matthews II, author and financial educator.
 
 Today I'll be answering your questions from Twitter.

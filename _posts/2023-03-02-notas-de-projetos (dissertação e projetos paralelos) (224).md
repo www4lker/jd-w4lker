@@ -11,10 +11,13 @@ tags:
   - mestredeculturacontemporanea
 title: FAROFA DA GKAY
 ---
+
 # FAROFA DA GKAY
+
 ## criado em: 23:41 2022-12-07
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Clean perversion in consumer culture]]
@@ -26,6 +29,7 @@ title: FAROFA DA GKAY
 [fonte nexo jornal](https://www.nexojornal.com.br/expresso/2022/12/07/Como-a-Farofa-da-Gkay-virou-o-%C3%A1pice-da-cultura-influencer?posicao-home-esquerda=2)
 
 >A crítica cultural, como exemplificado no caso do evento Farofa da GKAY, muitas vezes envolve o exame das formas pelas quais a sociedade é influenciada e moldada pela mídia e pelo consumo dentro de um sistema capitalista. *O conceito de espetacularização, como proposto por Guy Debord*, refere-se à transformação de imagens e mensagens em capital, *e sua ampla distribuição e consumo sem avaliação crítica*. Isto pode levar a uma sociedade que é dominada pelas atuais escolhas de produção e consumo, em vez de um exame crítico destas escolhas. A crítica cultural também frequentemente envolve considerar as dinâmicas de poder em jogo, como a acumulação de capital por um grupo de elite e o potencial de exploração e abuso, como visto no incidente de assédio sexual no evento Farofa da GKAY.
+
 ## Espetacularização e críticas
 
 O interesse em reality shows e eventos como a Farofa se relaciona com a espetacularização da vida privada, fenômeno que foi estudado pelo escritor francês Guy Debord (1931-1994), o livro “A sociedade do espetáculo”, de 1967, e que está profundamente ligado ao consumo no capitalismo.
@@ -40,8 +44,8 @@ Por outro lado, há também críticas que surgem por ocorrências dentro do even
 
 Tirulipa teria puxado o bíquini de Louise quando os dois faziam uma dinâmica em uma banheira. O comediante não se manifestou sobre o episódio.
 
-
 >O mercado de influência no Brasil cresceu significativamente nos últimos anos, com um número crescente de pessoas usando as mídias sociais para compartilhar aspectos de suas vidas e atrair a atenção dos anunciantes. Há agora esforços para reconhecer e regular a profissão de influenciador digital no Brasil, com pelo menos dois projetos de lei sendo considerados no Congresso. Segundo pesquisa da Nielsen, 39% dos brasileiros dizem seguir pelo menos um influenciador frequentemente, e o mercado publicitário investiu aproximadamente R$ 1,43 bilhão em campanhas lideradas por influenciadores em 2021. A cultura dos influenciadores também teve impacto nas aspirações profissionais de crianças e adolescentes, com 75% dos brasileiros de 8 a 23 anos de idade querendo trabalhar como influenciadores digitais. O desejo de se tornar um influenciador superou as aspirações tradicionais de carreira, como ser astronauta ou médico.
+
 ## O mercado influencer no Brasil
 
 O mercado de influencers surgiu na década de 2010, com a massificação do uso de redes sociais. São pessoas – em sua maior parte inicialmente desconhecidas – que começam a compartilhar publicamente algum aspecto de sua vida e logo passam a ser vistas por milhares ou milhões de pessoas.
@@ -64,8 +68,8 @@ Dentro do universo dos influenciadores, aqueles que dedicam conteúdo a estilo d
 
 A cultura dos influencers fez mudar também os sonhos profissionais de crianças e adolescentes. Pesquisa da empresa Innova divulgada em março mostrou que [75% dos brasileiros de 8 a 23 anos](https://www.jornalterceiravia.com.br/2022/03/20/o-sonho-cada-vez-mais-cedo-de-se-transformar-em-influencer/#:~:text=Em%20se%20tratando%20dos%20jovens,e%20seguir%20carreira%20no%20ramo.) querem trabalhar como influenciadores digitais. Ideias como ser astronauta ou médico deram espaço para a comunicação digital.
 
-
 >A cultura do consumo, representada pela economia dos influencers, tem consequências negativas para a sociedade, segundo José Luiz Aidar Prado, pesquisador da Pontifícia Universidade Católica de São Paulo. Ele argumenta que os influenciadores contribuem para uma "perversão na cultura do consumo" que promete prazer sem fim e incentiva os indivíduos a interiorizar as leis do mercado a fim de satisfazer seus desejos. Isto pode levar a uma desconexão com outros assuntos e a uma dependência de códigos de mídia de plataformas tecnológicas para orientar comportamentos e preferências. Todd McGowan, cientista social e professor da Universidade de Vermont, também vê a economia influente como um reforço das estruturas opressivas do capitalismo e um aprisionamento dos indivíduos em um estado de satisfação incompleta que os impele a buscar constantemente novas e melhores experiências.
+
 ## Cultura do consumo
 
 De acordo com José Luiz Aidar Prado, doutor em comunicação e pesquisador da Pontifícia Universidade Católica de São Paulo, apesar da popularidade, há um efeito danoso dos influencers no público.

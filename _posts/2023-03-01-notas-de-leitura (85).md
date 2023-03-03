@@ -8,16 +8,20 @@ tags:
 title: Artigo sobre microdose
 date: 2023-02-24
 ---
+
 # Artigo sobre microdose
+
 criado em: 17:40 2022-07-31
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Projeto Psiconautas]]
 - [[202207092227]]
 - notas de literatura: 
 
 ---
+
 fonte: https://www.psypost.org/2021/04/microdosing-psychedelic-drugs-associated-with-increases-in-conscientiousness-and-reductions-in-neuroticism-60274
 
 #### Microdosing psychedelic drugs associated with increases in conscientiousness and reductions in neuroticism
@@ -33,7 +37,7 @@ fonte: https://www.psypost.org/2021/04/microdosing-psychedelic-drugs-associated-
 - mais importante é saber que ambas as as atividades foram melhores do que simplesmente não fazer nada - e que quem fazia os dois tirou os melhores resultados o que indica uma em relação às práticas.
 ---
 - Através de uma colaboração entre a Universidade Edith Cowan, a Universidade Macquarie e a Universidade de Göttingen na Alemanha, o novo estudo tentou ampliar essas descobertas e ir mais fundo na questão do neurotização.
-- 76 microdosadores experientes fizeram um questionário antes da experiência e 24 deles concordaram em fazer novo questionario 28 dias depois. Descobriu-se que 24 participantes experimentaram mudanças de personalidade após um período de microdosagem.  Incluem-se: diminuição do neurotização e um aumento da consciência. Curiosamente, uma maior experiência com microdosagens foi associada a níveis mais baixos de neurotização.
+- 76 microdosadores experientes fizeram um questionário antes da experiência e 24 deles concordaram em fazer novo questionario 28 dias depois. Descobriu-se que 24 participantes experimentaram mudanças de personalidade após um período de microdosagem. Incluem-se: diminuição do neurotização e um aumento da consciência. Curiosamente, uma maior experiência com microdosagens foi associada a níveis mais baixos de neurotização.
 - existe uma correlação dessa pesquisa com aquelas outras associadas a microdoses e a
 ---
 
@@ -51,6 +55,6 @@ fonte: https://www.psypost.org/2021/04/microdosing-psychedelic-drugs-associated-
 - ainda é incerto quao benefico a microdosagem realemte é, com opinioes mistas dos cientistas. Para aqueles que desejam tentar, praticar ioga é recomendado, assim como outras praticas contemplativas, e se for desejavel, ficar apenas com as praticas contemplativas evitando os riscos de microdosagem
 - um próximo passo possível é investigar a neuroimagem de um cérebro sob microdoses. 
 - ---
-Texto de stephen bright e vince polito.
-republicado no the conversation.
 
+Texto de stephen bright e vince polito.  
+republicado no the conversation.

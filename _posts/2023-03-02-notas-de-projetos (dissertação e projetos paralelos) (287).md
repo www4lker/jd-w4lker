@@ -6,14 +6,18 @@ tags:
   - mestredeculturacontemporanea
 title: mestizaje
 ---
+
 # mestizaje
+
 ### criado em: 13:35 20-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[Epistemes Contemporâneas]]
 - [[MdCC]]
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar mestizaje?
 
 1. Mestizaje é um termo usado para descrever a mistura de diferentes grupos raciais.

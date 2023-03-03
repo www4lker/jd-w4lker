@@ -9,16 +9,20 @@ tags:
   - criatividade
 title: Cyberpunk Needs a Reboot
 ---
+
 # Cyberpunk Needs a Reboot
+
 ## criado em: 21:11 17-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[w gibson]]
 - [[Ciberespaço]]
 - [[Arqueologias do futuro]]
 ---
+
 [fonte](https://jacobin.com.br/2022/07/cyberpunk-precisa-de-uma-reinicializacao/)
 
 # Cyberpunk precisa de uma reinicialização

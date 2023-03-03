@@ -8,15 +8,18 @@ title: INTP T
 ---
 
 # INTP T
+
 criado em: 10:48 2022-08-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ### mais
+
 - [[2002-11-27]]
 - [[2022-06-03]]
 - [[4900 palavras]]
@@ -54,7 +57,6 @@ criado em: 10:48 2022-08-29
 
 ---
 
-
 ![[Pasted image 20220829104548.png]]
 
 - Os lógicos são criativos e inventivos 
@@ -83,5 +85,3 @@ Os lógicos são pessoas muito inteligentes que às vezes têm dificuldade em en
 Os lógicos tendem a repensar as coisas, o que pode fazê-los se sentirem presos e ineficazes.
 
 Os lógicos são pessoas muito inteligentes que às vezes caem nas rotinas. Eles têm a capacidade de usar sua criatividade e mente aberta para sair das rotinas e ter sucesso.
-
-

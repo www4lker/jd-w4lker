@@ -10,10 +10,13 @@ tags:
   - filosofia
 title: artigo sobre IA e Polanyi
 ---
+
 # artigo sobre IA e Polanyi
+
 criado em: 00:05 2022-08-24
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -32,10 +35,11 @@ fonte: [www1.folha.uol.com.br](https://www1.folha.uol.com.br/colunas/marcelovian
 
 No térreo de um instituto de matematica em estocolmo, suecia, há uma sólida lareira em granito cinza-chumbo. Gravada na pedra, uma inscrição: **"A mente não alcança além da palavra".** Uma forma elegante de afirmar que aquilo que não conseguimos explicar aos demais não sabemos realmente.
 
-Por isso, repito a frase com frequência a meus alunos. Maneira de dizer que, se a sua tese não está bem escrita, é porque você ainda não entendeu o assunto direito. — [[a técnica do feynman]]
+Por isso, repito a frase com frequência a meus alunos. Maneira de dizer que, se a sua tese não está bem escrita, é porque você ainda não entendeu o assunto direito. — [[a técnica do feynman]]  
 No entanto, no livro "Dimensão Tácita", publicado em 1966, o filósofo britânico de origem húngara Michael Polanyi (1891–1976) apontou que o conhecimento humano do mundo e de nós mesmos está, em grande medida, além da nossa capacidade de expressão. **"Sabemos mais do que conseguimos dizer",** afirmou.
 
 Exemplos de coisas que sabemos fazer, mas somos incapazes de expressar como fazemos:
+
 - Saber dirigir é muito mais do que seguir as instruções básicas
 - Reconhecer um rosto, 
 - jogar xadrez ou 

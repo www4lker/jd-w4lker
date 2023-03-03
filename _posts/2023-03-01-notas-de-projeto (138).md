@@ -8,10 +8,13 @@ tags:
   - futurologia
 title: 030120231733
 ---
+
 # 030120231733
+
 ## criado em: 17:33 2023-01-03
 
 ### Relacionado
+
 - palavras-chave:
 - notas: 
 - [[Arqueologias do futuro]]
@@ -19,8 +22,11 @@ title: 030120231733
 - [[filosofia da tecnologia]]
 - [[terapia psicodélica]]
 ---
+
 [fonte](https://www.wired.com/story/animals-metaphor-politics-change-hope/)
+
 # As Muitas Metáforas da Metamorfose
+
 ## Nem toda transição deve ser uma lagarta em uma borboleta, ou uma caminhada solitária através do terror e da dor. O mundo natural tem outros modelos de transformação.
 
 A autora discute o conceito de pensar sobre o futuro e como fazer isso. Fazem referência à traça Uraba lugens e sua transformação de lagarta em traça como metáfora para o processo de pensar sobre o futuro. A lagarta solta sua pele várias vezes e mantém suas velhas cabeças, criando uma torre em sua cabeça atual. A autora sugere que este processo pode ser aplicado ao pensamento sobre o futuro, considerando múltiplas perspectivas e retendo o conhecimento do passado, enquanto também olha para o futuro.

@@ -7,16 +7,20 @@ tags:
   - 333parteum
 title: quem é voce
 ---
+
 # quem é voce
+
 criado em: 23:46 2022-08-13
 
 ##### Relacionado
+
 - palavras-chave: 
--  notas permanentes: 
+- notas permanentes: 
 - notas de dissertação:
 - notas de literatura: [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]
 
 ## Mais:
+
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]
 - [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel.md]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/333 páginas para tirar seu projeto do papel.md]]
@@ -37,7 +41,7 @@ criado em: 23:46 2022-08-13
 - [[descobrindo o que seu projeto pode ser]]
 - [[eu sou bom em quê]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Larusso-333 páginas para tirar seu projeto do papel.md]]
--  [[novos projetos]]
+- [[novos projetos]]
 - [[o que o mundo precisa e ninguem esta fazendo]]
 - [[o que o projeto deve potencializar em mim]]
 - [[ORFÃOS notas passageiras]]
@@ -52,7 +56,9 @@ criado em: 23:46 2022-08-13
 - [[um dia uma semana um mes um ano]]
 - [[walker crianca]]
 ---
+
 ## Diga seus projetos:
+
 - viajar o mundo
 - escrever um livro
 - ler muitos livros

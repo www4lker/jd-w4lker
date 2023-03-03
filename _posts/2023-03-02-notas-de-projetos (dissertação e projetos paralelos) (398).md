@@ -11,16 +11,18 @@ tags:
   - sciencebitch
 title: sobre a terapia psicodélica
 ---
+
 # sobre a terapia psicodélica
+
 ### criado em: 01:42 24-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[terapia psicodélica]]
 - [[131020221204]]
 ---
-
 
 ## Criar um esboço para um ensaio sobre como fazer microdoses de substâncias psicodélicas foi a única maneira de encontrar alívio para a pandemia, em meio às pressões dos círculos acadêmicos:
 

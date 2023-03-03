@@ -1,7 +1,8 @@
 ---
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
-title: 1.1.1
+title: 2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (459)
 ---
+
 1.1.1
 
 Minha experiência com blog remete à minha vinda a Cuiabá, em 2006. Eu consegui fundar um blog na plataforma blogger com facilidade e a partir dali postar com frequência por cerca de sete anos. Como a intenção sempre foi a de ter um lugar para servir de repositório das minhas coisas, como uma especie de diário digital aberto ao público, nunca me preocupou que houvesse poucos ou nenhum leitor.

@@ -10,10 +10,13 @@ tags:
 title: Merlin Sheldrake
 date: 2023-02-24
 ---
+
 # Merlin Sheldrake
+
 criado em: 00:16 2022-08-10
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Projeto Psiconautas]]

@@ -9,13 +9,17 @@ tags:
   - otimistarealista
 title: CNV
 ---
+
 # CNV
+
 ## criado em: 23:42 09-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[3 formas infalíveis de se expressar]]
 ---
+
 Nonviolent Communication (NVC) is a method of communication developed by Marshall Rosenberg that aims to improve communication and resolve conflicts peacefully. 
 
 Comunicação não violenta (NVC) é um método de comunicação desenvolvido por Marshall Rosenberg que visa melhorar a comunicação e resolver conflitos de forma pacífica. Aqui estão alguns princípios-chave da CNV:

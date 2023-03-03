@@ -8,18 +8,21 @@ tags:
   - clubhouse
 title: 011120220936
 ---
+
 # 011120220936
+
 ### criado em: 09:36 2022-11-01
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[terapia psicodélica]]
 - [[Podkasten]]
-- 
 ---
 
 # psicodelia e misticismo
+
 1. Contribuições da Psilocibina para a experiência mística: uma visão geral
 
 2. A história da psilocibina e seu uso em contextos religiosos e espirituais
@@ -38,5 +41,6 @@ title: 011120220936
 8. Quais são alguns dos desafios associados com a pesquisa da psilocibina?
 
 ## relaciona
-[[Cap. 4 - Mentes miceliais]]
+
+[[Cap. 4 - Mentes miceliais]]  
 [[McKenna e o macaco chapado]]

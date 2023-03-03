@@ -12,10 +12,13 @@ tags:
   - otimistarealista
 title: midjourney
 ---
+
 # midjourney
+
 ## criado em: 11:27 11-01-2023
 
 ### Relacionado
+
 - palavras-chave:    
 - [[distopia feudal digital]]
 - [[gpt3]]
@@ -26,6 +29,7 @@ title: midjourney
 - [[pode inteligencia virtual fazer arte]]
 - [[o que a IA significa para a criatividade humana]]
 ---
+
 A geração de texto para imagem é uma tarefa no campo da visão por computador e processamento de linguagem natural (computer vision and natural language processing) que envolve a geração de uma imagem a partir de uma descrição textual. Há vários modelos e técnicas diferentes que foram desenvolvidos para realizar esta tarefa, e "midjourney", "DALLE" são poucos deles.
 
 O "midjourney" é um modelo de geração de texto a imagem que utiliza o aprendizado de reforço para treinar uma rede neural para gerar imagens que correspondam a uma determinada descrição textual.

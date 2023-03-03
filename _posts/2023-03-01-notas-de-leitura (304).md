@@ -3,13 +3,17 @@ tags: permanente
 title: The View from Nowhere
 date: 2023-02-24
 ---
+
 # The View from Nowhere
+
 ## criado em: 14:28 02-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Nagel, Thomas]]
 ---
+
 ### Quais são os 5 pontos-chave que eu deveria saber ao estudar The View from Nowhere?
 
 1. The View from Nowhere é um livro de Thomas Nagel que foi publicado pela primeira vez em 1986.

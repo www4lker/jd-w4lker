@@ -15,15 +15,19 @@ title: descobrindo o que seu projeto pode ser
 ---
 
 # descobrindo o que seu projeto pode ser
+
 criado em: 00:19 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: [[interesses de pesquisa]]
 - notas de dissertação: [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/333 páginas para tirar seu projeto do papel]]
 - notas de literatura: 
 ---
+
 quais as palavras que eu penso quando penso no meu projeto [[interesses de pesquisa]]
+
 1. cultura
 2. contemporaneidade
 3. literatura
@@ -32,6 +36,7 @@ quais as palavras que eu penso quando penso no meu projeto [[interesses de pesqu
 6. altruísmo
 7. metalinguagem
 ---
+
 lista original:
 
 1. cultura

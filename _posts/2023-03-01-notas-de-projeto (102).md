@@ -8,13 +8,17 @@ tags:
   - pesquisa
 title: 091020221807
 ---
+
 # 091020221807
+
 criado em: 18:07 2022-10-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - [[teoria do ator-rede]]
 ---
+
 # Quais são os 8 pontos-chave que eu deveria saber ao estudar Bruno Latour?
 
 1. Bruno Latour é um sociólogo e antropólogo francês.

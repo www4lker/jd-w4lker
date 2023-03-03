@@ -7,16 +7,19 @@ title: Simondon
 aliases: Simondon
 date: 2023-02-24
 ---
+
 # Simondon
+
 criado em: 16:16 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: 
 - [[121020221412]]
-- 
 
 ---
+
 ## Quais são os 8 pontos-chave que eu deveria saber ao estudar Gilbert Simondon?
 
 1. Gilbert Simondon foi um filósofo francês que escreveu sobre uma variedade de tópicos, incluindo filosofia da tecnologia, filosofia da mente e teoria social.

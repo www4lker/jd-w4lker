@@ -7,15 +7,19 @@ tags:
   - mestredeculturacontemporanea
 title: Four Tet entrevista na Pitchfork
 ---
+
 # Four Tet entrevista na Pitchfork
+
 ### criado em: 15:25 20-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[its the content killing the culture - wisecrack edition]]
 - [[Content, por Kate Eichorn]]
 ---
+
 [ARTIGO ORIGINAL](https://pitchfork.com/thepitch/four-tet-on-his-155-hour-spotify-playlist-the-coolest-thing-on-streaming/?bxid=5d7fe4203f92a4110117fc32&cndid=67720204&esrc=&hasha=0b1bae21df9191427ec0b2ecd851b5ab&hashb=76659da702755e357e1029263d754d0ffef62abc&hashc=80412cee3ec51a846b098bc3ee49eccb30033099def440f5443c7f7ced3c8c75)
 
 Kieran Hebden, mais conhecido por seu nome artístico Four Tet, é um músico britânico. Ele tem recebido uma longa coleção de inspirações aurais e efêmeras no Spotify, que atualmente tem 154 horas e 36 minutos de duração. O nome atual da playlist é uma seqüência de personagens emojis e glitched-out ASCII, mas é passível de mudar sempre que Hebden decide adicionar um novo lote de faixas, o que ele faz algumas vezes ao mês. A playlist é mais como uma classe [[etnomusicologia]], ou uma **arte*** para si mesma, do que uma simples Spotify playlist. Reflete o vasto conhecimento de Hebden e a sua personalidade de disco em suas associações perceptivas entre as canções. Além de curar a playlist, Hebden também lançou algumas músicas originais sob pseudônimos específicos para a playlist. A playlist é um raro lugar de boas-vindas na paisagem alienante do streaming.

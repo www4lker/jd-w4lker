@@ -11,10 +11,13 @@ tags:
   - interessesgerais
 title: IAW
 ---
+
 # IAW
+
 ## criado em: 14:34 12-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como se faz uma tese]]
@@ -23,6 +26,7 @@ title: IAW
 - [[IA WRITER]]
 - [[markdown]]
 ---
+
 [ia.net](https://ia.net/topics/markdown-in-academic-writing)
 
 # Markdown em Escrita Acadêmica
@@ -30,6 +34,7 @@ title: IAW
 4–5 minutos
 
 ---
+
 Uma peça escrita com o objetivo de ser acadêmica deve ser ["clara, concisa, focada, estruturada e apoiada por evidências"](https://library.leeds.ac.uk/info/14011/writing/106/academic_writing). Acreditamos que as ferramentas de escrita Markdown facilitam o foco no conteúdo e assim apoiam o objetivo principal da escrita acadêmica. iA Writer tem um par de truques na manga que outras aplicações não têm.
 
 ![](https://stagingx.ia.net/wp-content/uploads/2021/05/4.png)

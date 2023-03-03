@@ -7,10 +7,13 @@ tags:
   - promptgpt3
 title: w3
 ---
+
 # w3
+
 criado em: 13:46 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -45,6 +48,4 @@ A missão da W3 é "aumentar a eficácia da comunicação, desenvolvendo e promo
 
 - Tornar a World Wide Web acessível para todos
 
-
 A World Wide Web é uma plataforma aberta que permite a qualquer pessoa criar e publicar conteúdo, e desenvolver aplicações que podem ser usadas por qualquer pessoa, independentemente de sua plataforma de hardware ou software.
-

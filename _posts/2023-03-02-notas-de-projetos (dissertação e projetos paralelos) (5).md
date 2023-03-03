@@ -7,10 +7,13 @@ tags:
   - mestredeculturacontemporanea
 title: 071020221000
 ---
+
 # 071020221000
+
 criado em: 10:00 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas:
 - [[hipercultura]]
@@ -19,7 +22,6 @@ criado em: 10:00 2022-10-07
 - [[Han-Hiperculturalidade]]
 - [[Han, Byung-Chul]]
 - [[071020220916]]
-
 
 ---
 

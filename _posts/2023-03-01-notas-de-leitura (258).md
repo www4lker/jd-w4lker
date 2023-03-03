@@ -7,14 +7,17 @@ tags:
 title: Piglia, Ricardo
 date: 2023-02-24
 ---
+
 # Piglia, Ricardo
+
 ### criado em: 01:32 24-10-2022
 
 #### Relacionado
+
 - palavras-chave:
 - notas:
-- 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Ricardo Piglia?
 
 1. Ricardo Piglia é um escritor e crítico literário argentino.
@@ -26,4 +29,3 @@ date: 2023-02-24
 4. Ele foi professor em várias universidades, incluindo a Universidade de Buenos Aires.
 
 5. Piglia ganhou vários prêmios por sua obra, incluindo o Prêmio Nacional de Literatura.
-

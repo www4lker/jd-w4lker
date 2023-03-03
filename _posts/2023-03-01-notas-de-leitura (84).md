@@ -7,10 +7,13 @@ tags:
 title: argumento do quarto chinês
 date: 2023-02-24
 ---
+
 # argumento do quarto chinês
+
 criado em: 13:35 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

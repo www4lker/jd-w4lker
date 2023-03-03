@@ -10,10 +10,13 @@ tags:
   - psicodelico
 title: o que é biohacking
 ---
+
 # o que é biohacking
+
 ## criado em: 13:07 17-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[o efeito alucinógino, ao que parece, é uma defesa]]
@@ -25,6 +28,7 @@ title: o que é biohacking
 - [[justificativas para o biohacking]]
 - [[O Individualista]]
 ---
+
 [fonte nexo](https://www.nexojornal.com.br/expresso/2019/11/23/O-que-%C3%A9-o-biohacking.-E-como-ele-%C3%A9-adotado-no-Vale-do-Sil%C3%ADcio)
 
 >Biohacking refere-se ao uso da ciência, tecnologia e métodos "faça você mesmo" (faça você mesmo) para melhorar ou hackear a biologia, a fim de melhorar as habilidades físicas e mentais. Isto pode incluir coisas como o uso de suplementos, engenharia genética e tecnologia wearable para otimizar o desempenho físico, bem como o uso de técnicas como meditação e estimulação cerebral para melhorar a função cognitiva.

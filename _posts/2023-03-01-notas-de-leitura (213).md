@@ -8,10 +8,13 @@ tags:
 title: Linguagem e capitalismo
 date: 2023-02-24
 ---
+
 # Linguagem e capitalismo
+
 criado em: 22:46 2022-08-24
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Cortázar, Julio]] 
 - [[surrealismo]]
@@ -21,7 +24,8 @@ criado em: 22:46 2022-08-24
 ---
 
 ## Uma escrita que transcende o capitalismo. 
->— surrealismo
+
+>— surrealismo  
 cortazar e o clube da serpente.
 
 ### Criar um esboço para um ensaio sobre como romper com o capitalismo envolve primeiro romper com a linguagem que produz os fundamentos do capitalismo:

@@ -7,10 +7,13 @@ tags:
 title: GLOBALIZAÇÃO - INDEX
 date: 2023-02-24
 ---
+
 # GLOBALIZAÇÃO - INDEX
+
 ### criado em: 11:22 2022-11-01
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Santos, Milton]]
@@ -19,7 +22,9 @@ date: 2023-02-24
 - [[Stengers, Isabelle]]
 - [[Globalização]]
 ---
+
 # GLOBALIZAÇÃO
+
 1. [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/interessesdepesquisa.md]]
 2. [[DISSERTAÇÃO MESTRADO WALKER]]
 3. [[NOTAS DE LEITURA/LIVROS/251020220040.md]]
@@ -53,4 +58,3 @@ date: 2023-02-24
 31. [[Bauman, Zygmunt]]
 32. [[NOTAS PERMANENTES/300920221013.md]]
 33. [[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/CANTO DO CISNE.md]]
-

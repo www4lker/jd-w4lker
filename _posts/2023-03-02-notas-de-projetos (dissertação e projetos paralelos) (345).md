@@ -12,10 +12,13 @@ tags:
   - escrivão
 title: pesquisas apenas on-line
 ---
+
 # pesquisas apenas on-line
+
 ## criado em: 13:17 2022-12-18
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[lide com o lide]]
@@ -24,6 +27,7 @@ title: pesquisas apenas on-line
 - [[Como se faz uma tese]]
 
 ---
+
 # encontrar material e informações através de pesquisas apenas on-line
 
 Aqui estão algumas ideias adicionais para encontrar material e informações através de pesquisas apenas on-line:

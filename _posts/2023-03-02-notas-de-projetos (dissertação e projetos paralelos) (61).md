@@ -12,18 +12,24 @@ tags:
   - escrivão
 title: 220920221448
 ---
+
 # 220920221448
+
 criado em: 14:48 2022-09-22
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - [[dissertação index]]
 - [[How To Write A Scientific Paper]]
 - [[zettelkasten]]
 - ### [[220920221553]]
 ---
+
 # How To Write The Results
+
 ## Part II: Text 
 
 >“The scientist only imposes two things, namely truth and sincerity, imposes them upon himself and upon other scientists.” ― Erwin Schrödinger

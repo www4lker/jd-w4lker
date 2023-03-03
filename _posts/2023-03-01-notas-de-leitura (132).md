@@ -6,10 +6,13 @@ tags:
 title: Derrida
 date: 2023-02-24
 ---
+
 # Derrida
+
 criado em: 12:34 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - notas de dissertação:

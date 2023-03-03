@@ -11,10 +11,13 @@ tags:
   - mestredeculturacontemporanea
 title: manipulação
 ---
+
 # manipulação
+
 ## criado em: 10:55 14-12-2022
 
 ##### Relacionado
+
 - palavras-chave:
 - notas:
 - [[Benjamin, Walter]]
@@ -23,6 +26,7 @@ title: manipulação
 - [[hipermídia]]
 - [[its the content killing the culture - wisecrack edition]]
 ---
+
 The cultural industry produces false needs and manipulates people into consuming what they don't need through a variety of marketing and advertising techniques. These techniques are designed to create a sense of desire or need for cultural products that may not be necessary or beneficial to consumers.
 
 One common technique used by the cultural industry to create false needs is the use of emotional appeals in advertising. For example, an advertisement for a cultural product may use images and music that are designed to evoke feelings of happiness, excitement, or nostalgia in the viewer. This can create a sense of desire or need for the product, even if the viewer may not actually need or benefit from it.

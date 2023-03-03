@@ -10,15 +10,19 @@ tags:
   - literatura
 title: encontre Jack, o individualista
 ---
+
 # encontre Jack, o individualista
+
 ## criado em: 22:30 10-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[assistindo adeus minha querida]]
 - [[O Individualista]]
 ---
+
 # “Escreva um personagem tipo detetive hard boiled com a personalidade tipo 4 do eneagrama”
 
 Meet Jack, an Enneagram type Four, "The Individualist," a private detective who has seen it all in the gritty streets of Los Angeles. He is a man of few words, but when he does speak, it's always with a hint of poetry in his voice. He is a man who has always been in touch with his emotions, and he is not afraid to let them guide him on his cases. He is not a traditional detective, he often takes on cases that others have deemed unsolvable, and he always finds a way to see the beauty in the darkest of situations.

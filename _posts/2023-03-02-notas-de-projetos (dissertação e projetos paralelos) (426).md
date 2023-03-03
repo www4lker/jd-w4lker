@@ -2,10 +2,13 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone
 ---
+
 # TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone
+
 ## criado em: 23:09 31-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[racismo algorítmico]]
@@ -13,6 +16,7 @@ title: TikTok’s Greatest Asset Isn’t Its Algorithm—It’s Your Phone
 - [[O futuro é multiespécie]]
 - [[digital minimalismo]]
 ---
+
 [fonte](https://www.wired.com/story/tiktok-phones-extended-mind-philosophy/)
 
 - O sucesso da TikTok tem sido frequentemente atribuído a seu algoritmo, com algumas pessoas sugerindo que ela tem uma espécie de poder hipnótico sobre os usuários. Entretanto, o papel do telefone na transmissão de conteúdo da plataforma não foi totalmente explorado, e é importante considerar o papel tanto do meio como do contexto na forma como recebemos a informação. Concentrando-nos apenas no algoritmo e no conteúdo que ele fornece, ignoramos esses outros fatores importantes.

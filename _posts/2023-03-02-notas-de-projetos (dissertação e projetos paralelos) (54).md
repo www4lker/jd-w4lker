@@ -12,14 +12,20 @@ tags:
   - escrivão
 title: 220920221222
 ---
+
 # 220920221222
+
 criado em: 12:22 2022-09-22
+
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - [[dissertação index]]
 
 ---
+
 # How To Choose The Supporting Results
 
 Saramäki, Jari. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 16). Edição do Kindle. 
@@ -38,6 +44,7 @@ Saramäki, Jari. How To Write A Scientific Paper: An Academic Self-Help Guide fo
 4. tambem como no cinema, a dissertação segue um roteiro, introdução, confrontação e resolução (três atos). Um epílogo pode ser bem vindo.
 
 para resumir, você deveria ter seu argumento principal à mão, junto com outros tres conjuntos de argumentos auxiliares: 
+
 1. um essencial para dar contexto
 2. um que cria excitação e aumenta curiosidade pelo argumento principal
 3. aquele que sublinha a importancia do argumento principal

@@ -11,11 +11,15 @@ tags:
   - estoico
 title: do pedantismo 25
 ---
+
 # do pedantismo 25
+
 ## criado em: 16:43 20-12-2022
 
 ### Relacionado
+
 palavras-chave:
+
 - notas: [[Montaigne, Michel de]]
 - [[LENDO MONTAIGNE]]
 - [[lendo montaigne a sério]]

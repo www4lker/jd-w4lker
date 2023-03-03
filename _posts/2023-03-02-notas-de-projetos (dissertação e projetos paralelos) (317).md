@@ -15,10 +15,13 @@ tags:
   - criatividade
 title: o fim do antropoceno
 ---
+
 # o fim do antropoceno
+
 ## criado em: 13:04 17-01-2023
 
 ### Relacionado
+
 - palavras-chave:  
 - notas:
 - [[1610]]
@@ -34,6 +37,7 @@ title: o fim do antropoceno
 - [[o que é biohacking]]
 
 ---
+
 # Como podemos relacionar o período renascentista com a ascensão da IA e seus vários usos? É possível relacionar a ascensão da tecnologia da informação com a Renascença?
 
 É possível relacionar o período renascentista com a ascensão da IA e seus vários usos de certas maneiras. Tanto a Renascença quanto o desenvolvimento da IA têm sido caracterizados por um interesse renovado no conhecimento e na busca de novas formas de entendimento.

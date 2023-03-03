@@ -7,16 +7,21 @@ tags:
 title: 081020220303
 date: 2023-02-24
 ---
+
 # 081020220303
+
 criado em: 03:03 2022-10-08
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 # Crie um esboço para uma resenha de um livro para um blog:
 
 1. Introdução

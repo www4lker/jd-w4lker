@@ -9,13 +9,17 @@ tags:
   - 2020/2021
 title: 300920221644
 ---
+
 # 300920221644
+
 criado em: 16:44 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/DIÁRIO]]
 ---
+
 30/11/2021
 
 Estou preso em casa e eles estão soltos. Os vizinhos em aglomeração instantânea novamente, “essa é a vida”.

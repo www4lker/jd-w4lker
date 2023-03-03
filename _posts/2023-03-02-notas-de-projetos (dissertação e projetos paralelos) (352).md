@@ -10,10 +10,13 @@ tags:
   - promptgpt3
 title: pode inteligencia virtual fazer arte
 ---
+
 # pode inteligencia virtual fazer arte
+
 criado em: 22:42 2022-08-16
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: 
 - notas de dissertação:
@@ -25,9 +28,11 @@ criado em: 22:42 2022-08-16
 - [[o que é estado da arte]]
 
 ---
+
 [fonte](https://www.wired.com/story/when-ai-makes-art/)
 
 palavras-chave:
+
 - DALL-E 
 - Imagen 
 - Parti 
@@ -52,7 +57,6 @@ palavras-chave:
 - Conceptual art
 
 ---
-
 
 - DALL-E 2, uma ferramenta de geração de imagens a partir de texto feita pela OpenAI, mesma da [[gpt3]], anunciou que pode tirar empregos de designers e artistas por causa de sua capacidade.
 - isso ainda não aconteceu. na verdade existem relatos que o uso destas ferramentas aguçou a criatividade daqueles que a empregam. 

@@ -8,10 +8,13 @@ tags:
   - pessoalidades
 title: 13082022
 ---
+
 # 13082022
+
 criado em: 01:55 2022-08-10
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: [[MEDITAÇÃO]]
 - notas de dissertação:
@@ -19,8 +22,8 @@ criado em: 01:55 2022-08-10
 - [[Thomas Merton]]
 
 ---
-# [[MEDITAÇÃO]] X ORAÇÃO
 
+# [[MEDITAÇÃO]] X ORAÇÃO
 
 Meditar não é difícil, apenas exige dedicação. E traz mais benefícios que problemas, portanto **[[MEDITAÇÃO]] é uma força a mais** para viver neste mundo.
 

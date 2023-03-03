@@ -11,11 +11,15 @@ tags:
   - interessesdepesquisa
 title: THE INTERNET IS BROKEN key points 1
 ---
+
 # THE INTERNET IS BROKEN key points 1
+
 ## criado em: 19:59 05-02-2023
 
 ### Relacionado
+
 palavras-chave: 
+
 - notas: 
 - [[THE INTERNET IS BROKEN]]
 - [[a internet ta quebrada]]
@@ -23,6 +27,7 @@ palavras-chave:
 - [[como consertar a internet]]
 
 ---
+
 Pontos-chave:
 
 - Evan Williams é o fundador do Twitter e co-criador do Blogger. 
@@ -44,4 +49,3 @@ Pontos-chave:
 - O caminho para uma receita significativa permanece esquivo. 
 - Evan Williams rejeita as alegações de que tornar o Medium viável é impossível. 
 - O Medium está solicitando escritores novamente.
-

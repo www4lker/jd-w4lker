@@ -9,10 +9,13 @@ tags:
   - interessesdepesquisa
 title: 231020221805
 ---
+
 # 231020221805
+
 ### criado em: 18:05 2022-10-23
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[MdCC]]
@@ -20,9 +23,10 @@ title: 231020221805
 - [[episteme]]
 - [[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]
 - [[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]
-- 
 ---
+
 ## Escreva um ensaio sobre Os paralelos entre a tese de Michel foucault de episteme e a moderna produção de textos em mídia eletrônica:
+
 (0,3) de temperatura
 
 Existem vários paralelos entre a tese de Michel Foucault sobre episteme e a produção moderna de textos em mídia eletrônica. **Primeiro, ambas envolvem uma mudança dos modos tradicionais de produção para métodos mais modernos e eficientes.** No caso da episteme, esta mudança ocorreu durante a Renascença, quando novos métodos de impressão e distribuição tornaram possível disseminar o conhecimento mais ampla e rapidamente do que nunca. No caso dos meios eletrônicos, a mudança foi dos meios tradicionais de impressão para os meios digitais, que podem ser produzidos e distribuídos mais rápida e facilmente.
@@ -34,5 +38,3 @@ Existem vários paralelos entre a tese de Michel Foucault sobre episteme e a pro
 **Em quarto lugar, tanto a episteme quanto a mídia eletrônica tiveram um profundo impacto na forma como nos comunicamos entre nós.** No caso da episteme, a mudança da cultura oral para a escrita resultou em uma mudança na maneira como as pessoas se comunicavam umas com as outras, com ênfase na palavra escrita e no desenvolvimento de novos gêneros de escrita. No caso da mídia eletrônica, a mudança da mídia impressa para a digital resultou em uma mudança na forma como nos comunicamos uns com os outros, com ênfase na comunicação digital e no desenvolvimento de novas formas de interação.
 
 **Finalmente, tanto a episteme quanto a mídia eletrônica tiveram um profundo impacto na forma como vivemos nossas vidas.** No caso da episteme, a mudança da cultura oral para a escrita resultou em uma mudança na maneira como as pessoas viviam suas vidas, com ênfase no desenvolvimento de novas formas de conhecer e interagir com o mundo. No caso da mídia eletrônica, a mudança da mídia impressa para a digital resultou em uma mudança na maneira como vivemos nossas vidas, com ênfase na capacidade de acessar informações rápida e facilmente e no desenvolvimento de novas maneiras de interagir com o mundo.
-
-

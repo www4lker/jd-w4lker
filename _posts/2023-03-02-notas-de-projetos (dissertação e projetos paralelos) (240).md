@@ -11,10 +11,13 @@ tags:
   - mestredeculturacontemporanea
 title: homogeneização
 ---
+
 # homogeneização
+
 ## criado em: 10:54 14-12-2022
 
 ##### Relacionado
+
 - palavras-chave:
 - notas:
 - [[Benjamin, Walter]]
@@ -23,6 +26,7 @@ title: homogeneização
 - [[hipermídia]]
 - [[its the content killing the culture - wisecrack edition]]
 ---
+
 The culture industry homogenizes culture by producing and distributing cultural products that are designed to appeal to a wide audience. In order to do this, the culture industry tends to produce cultural products that are similar to each other and that conform to mainstream tastes and values. This leads to a situation in which cultural products become more and more similar to each other, and a lack of diversity in the cultural landscape.
 
 The most evident consequences of this homogenization of culture are a loss of diversity and a lack of support for less mainstream or independent cultural production. As the culture industry focuses on producing and distributing cultural products that are likely to be successful in the marketplace, it tends to ignore or marginalize cultural products that are less mainstream or that challenge mainstream values and beliefs. This can lead to a situation in which only a small number of cultural products and perspectives are able to reach a wide audience, while others are ignored or marginalized.

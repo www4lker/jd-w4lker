@@ -7,13 +7,17 @@ tags:
   - filosofia
 title: nosurf
 ---
+
 # nosurf
+
 ## criado em: 11:05 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[nosurf reddit recommendations]]
 ---
+
 # Com base nisso [[161220221058]]), elaborar um teste do tipo buzzfeed para saber se estou *cronicamente online*
 
 - Você se vê verificando refletidamente sua fonte de alimentação de mídia social várias vezes ao dia, mesmo quando você não está usando-as ativamente para nada específico?

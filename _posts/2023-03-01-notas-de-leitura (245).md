@@ -10,13 +10,16 @@ tags:
 title: o chão é lava
 date: 2023-02-24
 ---
+
 # o chão é lava
+
 criado em: 19:10 2022-07-27
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes:
-- notas de literatura: 
+- notas de literatura:  
 [[porque ficou mais difícil dividir a rua nas cidades]]
 ---
 

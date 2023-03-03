@@ -6,10 +6,13 @@ tags:
 title: Tzvetan Todorov
 date: 2023-02-24
 ---
+
 # Tzvetan Todorov
+
 criado em: 09:07 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[A literatura em perigo]]

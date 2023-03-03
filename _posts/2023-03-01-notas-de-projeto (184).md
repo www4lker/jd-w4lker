@@ -9,14 +9,18 @@ tags:
   - ceticismo
 title: Meditation is like mountaineering approach it with care
 ---
+
 # Meditation is like mountaineering approach it with care
+
 ## criado em: 12:16 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Vipassana]]
 - [[terapia psicodélica]]
 ---
+
 [fonte](https://psyche.co/ideas/meditation-is-like-mountaineering-approach-it-with-care)
 
 - A meditação é frequentemente retratada como uma prática simples e fácil que pode melhorar vários aspectos da vida, mas também pode levar a desconforto e efeitos negativos como ansiedade, depressão e agravamento de doenças mentais.

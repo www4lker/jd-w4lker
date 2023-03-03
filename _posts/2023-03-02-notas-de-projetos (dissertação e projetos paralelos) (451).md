@@ -9,10 +9,13 @@ tags:
   - wiredetal
 title: Web Semântica
 ---
+
 # Web Semântica
+
 criado em: 13:49 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -26,7 +29,6 @@ criado em: 13:49 2022-10-17
 ---
 
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar a Web Semântica?
-
 
 1. A Web Semântica é uma extensão da atual Rede Mundial de Computadores.
 2. A Web Semântica é uma teia de dados que pode ser processada por máquinas.

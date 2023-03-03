@@ -18,16 +18,18 @@ tags:
 ---
 
 # John Olvier, Narrow AI e os moleques do Fortnite
+
 ## criado em: 13:21 2023-03-02
 
 ### Conteúdo Relacionado
+
 - notas: 
 - [[2023-02-28-title1 (4)]]
 - Fontes & Links:
-- 
 ---
 
 ## Resuminho (elaborado com o chatgpt, avisando desde já)
+
 Vídeo original no link para youtube: [Artificial Intelligence: Last Week Tonight with John Oliver (HBO) - YouTube](https://www.youtube.com/watch?v=Sqa8Zo2XWc4)
 
 - A IA está se tornando cada vez mais predominante na vida moderna, e está sendo usada em várias aplicações, tais como carros auto-conduzidos, filtros de spam, e robôs terapêuticos.

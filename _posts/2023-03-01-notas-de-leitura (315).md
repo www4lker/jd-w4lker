@@ -7,10 +7,13 @@ tags:
 title: Vilém Flusser
 date: 2023-02-24
 ---
+
 # Vilém Flusser
+
 criado em: 09:11 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: [[Cultura Geral - tudo o que você deve saber]]
 ---

@@ -9,14 +9,18 @@ tags:
   - pessoalidades
 title: 12082022
 ---
+
 # 12082022
+
 criado em: 01:55 2022-08-10
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[MEDITAÇÃO]]
 
 ---
+
 # PORQUE EU MEDITO?
 
 Como pode alguém confiar em outro? Precisa ser belo, aceitável, tratavel? Como ser confiável? Com tempo, energia, esforço?

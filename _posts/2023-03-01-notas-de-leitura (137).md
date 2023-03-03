@@ -7,16 +7,20 @@ tags:
 title: différance
 date: 2023-02-24
 ---
+
 # différance
+
 criado em: 12:44 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: [[Derrida]]
 
 ---
+
 ## Quais são os 8 pontos-chave que eu deveria saber ao estudar a difusão de Derrida?
 
 1. Différance é um conceito desenvolvido pelo filósofo francês Jacques Derrida.

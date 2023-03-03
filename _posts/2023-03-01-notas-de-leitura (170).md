@@ -8,10 +8,13 @@ tags:
 title: Georg Wilhelm Friedrich Hegel
 date: 2023-02-24
 ---
+
 # Georg Wilhelm Friedrich Hegel
+
 criado em: 09:30 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Han, Byung-Chul]]
@@ -32,7 +35,7 @@ criado em: 09:30 2022-10-07
 
 3. Hegel acreditava que a história é a história da evolução da consciência humana, e que cada nova etapa da história representa um nível superior de compreensão.
 
-4. A filosofia de Hegel teve uma profunda influência sobre muitos pensadores posteriores, incluindo[[ Karl Marx]],  [[Nietzsche, Friedrich]], e Martin Heidegger.
+4. A filosofia de Hegel teve uma profunda influência sobre muitos pensadores posteriores, incluindo[[ Karl Marx]], [[Nietzsche, Friedrich]], e Martin Heidegger.
 
 5. Alguns dos conceitos-chave da filosofia de Hegel incluem o Absoluto, o Dialético, a Fenomenologia do Espírito e o Mestre-escravo dialético.
 

@@ -7,10 +7,13 @@ tags:
 title: Eco, Umberto
 date: 2023-02-24
 ---
+
 # Eco, Umberto
+
 criado em: 19:33 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[How to Write a Thesis]]
@@ -18,6 +21,7 @@ criado em: 19:33 2022-08-09
 - [[From Internet to Gutenberg]]
 - [[O Fascismo Eterno]]
 ---
+
 # Quais são os 7 pontos-chave que eu deveria saber ao estudar Umberto Eco?
 
 1. Umberto Eco era um escritor, filósofo e semiótico italiano.

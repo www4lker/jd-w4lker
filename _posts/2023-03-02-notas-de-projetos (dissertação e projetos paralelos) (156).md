@@ -6,14 +6,18 @@ tags:
   - interessesgerais
 title: como fazer um pitch de 3 min
 ---
+
 # como fazer um pitch de 3 min
+
 ## criado em: 14:19 07-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[PITCH]]
 - [[proposta de estágio IEL]]
 ---
+
 [fonte](https://youtu.be/MXLjTswaIz8)
 
 ## Estratégias entrevistas de emprego

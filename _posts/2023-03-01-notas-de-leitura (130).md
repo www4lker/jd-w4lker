@@ -9,10 +9,13 @@ tags:
 title: DEFESA EM 12 PASSOS
 date: 2023-02-24
 ---
+
 # DEFESA EM 12 PASSOS
+
 criado em: 20:54 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[dissertação index]]
@@ -20,6 +23,7 @@ criado em: 20:54 2022-10-13
 - [[How to Write a Thesis]]
 - [[How To Write A Scientific Paper]]
 ---
+
 ## Plano de 12 etapas para preparar a defesa de uma tese de doutorado:
 
 1. Entender o processo: Para defender sua tese de doutorado, você precisará apresentar sua pesquisa a um painel de especialistas em sua área. Esta pode ser uma tarefa assustadora, mas é importante lembrar que você é o especialista em seu tema.

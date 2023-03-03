@@ -11,10 +11,13 @@ tags:
   - interessesgerais
 title: # AI Shouldn’t Compete With Workers—It Should Supercharge Them
 ---
+
 # # AI Shouldn’t Compete With Workers—It Should Supercharge Them
+
 criado em: 11:13 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[gpt3]]
 - notas de dissertação:
@@ -23,8 +26,8 @@ criado em: 11:13 2022-10-17
 - [[Humans Have Always Been Wrong About Humans]]
 
 ---
-[fonte](https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/?bxid=5d7fe4203f92a4110117fc32&cndid=67720204&esrc=profile-page&source=EDT_WIR_NEWSLETTER_0_TRANSPORTATION_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_FastForward_101722&utm_mailing=WIR_FastForward_101722&utm_medium=email&utm_source=nl&utm_term=WIR_Transportation)
 
+[fonte](https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/?bxid=5d7fe4203f92a4110117fc32&cndid=67720204&esrc=profile-page&source=EDT_WIR_NEWSLETTER_0_TRANSPORTATION_ZZ&utm_brand=wired&utm_campaign=aud-dev&utm_content=WIR_FastForward_101722&utm_mailing=WIR_FastForward_101722&utm_medium=email&utm_source=nl&utm_term=WIR_Transportation)
 
 O texto descreve o Teste de Turing, que é uma forma de decidir se um computador é inteligente, e como ele tem sido a estrela do norte por gerações de pioneiros da IA. No entanto, alguns pensadores da IA se perguntam se fomos bem sucedidos na tarefa errada ao imitar as habilidades humanas. Eles acreditam que isso levou a uma competição econômica direta entre pessoas e máquinas.
 
@@ -40,7 +43,7 @@ No texto, Brynjolfsson discute como os criadores de IA foram influenciados pelos
 
 Brynjolfsson acredita que a chave para o crescimento econômico real está na construção de IA que **aumente** os seres humanos, fazendo coisas que as pessoas não podem fazer. Ele argumenta que precisamos mudar o alvo, e cita o AlphaFold como exemplo. A IA do DeepMind é capaz de prever estruturas protéicas, algo que requer a manipulação de cadeias de aminoácidos em milhões de combinações possíveis - algo que os humanos não podem fazer. Brynjolfsson acredita que, usando AlphaFold, os cientistas poderiam se tornar supercientistas, capazes de explorar muito mais possibilidades de drogas e tratamentos médicos do que eles mesmos poderiam fazer.
 
-No inverno passado, Brynjolfsson falou com o diretor executivo da DeepMind, Demis Hassabis, que argumentou que o aumento era o caminho promissor para o futuro. Hassabis prevê "um enorme florescimento na próxima década", e diz que "começaremos a ver desafios de nível de premiados com premio nobel  na ciência serem derrubados um após o outro".
+No inverno passado, Brynjolfsson falou com o diretor executivo da DeepMind, Demis Hassabis, que argumentou que o aumento era o caminho promissor para o futuro. Hassabis prevê "um enorme florescimento na próxima década", e diz que "começaremos a ver desafios de nível de premiados com premio nobel na ciência serem derrubados um após o outro".
 
 O autor está discutindo como a inteligência artificial pode ser usada para aumentar a produtividade e como parte do valor econômico dessa produtividade iria para os trabalhadores. Entretanto, o autor observa que é difícil criar inteligência artificial que seja útil e diferente da maneira como os humanos operam.
 
@@ -57,5 +60,3 @@ Além disso, muitos trabalhos são mais difíceis de automatizar completamente d
 Para afastar as empresas do Turingismo, Brynjolfsson sugere algumas mudanças na política governamental. Uma área que merece reforma é o código tributário americano. Neste momento, ele tributa o trabalho de forma mais severa do que o capital, como constatou o recente trabalho do Brookings Institute. As empresas recebem melhor tratamento fiscal quando compram robôs ou software para substituir seres humanos por causa de depreciações como a depreciação de capital. Assim, o código tributário essencialmente incentiva as empresas a automatizar os trabalhadores fora da folha de pagamento, em vez de mantê-los e **aumentá-los.**
 
 "Subsidiamos o capital e tributamos a mão-de-obra", diz Brynjolfsson. "Por isso, neste momento estamos pressionando os empresários - quer eles queiram ou não - a tentarem descobrir maneiras de substituir o trabalho humano". Se invertermos isso, ou até mesmo nivelarmos o campo de jogo, então os empreendedores descobririam uma maneira melhor". Essa poderia ser uma maneira de sair da armadilha.
-
-

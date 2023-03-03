@@ -10,13 +10,17 @@ tags:
   - promptgpt3
 title: distopia feudal digital
 ---
+
 # distopia feudal digital
+
 criado em: 11:02 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave:   
 
 ---
+
 ## Depoimento de um artista sueco sobre as ferramentas que criam arte:
 
 Em resumo, o autor acredita que a arte AI é um problema porque é **derivada** e uma ameaça aos ilustradores freelance e artistas conceituais.

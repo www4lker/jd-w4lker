@@ -8,13 +8,17 @@ tags:
   - promptgpt3
 title: suposto chefe
 ---
+
 # suposto chefe
+
 ## criado em: 17:04 08-12-2022
 
 ### Relacionado
+
 - palavras-chave:   
 - notas: [[portfolio]]
 ---
+
 ![SC](https://i.postimg.cc/pV4Mqsp9/a-successful-agribusiness-entrepreneur-standing-in-front-of-a-field-of-crops-looking-confident-and.png)
 
 # pedi ao chatgpt o que um empresário do agro iria querer em um candidato ao formar uma equipe de consultoria interdisciplinar

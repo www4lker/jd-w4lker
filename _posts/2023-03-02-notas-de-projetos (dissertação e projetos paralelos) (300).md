@@ -9,7 +9,9 @@ tags:
   - microdose
 title: mushrooms, a poem
 ---
+
 # mushrooms, a poem
+
 ### criado em: 00:41 02-11-2022
 
 - palavras-chave: 
@@ -19,9 +21,11 @@ title: mushrooms, a poem
 - [[terapia psicodélica]]
 - [[o poema cogumelos explicado]]
 ---
+
 >> **MUSHROOMS**  
 > _by Sylvia Plath_
-> 
+
+>
 > Overnight, very  
 > Whitely, discreetly,  
 > Very quietly
@@ -67,6 +71,7 @@ title: mushrooms, a poem
 > Our foot’s in the door.
 
 ---
+
 >	It is both a hope and a heartache to consider that, today, mushroom species from the genus _Psilocybe_ are being used in clinical trials to effectively allay treatment-resistant depression — a breakthrough she never lived to see that might have saved her life.
 
 É uma esperança e uma dor de coração considerar que, hoje, espécies de cogumelos do gênero _Psilocybe_ estão sendo usadas em ensaios clínicos para aliviar efetivamente a depressão resistente ao tratamento - um avanço que ela nunca viveu para ver que poderia ter salvado sua vida.

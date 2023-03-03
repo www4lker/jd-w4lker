@@ -9,10 +9,13 @@ title: Por que os filósofos desconfiam dos seus sentidos
 ---
 
 # Por que os filósofos desconfiam dos seus sentidos
+
 ## criado em: 19:11 13-12-2022
+
 [nexojornal](https://www.nexojornal.com.br/ensaio/2022/12/12/Por-que-os-fil%C3%B3sofos-desconfiam-dos-seus-sentidos)
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Nietzsche, Friedrich]]
 - [[ceticismo]]
@@ -20,7 +23,6 @@ title: Por que os filósofos desconfiam dos seus sentidos
 ---
 
 ## Considerando que o fanatismo nasce de um desejo pelo comando produzido por processos sociais, é possível, de fato, combatê-lo, sendo que ele é produto do modo de vida no qual estamos imersos?
-
 
 >O texto discute como a filosofia tem historicamente procurado separar a verdade do engano, usando metáforas como a caverna de Platão para ilustrar esta ideia. O texto também discute como filósofos como Descartes e Kant têm se agarrado à questão do olhar e sua relação com a verdade e a ilusão. O texto sugere que, para esses filósofos, o olhar deve ser treinado para evitar enganos e chegar a uma verdadeira compreensão do mundo. Ainda: como a filosofia de Nietzsche difere da de Kant, particularmente no que diz respeito ao conceito de fanatismo. Nietzsche vê o fanatismo não como uma falha moral, mas como um produto de processos sociais e da forma como as sociedades humanas são estruturadas. O texto sugere que, ao invés de tentar combater diretamente o fanatismo, pode ser mais produtivo interpretar e compreender as causas subjacentes a este fenômeno. O texto também levanta questões sobre a capacidade dos indivíduos de acessar a razão e distinguir a verdade da falsidade.
 

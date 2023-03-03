@@ -5,15 +5,19 @@ tags:
 title: hibridismo
 date: 2023-02-24
 ---
+
 # hibridismo
+
 criado em: 14:55 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: [[Canclini, Néstor García]]
 
 ---
+
 ## Quais são 8 pontos-chave que eu deveria saber ao estudar o hibridismo do Canclini?
 
 1. O híbrido de Canclini é uma teoria que explica o processo de mudança cultural e de globalização.
@@ -34,7 +38,6 @@ criado em: 14:55 2022-10-13
 
 ---
 
-
 A retórica do hibridismo é uma forma de falar sobre os efeitos da mistura (hibridismo) sobre a identidade e a cultura. Os principais teóricos do hibridismo são Homi Bhabha, Néstor García Canclini, Stuart Hall, Gayatri Spivak, e Paul Gilroy.
 
 O trabalho de Bhabha é importante para a discussão conceitual do hibridismo porque ele enfatiza que o sujeito colonial está localizado em um lugar de hibridismo, sua identidade formada em um espaço de iteração e tradução pelo colonizador. Esta virada no efeito do hibridismo faz com que a presença da autoridade colonizadora não seja mais imediatamente visível.
@@ -46,6 +49,7 @@ Embora o desenvolvimento original e teórico do hibridismo tenha abordado as nar
 A polifonia é outro elemento importante da teoria do hibridismo, de Mikhail Bakhtin, que é aplicada aos discursos híbridos apresentados no folclore e na antropologia.
 
 ---
+
 A teoria do hibridismo é uma forma de pensar a cultura que elimina o pensamento e as práticas essencialistas (isto é, o racismo). No entanto, a própria teoria do hibridismo é propensa à mesma estrutura essencialista e, portanto, requer definição e colocação. Uma série de argumentos tem sido seguida, nos quais promotores e detratores argumentam os usos da teoria do hibridismo. Muito deste debate pode ser criticado como estando excessivamente atolado em teoria e pertencente a algumas discussões inúteis sobre a direção que o hibridismo deveria seguir, por exemplo, ligado à teoria racial, ao pós-colonialismo, aos estudos culturais ou à globalização.
 
 Algumas pessoas pensam que a teoria do hibridismo é politicamente vazia porque não aborda o contexto colonial material e as realidades pós-independência das antigas colônias. Outros acham que a teoria do hibridismo é útil porque aplana a diferença cultural e facilita o estudo.

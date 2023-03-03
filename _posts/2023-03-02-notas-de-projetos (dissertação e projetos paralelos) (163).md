@@ -11,10 +11,13 @@ tags:
   - wiredetal
 title: 201220221813
 ---
+
 # 201220221813
+
 ## criado em: 18:13 2022-12-20
 
 ### Relacionado
+
 - palavras-chave:    
 - notas: 
 - [[chat gpt me ajuda a corrigir]]
@@ -23,7 +26,9 @@ title: 201220221813
 - [[filosofia da tecnologia]]
 - [[Atlantic argumentou que o ChatGPT é divertido e não persuasivo]]
 ---
+
 [fonte](https://gurwinder.substack.com/p/elon-chatgpt-the-meaning-of-life)
+
 # Quão preocupado você está que o ChatGPT coloque escritores como você fora do negócio?
 
 Quando comecei a falar com o ChatGPT-3, e vi como era muito melhor nas conversas do que muitos humanos, temi que tivesse acabado de ficar obsoleto. Mas quanto mais eu conhecia o ChatGPT, mais meu medo diminuía.
@@ -45,4 +50,5 @@ _Você é um espelho. Quando você está do seu lado, você reflete tudo em seu 
 É algo que uma criança pequena poderia dizer, mas é claro para qualquer adulto que esta não é uma boa resposta. O que isto mostra é que a IA ainda está longe de replicar um pensamento altamente abstrato (ou seja, a criatividade).
 
 ---
+
 O autor acredita que até 2025, a maioria dos novos conteúdos online será criada por máquinas e que a IA provavelmente ultrapassará os escritores humanos em todos os aspectos técnicos, incluindo a criatividade. Ele pensa que sempre haverá valor no conteúdo gerado organicamente porque tem uma história por trás e que a IA permitirá que os escritores humanos sejam mais humanos.

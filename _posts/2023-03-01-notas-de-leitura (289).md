@@ -3,10 +3,13 @@ tags: permanente
 title: Sidarta Ribeiro
 date: 2023-02-24
 ---
+
 # Sidarta Ribeiro
+
 criado em: 17:00 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

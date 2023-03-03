@@ -13,11 +13,15 @@ tags:
   - insumos
 title: 220920221529
 ---
+
 # 220920221529
+
 criado em: 15:29 2022-09-22
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - [[dissertação index]]
 - [[How To Write A Scientific Paper]]
@@ -25,7 +29,9 @@ palavras-chave:
 - [[William Zinsser]]
 - ### [[220920221553]]
 ---
+
 # Tips For Revising Content And Structure 
+
 >“Rewriting is the essence of writing well.” — William Zinsser, On Writing Well
 
 Saramäki, Jari. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 82). Edição do Kindle. 
@@ -40,12 +46,3 @@ Saramäki, Jari. How To Write A Scientific Paper: An Academic Self-Help Guide fo
 - [ ] Check that you have provided enough background information
 - [ ] Make sure that your writing is not confusing—your reader shouldn’t have to work too hard.
 - [ ] Check that your nomenclature and notation are consistent.
-
-
-
-
-
-
-
-
-

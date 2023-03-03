@@ -11,11 +11,15 @@ tags:
   - estoico
 title: 201220221645
 ---
+
 # 201220221645
+
 ## criado em: 16:45 2022-12-20
 
 ### Relacionado
+
 palavras-chave:
+
 - notas: [[Montaigne, Michel de]]
 - [[LENDO MONTAIGNE]]
 - [[lendo montaigne a sério]]
@@ -28,6 +32,7 @@ palavras-chave:
 - [[do pedantismo 25]]
 - [[sabedoria verdadeira é fazer juízos corretos para a própria vida]]
 ---
+
 >detesto o sábio que não é sábio por si próprio
 
 p 174

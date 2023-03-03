@@ -6,10 +6,13 @@ tags:
 title: Jordan B. Peterson
 date: 2023-02-24
 ---
+
 # Jordan B. Peterson
+
 criado em: 12:37 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

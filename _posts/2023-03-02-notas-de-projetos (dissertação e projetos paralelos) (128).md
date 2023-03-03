@@ -18,10 +18,13 @@ tags:
   - cultura
 title: CEUPCD
 ---
+
 # CEUPCD
+
 criado em: 16:25 2022-10-14
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes:
 - [[interesses de pesquisa]]
@@ -29,22 +32,24 @@ criado em: 16:25 2022-10-14
 - notas de literatura: 
 - [[descobrindo o que seu projeto pode ser 1]]
 - [[dissertação index]]
-- 
 
 ---
+
 ## Resultados via gpt3 em um Curto Ensaio Unindo os Principais Conceitos da Dissertação
 
 ### Escrever um pequeno ensaio amarrando juntos, cosendo juntos, e ligando os seguintes conceitos:
-#### temperatura (0.5)
->
-cultura
-contemporaneidade
-literatura
-internet
-intercâmbios e relações
-altruísmo
-metalinguagem
 
+#### temperatura (0.5)
+
+>
+
+cultura  
+contemporaneidade  
+literatura  
+internet  
+intercâmbios e relações  
+altruísmo  
+metalinguagem
 
 A **cultura** refere-se aos costumes, tradições, e crenças de um grupo de pessoas. A **contemporaneidade** refere-se ao estado de atualidade ou de atualização. A **literatura** é uma forma de arte que utiliza a linguagem como meio de comunicação. A **Internet** é uma rede global de computadores que permite o intercâmbio de informações e recursos.
 

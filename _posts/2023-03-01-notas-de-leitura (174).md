@@ -8,16 +8,20 @@ tags:
 title: globalização cultural
 date: 2023-02-24
 ---
+
 # globalização cultural
+
 criado em: 15:04 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: [[Canclini, Néstor García]]
 - [[Globalização]]
 - [[Santos, Milton]]
 - [[EPISTEMES CONTEMPORÂNEAS Ecco 2020]]
 ---
+
 Quais são os 8 pontos-chave que eu deveria saber ao estudar a globalização cultural da Canclini?
 
 1. A globalização cultural da Canclini é uma teoria que explica como as culturas são globalizadas e como interagem umas com as outras.

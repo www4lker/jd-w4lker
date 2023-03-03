@@ -11,10 +11,13 @@ title: homem competente
 feed: show
 date :  09-08-2022
 ---
+
 # homem competente
+
 criado em: 12:20 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[o homem competente (versão atualizada)]]

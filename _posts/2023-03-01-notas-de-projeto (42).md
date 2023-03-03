@@ -7,10 +7,13 @@ tags:
   - totalizante
 title: 2022-08-01  
 ---
+
 # 2022-08-01  
+
 ###### Diário Onírico
-- 
+
 ### Tarefas
+
 1. passaporte chegou - que tal ir la de bike pegar?
 2. devolver o livro nunca lido do foucault - muito atrasado
 3. avisar a dolores que o processo ta devagar mas ta rolando.

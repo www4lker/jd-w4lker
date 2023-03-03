@@ -8,18 +8,24 @@ tags:
   - literatura
 title: advice to aspiring writers
 ---
+
 # advice to aspiring writers
+
 ### criado em: 01:35 02-11-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Sontag, Susan]]
 - [[SUSAN SONTAG ON WRITING]]
 - [[mushrooms, a poem by Sylvia Plath]]
 ---
+
  fonte: themarginalian.org
+
 # Susan Sontag sobre Narração de Histórias, O Que Significa Ser um Ser Humano Moral, e Seus Conselhos aos Escritores
+
 Maria Popova
 
 - Susan Sontag passou sua vida pensando sobre o papel da escrita tanto no mundo interior do escritor quanto no universo externo dos leitores.
@@ -29,7 +35,7 @@ Maria Popova
 - A Sontag argumenta que **a literatura é uma forma de conhecimento e que a tarefa principal de um escritor é escrever bem.**
 - Ela também adverte contra a simplificação da realidade e defende a complexidade e a sabedoria na literatura. 
 
-##  Susan Sontag on Storytelling, What It Means to Be a Moral Human Being, and Her Advice to Writers
+## Susan Sontag on Storytelling, What It Means to Be a Moral Human Being, and Her Advice to Writers
 
 >Susan Sontag (January 16, 1933–December 28, 2004) spent a lifetime contemplating the role of writing in both the inner world of the writer and outer universe of readers, which we call culture — from her prolific essays and talks on the task of literature to her devastatingly beautiful letter to Borges to her decades of reflections on writing recorded in her diaries. But nowhere did she address the singular purpose of storytelling and the social responsibility of the writer with more piercing precision than in one of her last public appearances — a tremendous lecture on South African Nobel laureate Nadine Gordimer titled “At the Same Time: The Novelist and Moral Reasoning,” which Sontag delivered shortly before her death in 2004. The speech is included in and lends its title to the endlessly enriching posthumous anthology At the Same Time: Essays and Speeches (public library), which also gave us Sontag on beauty vs. interestingness, courage and resistance, and literature and freedom.
 
@@ -41,8 +47,8 @@ Sontag begins with the quintessential question asked of, and answered by, all pr
 
     For instance: “Be serious.” By which I meant: Never be cynical. And which doesn’t preclude being funny.
 
-What might Sontag say of the exponentially more exacting struggle against the cultural momentum of cynicism a mere decade later?
-Susan Sontag by Peter Hujar
+What might Sontag say of the exponentially more exacting struggle against the cultural momentum of cynicism a mere decade later?  
+Susan Sontag by Peter Hujar  
 Susan Sontag by Peter Hujar
 
 With the disclaimer that “descriptions mean nothing without examples,” Sontag points to Gordimer as the “living writer who exemplifies all that a writer can be” and considers what the South African author’s “large, ravishingly eloquent, and extremely varied body of work” reveals about the key to all great writing:
@@ -156,4 +162,3 @@ And therein lies Sontag’s greatest, most timeless, most urgently timely point 
     But perhaps the beginning of wisdom, and humility, is to acknowledge, and bow one’s head, before the thought, the devastating thought, of the simultaneity of everything, and the incapacity of our moral understanding — which is also the understanding of the novelist — to take this in.
 
 At the Same Time is an indispensable read in its entirety — an eternally nourishing serving of wisdom from one of the most expansive and luminous minds humanity ever produced. 
-

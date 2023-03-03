@@ -2,14 +2,17 @@
 tags: projetos, gerais
 title: prompts
 ---
+
 # prompts
+
 pedidos para midjourney que gostei
+
 ### criado em: 15:43 23-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[prompts midjourney]]
-- 
 ---
 
 - line detailed :: lineart :: lithography :: ink detail and color
@@ -26,10 +29,10 @@ pedidos para midjourney que gostei
 - intricate details, 4K detail post processing, octane render, --ar 6:4
 - photo collage portrait o~~f umberto eco,~~ symmetrical, photo realistic
 - OCTANE RENDER E UNREAL ENGINE
--  with brilliance like that of a chrysolite stone, the wheel is covered with eyes everywhere, soft detail clouds, atmospheric clouds, fog, ~~The landscape is tropical~~, sky accent, warm and white color, cinematic, detailed, atmospheric, backlit, epic, matte painting, cinematic, 8k, unreal engine render, --ar 4:4 
+- with brilliance like that of a chrysolite stone, the wheel is covered with eyes everywhere, soft detail clouds, atmospheric clouds, fog, ~~The landscape is tropical~~, sky accent, warm and white color, cinematic, detailed, atmospheric, backlit, epic, matte painting, cinematic, 8k, unreal engine render, --ar 4:4 
 - ultrarealistic, hyperdetailed, octane render, 8k resolution, high quality
 - aurora borealis cyberpunk octane
-- highly urbanized city bending over itself  in right angle almost collapsing photorealistic rich details
+- highly urbanized city bending over itself in right angle almost collapsing photorealistic rich details
 - highly urbanized city bending over itself in right angle against law of physics**
 - bicycling on rough city cars are monsters epic battle minmalist style - @juiz_penitente (16%) (editado)
 - as fractal chaotic portrait 
@@ -40,7 +43,7 @@ pedidos para midjourney que gostei
 - portrait of ~~a swordfighter~~, rococo, gold leaf, ink blot, ink illustration, intricate fractal detailing --uplight --ar 4:5 --test
 ---
 
--  ideias como mostrar o sisifo deixando a pedra rolar até embaixo 
+- ideias como mostrar o sisifo deixando a pedra rolar até embaixo 
 - tentando imaginar o jogo das contas de vidro do herman hesse
 - um escritor escrevendo suas memorias do além 
 - um fazendeiro pegando fogo enquanto conta dinheiro 

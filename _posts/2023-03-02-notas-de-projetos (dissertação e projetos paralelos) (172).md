@@ -2,16 +2,19 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: 260120232023
 ---
+
 # 260120232023
+
 ## criado em: 20:23 2023-01-26
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[chat gpt me ajuda a corrigir]]
 - [[usar o gpt é low effort (pergunta)]]
 - [[ALARMADOS PELO GPT3, UNIVERSIDADES COMEÇAM E REVISAR SUA FORMA DE ENSINAR - artigo]]
-- 
 ---
+
 [fonte](https://www.nature.com/articles/d41586-022-03479-w)
 
 # Could AI help you to write your next paper?

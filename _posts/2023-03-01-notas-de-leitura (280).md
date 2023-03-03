@@ -5,14 +5,18 @@ tags:
 title: Rushdie, Salman
 date: 2023-02-24
 ---
+
 # Rushdie, Salman
+
 ### criado em: 15:46 23-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Oriente, Ocidente]]
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Salman Rushdie?
 
 1. Salman Rushdie é um romancista e ensaísta indiano britânico.
@@ -21,6 +25,7 @@ date: 2023-02-24
 4. Ele foi acusado de blasfêmia por alguns muçulmanos por seus romances "Os Versos Satânicos" e "O Último Suspiro do Mouro".
 5. Ele tem recebido inúmeros prêmios literários, incluindo o Booker Prize, o Whitbread Award e o James Tait Black Memorial Prize.
  
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar os Salman Rushdie's Satanic Verses?
 
 1. Os Versos Satânicos é um romance de Salman Rushdie que foi publicado pela primeira vez em 1988. 

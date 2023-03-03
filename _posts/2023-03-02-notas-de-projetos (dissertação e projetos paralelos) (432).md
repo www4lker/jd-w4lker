@@ -3,13 +3,13 @@ tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: Trabalho de Introdução à Filosofia.
 ---
   
+
 ### 02 DE JUNHO DE2007
 
-
->UNIVERSIDADE FEDERAL DE MATO GROSSO - ICHS
-DEPARTAMENTO DE FILOSOFIA
-CURSO LICENCIATURA E BACHARELADO EM FILOSOFIA
-DISCIPLINA: INTRODUÇÃO À FILOSOFIA
+>UNIVERSIDADE FEDERAL DE MATO GROSSO - ICHS  
+DEPARTAMENTO DE FILOSOFIA  
+CURSO LICENCIATURA E BACHARELADO EM FILOSOFIA  
+DISCIPLINA: INTRODUÇÃO À FILOSOFIA  
 PROFª MAURLIA VALDEREZ LUCAS DO AMARAL
 
 # Trabalho de Introdução à Filosofia.
@@ -36,7 +36,6 @@ FOUCAULT, M_. O que são as Luzes_?
 
 MARTINS, Carlos José. _Michel Foucault: Filosofia como diagnóstico do presente_.
 
-  
 --  
 Aquele que anda sabe dançar, aquele que fala sabe cantar.  
 Wall<er

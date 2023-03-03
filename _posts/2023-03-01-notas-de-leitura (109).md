@@ -10,10 +10,13 @@ feed: show
 date :  09-08-2022
 date: 2023-02-24
 ---
+
 # Como mudar sua mente episódio 1
+
 criado em: 20:12
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: [[Projeto Psiconautas]]
 - notas de literatura: [[Pollan, Michael]]
@@ -23,8 +26,10 @@ criado em: 20:12
 Como falar de drogas sem ser e soar moralizante?
 ```
 ---
+
 ##### Episódio 1:
-- Fala sobre LSD 
+
+- Fala sobre LSD  
 há um aviso legal no início
 - E também o pollan fala sobre o risco de dar início a surto psicótico.
 - Pollan está dando um panorama histórico.

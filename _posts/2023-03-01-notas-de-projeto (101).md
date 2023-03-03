@@ -10,10 +10,13 @@ tags:
   - insight
 title: 061020221329
 ---
+
 # 061020221329
+
 criado em: 13:29 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 
 - [[Postmodernism]]
@@ -22,7 +25,9 @@ criado em: 13:29 2022-10-06
 - [[Foucault, Michel]] 
 - [[8 questions for my interview with a postmodern philosopher]]
 ---
+
 # Criar uma lista de 8 perguntas para minha entrevista com um filósofo pós-moderno sobre a atual produção de textos para blogs:
+
 ## Temperatura (0,5)
 
 1. O que você pensa sobre a atual produção de textos para blogs?
@@ -42,8 +47,8 @@ criado em: 13:29 2022-10-06
 8. Quais você acha que são as coisas mais importantes a considerar ao escolher um blog para escrever?
 
 ---
-## Temperatura (1)
 
+## Temperatura (1)
 
 1. Como você se sente sobre a atual produção de textos para blogs?
 2. Você acha que os blogs estão ajudando ou prejudicando ==a qualidade do discurso filosófico?==

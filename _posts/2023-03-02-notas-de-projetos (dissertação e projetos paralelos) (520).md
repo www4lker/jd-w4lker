@@ -8,10 +8,13 @@ tags:
   - interessesdepesquisa
 title: 061020221218
 ---
+
 # 061020221218
+
 criado em: 12:18 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[ELO]]
@@ -19,6 +22,7 @@ criado em: 12:18 2022-10-06
 - [[Cybertext]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Como a produção literária moderna ocorre nos meios eletrônicos e quais são suas implicações?
 
 1. A produção literária moderna ocorre nos meios eletrônicos, o que tem implicações sobre como os escritores criam e divulgam sua obra.
@@ -30,4 +34,3 @@ criado em: 12:18 2022-10-06
 4. A mídia eletrônica pode ajudar os escritores a se conectar com os leitores de maneiras novas e inovadoras.
 
 5. O uso da mídia eletrônica na produção literária pode ter um profundo impacto no cenário literário.
-

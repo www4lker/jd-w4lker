@@ -9,10 +9,13 @@ tags:
 title: o que significa escrever na era da internet
 date: 2023-02-24
 ---
+
 # o que significa escrever na era da internet
+
 criado em: 09:55 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - Notas:
 - [[261020221004]]
@@ -57,4 +60,3 @@ criado em: 09:55 2022-08-09
 - ## [[quisquilae]]
 
  ---
-

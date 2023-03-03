@@ -6,10 +6,13 @@ tags:
   - promptgpt3
 title: blog
 ---
+
 # blog
+
 criado em: 13:55 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -17,6 +20,7 @@ criado em: 13:55 2022-10-06
 - [[251020220040]]
 
 ---
+
 Criar um esboço para um ensaio sobre como escrever para um blog público:
 
 1. Introdução: Por que escrever para um blog público?

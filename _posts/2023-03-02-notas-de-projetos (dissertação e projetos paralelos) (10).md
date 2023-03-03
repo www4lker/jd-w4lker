@@ -6,16 +6,21 @@ tags:
   - geo
 title: 081220221105
 ---
+
 # 081220221105
+
 ## criado em: 11:05 2022-12-08
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[PITCH]]
 - [[portfolio]]
 ---
+
 # Desafios
+
 Embora o PIB tenha subido 0,4% este terceiro trimestre deste ano (segundo dados do IBGE), o agro apresentou estabilidade, ficando em uma taxa de crescimento de 0,1%.
 
 As razões para isso são muitas e se relacionam de modo complexo, mas podemos estimar que os desafios que o setor enfrenta podem estar por trás deste arrefecimento. Resumindo em três grandes eixos temos:
@@ -27,6 +32,7 @@ As razões para isso são muitas e se relacionam de modo complexo, mas podemos e
 3. Mudança climática e agricultura: Isto inclui o impacto da mudança climática na produtividade agrícola, a necessidade de estratégias de adaptação para ajudar os agricultores a lidar com a mudança climática, e o potencial da agroindustrialização para contribuir com as emissões de gases de efeito estufa e exacerbar a mudança climática.
 
 # Propostas
+
 Cada desafio destes é complexo e pode exigir uma abordagem única ou uma combinação de abordagens para tratá-lo de forma eficaz.
 
 Em geral, soluções eficazes para essas questões podem envolver uma combinação de intervenções políticas, inovações tecnológicas e mudanças sociais e culturais. A colaboração e coordenação entre diferentes partes interessadas, incluindo governos, empresas, organizações da sociedade civil e indivíduos, também pode ser importante para abordar essas questões de forma abrangente e sustentável.

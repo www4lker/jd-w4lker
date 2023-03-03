@@ -7,32 +7,34 @@ tags:
 title: Varella, Drauzio
 date: 2023-02-24
 ---
+
 # Varella, Drauzio
+
 criado em: 01:27 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
-- notas de literatura: 
-[[corrida x leituras]]
+- notas de literatura:  
+[[corrida x leituras]]  
 [[Varella-Estação Carandiru]]
-
 
 ---
 
-Nascimento — 3 de maio de 1943 (79 anos)
-São Paulo, SP
-Brasil
-Ocupação —	Médico e escritor
-Instituições — 	Hospital do Servidor Público de São Paulo
-Especialidade — Oncologia
-Imunologia
-Pesquisa  — Estudos sobre câncer e AIDS
-Conhecido por — Divulgação científica
-Anos em atividade —	1970 - presente
-Educação —	Faculdade de Medicina da USP
-Prêmios relevantes —	Prêmio Jabuti, 2000
+Nascimento — 3 de maio de 1943 (79 anos)  
+São Paulo, SP  
+Brasil  
+Ocupação —	Médico e escritor  
+Instituições — 	Hospital do Servidor Público de São Paulo  
+Especialidade — Oncologia  
+Imunologia  
+Pesquisa — Estudos sobre câncer e AIDS  
+Conhecido por — Divulgação científica  
+Anos em atividade —	1970 - presente  
+Educação —	Faculdade de Medicina da USP  
+Prêmios relevantes —	Prêmio Jabuti, 2000  
 Religião —	Ateu
 
 ---

@@ -8,17 +8,20 @@ tags:
   - criatividade
 title: 051220221024
 ---
+
 # 051220221024
+
 ## criado em: 10:24 2022-12-05
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]
 - [[NOTAS DE LEITURA/LIVROS/Roube Como Um Artista]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Roube como um artista]]
 
-
 ---
+
 # 20 prompts para escrever no diário pessoal
 
 ^ac8f64
@@ -46,8 +49,9 @@ title: 051220221024
 20. Como sua história desafia o status quo?
 
 ---
+
 ## disclaimer
 
-As 12 primeiras perguntas veem do "Twelve Questions" de Bhanu Kapil “Vertical Interrogation of Strangers”.
-As demais perguntas foram gerada pela IA da vinci 003 na temperatura 0,78. Sem querer eu fiz ele responder as doze primeiras antes de acertar no pedido de aumentar as perguntas em oito. 
+As 12 primeiras perguntas veem do "Twelve Questions" de Bhanu Kapil “Vertical Interrogation of Strangers”.  
+As demais perguntas foram gerada pela IA da vinci 003 na temperatura 0,78. Sem querer eu fiz ele responder as doze primeiras antes de acertar no pedido de aumentar as perguntas em oito.  
 Seguem as [[respostas da IA para perguntas existenciais]].

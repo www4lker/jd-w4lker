@@ -11,10 +11,13 @@ date :  11-08-2022
 aliases: Want to Write Better Here Are Some Tools to Help You Improve
 date: 2023-02-24
 ---
+
 # Want to Write Better Here Are Some Tools to Help You Improve
+
 criado em: 12:36 2022-08-11
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[dissertação index]] 
 - [[interesses de pesquisa]]

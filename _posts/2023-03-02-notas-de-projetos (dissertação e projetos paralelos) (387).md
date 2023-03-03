@@ -10,15 +10,19 @@ tags:
   - sciencebitch
 title: Se você quer a cura psicodélica, seu ego pode precisar morrer
 ---
+
 # Se você quer a cura psicodélica, seu ego pode precisar morrer
+
 ## criado em: 14:45 11-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - [[Projeto Psiconautas]] 
 - [[terapia psicodélica]]
 - [[Sobre bad trips]]
 ---
+
 [fonte](https://psyche.co/ideas/if-you-want-psychedelic-healing-your-ego-may-need-to-die)
 
 Albert Hoffman, o químico suíço que descobriu o LSD em 1943, descreveu sua experiência com a substância como percorrendo dois caminhos: um de sentimentos positivos de unidade, bem-aventurança e plenitude, e outro de medo e sensação de perda de si mesmo. A diferença entre os dois caminhos, ele acreditava, era a dosagem tomada. **Entretanto, pesquisas mais recentes sugerem que a experiência da "morte do ego" ou "dissolução do ego" é causada por mais do que apenas dosagem e medo, e que estas experiências podem ser benéficas.** Como psicodélicos como LSD e psilocibina estão sendo pesquisados como tratamentos para vários problemas de saúde mental, compreender a base neuroquímica da morte do ego é crucial. O conceito de ego e eu em psicologia se refere à maneira como nos comportamos e fazemos escolhas baseadas em nossas necessidades e personalidade, e como experimentamos a nós mesmos e o mundo ao nosso redor. Os psicodélicos podem desestabilizar estas formas estabelecidas de experimentar o mundo e nos ensinar que podemos ser diferentes e ter mais flexibilidade em nosso comportamento e pensamentos.

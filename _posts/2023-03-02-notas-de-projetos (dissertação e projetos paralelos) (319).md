@@ -10,10 +10,13 @@ tags:
   - interessesdepesquisa
 title: O microfone
 ---
+
 # O microfone
+
 ## criado em: 18:16 2022-12-16
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[gpt3]]
@@ -23,6 +26,7 @@ title: O microfone
 - [[GPT COMO MICROFONE]]
 - [[Autenticidade]]
 ---
+
 >O texto gerado por computador é como um microfone que amplifica as vozes e as visões das pessoas. Assim como um microfone permite que uma pessoa seja ouvida mais claramente e alcance um público mais amplo, o texto gerado por computador pode ajudar as pessoas a expressar suas idéias e dar vida à sua visão. Assim como um microfone pode ser usado para vários fins, como cantar ou falar em um evento público, o texto gerado por computador pode ser usado para ajudar em vários aspectos do processo de escrita.
 
 [fonte original](https://www.wired.com/story/artificial-intelligence-writing-art/)

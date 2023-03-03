@@ -3,15 +3,19 @@ tags: permanente
 title: Nagel, Thomas
 date: 2023-02-24
 ---
+
 # Nagel, Thomas
+
 ## criado em: 14:25 02-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[The View from Nowhere]]
 - [[Eduardo Giannetti sobre Nagel]]
 ---
+
 ### Quais são os 5 pontos-chave que eu deveria saber ao estudar Thomas Nagel?
 
 1. Thomas Nagel é um filósofo americano especializado na [[filosofia da mente]] e da ética.

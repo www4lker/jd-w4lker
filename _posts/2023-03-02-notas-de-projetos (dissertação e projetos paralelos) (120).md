@@ -6,10 +6,13 @@ tags:
   - framework
 title: boas citações para imprimir
 ---
+
 # boas citações para imprimir
+
 criado em: 12:05 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

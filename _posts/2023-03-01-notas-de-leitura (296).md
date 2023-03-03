@@ -8,10 +8,13 @@ tags:
 title: Stefano Mancuso
 date: 2023-02-24
 ---
+
 # Stefano Mancuso
+
 criado em: 16:33 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: 
 - notas de dissertação:

@@ -7,12 +7,15 @@ tags:
   - filosofia
 title: Epistemes Contemporâneas
 ---
+
 # Epistemes Contemporâneas
+
 criado em: 12:09 20-10-2022
 
 #### [[MdCC]]
 
 # palavras-chave: 
+
 - epistemes [[episteme]] [[Foucault, Michel]] [[foucault this is not a pipe]]
 - momentos históricos [[Livros Nexo História e Política Contemporânea]]
 - Grécia Antiga 

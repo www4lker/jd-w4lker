@@ -3,10 +3,13 @@ tags: permanente
 title: A teoria da individuação
 date: 2023-02-24
 ---
+
 # A teoria da individuação
+
 criado em: 16:17 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Simondon, Gilbert]]

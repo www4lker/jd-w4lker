@@ -8,10 +8,13 @@ tags:
   - polis
 title: lendo arqueologias do futuro prefacio
 ---
+
 # lendo arqueologias do futuro prefacio
+
 criado em: 12:23 2022-08-15
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - [[Jameson, Fredric]]

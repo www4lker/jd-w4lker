@@ -9,22 +9,25 @@ tags:
   - estoico
 title: como ser um niilista feliz
 ---
+
 # como ser um niilista feliz
+
 ## criado em: 12:53 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
-- 
 - notas: [[Happycracia]]
 - [[LENDO MONTAIGNE]]
 - [[Jia Tolentino]]
 - [[Jenny Odell]]
 - [[Ottessa Moshfegh]]
-- 
 ---
+
 [fonte](https://psyche.co/guides/how-to-find-the-sunny-side-of-nihilism)
 
 ## introdução
+
 - A busca de significado se tornou um produto comercializável e contribuiu para o mal-estar moderno, como a insatisfação e o esgotamento. 
 - A fixação em tornar todas as áreas da vida significativas levou a um sentimento de fracasso ansioso quando o significado não é imediatamente encontrado em ações, empregos, relacionamentos e produtos de consumo.
 - **O niilismo, a crença de que a vida não tem sentido e que os sistemas que dão um sentido de propósito são construções humanas, oferece uma alternativa a esta busca de sentido.**
@@ -34,6 +37,7 @@ title: como ser um niilista feliz
 - Entretanto, é importante reconhecer as potenciais consequencias negativas do niilismo e abordá-lo com cautela.
 
 ---
+
 ## definição
 
 1. O niilismo passivo é uma forma destrutiva de niilismo onde os indivíduos se tornam ameaçados pela ausência de significado e tentam preencher o vazio com qualquer oferta, mesmo que ela não seja significativa.
@@ -43,7 +47,9 @@ title: como ser um niilista feliz
 5. Encontrar sentido na vida é uma jornada pessoal e pode ser alcançada através de vários métodos, como conectar-se com outros, criar algo ou experimentar coisas novas.
 
 ---
+
 ### métodos e conceitos
+
 - **Olhar para o abismo**, ou reconhecer a própria insignificância no grande esquema das coisas, pode levar a um sentimento de admiração e a um reenquadramento do que é verdadeiramente importante na vida.
 - **A "meditação da morte"** ou contemplar a própria mortalidade pode ajudar a alinhar os próprios valores e ações com o que é verdadeiramente importante para eles.
 - O conceito de "niilismo ensolarado" refere-se a encontrar alegria e significado na vida, apesar da aceitação da última falta de sentido da existência.
@@ -51,6 +57,7 @@ title: como ser um niilista feliz
 - É importante encontrar o equilíbrio na jornada rumo ao niilismo, pois abraçá-lo totalmente pode levar à apatia e à falta de motivação.
 
 ---
+
 Pontos-chave - Como ser um niilista feliz (trecho original)
 
     O surgimento de um significado sem sentido. A busca de significado costumava ser uma busca nobre, mas se tornou comercializada e agora inspira mais angústia do que temor.
@@ -64,7 +71,8 @@ Pontos-chave - Como ser um niilista feliz (trecho original)
     Lembre-se dos prazeres inúteis. Do cheiro de manjericão fresco a uma excelente piada, comece uma lista de "coisas boas". Sem sentido, claro. Precioso, absolutamente.
 
 #### concluindo
-1.  Os filósofos mais jovens estão explorando e encontrando maneiras construtivas de aplicar o niilismo em suas vidas.
-2.  O "niilismo otimista" envolve se concentrar em encontrar a felicidade no momento presente e aproveitar ao máximo a breve existência de cada um.
-3.  O niilismo pode proporcionar uma oportunidade de encontrar um sentido na vida, escolhendo seus próprios valores e crenças.
-4.  Os jovens estão encontrando resiliência em sua compreensão do niilismo e suas implicações para suas vidas.
+
+1. Os filósofos mais jovens estão explorando e encontrando maneiras construtivas de aplicar o niilismo em suas vidas.
+2. O "niilismo otimista" envolve se concentrar em encontrar a felicidade no momento presente e aproveitar ao máximo a breve existência de cada um.
+3. O niilismo pode proporcionar uma oportunidade de encontrar um sentido na vida, escolhendo seus próprios valores e crenças.
+4. Os jovens estão encontrando resiliência em sua compreensão do niilismo e suas implicações para suas vidas.

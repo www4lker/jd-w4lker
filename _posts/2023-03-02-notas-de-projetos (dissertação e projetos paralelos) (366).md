@@ -14,10 +14,13 @@ tags:
   - filosofia
 title: qual o ancestral do meu projeto
 ---
+
 # qual o ancestral do meu projeto
+
 criado em: 00:37 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: [[interesses de pesquisa]]
 - notas de dissertação: [[dissertação index]]

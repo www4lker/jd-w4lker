@@ -10,15 +10,20 @@ tags:
   - história
 title: the wandering mind
 ---
+
 # the wandering mind
+
 ## criado em: 10:55 19-01-2023
 
 ### Relacionado
+
 palavras-chave: 
+
 - notas: 
 - [[Você precisa pensar como um monge medieval]]
 - [[a tecnologia quebrou nossos cérebros]]
 ---
+
 [fonte](https://www.nytimes.com/2023/01/09/books/review/the-wandering-mind-jamie-kreiner.html)
 
 # Crítica do livro: The Wandering Mind": O que os monges medievais nos dizem sobre a Distração', por Jamie Kreiner

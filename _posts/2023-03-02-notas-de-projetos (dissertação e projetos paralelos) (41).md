@@ -10,10 +10,13 @@ tags:
   - podkasten
 title: 171020221529
 ---
+
 # 171020221529
+
 criado em: 15:29 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -25,7 +28,8 @@ criado em: 15:29 2022-10-17
 - [[interesses de pesquisa]]
 
 ---
-O meio é a mensagem — notas do podcast
+
+O meio é a mensagem — notas do podcast  
 [fonte](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvMDAwOWIxNjctMGU4Mi00MTRlLTkxZWItYWFlODAxMWZjNjZkLzk3NWEzNmUwLTYyZDEtNDZkNS05MDcyLWFlY2IwMTQyMTEyMC8zOTUwNDlkNC02YzE3LTRmM2MtOTgzZS1hZWNiMDE0MjExMjkvcG9kY2FzdC5yc3M/episode/NTUyMzQ5N2EtZTcwMS00ZTc4LWI5ZDYtYWYxYjAxMzA4NDI0?sa=X&ved=0CAUQkfYCahcKEwjYoKGh_-f6AhUAAAAAHQAAAAAQNQ)
 
 >Escolhemos os produtos, músicas e até candidatos políticos pelas melhores propostas? Ou é só vamos atrás de quem dá o que o meio de propagação de mensagens mais quer?

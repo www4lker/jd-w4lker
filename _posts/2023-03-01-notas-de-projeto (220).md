@@ -8,15 +8,19 @@ tags:
   - estoico
 title: senso de humor como virtude moral
 ---
+
 # senso de humor como virtude moral
+
 ## criado em: 12:32 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Montaigne, Michel de]]
 - [[ceticismo]]
 - [[A Vida Dos Estoicos]]
 ---
+
 [fonte](https://psyche.co/ideas/a-sense-of-humour-even-a-dark-one-is-a-moral-virtue)
 
 - O humor é frequentemente visto como um traço positivo que faz de alguém uma pessoa melhor

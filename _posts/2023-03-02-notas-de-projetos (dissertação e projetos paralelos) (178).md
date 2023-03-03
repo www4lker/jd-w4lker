@@ -8,16 +8,20 @@ tags:
   - filosofia
 title: DASEIN
 ---
+
 # DASEIN
+
 ## criado em: 10:18 04-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Existencialismo]]
 - [[Heidegger, Martin]]
 - [[READY-NOTES]]
 ---
+
 >O conceito de Heidegger de Dasein, muitas vezes traduzido como "estar-aí", é uma ideia fundamental em sua filosofia. Ela se refere à forma como os seres humanos existem no mundo e se envolvem com seu entorno. Heidegger acreditava que a Dasein é caracterizada por sua abertura ao mundo e sua capacidade de compreender e interpretar suas experiências. Ele também argumentou que Dasein está sempre em um estado de "arremesso" ou "queda", significando que está constantemente lidando com as contingências e dificuldades da vida. Em geral, Dasein é um conceito complexo e matizado que é central para a filosofia de Heidegger.
 
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar Dasein de Heidegger?

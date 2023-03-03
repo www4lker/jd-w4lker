@@ -11,10 +11,13 @@ tags:
   - promptgpt3
 title: 081020220255
 ---
+
 # 081020220255
+
 criado em: 02:55 2022-10-08
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS]]
 - [[pentiment]]
@@ -22,6 +25,7 @@ criado em: 02:55 2022-10-08
 - [[usar o gpt é low effort (pergunta)]]
 - [[Citizen Sleeper - análise na steam com a qual eu concordei totalmente]]
 ---
+
 # Crie um esboço para uma revisão do videogame na Steam:
 
 1. Introdução

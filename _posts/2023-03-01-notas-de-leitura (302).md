@@ -7,10 +7,13 @@ tags:
 title: SUSAN SONTAG ON WRITING
 date: 2023-02-24
 ---
+
 # SUSAN SONTAG ON WRITING
+
 ### criado em: 01:34 02-11-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Sontag, Susan]]
@@ -27,7 +30,6 @@ fonte: themarginalian.org
 - Ela também observa que a escrita é uma "pequena porta" e pode ser usada como uma ferramenta para raiva e auto-expressão.
 
 ---
-
 
 The newly released volume of Susan Sontag’s diaries, As Consciousness Is Harnessed to Flesh: Journals and Notebooks, 1964-1980 (public library), from whence Sontag’s thoughtful meditations on censorship and aphorisms came, is an absolute treasure trove of rare insight into one of the greatest minds in modern history. Among the tome’s greatest gifts are Sontag’s thoughts on the art, craft, and ideology of writing.
 
@@ -189,5 +191,3 @@ Gathered here are the most compelling and profound of Sontag’s thoughts on wri
     (4/30/80)
 
 As Consciousness Is Harnessed to Flesh is a revelatory read in its entirety, full of Sontag’s abiding insight into literature, love, and life. Complement this particular aspect with her [[advice to aspiring writers]].
-
-

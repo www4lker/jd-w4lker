@@ -10,7 +10,9 @@ tags:
   - geo
 title: 311220222353
 ---
+
 # 311220222353
+
 ## criado em: 23:53 2022-12-31
 
 - palavras-chave: 
@@ -24,6 +26,7 @@ title: 311220222353
 - [[NOTAS PERMANENTES/A teoria da cauda longa]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]
 ---
+
 Subscriptions are increasing in popularity because of the gig economy, in which more people are working freelance or temporary jobs rather than in traditional, permanent employment. This trend has led to a shift towards renting or leasing assets rather than owning them. Additionally, companies like Apple have begun to prioritize subscriptions, particularly for entertainment and gaming apps, rather than paid or productivity apps. While subscriptions can be beneficial for companies, they can also be difficult for developers to implement, as they may initially make less money and risk losing users if they switch from a paid model to a subscription model. However, subscriptions also offer the potential for long-term stability and the ability to make more money over time if the subscription model is successful.
 
 Subscriptions are not a universally superior business model for all types of goods and services. While they have become popular in the software industry, with companies like Netflix and Spotify being successful with subscription models, they may not be suitable for all types of software or digital products. There are many other options for charging for digital products, including free, ads, in-app purchases, freemium, paid, and subscriptions. The most suitable business model depends on the type of product or service being offered.

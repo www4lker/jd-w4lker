@@ -8,10 +8,13 @@ tags:
   - gpt3
 title: Entrevista - REM-MT
 ---
+
 # Entrevista - REM-MT
+
 ## criado em: 11:56 02-02-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[cris e edu]]
@@ -19,6 +22,7 @@ title: Entrevista - REM-MT
 - [[dicas para ajudá-lo a aceitar sua entrevista]]
 
 ---
+
 ## O que é essencial em saber ao se apresentar para uma vaga de geoprocessamento
 
 1. Vetorização: Vetorização é o processo de conversão de dados raster (imagens bitmap) em dados vetoriais. Isto envolve traçar as formas em uma imagem raster e convertê-las em uma série de pontos, linhas e polígonos que podem ser armazenados em um formato de dados baseado em vetores. Os dados vetoriais são freqüentemente usados em sistemas de informação geográfica (SIG) porque permitem a manipulação precisa de dados espaciais e a representação precisa das características geográficas.

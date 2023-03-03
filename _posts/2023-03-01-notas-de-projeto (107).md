@@ -10,15 +10,20 @@ tags:
   - pessoalidades
 title: 161220221116
 ---
+
 # 161220221116
+
 ## criado em: 11:16 2022-12-16
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[terapia psicodélica]]
 - [[A emergência da TP e como surfar na onda]]
 ---
+
 # Como acalmar sua tempestade interior
+
 [fonte](https://psyche.co/guides/how-to-calm-your-emotions-with-dialectical-behaviour-therapy)
 
 Pontos-chave - Como acalmar sua tempestade interior

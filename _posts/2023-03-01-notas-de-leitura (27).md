@@ -3,7 +3,9 @@ tags: permanente
 title: 202207071638
 date: 2023-02-24
 ---
+
 # 202207071638
+
 criado em: 16:38
 
 palavras-chave:

@@ -9,10 +9,13 @@ tags:
   - vipassana
 title: 5 estratégias para potencializar a empatia através da investigação acadêmica
 ---
+
 # 5 estratégias para potencializar a empatia através da investigação acadêmica
+
 criado em: 15:42 2022-10-14
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[dissertação index]]
 - [[Manufacturing Happy Citizens]]

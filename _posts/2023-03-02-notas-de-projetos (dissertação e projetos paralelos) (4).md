@@ -8,10 +8,13 @@ tags:
   - filosofia
 title: 071020220916
 ---
+
 # 071020220916
+
 criado em: 09:16 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas:
 - [[hipercultura]]
@@ -22,6 +25,7 @@ criado em: 09:16 2022-10-07
 - [[071020221000]]
 
 ---
+
 Característico de hoje é a desintegração do horizonte. Desaparecem os contextos que dão sentido e identidade. Fragmentação, pontualização e pluralização são sintomas do presente. Valem também para a experiência temporal de hoje. Não há mais um tempo que seja cumprido por uma bela tessitura de passado, presente e futuro, ou seja, pela história, por um arco de suspensão narrativo. O tempo fica nu, ou seja, despe-se de narrativa. Surge um tempo pontual ou um tempo-acontecimento que não pode conter muito sentido devido à sua falta de horizonte.
 
 Han, Byung-Chul. [[Hiperculturalidade]] . Editora Vozes. Edição do Kindle. 

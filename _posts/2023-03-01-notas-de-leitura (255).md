@@ -13,10 +13,13 @@ title: resumo 240123 1
 aliases: resumo 240123 1
 date: 2023-02-24
 ---
+
 # resumo 240123 1
+
 ## criado em: 14:55 24-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Dostoiévski, Fiodor]]

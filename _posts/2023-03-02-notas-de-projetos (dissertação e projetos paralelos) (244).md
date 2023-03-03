@@ -10,10 +10,13 @@ tags:
   - interessesgerais
 title: humanidades digitais
 ---
+
 # humanidades digitais
+
 criado em: 16:04 2022-10-14
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

@@ -9,16 +9,18 @@ title: Thomas Pynchon
 aliases: Thomas Pynchon
 date: 2023-02-24
 ---
+
 # Thomas Pynchon
+
 criado em: 18:18 2022-10-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Arco íris gravidade wired]]
 - [[A Gravity's Rainbow Companion (Weisenburger, Steven C.]]
 - [[Gravitys Rainbow by Thomas Pynchon is known for its complex plot]]
-
 
 ---
 

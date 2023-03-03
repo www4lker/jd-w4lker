@@ -12,18 +12,24 @@ tags:
   - 191
 title: 201220221019
 ---
+
 # 201220221019
+
 ## criado em: 09:32 11-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[pen its powerful than computer]]
 ---
+
 # Anotar à mão é melhor que com computador?
+
 ## Naruhodo!
-Episodio inteiro [aqui](https://open.spotify.com/episode/4iIf7PRfDKIc1sf0u7wIXj?si=21745c674b6041bc)
-*3 de maio, 2021* 
-**REFERÊNCIAS**
+
+Episodio inteiro [aqui](https://open.spotify.com/episode/4iIf7PRfDKIc1sf0u7wIXj?si=21745c674b6041bc)  
+*3 de maio, 2021*  
+**REFERÊNCIAS**  
 Artigo original na Trends in Neuroscience and Education  
 [http://www.sciencedirect.com/science/article/pii/S2211949316300187](https://www.sciencedirect.com/science/article/pii/S2211949316300187)
 

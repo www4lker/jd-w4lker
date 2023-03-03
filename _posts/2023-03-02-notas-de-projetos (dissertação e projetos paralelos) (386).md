@@ -10,10 +10,13 @@ tags:
   - promptgpt3
 title: Robôs com um toque humano (pergunta) Sim, por favor
 ---
+
 # Robôs com um toque humano (pergunta) Sim, por favor
+
 ## criado em: 10:58 16-01-2023
 
 ### Relacionado
+
 - palavras-chave:   
 - notas: 
 - [[dissertação index]]
@@ -30,6 +33,7 @@ title: Robôs com um toque humano (pergunta) Sim, por favor
 - [[5 coisas sobre filosofia da tecnologia]]
 - [[Empatia na era da IA]]
 ---
+
 [fonte wired](https://www.wired.com/story/robots-design/)
 
 # Robôs com um toque humano? Sim, por favor.

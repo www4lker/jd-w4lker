@@ -3,13 +3,15 @@ tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 Aliases: [ "#interessesdepesquisa" ]
 title: interessesdepesquisa
 ---
+
 # interessesdepesquisa
+
 ### criado em: 10:32 01-11-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
-- 
 ---
 - [[1, 2, 3 TESTANDO... LITERATURA DIGITAL NO BRASIL HOJE]]
 - [[5 estratégias para potencializar a empatia através da investigação acadêmica]]
@@ -32,7 +34,6 @@ title: interessesdepesquisa
 - [[220920221222]]
 
 ---
-
 
 - [[220920221225]]
 - [[220920221259]]
@@ -147,4 +148,3 @@ title: interessesdepesquisa
 - [[World Wide Web]]
 - [[Write and revise your draft]]
 - [[Bauman, Zygmunt]]
-

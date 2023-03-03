@@ -9,10 +9,13 @@ tags:
   - promptgpt3
 title: paradoxo de polanyi
 ---
+
 # paradoxo de polanyi
+
 criado em: 13:58 2022-08-25
 
 ##### Relacionado
+
 - palavras-chave:   
 - notas permanentes: 
 - notas de dissertação:

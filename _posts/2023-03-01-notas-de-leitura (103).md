@@ -10,10 +10,13 @@ tags:
 title: ceticismo em montaigne
 date: 2023-02-24
 ---
+
 # ceticismo em montaigne
+
 criado em: 23:50
 
 ##### Relacionado
+
 - palavras-chave:#insight 
 - notas permanentes: [[LENDO MONTAIGNE]]
 - notas de literatura: [[ensaios, de montaigne]] 

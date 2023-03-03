@@ -9,10 +9,13 @@ tags:
   - filosofia
 title: a técnica do feynman
 ---
+
 # a técnica do feynman
+
 criado em: 20:34 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas: 
 - [[Feynman's Approach]]

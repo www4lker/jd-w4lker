@@ -3,14 +3,17 @@ tags: permanente
 title: Políticas Da Imagem
 date: 2023-02-24
 ---
+
 # Políticas Da Imagem
 
 ## Metadata
+
 - Autor: [[Beiguelman, Giselle]]
 - Título Completo: Políticas Da Imagem
 - BI: 17440085
 
 ## DESTAQUES
+
 - Acredito que a arte seja uma forma de pensar o mundo e um exercício de tensionamento do real. ([Location 14](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=14))
 - Cada um dos ensaios aborda um tema específico, analisando as transformações do olhar, as estéticas da vigilância, a vida urbana mediada por imagens, as novas formas de exclusão – como o racismo algorítmico –, a cultura da memória do tempo do digital e a pandemia das imagens do coronavírus no Brasil e no mundo. ([Location 16](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=16))
 - Contudo, compartilham um pressuposto comum: as imagens tornaram-se as principais interfaces de mediação do cotidiano. Ocupam a comunicação, as relações afetivas, a infraestrutura e os corpos via sistemas de escaneamento e aplicativos diversos. ([Location 19](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=19))
@@ -24,7 +27,7 @@ date: 2023-02-24
 - Isso não quer dizer que a imagem em movimento passe a ser produzida sem levar em conta a percepção, mas sim que esses estudos migram da exploração da pluralidade de sensações possíveis diante do fenômeno cinematográfico para a do condicionamento do corpo e do olhar diante da imagem. ([Location 109](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=109))
     - Note: Cisão
 - Como apontou o teórico da fotografia Jonathan Crary,16 não se pode ignorar a centralidade do desenvolvimento da indústria da atenção / distração, que se configura no fim do século XIX. ([Location 111](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=111))
-- Outros formatos em gestação no período que antecede a indústria cinematográfica tal qual a conhecemos são as apropriações da arte moderna da nova mídia da época. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=153))
+- Outros formatos em gestação no período que antecede a indústria cinematográfica tal qual a conhecemos são as apropriações da arte moderna da nova mídia da época. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=153))  
 357973409
 
 - Data: 25-06-2022    
@@ -35,17 +38,17 @@ date: 2023-02-24
 - Artistas como a dupla Rejane Cantoni e Leonardo Crescenti (1954–2018) notabilizaram-se por incursões nesse campo de reflexão que problematiza a tecnologia no horizonte de novos regimes do olhar e a imagem para além de suas capacidades miméticas. Em Tubo (2018),29 por exemplo, eles exploram as possibilidades de fazer os visitantes imergirem simultaneamente em diferentes paisagens e temporalidades e ver a si e os outros dentro das imagens que produzem. ([Location 199](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=199))
 - FANTASMAS E CANIBAIS O fantasma é uma figura ambivalente, que transita entre a presença e a ausência, o real e o virtual. Ocupa um lugar de destaque na história das imagens maquínicas. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=226))
 - Mas é o teórico brasileiro Erick Felinto quem situa o fantasma como chave de leitura para a cultura contemporânea, assombrada por fantasmas eletrônicos e digitais, “em que as imagens da tela possuem uma realidade mais intensa e vívida que a do nosso cotidiano”. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=232))
-- Nas redes sociais, as imagens aparecem atreladas ao lugar e à hora em que são produzidas, e são contextualizadas pelos seus algoritmos, em relação a determinado grupo e segundo padrões internos dos arquivos digitais. É nesse ponto que a cultura do compartilhamento se cruza com a cultura da vigilância. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=430))
+- Nas redes sociais, as imagens aparecem atreladas ao lugar e à hora em que são produzidas, e são contextualizadas pelos seus algoritmos, em relação a determinado grupo e segundo padrões internos dos arquivos digitais. É nesse ponto que a cultura do compartilhamento se cruza com a cultura da vigilância. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=430))  
 357973416
 
 - Data: 25-06-2022    
 - Tags: [[orange]] 
-- Os vínculos entre a história da fotografia e os dispositivos de controle social foram amplamente discutidos e são em grande parte tributários da seminal análise de Michel Foucault sobre as formas de institucionalização do poder burocrático em Vigiar e punir, evidenciando as relações entre as biopolíticas e as tecnologias de visibilização do corpo e dos sujeitos no espaço. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=500))
+- Os vínculos entre a história da fotografia e os dispositivos de controle social foram amplamente discutidos e são em grande parte tributários da seminal análise de Michel Foucault sobre as formas de institucionalização do poder burocrático em Vigiar e punir, evidenciando as relações entre as biopolíticas e as tecnologias de visibilização do corpo e dos sujeitos no espaço. ([Location 500](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=500))  
 357973417
 
 - Data: 25-06-2022    
 - Tags: [[orange]] 
-- Note-se, entretanto, que as opções metodológicas dos dois cientistas indicam objetivos distintos: a definição de padrões gerais, decorrentes das leis hereditárias que definiriam o caráter do criminoso, em Galton, e a identificação individualizada, em Bertillon.18 Bertillon não teve a importância e o impacto científico de Galton. Porém, por caminhos distintos, ambos contribuíram para consolidar pressupostos de exclusão social e cultural baseados na construção de tipos ideais. Esses pressupostos terão, como sabemos, consequências funestas ao longo do século XX, tendo em vista que a eugenia foi um dos pilares do nazismo. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=518))
+- Note-se, entretanto, que as opções metodológicas dos dois cientistas indicam objetivos distintos: a definição de padrões gerais, decorrentes das leis hereditárias que definiriam o caráter do criminoso, em Galton, e a identificação individualizada, em Bertillon.18 Bertillon não teve a importância e o impacto científico de Galton. Porém, por caminhos distintos, ambos contribuíram para consolidar pressupostos de exclusão social e cultural baseados na construção de tipos ideais. Esses pressupostos terão, como sabemos, consequências funestas ao longo do século XX, tendo em vista que a eugenia foi um dos pilares do nazismo. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=518))  
 357973418
 
 - Data: 25-06-2022    
@@ -55,7 +58,7 @@ date: 2023-02-24
 - Contudo, nos seus meandros, implicam também um inequívoco processo de naturalização da vigilância. Não somente pela diluição de suas tecnologias no uso corriqueiro. Mas, acima de tudo, porque o princípio básico de melhoria dos recursos de inteligência artificial reside na sofisticação do aprendizado maquínico. Isso depende de datasets mais robustos, capazes de treinar máquinas para reconhecer os padrões com maior fidelidade. Conjuntos de dados, no entanto, não são tão artificiais assim, não brotam por geração espontânea em computadores. São as crias qualificadas do Big Data nosso de cada dia, fornecidos por nós nas ruas, nos aeroportos, nos cafés e, cada vez mais, nas redes, onde compartilhamos nossas imagens. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=590))
 - Essa situação nos põe diante do mais desconcertante paradoxo da política das imagens na contemporaneidade: somos vistos (supervisionados) a partir daquilo que vemos (as imagens que produzimos e os lugares em que estamos). Ou seja: os grandes olhos que nos monitoram veem pelos nossos olhos. É isso que diferencia a vigilância atual do sistema panóptico, que foi sua metáfora mais contundente até a explosão da sociedade de controle em que vivemos hoje. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=596))
 - Prefiro, no entanto, entender o modelo de vigilância algorítmica como um novo modelo de vigilância, cuja ênfase recai na relação entre os indivíduos, em detrimento do controle centralizado sobre todos do panóptico do jurista inglês Jeremy Bentham (1748–1832).31 Nessa situação, todos controlam todos, a partir das interações pessoais, e o rastreamento passa a depender da extroversão da intimidade pessoal do sujeito em rede. Isso porque é essa intimidade o “surplus comportamental” com que as corporações, como Google e Facebook, trabalham, dando concretude ao “capitalismo de vigilância”, como denominou a economista Shoshana Zuboff.32 ([Location 608](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=608)) ^851232
-- Esse processo remete ao que os pesquisadores Nick Couldry e Ulises Mejias denominaram datacolonialismo, ([Location 618](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=618))
+- Esse processo remete ao que os pesquisadores Nick Couldry e Ulises Mejias denominaram datacolonialismo, ([Location 618](https://readwise.io/to_kindle?action=open&asin=B09B91PXGX&location=618))  
 357973424
 
 - Data: 25-06-2022    

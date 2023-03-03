@@ -7,10 +7,13 @@ title: Susan Sontag
 aliases: Susan Sontag
 date: 2023-02-24
 ---
+
 # Susan Sontag
+
 criado em: 11:37 2022-09-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[2022-08-24]]
@@ -27,6 +30,7 @@ criado em: 11:37 2022-09-29
 - [[SUSAN SONTAG ON WRITING]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Susan Sontag?
 
 1. Susan Sontag foi uma escritora e pensadora americana.

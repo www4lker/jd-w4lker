@@ -10,17 +10,19 @@ tags:
   - insumos
 title: um milagre termodinâmico
 ---
+
 # um milagre termodinâmico
+
 criado em: 22:20 2022-08-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[dissertação index]]
 - [[📕 DISSERTAÇÃO]]
 - notas de dissertação:
-- notas de literatura:  [[Carlos Heitor Cony]] 
+- notas de literatura: [[Carlos Heitor Cony]] 
 - [[Quase Memória]]
-- 
 
 ---
 

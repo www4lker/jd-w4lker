@@ -5,10 +5,13 @@ feed: show
 date :  09-08-2022
 date: 2023-02-24
 ---
+
 # ensaios, de montaigne
+
 criado em: 17:24 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

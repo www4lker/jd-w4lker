@@ -2,13 +2,17 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: metodologia
 ---
+
 # metodologia
+
 ## criado em: 19:07 04-02-2023 (modificação)
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
+
 [[ o que é episteme - uma abordagem]]
 
 ![[episteme foucault.png]]

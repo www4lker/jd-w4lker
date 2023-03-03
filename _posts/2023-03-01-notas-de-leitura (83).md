@@ -10,10 +10,13 @@ tags:
 title: aquela vez que escrevi sobre meu avo no inumeraveis
 date: 2023-02-24
 ---
+
 # aquela vez que escrevi sobre meu avo no inumeraveis
+
 criado em: 10:57 2022-08-03
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[de como filosofar é aprender a morrer]] 
 - [[081120221122]]

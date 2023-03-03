@@ -8,10 +8,13 @@ tags:
   - filosofia
 title: Relacione cibernética com autenticidade
 ---
+
 # Relacione cibernética com autenticidade
+
 ## criado em: 10:31 14-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Cibernética -  Quais são os 5 pontos-chave que eu deveria saber ao estudar a]]
@@ -30,6 +33,7 @@ Em segundo lugar, **o uso da tecnologia na comunicação pode ter um impacto sob
 Em geral, embora possa não haver uma relação direta entre cibernética e autenticidade, o estudo da cibernética pode nos ajudar a compreender os mecanismos pelos quais indivíduos e grupos mantêm sua autenticidade diante das mudanças tecnológicas e sociais.
 
 ---
+
 Teorias cibernéticas de feedback e auto-regulação sugerem que sistemas complexos, tais como indivíduos e grupos, são capazes de manter sua estabilidade e coerência através de um processo de ajuste contínuo e autocorreção. No caso de comportamentos e pensamentos individuais, este processo envolve o constante monitoramento e avaliação de suas próprias ações e pensamentos em relação a padrões e valores internos.
 
 Por exemplo, quando um indivíduo é confrontado com uma decisão ou situação que entra em conflito com seus valores ou crenças, ele pode usar feedback e mecanismos de auto-regulamentação para ajustar seu comportamento ou pensamentos de modo a permanecer fiel a seus próprios padrões. Isto pode envolver um processo de auto-reflexão, no qual o indivíduo considera as conseqüências potenciais de suas ações e ajusta seu comportamento de acordo com elas. Também poderia envolver o uso de feedback externo, como opiniões e conselhos de outras pessoas, para ajudar o indivíduo a tomar decisões que sejam consistentes com seus valores e crenças.

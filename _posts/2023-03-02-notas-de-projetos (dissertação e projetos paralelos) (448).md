@@ -7,10 +7,13 @@ tags:
   - podkasten
 title: w4lker ponto com ponto br
 ---
+
 # w4lker ponto com ponto br
+
 ## criado em: 19:30 16-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[substack, revue e blog]]
@@ -19,10 +22,12 @@ title: w4lker ponto com ponto br
 - [[padroes de hipertexto e criação lit]]
 - [[jardins digitais]]
 ---
-Projeto de escrever blog do “zero”. Atual estado das coisas em
+
+Projeto de escrever blog do “zero”. Atual estado das coisas em  
 [W4LKER.COM.BR](https://w4lker.com.br/)
 
 ## Manifesto
+
 ### Uma brincadeira com as possibilidades da escrita?
 
 Esse blog nasceu da leitura de muitos outros textos – possivelmente de muito mais do que sou capaz de me referir aqui. Um deles foi do blog [_manual do usuário_](https://manualdousuario.net/blogs-bear-mataroa/) do Rodrigo Ghedin; a ideia de um retorno às origens do blog como desejo manifesto de uma nova onda de inciativas como o mataroa e [bearblog](https://herman.bearblog.dev/) foi primeiramente indicada por ele, pelo qual sou muito grato.
@@ -34,4 +39,3 @@ A questão de não criar conteúdo para que plataformas enriqueçam mais ainda �
 Considero essa nova fase na minha vida muitíssimo intensa, interessante e bem-vinda. Parece que foi em outra vida que eu comecei meu primeiro blog, no blogger. Então, eu achava simples e fácil demais – e não posso negar que ainda é em relação ao que preciso fazer para postar aqui – aprendendo novas linguagens, sintaxes e gramáticas sem perder de vista a simplicidade que supõe um blog. Mas isso não me desanima, pelo contrário, me entusiasma. Tudo é possível.
 
 ---
-

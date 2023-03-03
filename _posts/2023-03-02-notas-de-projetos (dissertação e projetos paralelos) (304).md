@@ -5,6 +5,7 @@ tags:
   - promptgpt3
 title: Não temais a IA capaz de imitar arte
 ---
+
 # Não temais a IA capaz de imitar arte
 
 ^c54d70
@@ -12,9 +13,11 @@ title: Não temais a IA capaz de imitar arte
 ## criado em: 13:38 15-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[a beleza do texto não ficcional]]
 ---
+
 # # Dear Artists: Do Not Fear AI Image Generators
 
 ## True, new systems devalue craft, shift power, and wreck cultures and scenes. But didn’t the piano do that to the harpsichord?
@@ -27,6 +30,3 @@ title: Não temais a IA capaz de imitar arte
 - A geração de imagens de IA é semelhante à escrita de Anne Carson, na medida em que subverte formas familiares.
 - O poder da geração de imagem de IA reside nas escolhas feitas dentro da forma.
 - As pessoas estão chateadas com a arte gerada pela IA, mas ela está aqui para ficar.
-
-
-

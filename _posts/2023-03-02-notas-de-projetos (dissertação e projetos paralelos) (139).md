@@ -10,10 +10,13 @@ tags:
   - sciencebitch
 title: clandestino
 ---
+
 # clandestino
+
 criado em: 14:14 2022-08-05
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Projeto Psiconautas]] 
 - notas de dissertação:

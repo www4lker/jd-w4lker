@@ -5,7 +5,7 @@ tags:
 title: Caminhos e desafios na busca por equilíbrio emocional
 ---
 
-[[2023-03-01-notas-de-leitura (141)|dostoiévski]]
+[[2023-03-01-notas-de-leitura (141)|dostoiévski]]  
 [[o idiota]]
 
 # Caminhos e desafios na busca por equilíbrio emocional
@@ -19,6 +19,7 @@ title: Caminhos e desafios na busca por equilíbrio emocional
 #### 5 de julho de 2021
 
 ---
+
 Hoje eu acabei O idiota
 
 Mas apenas em 23 de agosto que quero analisar.
@@ -39,7 +40,7 @@ Preciso sair de casa e preciso me exercitar.
 
 Hoje joguei com os amigos online, mas isso não substitui minha solidão e minha tristeza. Passo muito tempoq uase comprando coisas só para comprar outra coisas e se arrepender de qualquer jeito.  
 hoje chegou o cabo HDMI.
-  
+
 ---
 
 Eu deveria ter feito um dossiê com as tiragem das cartas para o projeto de mestrado.

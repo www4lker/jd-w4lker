@@ -7,10 +7,13 @@ tags:
   - disserte
 title: 061020221357
 ---
+
 # 061020221357
+
 criado em: 13:57 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -20,6 +23,7 @@ criado em: 13:57 2022-10-06
 - [[blog]]
 
 ---
+
 # Criar um esboço para um ensaio sobre como contribuir para a sociedade através da escrita:
 
 1. Introdução:

@@ -7,23 +7,26 @@ title: 181220221957
 aliases: 181220221957
 date: 2023-02-24
 ---
+
 # 181220221957
+
 ## criado em: 19:57 2022-12-18
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
--  [[Os quilombolas venceram Bolsonaro, apesar de derrotados]]
+- [[Os quilombolas venceram Bolsonaro, apesar de derrotados]]
 - [[Livros Nexo História e Política Contemporânea]]
 - [[Precisamos de arte e cultura]]
 - [[O Impacto Da Campanha ‘Brasil Não Pode Parar’]]
 - [[racismo algorítmico]]
 - [[ocorrem corriqueiramente]]
 ---
+
 [ensaio no nexo](https://www.nexojornal.com.br/ensaio/2022/12/17/O-que-perdemos-com-a-desmilitariza%C3%A7%C3%A3o-da-pol%C3%ADcia-no-Brasil?posicao-home-direita=3)
 
 ![[texto_nexo_Luciana#^ref-1605]]
-
 
 - Pesquisadores de diversas áreas (sociologia, antropologia, história, psicologia) foram convidados a treinar e atualizar policiais no Brasil em 2001
 - O treinamento enfocou temas como a sociologia da violência, direitos humanos e trabalho policial

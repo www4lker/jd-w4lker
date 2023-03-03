@@ -5,15 +5,18 @@ tags:
 title: Tolstói, Lev
 date: 2023-02-24
 ---
+
 # Tolstói, Lev
+
 ## criado em: 14:22 25-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
->O conde LIEV TOLSTÓI nasceu em 1828. Participou da Guerra da Crimeia e se casou com Sofia Andrêievna Berhs em 1862. Enquanto administrava suas vastas propriedades nas estepes do Volga e dava continuidade a projetos educacionais, escrevia Guerra e paz (1869) e Anna Kariênina (1877). Uma confissão (1882) marcou uma crise espiritual em sua vida. Ele se tornou um moralista extremista e, em uma série de panfletos, a partir de 1880, expressou sua rejeição em relação ao Estado e à Igreja. Morreu em 1910, em meio a uma dramática fuga de casa, na pequena estação de trem de Astápovo.
 
+>O conde LIEV TOLSTÓI nasceu em 1828. Participou da Guerra da Crimeia e se casou com Sofia Andrêievna Berhs em 1862. Enquanto administrava suas vastas propriedades nas estepes do Volga e dava continuidade a projetos educacionais, escrevia Guerra e paz (1869) e Anna Kariênina (1877). Uma confissão (1882) marcou uma crise espiritual em sua vida. Ele se tornou um moralista extremista e, em uma série de panfletos, a partir de 1880, expressou sua rejeição em relação ao Estado e à Igreja. Morreu em 1910, em meio a uma dramática fuga de casa, na pequena estação de trem de Astápovo.
 
 - [[Antologia do pensamento crítico russo]]
 - [[relendo os clássicos russos artigo new yorker]]

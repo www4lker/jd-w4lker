@@ -7,10 +7,13 @@ tags:
 title: LEITURA DE LIVROS DE FICÇÃO
 date: 2023-02-24
 ---
+
 # LEITURA DE LIVROS DE FICÇÃO
+
 criado em: 18:06 2022-10-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -19,7 +22,6 @@ criado em: 18:06 2022-10-09
 ---
 
 # 5 PONTOS-CHAVE A SEREM OBSERVADOS NA LEITURA DE LIVROS DE FICÇÃO:
-
 
 1. Preste atenção ao estilo do autor e como a história está sendo contada.
 

@@ -2,6 +2,7 @@
 tags: projetos, pesquisa, interesses-de-pesquisa, disserte
 title: Plataformas de internet estão destruindo a democracia, diz Nobel da Paz
 ---
+
 [www1.folha.uol.com.br](https://www1.folha.uol.com.br/poder/2022/06/plataformas-de-internet-estao-destruindo-a-democracia-diz-nobel-da-paz.shtml)
 
 # Plataformas de internet estão destruindo a democracia, diz Nobel da Paz

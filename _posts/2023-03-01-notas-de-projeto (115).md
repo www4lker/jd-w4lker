@@ -7,15 +7,20 @@ tags:
   - disserte
 title: 300920221643
 ---
+
 # 300920221643
+
 criado em: 16:43 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/DIÁRIO]]
 
 ---
+
 # 28/04/2020
+
 ## 13:01
 
 - Muitas pessoas reclamaram, e de fato, no fundo, eu nunca toquei porque gostava de música (uma falha de caráter que consegui reverter um pouco), mas porque queria reunir as pessoas ao meu redor.

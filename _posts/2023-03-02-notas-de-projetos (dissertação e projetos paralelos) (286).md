@@ -16,16 +16,20 @@ tags:
   - internet
 title: memorial vagalumes
 ---
+
 # memorial vagalumes
+
 ## criado em: 20:56 16-12-2022
 
 ##### Relacionado
+
  palavras-chave:
+
 - notas: 
 - [[entrevista inumeráveis para dissertação]]
 - [[081120221122]]
 - [[aquela vez que escrevi sobre meu avo no inumeraveis]]
-- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da 
+- [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da  
  Imagem]]
 - [[escrita terapeutica nexo jornal]]
 - [[mapa sonoro na pandemia]]
@@ -33,14 +37,17 @@ title: memorial vagalumes
 - [[inumeráveis no nexo]]
 - [[escritas da pandemia]]
 ---
+
 # sobre o memorial vagalumes
+
 - O Memorial Vaga-lumes é uma rede de voluntários que presta homenagem e mostra solidariedade às famílias de indígenas que morreram de Covid-19 no Brasil e países vizinhos.
 - O Memorial visa preservar a memória e as tradições dos povos indígenas, assim como suas formas únicas de comunicação e conhecimento, que são ameaçadas pelas mortes causadas pela pandemia.
 - O Memorial inclui um banco de dados com os nomes e comunidades dos povos indígenas que morreram de Covid-19, assim como histórias pessoais e tradições culturais.
-- O Memorial Vaga-lumes também visa **aumentar a conscientização sobre a vulnerabilidade e a resiliência das comunidades indígenas durante a pandemia e destacar suas contribuições à sociedade.**
+- O Memorial Vaga-lumes também visa **aumentar a conscientização sobre a vulnerabilidade e a resiliência das comunidades indígenas durante a pandemia e destacar suas contribuições à sociedade.**  
 [fonte](https://www.memorialvagalumes.com.br/inicio/)
 
 ## texto completo
+
 A história é construída por criações de mitos e heróis nacionais que são símbolos de um país que apaga suas diversidades. É mais fácil dominar quando o povo tem somente uma única identidade. Para estes fake-heróis são levantados monumentos e retratos são impressos em livros escolares e atualiza que devemos ser gratos a eles que fizeram um país livre de selvageria e paganismo. As datas comemorativas nos reforçam a importância desses mártires e heróis que “lutaram e deram a vida pelo Brasil”.
 
 Em tempos de pandemias, isolamento forçado e quarentena as populações indígenas contam sobre outros momentos na história onde foram quase exterminados neste território. E não bastassem os assassinatos à lâmina ou pólvora que ano passado foram capas de jornais, em 2020 chega uma pandemia. Embora sejam tempos que não gostamos de lembrar, são importantes para pensarmos em como podemos continuar vivos. Trazidas pelo modo de vida não-indígena, algumas dessas doenças acabaram sendo usadas como armas (direta ou indiretamente) por alguns dos heróis brasileiros. Vários destes heróis oficiais pouco fizeram pela liberdade deste território, senão lutaram por seus próprios interesses, leia-se: ouro, prata, cargos, poder.

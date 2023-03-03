@@ -7,18 +7,21 @@ title: James Joyce
 aliases: James Joyce
 date: 2023-02-24
 ---
+
 # James Joyce
+
 criado em: 13:15 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 - [[Hipertexto]]
 
-
 ---
+
 ## Quais são os 8 pontos-chave que eu deveria saber ao estudar James Joyce?
 
 1. Joyce nasceu em Dublin, Irlanda, em 1882.
@@ -37,6 +40,7 @@ criado em: 13:15 2022-10-13
 
 1. Joyce morreu em Zurique, Suíça, em 1941.
 ---
+
 ### Quais são os 8 pontos-chave que eu deveria saber ao estudar o [[Ulisses]] de Joyce?
 
 1. O romance foi escrito em Dublin, Irlanda, em 16 de junho de 1904.
@@ -49,6 +53,7 @@ criado em: 13:15 2022-10-13
 8. O romance foi adaptado para o palco e para a tela várias vezes.
 
 ---
+
 ### Quais são os 8 pontos-chave que eu deveria saber ao estudar Joyce's [[Finnegans Wake]]?
 
 1. Finnegans Wake é um romance do escritor irlandês James Joyce.

@@ -6,11 +6,13 @@ tags:
 title: Henry David Thoreau sobre autenticidade
 date: 2023-02-24
 ---
+
 # Henry David Thoreau sobre autenticidade
 
 criado em: 01:12 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: [[simplifique, simplifique, simplifique]] [[# Henry David Thoreau sobre alma]]
@@ -22,4 +24,5 @@ criado em: 01:12 2022-08-01
 fonte: [thebookoflife.org]]
 
 ---
+
 Insista em si mesmo, seja autêntico sempre. Aquilo que é seu, voce pode oferecer por inteiro, sabendo que teve uma vida inteira para se consolidar; aquilo que pegamos de outros (e isso inclui ideias tiradas de livros), só temos uma apagada, pelas metade, ideia.

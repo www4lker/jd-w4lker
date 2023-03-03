@@ -10,11 +10,15 @@ tags:
   - sciencebitch
 title: Os psicodélicos mostram que a religião não é o único caminho para a espiritualidade
 ---
+
 # Os psicodélicos mostram que a religião não é o único caminho para a espiritualidade
+
 ## criado em: 11:55 16-12-2022
 
 ### Relacionado
+
 palavras-chave:
+
 - notas: [[terapia psicodélica]]
 - [[A emergência da TP e como surfar na onda]]
 - [[161220221116]]
@@ -22,6 +26,7 @@ palavras-chave:
 - [[senso de humor como virtude moral]]
 - [[como ser um niilista feliz]]
 ---
+
 [fonte](https://psyche.co/ideas/psychedelics-show-religion-isnt-the-only-route-to-spirituality)
 
 - Os medicamentos psicodélicos estão sendo estudados como tratamentos psiquiátricos e ferramentas de pesquisa em neurociência cognitiva

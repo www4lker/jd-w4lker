@@ -9,10 +9,13 @@ tags:
   - interessesgerais
 title: não precisa virar um marqueteiro digital
 ---
+
 # não precisa virar um marqueteiro digital
+
 criado em: 12:48 2022-08-11
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[o que voce planeja com minha filha me perguntou o meta]]
 - [[Want to Write Better]]

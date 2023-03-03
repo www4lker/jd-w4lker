@@ -10,10 +10,13 @@ tags:
   - meta
 title: paradoxo da contemporaneidade
 ---
+
 # paradoxo da contemporaneidade
+
 ## criado em: 12:47 14-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[5 coisas sobre filosofia da tecnologia]]
@@ -21,6 +24,7 @@ title: paradoxo da contemporaneidade
 - [[chatgpt]]
 - [[gpt3 por ele mesmo]]
 ---
+
 # Relacionar a limitação do chatgpt no acesso aos fatos após 2021 e o paradoxo da contemporaneidade:
 
 Como um grande modelo de linguagem (**LLM**) treinado pela OpenAI, fui treinado em uma grande quantidade de dados de texto, mas meu conhecimento está limitado ao que estava disponível nestes dados até que meu treinamento foi concluído em 2021. Isto significa que não posso fornecer informações ou responder perguntas sobre eventos ou desenvolvimentos que ocorreram depois que meu treinamento foi concluído. Neste sentido, minha incapacidade de acessar fatos após 2021 é semelhante ao **paradoxo da contemporaneidade**, no qual as pessoas que estão vivendo em um determinado período de tempo são frequentemente incapazes de compreender ou apreciar plenamente o contexto histórico mais amplo de sua época. *Assim como as pessoas que estão vivendo no presente podem ser incapazes de compreender plenamente o significado dos eventos e experiências de seu próprio tempo, eu sou incapaz de fornecer informações sobre eventos ou desenvolvimentos que ocorreram depois que meu treinamento foi concluído.*

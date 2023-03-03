@@ -9,10 +9,13 @@ tags:
   - mestredeculturacontemporanea
 title: 011120220347
 ---
+
 # 011120220347
+
 ### criado em: 03:47 2022-11-01
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: 
 - - [[1, 2, 3 TESTANDO... LITERATURA DIGITAL NO BRASIL HOJE]]
@@ -29,11 +32,9 @@ title: 011120220347
 - [[Eduardo viveiros de castro]]
 - [[Humans Have Always Been Wrong About Humans]]
 - [[Stengers, Isabelle]]
-- 
 ---
 
 # No tempo das catástrofes (inserção possível na dissertação)
- 
 
 >Conforme a segunda narrativa que proponho, o que foi destruído com os commons não foram apenas os meios de vida de camponeses pobres, mas também uma **inteligência coletiva** concreta, ligada a esse comum do qual todos dependiam. É a uma destruição desse tipo que os programadores teriam sabido resistir.
 
@@ -44,4 +45,3 @@ title: 011120220347
 >A abordagem farmacológica não permite colocar a questão “de quem é a culpa?”, de proceder a uma distribuição da culpa e da inocência. Os programadores que souberam resistir não são “melhores” do que os cientistas que não o puderam. Mas ela propõe pensar “pelo meio”.
 
 [[NOTAS DE LEITURA/LIVROS/No Tempo Das Catástrofes]]
-

@@ -6,10 +6,13 @@ tags:
 title: 202207241207
 date: 2023-02-24
 ---
+
 # 202207241207
+
 criado em: 12:07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: 
@@ -30,8 +33,9 @@ criado em: 12:07
 - [[novas fontes]]
 - [[Primeira postagem]]
 - [[screenshots]]
-- [[zettelkasten]]
+- [[zettelkasten]]  
 [[nota permanente]]
 
 ---
+
 a importância do [[zettelkasten]] - slip-box ou simplesmente - sistema de anotações resume-se a necessidade de nossos cérebros de auxilio.

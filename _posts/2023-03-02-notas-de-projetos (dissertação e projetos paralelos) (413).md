@@ -7,10 +7,13 @@ tags:
   - interessesdepesquisa
 title: Temos um índice?
 ---
+
 # Temos um índice?
+
 ### criado em: 09:52 2022-10-26
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - notas de dissertação: [[dissertação index]]
@@ -48,11 +51,9 @@ title: Temos um índice?
 - [[this is not a review]]
 
 ---
+
 [[From Internet to Gutenberg]] — Eco fala sobre a imagem e a mentira delas. [[Images cannot say Ain’ t]]
 
 [[joão montanaro isso não é uma granada]]
 
 ---
-
-
-

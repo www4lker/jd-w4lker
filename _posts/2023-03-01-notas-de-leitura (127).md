@@ -3,10 +3,13 @@ tags: permanente
 title: David Wengrow
 date: 2023-02-24
 ---
+
 # David Wengrow
+
 criado em: 14:30 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Humans Have Always Been Wrong About Humans]]
@@ -15,6 +18,7 @@ criado em: 14:30 2022-08-09
 - [[podcast o despertar de tudo]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar David Wengrow?
 
 1. David Wengrow é um arqueólogo britânico e professor da Universidade de Londres.

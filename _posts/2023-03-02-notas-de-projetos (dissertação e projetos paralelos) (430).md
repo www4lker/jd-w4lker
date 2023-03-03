@@ -13,10 +13,13 @@ tags:
   - anglo
 title: 181220221230
 ---
+
 # 181220221230
+
 ## criado em: 12:30 2022-12-18
 
 ### Relacionado
+
 - palavras-chave:
 - notas: 
 - [[Como Escrever Bem]]
@@ -24,6 +27,7 @@ title: 181220221230
 - [[Como se faz uma tese]]
 - [[antes de escrever reduza e simplifique]]
 ---
+
 >Todo projeto de texto deve ser reduzido antes de começar a escrever.
 
 Esta citação sugere que é importante que os escritores simplifiquem ou estreitem o escopo de seu projeto de texto antes de começar a escrever. Ao "reduzir" o projeto, o escritor é capaz de se concentrar nas ideias mais importantes e eliminar qualquer informação desnecessária ou estranha.

@@ -8,16 +8,20 @@ tags:
 title: desconstrução
 date: 2023-02-24
 ---
+
 # desconstrução
+
 criado em: 12:40 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
-- notas de literatura: [[Derrida]]
-[[Foucault, Michel]]
+- notas de literatura: [[Derrida]]  
+[[Foucault, Michel]]  
 [[Deleuze]]
 
 ---
+
 # Quais são os 8 pontos-chave que eu deveria saber ao estudar a desconstrução de Derrida?
 
 1. A desconstrução de Derrida é uma forma de análise crítica que desafia as suposições tradicionais sobre a relação entre texto e significado.

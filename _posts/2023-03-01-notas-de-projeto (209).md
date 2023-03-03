@@ -9,10 +9,13 @@ tags:
   - disserte
 title: plenitude
 ---
+
 # plenitude
+
 criado em: 12:13 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave:  
 - notas permanentes: [[131020220947]]
 - notas de dissertação: [[Hiperculturalidade]]
@@ -71,27 +74,25 @@ And make it new again.
 
 Create poem with the theme "Fullness"
 
-
-
-I am so full of love
-I can't even contain it
-It spills out of me
-In waves of warmth
-And washes over everyone
+I am so full of love  
+I can't even contain it  
+It spills out of me  
+In waves of warmth  
+And washes over everyone  
 I meet
 
-I am so full of life
-I can't even imagine
-Ending it
-It's like a bright fire
-Burning inside of me
-And I can't help
+I am so full of life  
+I can't even imagine  
+Ending it  
+It's like a bright fire  
+Burning inside of me  
+And I can't help  
 But share it
 
-I am so full of hope
-I can't even fathom
-The alternative
-It's like a bright light
-Shining in the darkness
-And I can't help
+I am so full of hope  
+I can't even fathom  
+The alternative  
+It's like a bright light  
+Shining in the darkness  
+And I can't help  
 But follow it

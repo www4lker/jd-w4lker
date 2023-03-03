@@ -11,14 +11,18 @@ tags:
   - promptgpt3
 title: 131020221204
 ---
+
 # 131020221204
+
 criado em: 12:04 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[terapia psicodélica]]
 - [[sobre a terapia psicodélica]]
 ---
+
 # 8 perguntas para minha entrevista com um usuário de microdose de psilocibina:
 
 1. O que o inspirou a iniciar a microdosagem da psilocibina?

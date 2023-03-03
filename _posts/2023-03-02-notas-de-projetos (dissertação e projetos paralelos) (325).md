@@ -9,16 +9,18 @@ tags:
   - interessesdepesquisa
 title: o que o mundo precisa e ninguem esta fazendo
 ---
+
 # o que o mundo precisa e ninguem esta fazendo
+
 criado em: 00:16 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[plenitude]]
 - notas de dissertação: [[dissertação index]]
 - [[141020221550]]
 - [[humanidades digitais]]
-- 
 
 ---
 1. o mundo precisa de harmonia e paz - e menos de briga e disputa.

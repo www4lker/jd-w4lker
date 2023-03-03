@@ -11,10 +11,13 @@ tags:
   - wiredetal
 title: chatgpt
 ---
+
 # chatgpt
+
 ## criado em: 16:14 13-12-2022
 
 ### Relacionado
+
 - palavras-chave:    
 - notas: 
 - [[chat gpt me ajuda a corrigir]]
@@ -22,7 +25,9 @@ title: chatgpt
 - [[131220221704]]
 - [[filosofia da tecnologia]]
 ---
+
 # ChatGPT’s Fluent BS Is Compelling Because Everything Is Fluent BS
+
 ## The AI chatbot was trained on text created by humans. Of course its writing is superficially impressive and lacking in substance.
 
 >Oil and Darkness, a horror movie set on an oil rig, was created by AI chatbot ChatGPT in response to a prompt from content marketer and AI hobbyist Guy Parsons. It is another example of the software's seemingly magical powers, and shows its ability to write code, make up songs, and compose limericks and haiku. However, it also highlights ChatGPT's reliance on stereotypes, factual errors and tropes, and its lack of depth beneath the competent prose. The AI's output reflects the fact that it was trained on real-world text, and that reality is essentially based on "fluent bullshit".

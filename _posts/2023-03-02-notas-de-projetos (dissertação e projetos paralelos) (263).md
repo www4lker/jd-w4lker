@@ -7,15 +7,19 @@ tags:
   - interessesgerais
 title: 021120220426
 ---
+
 # 021120220426
+
 ## criado em: 04:26 2022-11-02
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[interessesdepesquisa]]
 - [[World Wide Web]]
 ---
+
 Jia Tolentino sobre o incío da internet
 
 >Em 1999, passar o dia todo na internet parecia diferente. Era assim para todos, não apenas para crianças de dez anos: essa era a época do _Mensagem para você_, quando parecia que a pior coisa que podia acontecer a alguém no mundo online era se apaixonar por seu rival de trabalho. Durante os anos 1980 e 1990, as pessoas se reuniam na internet em fóruns abertos, atraídos como borboletas pelas flores e poças d’água que eram a curiosidade e as experiências das outras pessoas. Grupos de discussão autorregulados, como os da Usenet, cultivavam discussões animadas e relativamente civilizadas sobre exploração espacial, meteorologia, culinária e discos raros. Os usuários davam conselhos, respondiam a perguntas, faziam amizades e imaginavam o que essa tal de internet iria se tornar.

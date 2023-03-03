@@ -8,10 +8,13 @@ tags:
 title: Survivorship bias
 date: 2023-02-24
 ---
+
 # Survivorship bias
+
 criado em: 22:37 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[LENDO MONTAIGNE]]
 - notas de literatura: [[I, xi - dos prognosticos]]

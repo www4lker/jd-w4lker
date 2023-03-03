@@ -5,10 +5,13 @@ tags:
 title: how to take smart notes
 date: 2023-02-24
 ---
+
 # how to take smart notes
+
 ## criado em: 11:25 05-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---

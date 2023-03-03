@@ -6,14 +6,18 @@ tags:
 title: SEARLE, JOHN
 date: 2023-02-24
 ---
+
 # SEARLE, JOHN
+
 criado em: 13:33 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[BERT]]
 ---
+
 Quais são os 7 pontos-chave que eu deveria saber ao estudar John Searle?
 
 1. Searle é um filósofo especializado na filosofia da mente.

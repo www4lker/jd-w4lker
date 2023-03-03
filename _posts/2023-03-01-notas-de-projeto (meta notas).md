@@ -1,11 +1,11 @@
 ---
-title: meta notas
+title: Meta Notas
 tags:
 - permanente
 - meta
 ---
-# Meta Notas
 
+# Meta Notas
 
 ![pintura](https://i.postimg.cc/q7mH6Kbc/cybespace-as-a-hopper-painting.png)
 
@@ -14,9 +14,11 @@ tags:
 |A filosofia dos jardins digitais se concentra na criação de espaços digitais que permitem a descoberta e a serendipidade. Esses jardins digitais são projetados para serem explorados de maneira não linear, permitindo que os usuários descubram conteúdo de forma orgânica e inesperada. Em vez de apresentar informações de maneira estruturada e hierárquica, a filosofia dos jardins digitais promove uma abordagem mais livre e criativa, em que a navegação é incentivada pela curiosidade e pelo interesse do usuário.|
 
 # meta notas
+
 ## criado em: 10:38 2023-03-02
 
 ## A lista a seguir é apenas para dar uma ideia das notas originais 
+
 ### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
 
 - NOTAS PASSAGEIRAS/👨🏻‍💻🗃️NOTAS PARA PROCESSAR/ChatGPT Isn’t the Only Way to Use AI in Education.md

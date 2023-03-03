@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "2023-03-01-notas-de-projeto (meta notas).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "E se minha esposa estivesse me sabotando",
+                "query": "\"title: como se faz uma tese\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,12 +67,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 235.5
   },
   "right": {
     "id": "cb9a947bbc83471d",
@@ -150,31 +149,32 @@
   },
   "active": "6a63096fffed88a9",
   "lastOpenFiles": [
-    "2023-02-28-title1 (31).md",
+    "2023-03-01-notas-de-projeto (14).md",
     "2023-03-01-notas-de-projeto (meta notas).md",
-    "2023-03-01-notas-de-projeto (analise-nota).md",
-    "2023-03-01-notas-de-projeto (drive-my-car).md",
-    "2023-03-01-notas-de-projeto (urso sob cocaína).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (64).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (63).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (62).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (61).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (60).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (59).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (58).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (57).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (56).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (55).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (54).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (53).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (52).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (51).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (50).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (49).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (48).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (47).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (46).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (45).md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (44).md"
+    "2023-03-01-notas-de-projeto (148).md",
+    "2023-03-01-notas-de-projeto (11).md",
+    "2023-03-01-notas-de-projeto (100).md",
+    "2023-03-01-notas-de-projeto (102).md",
+    "2023-03-01-notas-de-projeto (1).md",
+    "2023-03-01-notas-de-projeto (106).md",
+    "2023-03-01-notas-de-projeto (223).md",
+    "2023-03-01-notas-de-projeto (43).md",
+    "2023-03-01-notas-de-projeto (226).md",
+    "2023-03-01-notas-de-projeto (186).md",
+    "2023-03-01-notas-de-projeto (152).md",
+    "2023-03-01-notas-de-projeto (128).md",
+    "2023-03-01-notas-de-projeto (127).md",
+    "2023-03-01-notas-de-projeto (129).md",
+    "2023-03-01-notas-de-projeto (113).md",
+    "2023-03-01-notas-de-projeto (108).md",
+    "2023-03-01-notas-de-projeto (105).md",
+    "2023-03-01-notas-de-projeto (101).md",
+    "colecao-os-pensadores-soren-a-kierkegaard.md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (131).md",
+    "to lint",
+    "2023-03-01-notas-de-leitura (kierkegaard).md",
+    "2023-03-01-notas-de-leitura (98).md",
+    "2023-03-01-notas-de-leitura (77).md",
+    "2023-03-01-notas-de-leitura (73).md"
   ]
 }

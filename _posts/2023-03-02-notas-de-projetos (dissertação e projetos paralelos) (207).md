@@ -11,14 +11,17 @@ tags:
   - literatura
 title: entrevista inumeráveis para dissertação
 ---
+
 # entrevista inumeráveis para dissertação
+
 ## criado em: 16:29 18-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[081120221122]]
-- 
 ---
+
 ## componha as perguntas necessárias para uma entrevista com autor de um site de obituários de vítimas do covid 19:
 
 - O que o inspirou a criar este site e o que você espera que ele alcance?
@@ -30,7 +33,6 @@ title: entrevista inumeráveis para dissertação
 - Você recebeu algum feedback dos entes queridos daqueles que são apresentados no site? Em caso afirmativo, como tem sido sua resposta?
 - Como você planeja continuar a manter e atualizar o site no futuro?
 - Há algo mais que você gostaria de acrescentar sobre o site ou sobre a importância de lembrar aqueles que perderam suas vidas para a COVID-19?
-
 
 ## Quais perguntas eu deveria fazer a escritor de obituários para compor uma pesquisa sobre cultura contemporânea?
 

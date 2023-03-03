@@ -6,10 +6,13 @@ tags:
 title: non fiction novel
 date: 2023-02-24
 ---
+
 # non fiction novel
+
 criado em: 14:24 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - [[Autoficção]]
 - notas permanentes: 

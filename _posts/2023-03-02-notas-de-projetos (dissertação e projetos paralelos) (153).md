@@ -7,14 +7,19 @@ tags:
   - psicodelico
 title: como fazer chá de amanita muscária
 ---
+
 # como fazer chá de amanita muscária
+
 ## criado em: 16:43 18-01-2023
+
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[amanita muscaria]]
 - [[5 depoimentos sobre amanita muscaria no erowid]]
 ---
+
 **Qual é o método mais comum de consumo de amanita muscaria?**
 
 O método mais comum de consumo de Amanita muscaria é ferver as tampas secas ou frescas em água para fazer um chá.

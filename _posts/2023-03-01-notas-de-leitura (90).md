@@ -10,10 +10,13 @@ title: Zygmunt Bauman
 aliases: Zygmunt Bauman
 date: 2023-02-24
 ---
+
 # Zygmunt Bauman
+
 criado em: 00:53 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -25,8 +28,6 @@ criado em: 00:53 2022-10-17
 ---
 
 ## Quais são os 7 pontos-chave que eu deveria saber ao estudar Zygmunt Bauman?
-
-
 
 1. Zygmunt Bauman era um sociólogo e filósofo polonês.
 

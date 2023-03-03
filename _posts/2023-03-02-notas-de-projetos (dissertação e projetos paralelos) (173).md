@@ -16,11 +16,15 @@ tags:
   - internet
 title: covid museum
 ---
+
 # covid museum
+
 ## criado em: 20:42 16-12-2022
 
 ##### Relacionado
+
  palavras-chave:
+
 - notas: 
 - [[entrevista inumeráveis para dissertação]]
 - [[081120221122]]

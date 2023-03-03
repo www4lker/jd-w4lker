@@ -7,22 +7,27 @@ tags:
   - interessesgerais
 title: micro horror story generator
 ---
+
 # micro horror story generator
+
 ### criado em: 14:36 22-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[300920221649]]
 
 ---
 
-
->Topic: divorce 
-Two-Sentence Horror Story:  Her attorney told her that the divorce was final. She could finally stop pretending to love her husband.
+>Topic: divorce  
+Two-Sentence Horror Story: Her attorney told her that the divorce was final. She could finally stop pretending to love her husband.
 
 #### Tema: 
+
 ##### divórcio
+
 ###### História de Horror de Duas Frases: 
+
 >O advogado dela lhe disse que o divórcio era definitivo. Ela podia finalmente parar de fingir amar seu marido.
 
 ##### divórcio e 11 gatos
@@ -42,7 +47,7 @@ Two-Sentence Horror Story:  Her attorney told her that the divorce was final. Sh
 >Depois de passar anos lutando pelo direito ao divórcio, ela finalmente consegue seu desejo. Mas agora ela tem que viver em um mundo onde o divórcio é obrigatório.
 
 ##### divórcio e vício
+
 >Eu não queria me divorciar, mas não conseguia parar de usar drogas. Agora minha ex-mulher também é viciada em drogas e nossos filhos são pegos no meio.
 
 >Ela já estava sóbria há anos quando o conheceu. Ela pensava que finalmente havia encontrado o verdadeiro amor, mas afinal ele era apenas mais um viciado.
-

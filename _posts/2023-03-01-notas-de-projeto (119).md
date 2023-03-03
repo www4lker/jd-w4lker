@@ -9,14 +9,18 @@ tags:
   - 2020/2021
 title: 300920221650
 ---
+
 # 300920221650
+
 criado em: 16:49 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/DIÁRIO]]
 
 ---
+
 # 29/04/2020
 
 Em casa, talvez no meu momento mais baixo. Ainda assim, os acessos ao medium, segundo as estatísticas, nunca estiveram tão bem; deve ser um sinal para eu deixar quieto e parar. Criar não é o meu forte, e, se tive um dia bom, não tive o melhor. Acho que nem no top cinco chegou. Sinto falta de jogar videogame e sinto falta da vontade de ler. Eu passei o dia para cima e para baixo com os dois computadores – tentando formatar o PC antigo para depois formatar esse aqui, e se isso é bom e interessante, pois estas máquinas são tudo que tenho de valor material, de certa forma, e que pagam o custo pelo benefício — apesar de tudo eu continuo ansioso.
@@ -32,4 +36,3 @@ Pelo menos essa coisa de trabalhar com dois computadores simultâneos me ajuda a
 Eu uma vez li que quem faz e vive não pensa, mas se acreditei nisso, nunca segui — tenho reavaliado muitas das minhas crenças antigas, inclusive a de que eu adulto sou tão educado como um pré-adolescente americano; eu tenho meus talentos e se eles não são úteis à sociedade não deixam de ser talentos; desinstalei o shadow of tomb rider (sempre penso na palavra raider) mas sou feliz por ter gasto aquele dinheiro porque eu vou jogar, mais cedo ou mais tarde. Eu queria ser mais sociável mas sem a chance de exercer essa sociabilidade como vou ser? E porque quando penso na moça do filme adoráveis mulheres eu penso na “anne com e”? Será alguma culpa inconsciente por não ter visto até o fim? Eu preciso reavaliar o que é fim, no fim das contas, porque não levar as coisas até o fim é uma coisa, mas em um mundo de hiperinformação esse valor pode muito bem ser reavaliado.
 
 Tomei café, por isso o papo furado. Eu devo ler Rachel Cusk no alvorecer destas leituras de Knausgard. Li o primeiro capítulo e achei excelente. Quero ler Svetlana A. também; um pouco de realidade não deve me fazer mal. Posso jogar alguns jogos quando a coisa ficar pesada. Ou ouvir música. Ouço música também, e nesse momento ouço Beach House, space song. Este ano está já com um quarto de sua totalidade completa, isso é inacreditável; eu me olhei no espelho e esta barba está me fazendo parecer um ancião; às vezes pareço uma cópia boliviana do Knausgard, mas duvido que alguém concordasse. Devo aparar tudo quando as coisas voltarem ao normal. Ou isso ou virar homem de verdade.
-

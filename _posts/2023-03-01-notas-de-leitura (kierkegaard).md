@@ -7,6 +7,7 @@ title: Kierkegaard
 ---
 
 # Kierkegaard
+
 ## data 03 02 2018
 
 ## Metadata
@@ -14,16 +15,19 @@ title: Kierkegaard
 - Autor: Colecao Os Pensadores - Soren A. Kierkegaard
 - Título Completo: Kierkegaard
 - BI: 17240913
--  o paradoxo da fé (minha dissertação de filosofia)
--  5 coisas sobre Kierkegaard
-###  Temas chaves:
-1.  Silêncio e sofrimento
-2.  Síntese do homem entre o infinito e o finito, temporal e eterno, liberdade e necessidade
-3.  Desespero e a relação do eu consigo mesmo
-4.  Superioridade do homem sobre o animal
-5.  A doença mortal do desespero
-6.  O paradoxo do desespero e a eternidade do eu
+- o paradoxo da fé (minha dissertação de filosofia)
+- 5 coisas sobre Kierkegaard
+
+### Temas chaves:
+
+1. Silêncio e sofrimento
+2. Síntese do homem entre o infinito e o finito, temporal e eterno, liberdade e necessidade
+3. Desespero e a relação do eu consigo mesmo
+4. Superioridade do homem sobre o animal
+5. A doença mortal do desespero
+6. O paradoxo do desespero e a eternidade do eu
   
+
 ## DESTAQUES
 
 - silêncio, quer consista numa ação ou em um sofrimento. Para não me alongar mais, contentar-me-ei em analisar o que se apresenta. Se fosse Agamêmnon a puxar da faca sobre Ifigênia em lugar de Calcas, ter-se-ia diminuído ao pronunciar algumas palavras no momento supremo, porque o sentido da sua ação a todos se tornava notório; o processo da piedade, da compaixão, do sentimento, das lágrimas estava cumprido, e, para além disso, a sua vida não mantinha nenhuma relação com o espírito; quero dizer que não era um mestre ou testemunha do espírito. Pelo (Page 299)

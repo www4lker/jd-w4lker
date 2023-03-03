@@ -11,10 +11,13 @@ tags:
   - interessesdepesquisa
 title: THE INTERNET IS BROKEN
 ---
+
 # THE INTERNET IS BROKEN
+
 ## criado em: 19:51 05-02-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[Sumário Artigo THE INTERNET IS BROKEN]]
 - [[como consertar a internet]]
@@ -22,8 +25,10 @@ title: THE INTERNET IS BROKEN
 ---
 
 fonte https://www.nytimes.com/2017/05/20/technology/evan-williams-medium-twitter-internet.html
+
 ## The Internet Is Broken’: @ev Is Trying to Salvage It
-maio 2017
+
+maio 2017  
 SAN FRANCISCO — Evan Williams is the guy who opened up Pandora’s box. Until he came along, people had few places to go with their overflowing emotions and wild opinions, other than writing a letter to the newspaper or haranguing the neighbors.
 
 Mr. Williams — a Twitter founder, a co-creator of Blogger — set everyone free, providing tools to address the world. In the history of communications technology, it was a development with echoes of Gutenberg.
@@ -43,7 +48,6 @@ Then came Twitter, which wasn’t his idea but was his company. He remains the l
 After fame and fortune come regrets. Mr. Williams is trying to fix some things. So, in different ways, are Google and Facebook, and even Twitter. This is a moment for patches and promises.
 
 The trouble with the internet, Mr. Williams says, is that it rewards extremes. Say you’re driving down the road and see a car crash. Of course you look. Everyone looks. The internet interprets behavior like this to mean everyone is asking for car crashes, so it tries to supply them.
-
 
 His goal is to break this pattern. “If I learn that every time I drive down this road I’m going to see more and more car crashes,” he says, “I’m going to take a different road.”
 
@@ -65,12 +69,11 @@ Critics say Medium is less a company than it is Mr. Williams’s 85-employee hob
 
 Mr. Williams’s supporters say that is a feature, not a bug, and that publishing needs all the experiments it can get. But they concede the road will be difficult.
 
-
 Medium’s ambition: define a new model for media in a world struggling under the weight of fake or worthless content.
 
 Biz Stone was at Twitter with Mr. Williams from the beginning. He joined his old friend at Medium as both a board member and an investor.
 
-“Ev chose the hardest thing to do,” Mr. Stone says. “He said, ‘I want to make publishing profitable.’ I was like, ‘Yeah, so does everyone else.’ How far along are we? Somewhere between zero and half a percent.”
+“Ev chose the hardest thing to do,” Mr. Stone says. “He said, ‘I want to make publishing profitable.’ I was like, ‘Yeah, so does everyone else.’ How far along are we? Somewhere between zero and half a percent.”  
 Farm to Silicon Valley
 
 Mr. Williams is 45, bearded and stick-thin. He looks more like a Beatnik poet, staying up until dawn to debate existentialism, than the son of a Nebraska farmer, which he is. Growing up in a place where he felt new people and new ideas were in short supply, he was starved for someone to talk to. Living in a football-loving culture, and hating what he called “the stereotypical jock mentality, small brains thinking they’re superior because they’re surrounded by big muscles,” did not help, Mr. Williams said.
@@ -91,7 +94,7 @@ President Trump has said he believes Twitter put him in the White House. Recentl
 
 Image
 
-“Twenty years isn’t very long to change how society works,” says Mr. Williams, shown here at Medium headquarters.
+“Twenty years isn’t very long to change how society works,” says Mr. Williams, shown here at Medium headquarters.  
 Credit...Jason Henry for The New York Times
 
 “Twenty years isn’t very long to change how society works,” says Mr. Williams, shown here at Medium headquarters.
@@ -104,7 +107,7 @@ Mr. Williams’s mistake was expecting the internet to resemble the person he sa
 
 “I’ve come to realize Ev is extremely intellectual and introspective,” Mr. Stone says. “If he could wave a magic wand, he’d have everyone write the kind of things he likes, like, ‘Here are suggestions on climate change.’”
 
-It was just another Utopian dream, Mr. Williams says. “The problem is that not everyone is going to be cool, because humans are humans,” he says. “There’s a lock on our office door and our homes at night. The internet was started without the expectation that we’d have to do that online.”
+It was just another Utopian dream, Mr. Williams says. “The problem is that not everyone is going to be cool, because humans are humans,” he says. “There’s a lock on our office door and our homes at night. The internet was started without the expectation that we’d have to do that online.”  
 Medium, and Money
 
 Writers want readers and, usually, money. Readers want to be entertained, instructed or outraged. Publishers need revenues and profits. Yet no one has come up with a satisfactory and sustainable way of harnessing the internet to satisfy all these parties without descending into sleaze and clickbait.
@@ -121,7 +124,7 @@ Ms. Norman wrote 100 Medium pieces in a year, about her brother’s autism, her 
 
 Image
 
-Medium headquarters. At a moment when buzz can appear to be everything, Medium is not afraid to be dull.
+Medium headquarters. At a moment when buzz can appear to be everything, Medium is not afraid to be dull.  
 Credit...Jason Henry for The New York Times
 
 Medium headquarters. At a moment when buzz can appear to be everything, Medium is not afraid to be dull.
@@ -145,7 +148,6 @@ As Medium struggles to define itself, the older new communications platforms —
 Facebook is hiring thousands of screeners to monitor its Facebook Live. Google has announced structural changes to make it easier for human raters to flag low-quality results, so that asking “Did the Holocaust happen,” for instance, no longer brings up a white supremacist site. And Twitter seems to have had fewer reported episodes of harassment recently, which may count as progress.
 
 “I think we will fix these things,” Mr. Williams says. Just don’t hold your breath. The work has barely begun, he says. “Twenty years isn’t very long to change how society works.”
-
 
 James Hong, best known for the popular rating-and-dating site Hot or Not? in the early 2000s, was an angel investor in Medium. He once told Mr. Williams that he had some new ideas about dating sites but feared that if he tackled them, “I’d be working on the same thing my whole entire life.”
 

@@ -9,10 +9,13 @@ tags:
   - interessesdepesquisa
 title: Metodologia do trabalho científico
 ---
+
 # Metodologia do trabalho científico
+
 criado em: 10:04 2022-09-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes:  
 - notas de dissertação:
@@ -24,7 +27,6 @@ criado em: 10:04 2022-09-29
 ---
 
 ## Teoria e Prática Científica  
-
 
 - A ciência surgiu na modernidade, expressando uma ruptura crítica com o modo metafísico de pensar, típico da Antiguidade e da Idade Média, e se caracterizando como uma leitura da fenomenalidade do mundo natural. 
 - Para tanto, além de ter que se apoiar em alguns pressupostos filosóficos, a ciência precisa adotar práticas metodológicas e procedimentos técnicos, capazes de assegurar a apreensão objetiva dos fenômenos através dos quais a natureza se manifesta. 

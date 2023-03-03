@@ -8,10 +8,13 @@ title: Michel Foucault
 aliases: Michel Foucault
 date: 2023-02-24
 ---
+
 # Michel Foucault
+
 criado em: 02:05 2022-09-27
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[2022-W25]]

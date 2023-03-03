@@ -4,13 +4,17 @@ title: Slavoj Zizek
 aliases: Slavoj Zizek
 date: 2023-02-24
 ---
+
 # Slavoj Zizek
+
 ## criado em: 22:13 17-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
+
 Quais são os 5 pontos-chave que eu deveria saber ao estudar o Slavoj?
 
 1. A abordagem filosófica de Slavoj Zizek é freqüentemente descrita como uma combinação de Hegelianismo, Marxismo e Psicanálise Lacaniana.

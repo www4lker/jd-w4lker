@@ -6,14 +6,18 @@ title: kant
 aliases: kant
 date: 2023-02-24
 ---
+
 # kant
+
 ## criado em: 12:01 03-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[pós-modernismo]]
 - [[Georg Wilhelm Friedrich Hegel]]
 ---
+
 # Quais são os 5 pontos-chave que eu deveria saber ao estudar Kant?
 
 1. **O Imperativo Categórico de Kant**: é o conceito fundamental de sua filosofia moral. Ela afirma que se deve agir somente de acordo com essa máxima, pela qual se pode ao mesmo tempo fazer com que ela se torne uma lei universal.

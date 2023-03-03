@@ -7,13 +7,16 @@ tags:
   - tarot
 title: 2022-12-03  
 ---
+
 # 2022-12-03  
+
 ###### Diário Onírico
+
 >
 
-
 ### Tarefas
-1. [x]  3 paginas manuscritas
+
+1. [x] 3 paginas manuscritas
 
 ---
 
@@ -22,7 +25,8 @@ title: 2022-12-03
 ##### Relacionados: 
 
 ---
-> 4 de copas
-> [[tarot da semana]]
+
+> 4 de copas  
+> [[tarot da semana]]  
 > [[The Way of Tarot]]
 > 

@@ -10,10 +10,13 @@ tags:
   - interessesgerais
 title: 170120231159
 ---
+
 # 170120231159
+
 ## criado em: 11:59 2023-01-17
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[mudar o enfoque do desenvolvimento de IA]]
@@ -23,9 +26,11 @@ title: 170120231159
 - [[5 coisas sobre filosofia da tecnologia]]
 - [[Turing Trap]]
 ---
+
 # The Turing test: AI still hasn’t passed the “imitation game”
 
 #### A computer that could decidedly pass Alan Turing's test would represent a major step toward artificial general intelligence.
+
 [fonte big think](https://bigthink.com/the-future/turing-test-imitation-game/)
 
 >Alan Turing posed the question "Can machines think?" in his 1950 paper "Computing Machinery and Intelligence" and proposed the Turing test as a way to measure the sophistication of computers. The test involves an interrogator asking written questions to two players, one human and one computer, and trying to determine which player is the computer by evaluating the "humanness" of their responses. The test was not designed to determine if a computer can think, but rather to establish a measurable standard for assessing computer sophistication and sidestepping philosophical questions about defining intelligence and thinking.

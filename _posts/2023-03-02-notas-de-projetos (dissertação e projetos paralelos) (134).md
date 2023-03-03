@@ -13,10 +13,13 @@ tags:
   - sciencebitch
 title: 160120231212
 ---
+
 # 160120231212
+
 ## criado em: 12:12 2023-01-16
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[gpt3]]
@@ -26,6 +29,7 @@ title: 160120231212
 - [[IA ou não, é sempre cedo demais para soar o toque de morte da arte parte um]]
 - [[IA está assumindo enigmas cada vez maiores]]
 ---
+
 [fonte wired](https://www.wired.com/story/chatgpt-has-investors-drooling-but-can-it-bring-home-the-bacon/)
 
 # ChatGPT tem investidores babando -mas pode trazer o bacon para casa?

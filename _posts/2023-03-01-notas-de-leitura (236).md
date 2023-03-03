@@ -6,10 +6,13 @@ tags:
 title: Nietzsche, Friedrich
 date: 2023-02-24
 ---
+
 # Nietzsche, Friedrich
+
 ### criado em: 15:00 22-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[99 Doses De Nietzsche]]
@@ -46,6 +49,7 @@ date: 2023-02-24
 - Dionísio
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Friedrich Nietzsche?
 
 1. Friedrich Nietzsche era um filósofo alemão que é conhecido por suas opiniões controversas sobre moralidade e religião.

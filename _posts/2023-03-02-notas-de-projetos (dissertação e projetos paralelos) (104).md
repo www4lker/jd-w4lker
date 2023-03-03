@@ -6,10 +6,13 @@ tags:
   - criatividade
 title: Aqui estão cinco subdomínios potenciais que você poderia registrar para seu domínio na Internet
 ---
+
 # Aqui estão cinco subdomínios potenciais que você poderia registrar para seu domínio na Internet
+
 ## criado em: 19:21 13-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/Gerais, Interesses/INFP.md]]

@@ -12,11 +12,15 @@ tags:
   - escrivão
 title: 220920221504
 ---
+
 # 220920221504
+
 criado em: 15:04 2022-09-22
 
 ##### Relacionado
+
 palavras-chave: 
+
 - notas permanentes: 
 - [[dissertação index]]
 - [[How To Write A Scientific Paper]]
@@ -25,7 +29,9 @@ palavras-chave:
 - ### [[220920221553]]
 
 ---
+
 # How To Write Your First Draft 
+
 >“To write is human, to edit is divine.” — Stephen King
 
 Saramäki, Jari. How To Write A Scientific Paper: An Academic Self-Help Guide for PhD Students (p. 74). Edição do Kindle. 

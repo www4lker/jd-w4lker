@@ -5,10 +5,13 @@ tags:
 title: George Landow
 date: 2023-02-24
 ---
+
 # George Landow
+
 criado em: 09:55 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - [[Hypertext 3.0]]

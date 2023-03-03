@@ -7,9 +7,11 @@ date: 2023-02-24
 ---
 
 # ELO
+
 criado em: 22:08 2022-08-20
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação: [[dissertação index]]
@@ -40,13 +42,14 @@ criado em: 22:08 2022-08-20
 
 ---
 
-FONTE: 
-https://eliterature.org/
+FONTE:  
+https://eliterature.org/  
 https://eliterature.org/elo-history/
 
 > Founded by Scott Rettberg, Robert Coover, and Jeff Ballowe, the Electronic Literature Organization (ELO) was established in Chicago in 1999 (…) During this period the ELO made the decision to embrace, along with **hypertext narrative** and fiction, emerging forms of electronic-based literary works, including interactive narrative, net poetry, and others
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Literatura Eletrônica?
 
 1. Literatura eletrônica é uma forma de literatura que é criada e lida em dispositivos eletrônicos, tais como computadores, smartphones e e-readers.
@@ -74,11 +77,13 @@ Núcleo de Pesquisas em Informática,  Literatura e Linguística.
 Online seminar on education and literature in Latin America.
 
 ##### SC
+
 https://nupill.ufsc.br/
 
 https://www.facebook.com/nupill/
 
 ##### UFSCAR
+
 https://www.observatorioldigital.ufscar.br/sobre/
 
 https://www.observatorioldigital.ufscar.br/atlas-da-literatura-digital-brasileira/

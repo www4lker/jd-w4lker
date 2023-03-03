@@ -5,10 +5,13 @@ tags:
 title: Husserl
 date: 2023-02-24
 ---
+
 # Husserl
+
 criado em: 21:07 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave:
 - notas permanentes: 
 - notas de dissertação:

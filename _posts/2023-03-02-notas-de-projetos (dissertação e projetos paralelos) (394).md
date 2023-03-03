@@ -7,17 +7,20 @@ tags:
   - framework
 title: Síndrome do Impostor
 ---
+
 # Síndrome do Impostor
+
 criado em: 12:57 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
-- 
 - notas permanentes: [[plenitude]] 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 # Criar uma lista de 11 ações para superar a síndrome do impostor:
 
 1. Reconheça sua síndrome de impostor e que é normal se sentir como um impostor às vezes.

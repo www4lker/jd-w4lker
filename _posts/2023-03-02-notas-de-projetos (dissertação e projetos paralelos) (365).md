@@ -13,10 +13,13 @@ tags:
   - mestredeculturacontemporanea
 title: quais sao seus medos
 ---
+
 # quais sao seus medos
+
 criado em: 00:27 2022-08-14
 
 ##### Relacionado
+
 - palavras-chave:    
 - notas permanentes: [[interesses de pesquisa]]
 - notas de dissertação:[[plenitude]]

@@ -7,15 +7,19 @@ tags:
   - labtecc
 title: teoria do ator-rede
 ---
+
 # teoria do ator-rede
+
 criado em: 18:10 2022-10-09
 
 ##### Relacionado
+
 - palavras-chave:
 - notas:
 - [[091020221807]]
 - [[Antropoceno capitaloceno]]
 ---
+
 # Quais são os 8 pontos-chave que eu deveria saber ao estudar o campo da teoria da rede de atores?
 
 1. A teoria do ator-rede é uma teoria sociológica que enfatiza a importância das redes de atores na mudança social e cultural.

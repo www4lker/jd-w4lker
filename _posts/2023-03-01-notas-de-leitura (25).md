@@ -3,7 +3,9 @@ tags: permanente
 title: 202207071624
 date: 2023-02-24
 ---
+
 # 202207071624
+
 criado em: 16:24
 
 palavras-chave:

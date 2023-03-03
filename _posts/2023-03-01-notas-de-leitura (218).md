@@ -6,10 +6,13 @@ tags:
 title: London, Jack
 date: 2023-02-24
 ---
+
 # London, Jack
+
 criado em: 23:51 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -21,6 +24,7 @@ criado em: 23:51 2022-10-16
 - [[NOTAS DE LEITURA/LIVROS/O Tacão De Ferro.md]]
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao ler Jack London?
 
 1. Jack London foi um autor americano que escreveu principalmente no gênero de ficção de aventura.

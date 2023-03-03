@@ -12,10 +12,13 @@ tags:
   - otimistarealista
 title: o que a IA significa para a criatividade humana
 ---
+
 # o que a IA significa para a criatividade humana
+
 ## criado em: 11:20 11-01-2023
 
 ### Relacionado
+
 - palavras-chave:    
 - [[distopia feudal digital]]
 - [[gpt3]]
@@ -26,9 +29,11 @@ title: o que a IA significa para a criatividade humana
 - [[pode inteligencia virtual fazer arte]]
 - [[midjourney]]
 ---
+
 [fonte](https://www.wired.com/story/picture-limitless-creativity-ai-image-generators/)
 
 # Picture Limitless Creativity at Your Fingertips
+
 ## Artificial intelligence can now make better art than most humans. Soon, these engines of wow will transform how we design just about everything.
 
 The passage is talking about how artificial intelligence has advanced to a point where it can generate original works of art by using prompts from humans. This new breed of AI-generated images is astounding in its realism and depth of detail, and it allows people who are not professional artists to create unique images with ease. Millions of people are now using AI image generators to create more than 20 million images every day. The outputs of these AIs are based on billions of pictures made by humans, but the AI alters them in a way no human would think of. It also discusses how these new images raise questions about the future of human-made art and the capabilities of computers. The author predicts that AI will change how we design everything and no human artists will lose their jobs due to this new technology. The best applications of AI-generated images come from long conversations between humans and machines, and it is a result of many iterations, back and forth, and teamwork.

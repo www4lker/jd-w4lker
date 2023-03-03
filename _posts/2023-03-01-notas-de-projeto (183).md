@@ -9,15 +9,19 @@ tags:
   - criatividade
 title: luke, Im not your father
 ---
+
 # luke, Im not your father
+
 ## criado em: 10:17 17-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[adoção é um assunto complexo]]
 - [[when adopted people learn about their adoptee status]]
 ---
+
 ![momento](https://i.postimg.cc/7ZWL2gVh/DALL-E-2022-12-17-10-26-57-a-father-tells-his-five-year-old-son-that-he-is-adopted-photo-everyda.png)
 
 Son: "Hey Dad, I've always noticed that we have different complexions and features. Your skin is a little bit darker than mine, and your eyes are a different shape."
@@ -35,7 +39,8 @@ Father: "He is not a part of our family in the way that we live and spend time t
 Son: "Thanks for explaining, Dad. I understand now."
 
 ---
-###  ptbr:
+
+### ptbr:
 
 Filho: "Ei pai, eu sempre notei que temos compleições e características diferentes. Sua pele é um pouco mais escura que a minha, e seus olhos têm uma forma diferente".
 

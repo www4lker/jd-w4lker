@@ -15,11 +15,15 @@ tags:
   - internet
 title: escrita terapeutica nexo jornal
 ---
+
 # escrita terapeutica nexo jornal
+
 ## criado em: 20:21 16-12-2022
 
 ##### Relacionado
+
  palavras-chave:
+
 - notas: 
 - [[entrevista inumeráveis para dissertação]]
 - [[081120221122]]
@@ -27,11 +31,12 @@ title: escrita terapeutica nexo jornal
 - [[NOTAS DE LEITURA/REF BIBLIOGRÁFICA/Políticas Da Imagem]]
 - [[escrita terapeutica nexo jornal]]
 ---
-# O projeto que propõe lidar com a pandemia através da escrita
-[fonte](https://www.nexojornal.com.br/expresso/2020/07/15/O-projeto-que-prop%C3%B5e-lidar-com-a-pandemia-atrav%C3%A9s-da-escrita) 
-Juliana Domingos de Lima
-15 de jul de 2020(atualizado 16/07/2020 às 15h37)
 
+# O projeto que propõe lidar com a pandemia através da escrita
+
+[fonte](https://www.nexojornal.com.br/expresso/2020/07/15/O-projeto-que-prop%C3%B5e-lidar-com-a-pandemia-atrav%C3%A9s-da-escrita)  
+Juliana Domingos de Lima  
+15 de jul de 2020(atualizado 16/07/2020 às 15h37)
 
 - O Museu da Língua Portuguesa lançou um projeto virtual chamado "A Palavra no Agora" para ajudar as pessoas a lidar com a pandemia da COVID-19 e seus efeitos através de exercícios de escrita e trechos literários.
 - O projeto incentiva os participantes a expressar seus sentimentos e experiências através da escrita baseada em **perguntas simples** e oferece resenhas de livros, música e produções audiovisuais que podem proporcionar conforto durante tempos difíceis.

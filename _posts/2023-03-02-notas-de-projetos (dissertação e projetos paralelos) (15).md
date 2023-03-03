@@ -9,10 +9,13 @@ tags:
   - escrivão
 title: 121020221412
 ---
+
 # 121020221412
+
 criado em: 14:12 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[filosofia da linguagem]]
@@ -23,6 +26,7 @@ criado em: 14:12 2022-10-12
 - [[Han, Byung-Chul]]
 
 ---
+
 # Filosofia da tecnologia
 
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Filosofia da Tecnologia?

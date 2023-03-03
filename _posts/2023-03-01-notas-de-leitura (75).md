@@ -6,16 +6,20 @@ tags:
 title: Ailton Krenak
 date: 2023-02-24
 ---
+
 # Ailton Krenak
+
 criado em: 17:05 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Ailton Krenak?
 
 1. Ailton Krenak é um líder indígena brasileiro que lutou pelos direitos de seu povo por muitos anos.
@@ -28,8 +32,8 @@ criado em: 17:05 2022-10-16
 
 5. Ele é autor de vários livros, incluindo [[Ideias Para Adiar O Fim Do Mundo]] e [[A Vida Não é útil]]
 ---
-## Crie uma lista de 8 perguntas para minha entrevista com Ailton Krenak:
 
+## Crie uma lista de 8 perguntas para minha entrevista com Ailton Krenak:
 
 1. O que o inspirou a se tornar um ativista dos direitos indígenas?
 2. Quais são alguns dos maiores desafios que você enfrenta na luta pelos direitos indígenas?

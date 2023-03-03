@@ -11,10 +11,13 @@ tags:
   - interessesgerais
 title: Turing Trap
 ---
+
 # Turing Trap
+
 criado em: 11:57 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[mudar o enfoque do desenvolvimento de IA]]
@@ -22,7 +25,9 @@ criado em: 11:57 2022-10-17
 - [[The banality of ChatGPT]]
 
 ---
+
 [fonte](https://www.wired.com/story/artificial-intelligence-turing-test-economics-business/)
+
 ## The Turing Test Is Bad for Business
 
 ### Technology should focus on the complementarity game, not the imitation game.
@@ -37,7 +42,7 @@ Nos últimos anos, a história de sucesso das formas complementares de tecnologi
 
 Este enquadramento tornou-se dominante tanto na discussão pública quanto em termos do investimento de capital em torno da IA.
 
-Discute-se, então,  como a inteligência surge não apenas de pessoas individuais, mas de coletivos como empresas, mercados e sistemas educacionais. A tecnologia pode desempenhar um papel no apoio a formas coletivas de inteligência, aumentando a capacidade dos indivíduos de participar de coletivos, e criando **novos tipos de coletivos.**
+Discute-se, então, como a inteligência surge não apenas de pessoas individuais, mas de coletivos como empresas, mercados e sistemas educacionais. A tecnologia pode desempenhar um papel no apoio a formas coletivas de inteligência, aumentando a capacidade dos indivíduos de participar de coletivos, e criando **novos tipos de coletivos.**
 
 Argumenta-se, portanto, que a tecnologia deve se concentrar no jogo da complementaridade, e não no jogo da imitação. Já temos muitos exemplos de máquinas que aumentam a produtividade através da execução de tarefas que são complementares àquelas executadas por seres humanos.
 
@@ -54,6 +59,7 @@ A tecnologia que apóia e aumenta a inteligência coletiva dá às empresas uma 
 Para ajudar a estimular a conversa sobre como ir além das falhas do paradigma atualmente dominante da IA, um relatório mais longo está sendo divulgado detalhando essas falhas e como ir além delas. Tal mudança não é fácil, mas as empresas que encontrarem uma maneira produtiva de usar a inteligência de máquina darão o exemplo. Um primeiro passo nesta transformação seria reiterar nossa enorme dívida intelectual para com o grande Alan Turing, e depois aposentar seu teste. Aumentar a inteligência coletiva dos negócios e mercados é um objetivo muito mais grandioso do que jogos de salão.
 
 #### palavras-chave
+
 - Temores de inteligência artificial
 - O teste de Turing
 - Jogo de imitação

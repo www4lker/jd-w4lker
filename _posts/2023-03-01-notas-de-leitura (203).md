@@ -11,15 +11,17 @@ feed: show
 date :  03-08-2022
 date: 2023-02-24
 ---
+
 # Karl Ove Knausgård
+
 criado em: 18:39 2022-08-03
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
-- 
 - [[A descoberta da escrita]]
 - [[A Ilha Da Infância]]
 - [[A morte do pai]]
@@ -32,4 +34,5 @@ criado em: 18:39 2022-08-03
 - [[Uma temporada no escuro]]
 - [[Uma Temporada No Escuro]]****
 ---
+
 [[A descoberta da escrita]]

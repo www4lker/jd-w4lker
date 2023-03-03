@@ -12,11 +12,15 @@ tags:
   - minimalismodigital
 title: a tecnologia quebrou nossos cérebros
 ---
+
 # a tecnologia quebrou nossos cérebros
+
 ## criado em: 10:58 19-01-2023
 
 ### Relacionado
+
 palavras-chave: 
+
 - notas: 
 - [[The Age of Social Media Is Ending]]
 - [[NOTAS DE LEITURA/KINDLE HIGHLIGHTS/Flow]]
@@ -24,11 +28,13 @@ palavras-chave:
 - [[Trabalho Focado]] 
 - [[chatgpt roubou seu trabalho - e agora oque farás (pergunta)]]
 ---
+
 [fonte nyt](https://www.nytimes.com/2022/02/16/well/mind/focus-johann-hari.html)
 
 >So, to find flow, you need to choose one single goal; make sure your goal is meaningful to you; and try to push yourself to the edge of your abilities.
 
 ### Stolen focus
+
 #### Editora: ‎ Bloomsbury Publishing PLC (6 janeiro 2022)
 
 - O novo livro de Johann Hari "Stolen Focus" investiga como a tecnologia quebrou nossos cérebros e o que podemos fazer para lutar contra isso.

@@ -9,10 +9,13 @@ tags:
   - escrivão
 title: 121020222237
 ---
+
 # 121020222237
+
 criado em: 22:37 2022-10-12
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[dissertação index]]
@@ -21,12 +24,11 @@ criado em: 22:37 2022-10-12
 - [[Santos, Milton]]
 - [[Chuang Tzu]]
 
-
 ---
 
 ## Discutir as principais questões de consumismo e dependência da tecnologia trazida pela globalização:
-### (0,3)
 
+### (0,3)
 
 As principais questões do consumismo e da dependência da tecnologia trazida pela globalização são que as pessoas estão se tornando cada vez mais dependentes da tecnologia e que elas também estão se tornando cada vez mais materialistas. Isto está causando problemas como as pessoas não conseguirem viver sem suas engenhocas e as pessoas se tornarem cada vez mais egocêntricas.
 

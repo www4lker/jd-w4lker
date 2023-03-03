@@ -10,10 +10,13 @@ tags:
   - interessesdepesquisa
 title: 061020221232
 ---
+
 # 061020221232
+
 criado em: 12:32 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - [[ELO]]
@@ -21,6 +24,7 @@ criado em: 12:32 2022-10-06
 - [[dissertação index]]
 - [[interesses de pesquisa]]
 ---
+
 >texto via gpt3 (0,69 de temp).
 
 # Escreva um ensaio sobre hipercultura e globalização, impactos na produção literária:

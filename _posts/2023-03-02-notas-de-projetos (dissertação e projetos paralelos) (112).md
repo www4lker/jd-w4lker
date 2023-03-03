@@ -11,10 +11,13 @@ tags:
   - wiredetal
 title: Atlantic argumentou que o ChatGPT é divertido e não persuasivo
 ---
+
 # Atlantic argumentou que o ChatGPT é divertido e não persuasivo
+
 ## criado em: 18:16 20-12-2022
 
 ### Relacionado
+
 - palavras-chave:    
 - notas: 
 - [[chat gpt me ajuda a corrigir]]
@@ -24,13 +27,14 @@ title: Atlantic argumentou que o ChatGPT é divertido e não persuasivo
 - [[chat gpt na vice]]
 - [[Como você está preocupado que o ChatGPT coloque escritores como você fora do negócio]]
 ---
+
 ## ChatGPT Is Dumber Than You Think
+
 ### Treat it like a toy, not a tool.
 
 ![Illustration of a keyboard with its wire positioned to look like a human head.](https://cdn.theatlantic.com/thumbor/xbZLOlOubVKJNoYFBmIdVBU8E4U=/0x0:4800x2700/960x540/media/img/mt/2022/12/GPT_01_copy_1/original.jpg)
 
 Ian Bogost
-
 
 As a critic of technology, I must say that the enthusiasm for ChatGPT, a large-language model trained by OpenAI, is misplaced. Although it may be impressive from a technical standpoint, the idea of relying on a machine to have conversations and generate responses raises serious concerns.
 
@@ -87,11 +91,11 @@ Then I asked for a set of diagnostic criteria for an invented psychological cond
 
 > Diagnostic Criteria for Inherited Truculence:
 > 
-> 1.  A tendency to experience and express aggressive or hostile thoughts and feelings, particularly in response to perceived threats or challenges.
-> 2.  A history of aggressive or hostile behavior, particularly in interpersonal or social situations.
-> 3.  A familial history of aggressive or hostile behavior, indicating a possible genetic or hereditary component to the condition.
-> 4.  Impairment in social, occupational, or other important areas of functioning as a result of aggressive or hostile behavior.
-> 5.  The symptoms are not better explained by another mental disorder or by the effects of a substance (such as drugs or medication).
+> 1. A tendency to experience and express aggressive or hostile thoughts and feelings, particularly in response to perceived threats or challenges.
+> 2. A history of aggressive or hostile behavior, particularly in interpersonal or social situations.
+> 3. A familial history of aggressive or hostile behavior, indicating a possible genetic or hereditary component to the condition.
+> 4. Impairment in social, occupational, or other important areas of functioning as a result of aggressive or hostile behavior.
+> 5. The symptoms are not better explained by another mental disorder or by the effects of a substance (such as drugs or medication).
 
 Except, truculence doesn’t really amount to “aggressive and hostile thoughts and feelings,” does it? I asked, and the AI agreed, eventually revising its diagnostics accordingly at my further prompting (“A tendency to experience and express defiant or confrontational thoughts and feelings,” and so forth).
 

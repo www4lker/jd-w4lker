@@ -13,10 +13,13 @@ tags:
   - história
 title: 1610
 ---
+
 # 1610
+
 ## criado em: 12:34 16-01-2023
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[Anna L Tsing]]
@@ -34,6 +37,7 @@ title: 1610
 - [[pentiment]]
 - [[o fim do antropoceno]]
 ---
+
 [fonte the guardian](https://www.theguardian.com/science/2015/mar/11/was-1610-the-beginning-of-a-new-human-epoch-anthropocene)
 
 # Was 1610 the beginning of a new human epoch?

@@ -11,10 +11,13 @@ tags:
   - mestredeculturacontemporanea
 title: alienação
 ---
+
 # alienação
+
 ## criado em: 10:59 14-12-2022
 
 ##### Relacionado
+
 - palavras-chave:
 - notas:
 - [[Benjamin, Walter]]
@@ -23,6 +26,7 @@ title: alienação
 - [[hipermídia]]
 - [[its the content killing the culture - wisecrack edition]]
 ---
+
 The culture industry plays a significant role in producing cultural alienation, which is the feeling of disconnection or estrangement from one's own culture. This can have a number of negative impacts on culture, as it can lead to a lack of engagement and participation in cultural activities and practices.
 
 One of the ways in which the culture industry produces cultural alienation is through the homogenization of cultural products and practices. As the culture industry focuses on producing and distributing cultural products that are designed to appeal to a wide audience, it tends to produce cultural products that are similar to each other and that conform to mainstream tastes and values. This can lead to a situation in which cultural products become less interesting and less engaging, and can make it difficult for people to find cultural products that reflect their own experiences and perspectives.

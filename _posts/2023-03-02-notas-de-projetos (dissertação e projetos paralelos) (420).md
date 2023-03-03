@@ -10,17 +10,22 @@ tags:
   - promptgpt3
 title: The banality of ChatGPT
 ---
+
 # The banality of ChatGPT
+
 ## criado em: 21:42 16-12-2022
 
 ### Relacionado
+
 - palavras-chave:
 - notas: 
 - [[Turing Trap]]
 - [[argumento do quarto chinês]]
 - [[gpt3]]
 ---
+
 ## Passing the Turing test turns out to be boring
+
 [link](https://erikhoel.substack.com/p/the-banality-of-chatgpt?publication_id=332996&post_id=88498699&isFreemail=true)
 
 Os melhores argumentos do post do blog são:

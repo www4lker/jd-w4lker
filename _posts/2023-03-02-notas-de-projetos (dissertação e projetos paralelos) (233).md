@@ -10,10 +10,13 @@ tags:
   - promptgpt3
 title: GPT COMO MICROFONE
 ---
+
 # GPT COMO MICROFONE
+
 ## criado em: 17:39 16-12-2022
 
 ### Relacionado
+
 - palavras-chave:   
 - notas: 
 - [[aura em benjamin]]
@@ -24,6 +27,7 @@ title: GPT COMO MICROFONE
 ---
 
 # Now, relate this to the advent of LLM-generated text and the consequences for literature and writing in general:
+
 ## Relacione a questão da aura como pensado por Benjamin com o advento do gpt:
 
 >O advento do texto gerado por modelo de linguagem, ou texto produzido por inteligência artificial, tem o potencial de mudar a maneira como pensamos sobre a autenticidade e o valor da escrita. Assim como a reprodução mecânica mudou a maneira como pensamos sobre a autenticidade e o valor da arte, o texto gerado por modelo de linguagem também pode desafiar nossas ideias tradicionais sobre as qualidades únicas dos textos escritos por humanos.

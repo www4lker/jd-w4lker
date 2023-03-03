@@ -3,19 +3,21 @@ tags: permanente
 title: Neil deGrasse Tyson
 date: 2023-02-24
 ---
+
 # Neil deGrasse Tyson
+
 criado em: 11:05 2022-10-16
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 
 ---
+
 Também: [[Why smart people So Dumb Wisecrack]]
-
-
 
 Crie uma lista de 8 perguntas para minha entrevista com Neil deGrasse Tysson:
 

@@ -9,13 +9,17 @@ tags:
   - promptgpt3
 title: 040220231725
 ---
+
 # 040220231725
+
 ## criado em: 17:25 2023-02-04
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 ---
+
 *Desde que voltei a pesquisar na rua é como se certas partes da cidade me afastassem.**
 
 *Tentassem me afastar.*

@@ -9,10 +9,13 @@ tags:
   - TEONANACATL
 title: microdose para produtividade
 ---
+
 # microdose para produtividade
+
 ## criado em: 14:48 17-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[transhumanismo]]
@@ -23,6 +26,7 @@ title: microdose para produtividade
 - [[mente estendida]]
 - [[Se você quer a cura psicodélica, seu ego pode precisar morrer]]
 ---
+
 [fonte gq](https://www.gq-magazine.co.uk/lifestyle/article/microdosing-lsd)
 
 - Uma geração particular de executivos de alta tecnologia começaram a usar doses baixas de LSD, conhecidas como "microdosagem" para melhorar o foco, o humor e a produtividade.

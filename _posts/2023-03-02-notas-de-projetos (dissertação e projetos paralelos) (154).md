@@ -11,10 +11,13 @@ tags:
   - nosurf
 title: Como fazer nada
 ---
+
 # Como fazer nada
+
 ## criado em: 11:10 05-12-2022
 
 ### Relacionado
+
 - palavras-chave:
 - notas: [[LENDO MONTAIGNE]]
 - [[lendo fooquedeu]]
@@ -22,21 +25,19 @@ title: Como fazer nada
 - [[NOTAS DE LEITURA/LIVROS/How to Do Nothing]]
 ---
 
-
 # A Manifesto for Opting Out of an Internet-Dominated World
+
 By Jonah Engel Bromwich
 
 ## resumo
 
 >Em 2015, Jenny Odell criou The Bureau of Suspended Objects, um projeto onde ela fotografou objetos descartados e aprendeu suas histórias. Seu primeiro livro, "How to Do Nothing: Resisting the Attention Economy", é uma colagem de ideias sobre o desapego da vida on-line, construída a partir de insights de artistas, escritores, críticos e filósofos. Odell argumenta que a Internet nos despojou de nosso senso de lugar e tempo, e sugere que podemos contrariar sua força, envolvendo-nos mais com nosso ambiente físico e com a natureza. O livro enfoca a ideia de recusa, e usa exemplos da filosofia grega, Bartleby, de Melville, e uma greve sindical dos estivadores em 1934 para ilustrá-la. Embora suas estratégias sejam individualistas, o livro de Odell tem o potencial de ajudar os leitores a mudar seu comportamento.
 
-
 ---
 
-### **HOW TO DO NOTHING**  **Resisting the Attention Economy** —  By Jenny Odell
+### **HOW TO DO NOTHING** **Resisting the Attention Economy** — By Jenny Odell
 
 **Keywords**: Jenny Odell, Bureau of Suspended Objects, San Francisco, bird-watcher, crows, How to Do Nothing: Resisting the Attention Economy, collage/compost heap, detaching from life online, self-help manual, manifesto, Amazon/Instagram/social media, invasion, malaise, public refusal, retraining attention, physical environment/natural world, Diogenes/Bartleby/longshoremen's union strike 1934, meaningful political change, individualistic strategies, artistic life/aesthetic expression, Shoshanna Zuboff/Michael Pollan, headphones, birdsong.
-
 
 In 2015, Jenny Odell started an organization she called The Bureau of Suspended Objects. Odell was then an artist-in-residence at a waste operating station in San Francisco. As the sole employee of her bureau, she photographed things that had been thrown out and learned about their histories. (A bird-watcher, Odell is friendly with a pair of crows that sit outside her apartment window; given her talent for scavenging, you wonder whether they’ve shared tips.)
 
@@ -50,4 +51,4 @@ Many of the chapters in “How to Do Nothing” consist of Odell methodically se
 
 Odell understands and acknowledges that doing nothing — by which she means taking time out of one’s day to engage in an activity without considering whether it’s productive — isn’t something that’s available to everyone. But her book is least convincing when she suggests that meaningful political change would follow if the strategies she has adopted were taken up en masse. Though she acknowledges that she’s lucky to be able to exercise the freedom to while away the hours in her favorite rose garden or to go bird-watching, Odell seems to disregard just how individualistic her strategies are. She lives an artistic life, one that lends itself wonderfully to aesthetic expression but is less useful in the political realm.
 
-And yet Odell’s book, which complements other recent nonfiction, including Shoshanna Zuboff’s “[[The Age of Surveillance Capitalism”]] and Michael Pollan’s “[[How to Change Your Mind]],”  has the potential to improve a reader’s behavior. Recently, on a short vacation in Miami, I caught myself putting on my headphones as I set out to explore the city on foot. I left them behind and discovered something lovely: Birdsong was everywhere.
+And yet Odell’s book, which complements other recent nonfiction, including Shoshanna Zuboff’s “[[The Age of Surveillance Capitalism”]] and Michael Pollan’s “[[How to Change Your Mind]],” has the potential to improve a reader’s behavior. Recently, on a short vacation in Miami, I caught myself putting on my headphones as I set out to explore the city on foot. I left them behind and discovered something lovely: Birdsong was everywhere.

@@ -3,18 +3,21 @@ tags: permanente
 title: Antônio Joaquim Severino
 date: 2023-02-24
 ---
+
 # Antônio Joaquim Severino
+
 criado em: 01:02 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
 - notas de literatura: 
 - **[[DISSERTAÇÃO E PROJETOS PARALELOS/Interesses de Pesquisa/Metodologia do trabalho científico]]**
 ---
-Nasceu em Carmo do Rio Claro, Minas Gerais, em 1941. Formou-se em Filosofia em 1962 pela Université Catholique de Louvain (UCL), na Bélgica, mestrado em Filosofia pela mesma instituição em 1964 e doutorado em Filosofia pela Pontifícia Universidade Católica de São Paulo (PUC/SP) em 1972.
 
+Nasceu em Carmo do Rio Claro, Minas Gerais, em 1941. Formou-se em Filosofia em 1962 pela Université Catholique de Louvain (UCL), na Bélgica, mestrado em Filosofia pela mesma instituição em 1964 e doutorado em Filosofia pela Pontifícia Universidade Católica de São Paulo (PUC/SP) em 1972.
 
 ---
 - [[NOTAS PASSAGEIRAS/NOTAS URGENTES PARA PROCESSAR/220920221605.md]]

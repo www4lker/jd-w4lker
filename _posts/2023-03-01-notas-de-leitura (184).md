@@ -5,10 +5,13 @@ tags:
 title: Holiday, Ryan
 date: 2023-02-24
 ---
+
 # Holiday, Ryan
+
 ### criado em: 14:40 20-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:- [[32 Thoughts From a 32-Year-Old]]
 - [[50 Ways to Live on Your Own Terms]]
@@ -24,7 +27,4 @@ date: 2023-02-24
 - [[O Ego é Seu Inimigo]]
 - [[The Obstacle Is the Way]]
 - [[The Only 3 Types of Writing People Actually Want to Read]]
-- 
 ---
-
-

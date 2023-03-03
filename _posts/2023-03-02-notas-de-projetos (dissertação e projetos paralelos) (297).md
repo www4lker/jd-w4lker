@@ -14,10 +14,13 @@ tags:
   - disserte
 title: Morning Pages technique
 ---
+
 # Morning Pages technique
+
 criado em: 02:06 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[As Páginas Matinais]]
 - [[O caminho do artista]]
@@ -47,11 +50,11 @@ criado em: 02:06 2022-10-19
 - The morning pages taught her the way.
 - The morning pages are a way to connect with inner wisdom. 
 - You can ask questions and wait for answers. 
--  The morning pages work for anyone, no matter their profession.
--  Timothy, a conservative, quiet, taciturn millionaire, began writing his morning pages with a skeptical disdain but quickly became an ardent advocate. 
+- The morning pages work for anyone, no matter their profession.
+- Timothy, a conservative, quiet, taciturn millionaire, began writing his morning pages with a skeptical disdain but quickly became an ardent advocate. 
 - Phyllis, a shapely-legged, racehorse-breeding socialite, began writing them with apparent enthusiasm and found that she could write again. 
 - Anton, moody but graceful in his use of the pages, has managed to unlock himself as an actor.
--  Laura, talented but blocked as a writer, painter, and instrumentalist, found that the morning pages led her back to piano, writing, and painting.
+- Laura, talented but blocked as a writer, painter, and instrumentalist, found that the morning pages led her back to piano, writing, and painting.
 - The morning pages are a way to unlock creativity 
 - The morning pages are three pages of stream of consciousness writing done first thing in the morning 
 - The goal is to get rid of any ideas or thoughts that are clogging up your creativity 
@@ -59,6 +62,7 @@ criado em: 02:06 2022-10-19
 - Boredom with the morning pages is just a cover for fear and despair
 
 ---
+
 [[O caminho do artista]]
 
 Original aqui: [[As Páginas Matinais]]

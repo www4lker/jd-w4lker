@@ -11,10 +11,13 @@ tags:
   - mestredeculturacontemporanea
 title: 281120221509
 ---
+
 # 281120221509
+
 ## criado em: 15:09 2022-11-28
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Content, por Kate Eichorn]]
@@ -24,14 +27,14 @@ title: 281120221509
 - [[A ascensão da indústria de conteúdo]]
 - [[Analogias sobre a contradição capitalisma na indústria do conteúdo]]
 ---
+
 Fonte: [manual do usuário](https://manualdousuario.net/revolucao-maquinas-conteudo/)
+
 # A revolução das máquinas de conteúdo
 
 A inteligência artificial (IA) está sendo cada vez mais utilizada para criar conteúdo que aparece na internet e nas mídias sociais. Start-ups como SEO.ai, TextCortex AI e Neuroflash permitem às pequenas e médias empresas produzir textos para estratégias de atração de clientes sem a contratação de redatores humanos. Esses textos são frequentemente reembalados a partir de outros textos encontrados on-line e utilizam técnicas de otimização para motores de busca para serem altamente classificados em motores de busca. A indústria de produção de conteúdo está focada em produzir o máximo de conteúdo possível por o menor custo possível. A pesquisadora do MIT Kate Eichhorn escreveu um livro sobre o conceito de "conteúdo" e seu papel na vida diária.
 
-
 ![Capa do livro “Content”: fundo preto e vários cursores de mouse verdes clicando.](https://manualdousuario.net/wp-content/uploads/2022/11/content-kat-eichhorn.png)
-
 
 Sua visão de conteúdo não é das mais animadoras:
 
@@ -50,4 +53,3 @@ Como a IA se torna mais amplamente disponível e mais fácil de usar, há o risc
 Haverá menos espaço, é verdade, porque não dá para competir com as máquinas em volume de produção, e no fundo conteúdo é isso. Voltando à Kate:
 
 > Em essência, [a indústria de conteúdo] é uma indústria que gera receita a partir da produção e/ou circulação de conteúdo por si mesma. O conteúdo em questão às vezes contém informação, conta uma história ou entretém, mas ele não precisa fazer nada dessas coisas para circular com efetividade enquanto conteúdo.
-

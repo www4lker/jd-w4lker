@@ -10,22 +10,24 @@ tags:
   - filosofia
 title: Ser arrancado das rotinas da percepção ordinária
 ---
+
 # Ser arrancado das rotinas da percepção ordinária
+
 criado em: 17:44 2022-08-04
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[Projeto Psiconautas]] 
 - notas de dissertação:
 - notas de literatura: [[Psiconautas viagens com a ciência psicodélica brasileira 1]] 
 - [[Como mudar sua mente - netflix]] [
 - [Como mudar sua mente - livro]] 
-- [[Fungos fantasticos]] 
-[[Merlin Sheldrake]]
-[[Aldous Huxley]]
+- [[Fungos fantasticos]]  
+[[Merlin Sheldrake]]  
+[[Aldous Huxley]]  
 [[As Portas Da Percepção]]
 - [[a psilocibina no cerebro]] 
-
 
 ---
 

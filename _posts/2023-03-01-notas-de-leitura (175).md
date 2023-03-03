@@ -7,21 +7,27 @@ tags:
 title: GPT3-kazuo-ishiguro
 date: 2023-02-24
 ---
+
 # GPT3-kazuo-ishiguro
+
 criado em: 13:31 2022-10-17
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
-- notas de literatura: 
+- notas de literatura:  
 [[Kazuo Ishiguro]]
 ---
+
 #### Original de [[Kazuo Ishiguro’s ‘The Buried Giant’]] do Neil gaiman:
+
 >Kazuo Ishiguro é um romancista notável, tanto pela qualidade de seu trabalho - porque seus romances compartilham uma abordagem cuidadosa e precisa da linguagem e do caráter - como porque ele nunca escreve o mesmo romance, ou mesmo o mesmo tipo de romance, duas vezes.
 
 ##### Continuação pelo GPT3:
-Por exemplo: 
+
+Por exemplo:  
 The Remains of the Day é um romance calmo e melancólico sobre perda, arrependimento e decisões tomadas por um senso de dever.
 
 The Unconsoled é um thriller literário surrealista e de pesadelo que segue um pianista itinerante durante um longo fim de semana em uma cidade central de cargueiros.
@@ -49,5 +55,3 @@ O sétimo romance de Ishiguro, Klara e o Sol, é ambientado no futuro e segue um
 Concluindo:
 
 Kazuo Ishiguro é um romancista notável porque escreve romances muito diferentes que são todos interessantes e bem escritos. Ele é também um leitor voraz, o que provavelmente contribui para sua capacidade de escrever romances tão diferentes.
-
-

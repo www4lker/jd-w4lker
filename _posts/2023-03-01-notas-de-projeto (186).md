@@ -9,10 +9,13 @@ title: minha mae foi embora
 feed: hide
 date :  09-08-2022
 ---
+
 # minha mae foi embora
+
 criado em: 16:02 2022-08-01
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: 
@@ -20,6 +23,7 @@ criado em: 16:02 2022-08-01
 - [[Sobre a autoficção]]
 - [[2023-03-01-notas-de-projeto (11)]]
 ---
+
 Minha mae foi embora ontem. 
 
 Uma conversa que tivemos foi sobre a tal mentira. Ela assumiu toda a culpa; puxou para ela, e justificou dizendo que era para meu bem.

@@ -5,10 +5,13 @@ tags:
 title: Chuang Tzu
 date: 2023-02-24
 ---
+
 # Chuang Tzu
+
 criado em: 11:20 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -20,6 +23,7 @@ criado em: 11:20 2022-10-19
 - [[Lao Tse]
 
 # Zhuangzi
+
 Quais são os 5 pontos-chave que eu deveria saber ao estudar Chuang Tzu?
 
 1. Chuang Tzu (Zhuangzi) foi um filósofo chinês que viveu durante o século IV a.C.

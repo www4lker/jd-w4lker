@@ -8,10 +8,13 @@ tags:
   - interessesdepesquisa
 title: ABSTRACT PHANTOM
 ---
+
 # ABSTRACT PHANTOM
+
 ## criado em: 11:46 03-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[estudos da mídia]]
@@ -19,10 +22,13 @@ title: ABSTRACT PHANTOM
 - [[pós-modernismo]]
 - [[Kierkegaard]]
 ---
+
 >O público é uma ideia abstrata criada pela mídia nos tempos de desapaixonamento e reflexão, quando a realidade concreta é destruída. Ela consiste em indivíduos que não têm nenhum compromisso real e é um enorme nada, uma abstração que engloba tudo. O público é o verdadeiro Nivelador-Mestre, pois ele usa a Mídia para se impor a qualquer um que se distinga, rasgando sua reputação até ficar entediado dela.
 
 ## original
+
 # The public is a huge nothing (Kierkegaard)
+
 [fonte biblioklept](https://biblioklept.org/2014/05/28/the-public-is-a-huge-nothing-kierkegaard/)
 
 > In order for leveling really to occur, first it is necessary to bring a phantom into existence, a spirit of leveling, a huge abstraction, an all-embracing something that is nothing, an illusion–the phantom of the public. . . . The public is the real Leveling-Master, rather than the leveler itself, for leveling is done by something, and the public is a huge nothing.

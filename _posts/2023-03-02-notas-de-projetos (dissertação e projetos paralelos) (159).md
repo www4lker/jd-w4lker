@@ -9,10 +9,13 @@ tags:
   - escrita
 title: como podemos ter uma relação minimalista com informações e conteúdo
 ---
+
 # como podemos ter uma relação minimalista com informações e conteúdo
+
 ## criado em: 13:03 17-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como Escrever Bem]]
@@ -20,12 +23,14 @@ title: como podemos ter uma relação minimalista com informações e conteúdo
 - [[Malcolm Gladwell faz apologia das bibliotecas]]
 - [[chatgpt]]
 ---
+
 # À luz dos fatos discutidos, analise agora como podemos ter uma relação minimalista com informações e conteúdo; elabore especialmente sobre o fato de que agora, com o advento do chat gpt, posso passar horas conversando sobre o que realmente me interessa
 
-1.  Seja seletivo quanto às fontes de informação e conteúdo que você consome
-2.  Estabeleça limites em torno de seu consumo de informações e conteúdo
-3.  Faça pausas e participe de outras atividades que lhe permitam desconectar e recarregar
+1. Seja seletivo quanto às fontes de informação e conteúdo que você consome
+2. Estabeleça limites em torno de seu consumo de informações e conteúdo
+3. Faça pausas e participe de outras atividades que lhe permitam desconectar e recarregar
 ---
+
 Ter uma relação minimalista com informações e conteúdos pode ser um desafio na era digital atual, onde há uma quantidade esmagadora de informações e conteúdos disponíveis na ponta de nossos dedos. Entretanto, existem algumas estratégias que podem ajudar os indivíduos a cultivar uma relação mais minimalista com a informação e o conteúdo, e a administrar melhor seu tempo e atenção.
 
 Uma estratégia é ser seletivo quanto às fontes de informação e conteúdo que você consome. Em vez de tentar acompanhar tudo, considere o foco em algumas fontes de alta qualidade que se alinhem com seus interesses e valores. Isto pode ajudar a reduzir a quantidade de tempo e energia que você gasta consumindo e processando informações, e também pode ajudá-lo a evitar ser sobrecarregado ou atolado por conteúdo irrelevante ou de baixa qualidade.

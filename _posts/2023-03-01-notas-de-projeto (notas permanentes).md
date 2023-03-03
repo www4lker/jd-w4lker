@@ -1,5 +1,5 @@
 ---
-title: Notas Permanentes - índice
+title: Notas Permanentes
 tags:
 - permanente
 - pesquisa
@@ -8,6 +8,7 @@ tags:
 ---
 
 # Notas Permanentes
+
 ## criado em: 11:01 2023-03-02
 
 > Imagens ilustrativas são de Maurits Cornelis Escher, que é conhecido por criar ilusões óticas de bugar mentes e trabalhos artísticos de inspiração matemática.
@@ -20,6 +21,7 @@ tags:
 |*é possível afirmar que nem sempre segui essa regra, embora ela possa ser considerada a inspiração e o desafio último deste projeto de jardim digital de anotações*|
 
 ## A lista a seguir é apenas para dar uma ideia das notas originais 
+
 ### a recomendação é que se algum dos temas interessar, tente a a busca pelom título na barra de pesquisa acima
 
 >(notas com apenas números no título indica apenas que o **título real** esta dentro da nota)

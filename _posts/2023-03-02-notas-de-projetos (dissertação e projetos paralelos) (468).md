@@ -5,10 +5,13 @@ tags:
   - metas-para-2023
 title: 040120230957
 ---
+
 # 040120230957
+
 ## criado em: 09:57 2023-01-04
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[filosofia da tecnologia]]
@@ -41,4 +44,5 @@ Neste texto, o **Nexo** apresenta oito medidas que você pode tomar imediatament
 - Adote o Minimalismo digital.
 
 Destes mne chamou a atenção op último:
+
 >O conceito de Minimalismo Digital é um movimento onde as pessoas reduzem drasticamente o uso da Internet e da tecnologia, limitando-se ao mínimo indispensável. Cal Newport, professor de ciência da computação e autor do livro "Minimalismo Digital: para uma vida profunda em um mundo superficial", é um dos principais nomes deste movimento. Ele sugere medidas como passar tempo longe dos telefones celulares e da internet, evitando o envolvimento das mídias sociais e comunicando-se por meio de chamadas.

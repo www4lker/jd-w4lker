@@ -9,10 +9,13 @@ tags:
   - escrita
 title: o mercado, o indivíduo e como sua atenção se tornou uma mercadoria
 ---
+
 # o mercado, o indivíduo e como sua atenção se tornou uma mercadoria
+
 ## criado em: 12:59 2022-12-17
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como Escrever Bem]]
@@ -21,6 +24,7 @@ title: o mercado, o indivíduo e como sua atenção se tornou uma mercadoria
 - [[chatgpt]]
 - [[como podemos ter uma relação minimalista com informações e conteúdo 1]]
 ---
+
 # À luz dos fatos discutidos, analisar agora como isso afeta o indivíduo e como sua atenção se tornou uma mercadoria
 
 A teoria da cauda longa e a ascensão da indústria de conteúdo tiveram um impacto significativo no indivíduo e como sua atenção se tornou uma mercadoria.

@@ -5,13 +5,17 @@ tags:
   - interessesgerais
 title: político brasileiro Euvaldo Lodi
 ---
+
 # político brasileiro Euvaldo Lodi
+
 ## criado em: 13:38 07-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[PITCH]]
 ---
+
 Euvaldo Lodi (Ouro Preto, 9 de março de 1896 — Jundiaí, 19 de janeiro de 1956) foi um empresário, engenheiro e político brasileiro.
 
 	## Biografia

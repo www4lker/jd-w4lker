@@ -15,10 +15,13 @@ tags:
   - otimistarealista
 title: teoria da cauda longa e a indústria do conteúdo (primeira resposta)
 ---
+
 # teoria da cauda longa e a indústria do conteúdo (primeira resposta)
+
 ## criado em: 12:43 17-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[sobre economia, agentes do mercado e a boa gestão da economia]]
@@ -27,8 +30,8 @@ title: teoria da cauda longa e a indústria do conteúdo (primeira resposta)
 - [[teoria da cauda longa e a indústria do conteúdo - revisão 1]]
 - [[tensão  entre capitalismo e autenticidade na indústria cultural]]
 ---
-# Agora associe [[A teoria da cauda longa]] à ascensão da indústria de conteúdo, incluindo podcasts, ensaios em vídeo do YouTube e estrelas do tiktok:
 
+# Agora associe [[A teoria da cauda longa]] à ascensão da indústria de conteúdo, incluindo podcasts, ensaios em vídeo do YouTube e estrelas do tiktok:
 
 A ascensão da indústria de conteúdo, incluindo podcasts, ensaios em vídeo no YouTube e estrelas TikTok, pode ser vista como um exemplo da teoria da cauda longa em ação. Com a proliferação de plataformas digitais e a facilidade de distribuição pela Internet, tornou-se muito mais fácil para indivíduos e pequenos grupos criar e distribuir seu próprio conteúdo, alcançando nichos de audiência e especializando-se em tópicos ou formatos específicos.
 

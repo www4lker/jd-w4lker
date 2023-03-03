@@ -11,11 +11,15 @@ tags:
   - interessesdepesquisa
 title: como consertar a internet
 ---
+
 # como consertar a internet
+
 ## criado em: 20:05 05-02-2023
 
 ### Relacionado
+
 palavras-chave: 
+
 - notas: 
 - [[THE INTERNET IS BROKEN]]
 - [[a internet ta quebrada]]
@@ -23,13 +27,14 @@ palavras-chave:
 - [[como consertar a internet]]
 - [[como consertar a internet  - sumário]]
 ---
+
 fonte: https://www.nytimes.com/2018/05/09/business/ev-williams-twitter-medium.html
 
 # texto na íntegra
 
 maio 2018
-## And for His Next Act, Ev Williams Will Fix the Internet
 
+## And for His Next Act, Ev Williams Will Fix the Internet
 
 Ev Williams, a co-founder of Twitter, has turned his focus to Medium, the digital publishing company he started in 2012.
 
@@ -63,17 +68,17 @@ Many of Mr. Williams’s most recent thoughts have to do with how the digital ad
 
 Echoing Mr. Zuckerberg’s testimony before Congress last month, Mr. Williams said he now believed that he had been too optimistic during social media’s early days, and had failed to appreciate the risks of putting such powerful tools in users’ hands with minimal oversight.
 
-“One of the things we’ve seen in the past few years is that technology doesn’t just accelerate and amplify human behavior,” Mr. Williams wrote. “It creates feedback loops that can fundamentally change the nature of how people interact and societies move (in ways that probably none of us predicted).”
-Image
-Mr. Williams has not given up on Twitter, but “I think I was a little bit ahead of some people in seeing the dark side” of social media, he said.
-Mr. Williams has not given up on Twitter, but “I think I was a little bit ahead of some people in seeing the dark side” of social media, he said.Credit...Jason Henry for The New York Times
+“One of the things we’ve seen in the past few years is that technology doesn’t just accelerate and amplify human behavior,” Mr. Williams wrote. “It creates feedback loops that can fundamentally change the nature of how people interact and societies move (in ways that probably none of us predicted).”  
+Image  
+Mr. Williams has not given up on Twitter, but “I think I was a little bit ahead of some people in seeing the dark side” of social media, he said.  
+Mr. Williams has not given up on Twitter, but “I think I was a little bit ahead of some people in seeing the dark side” of social media, he said.Credit...Jason Henry for The New York Times  
 Mr. Williams has not given up on Twitter, but “I think I was a little bit ahead of some people in seeing the dark side” of social media, he said.
 
 Mr. Williams is only a partial heretic. He acknowledges that social media companies have not done enough to promote high-quality content, but he also blames publishers for amping up sensationalism in order to increase their traffic. And when I asked if he agreed with Mr. Zuckerberg’s recent statement that “the world would lose if Facebook went away,” he demurred.
 
 “I honestly don’t know my answer to that,” he said. “I think it’s probably right.”
 
-But if Mr. Williams isn’t ready to denounce social media, he is at least muting its effects in his own life. He still uses Twitter, but he has turned off most mobile notifications, and he tries to leave his phone behind when he’s with his friends or his kids. He is reading less daily news these days, he said, and more books and long-form articles.
+But if Mr. Williams isn’t ready to denounce social media, he is at least muting its effects in his own life. He still uses Twitter, but he has turned off most mobile notifications, and he tries to leave his phone behind when he’s with his friends or his kids. He is reading less daily news these days, he said, and more books and long-form articles.  
 Kevin Roose and Casey Newton are the hosts of Hard Fork, a podcast that makes sense of the rapidly changing world of technology. Subscribe and listen.
 
 “That’s been healthy for me,” he said. “I feel the effects of that.”

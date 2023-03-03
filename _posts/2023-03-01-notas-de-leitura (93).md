@@ -1,18 +1,20 @@
 ---
 tags: permanente
-title: Benjamin, Walter
+title: 2023-03-01-notas-de-leitura (93)
 date: 2023-02-24
 ---
  # Benjamin, Walter
+
 ## criado em: 16:25 11-11-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas:  
 - [[Sob o signo de Saturno]]
 - [[Sontag-Sob o signo de Saturno]]
-- 
 ---
+
 ## Quais são os 5 pontos-chave que eu deveria saber ao estudar Walter Benjamin?
 
 1. Walter Benjamin foi um filósofo e crítico cultural alemão.

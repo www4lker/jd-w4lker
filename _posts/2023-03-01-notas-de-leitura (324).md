@@ -7,13 +7,17 @@ tags:
 title: 5 pontos sobre Economia da Atenção
 date: 2023-02-24
 ---
+
 # 5 pontos sobre Economia da Atenção
+
 ## criado em: 11:18 03-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[a origem do termo economia da atenção]]
 ---
+
 Quais são os 5 pontos-chave que eu deveria saber ao estudar A Economia da Atenção?
 
 1. **A atenção é um recurso escasso:** A atenção é um recurso limitado que está sendo cada vez mais procurado por empresas, governos e indivíduos.

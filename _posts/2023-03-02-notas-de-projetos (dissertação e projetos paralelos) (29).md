@@ -13,10 +13,13 @@ tags:
   - internet
 title: 131020221227
 ---
+
 # 131020221227
+
 criado em: 12:27 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[interesses de pesquisa]] 
@@ -25,6 +28,7 @@ criado em: 12:27 2022-10-13
 - [[Hipertexto]]
 
 ---
+
 ## Publishing versus communicating
 
 As pessoas sempre quiseram se comunicar umas com as outras, mas no passado, era mais difícil de fazer. Agora, com computadores e a Internet, as pessoas podem se comunicar mais facilmente. Entretanto, algumas pessoas se preocupam que os jovens estão se tornando muito dependentes dos computadores e estão perdendo sua capacidade de se comunicar de forma longa e detalhada.

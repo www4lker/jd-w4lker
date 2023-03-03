@@ -9,17 +9,20 @@ tags:
   - episteme
 title: Hipertexto
 ---
+
 # Hipertexto
+
 criado em: 10:52 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[121020222345]]
 - [[ELO]]
-- 
 
 ---
+
 # Quais são os 7 pontos-chave que eu deveria saber ao estudar a hipertextualidade no ted nelson?
 
 1.Ted Nelson cunhou o termo "hipertextualidade" em 1965.
@@ -37,5 +40,3 @@ criado em: 10:52 2022-10-07
 7. Hipertexto é democrático, o que significa que é acessível a todos.
 
 ---
-
-

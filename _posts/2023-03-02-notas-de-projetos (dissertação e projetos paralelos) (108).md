@@ -14,17 +14,20 @@ tags:
   - disserte
 title: As Páginas Matinais
 ---
+
 # As Páginas Matinais
+
 criado em: 02:50 2022-10-19
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[As Páginas Matinais]]
 - [[O caminho do artista]]
 - **[[220920221504]]**
 
-
 ---
+
 “Para recuperar sua criatividade, você primeiro precisa encontrá-la. Peço que faça isso através de um processo aparentemente sem propósito que chamo de **páginas matinais**. Você fará as páginas diariamente durante todas as semanas do programa e, espero, por muito mais tempo depois. 
 
 Faço esse exercício diário há uma década. Tenho alunos que trabalham com essas páginas há quase tanto tempo quanto eu e que não abandonarão esse método enquanto estiverem respirando. Ginny, uma roteirista e produtora, atribui às páginas matinais a inspiração para seus roteiros recentes e a clareza necessária para planejar programas de TV. “A esta altura, chego a ser supersticiosa em relação a elas”, ela conta. “Quando estava editando meu último programa, levantava às 5 da manhã para terminar as páginas matinais antes de ir trabalhar.” 
@@ -33,7 +36,7 @@ Faço esse exercício diário há uma década. Tenho alunos que trabalham com es
 
 Não existe uma maneira errada de fazer as páginas matinais. As divagações diárias não precisam ser consideradas arte. Nem mesmo um texto. Enfatizo esse ponto para tranquilizar os não escritores que estão lendo este livro. Escrever é apenas uma das ferramentas. As páginas são o simples ato de mover a mão sobre o papel e escrever qualquer coisa que venha à mente. Nada é mesquinho, tolo, estúpido ou esquisito demais para ser incluído. 
 
-As páginas matinais não precisam ter tiradas inteligentes – embora ocasionalmente tenham. Muitas vezes não têm e ninguém jamais saberá disso, a não ser você mesmo. Ninguém terá permissão para lê-las a não ser você. E nem você deve lê-las nas primeiras oito semanas do curso. 
+As páginas matinais não precisam ter tiradas inteligentes – embora ocasionalmente tenham. Muitas vezes não têm e ninguém jamais saberá disso, a não ser você mesmo. Ninguém terá permissão para lê-las a não ser você. E nem você deve lê-las nas primeiras oito semanas do curso.  
 Apenas escreva três páginas e enfie-as num envelope. Ou escreva-as num caderno em espiral, mas vire a página e não folheie as anteriores. Apenas escreva três páginas ... e mais três no dia seguinte. 
 
 Embora sejam ocasionalmente vibrantes, as páginas matinais são com frequência negativas, fragmentadas, repletas de autopiedade, repetitivas, empoladas ou infantis, raivosas ou sem graça – às vezes até tolas. Ótimo! 
@@ -87,25 +90,45 @@ A descoberta por si só é um conforto intelectual. O poder por si só é uma fo
 É impossível escrever as páginas matinais por um período longo sem entrar em contato com um inesperado poder interior. Embora eu tivesse adotado a prática por muitos anos antes de perceber isso, elas são um caminho para um senso mais claro e forte de quem somos. São a trilha que seguimos para dentro, onde encontramos tanto a nossa criatividade quanto o nosso criador. 
 
  As páginas matinais mapeiam o nosso interior. Sem elas, nossos sonhos podem permanecer como terra incognita. Sei que comigo foi assim. Ao usá-las, a luz da descoberta se une ao poder para promover uma mudança significativa. É muito difícil continuar reclamando de uma situação dia após dia, mês após mês, sem ser movido a tomar uma atitude construtiva para alterá-la. As páginas nos levam para além do desespero e em direção a soluções que antes não sonhávamos ser possíveis. 
+
  
+
   A primeira vez que escrevi as páginas matinais, eu morava em Taos, no estado do Novo México. Havia me mudado para lá a fim de descobrir o que eu de fato queria fazer da vida. Pela terceira vez seguida, um dos meus roteiros de cinema havia sido engavetado por causa da política do estúdio. Desastres assim são rotineiros para roteiristas, mas eu sentia como se tivesse perdido uma gravidez. Cumulativamente, o efeito foi desastroso. Sentia vontade de desistir do cinema. Hollywood partiu meu coração. Eu não queria parir filhos da minha criatividade para perdê-los de forma tão prematura. Então fui para o Novo México curar a tristeza e ver se haveria algo mais que eu gostaria de fazer profissionalmente. 
+
   
+
   Vivendo numa casa de adobe com vista para o monte Taos, ao norte, comecei a escrever as páginas matinais. Ninguém me mandou fazer isso. Eu nunca tinha ouvido falar de outra pessoa que tivesse usado esse método. Apenas tive uma intuição insistente de que eu deveria escrevê-las, e foi o que fiz. Sentava a uma mesa de madeira olhando para a montanha e escrevia. 
+
   
+
   As páginas matinais eram meu passatempo, algo para fazer em vez de apenas fitar a paisagem o tempo inteiro. A montanha, uma maravilhosa corcova que se alterava a cada mudança climática, parecia fazer mais perguntas do que eu. Envolta em nuvens num dia, escura e úmida em outro, ela dominava minha visão e minhas páginas matinais também. O que aquilo – ou tudo o mais – significava?, eu perguntava, página após página, manhã após manhã. Nenhuma resposta.
+
   
+
    Então, numa manhã úmida, um personagem chamado Johnny apareceu nas minhas páginas. Sem planejar, eu estava escrevendo um romance. As páginas matinais me ensinaram o caminho. 
+
    
+
    Qualquer pessoa que escreva fielmente suas páginas matinais será levada a uma conexão com uma fonte de sabedoria interior. Quando estou me sentindo sem saída diante de algum problema ou situação dolorosa, vou para as minhas páginas e peço orientação. Escrevo as iniciais “LJ” (Little Julie, Pequena Julie) e em seguida faço minhas perguntas. 
+
    
+
    LJ: O que devo dizer sobre sabedoria interior? (Então eu espero para ouvir a resposta e a escrevo também.) RESPOSTA: Você deve dizer que todos têm uma ligação direta com Deus. Ninguém precisa de um intermediário. Diga que experimentem essa técnica com um problema pessoal. Eles o farão. 
+
    
+
    Às vezes, como no caso acima, a resposta pode parecer petulante ou simples demais. Com o tempo, passei a acreditar que apenas parece ser assim. Frequentemente, quando ajo a partir do conselho que recebi nas páginas, vejo que estava certíssimo – muito mais certo que qualquer solução mais complicada. Então, podem escrever o que digo: as páginas são minha forma de meditação. Eu as escrevo sempre porque realmente funcionam. 
+
    
+
    E para assegurá-los de vez: as páginas matinais funcionam com artistas plásticos, escultores, poetas, atores, advogados, donas de casa – qualquer um que queira tentar algo criativo. Não pense que se trata de um método apenas para escritores. Que nada! Esse exercício não é voltado apenas para quem trabalha com escrita. 
+
    
+
    Advogados que usam as páginas juram que elas os tornam mais eficientes no tribunal. Dançarinos contam que seu equilíbrio melhora – e não apenas do ponto de vista emocional. Na verdade, os escritores, que infelizmente tentam escrever bem as páginas matinais em vez de simplesmente preenchê-las, podem ter a maior dificuldade para perceber o seu impacto. Mas depois talvez notem que seus outros textos vão ficando cada vez mais livres e expansivos, mais fáceis de escrever. Em suma, não importa a sua hesitação ou profissão; as páginas matinais funcionarão com você.
+
    
+
 Timothy, um milionário conservador, calado e taciturno, começou a escrever suas páginas matinais com um desdém cético. Ele não queria fazer o exercício sem ter provas de que iria funcionar. A estratégia das páginas não tinha comprovação científica. Soava como algo tolo, e Timothy odiava coisas bobinhas. 
 
 No jargão dos investidores, Timothy era um jogador sério. Sua expressão facial era tão dura e impassível que servia mais para intimidar do que para esconder o jogo. Com anos de prática em conselhos administrativos de empresas, a fachada invencível de Timothy era tão sombria, brilhante e cara quanto madeira de mogno. Nenhuma emoção era capaz de arranhar a superfície de calma daquele homem. 

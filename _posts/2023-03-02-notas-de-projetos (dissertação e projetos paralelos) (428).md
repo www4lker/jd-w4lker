@@ -8,10 +8,13 @@ tags:
   - internet
 title: Tim Berners-Lee
 ---
+
 # Tim Berners-Lee
+
 criado em: 09:59 2022-10-13
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[dissertação index]]
@@ -19,6 +22,7 @@ criado em: 09:59 2022-10-13
 - [[Hipertexto]]
 - [[Ciberespaço]]
 ---
+
 # Quais são os 7 pontos-chave que eu deveria saber ao estudar Tim Berners-lee?
 
 1. Tim Berners-lee é um cientista informático britânico.

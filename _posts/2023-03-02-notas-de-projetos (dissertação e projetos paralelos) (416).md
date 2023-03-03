@@ -15,16 +15,20 @@ tags:
   - otimistarealista
 title: teoria da cauda longa e a indústria do conteúdo - revisão
 ---
+
 # teoria da cauda longa e a indústria do conteúdo - revisão
+
 ## criado em: 12:51 17-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[A teoria da cauda longa]]
 - [[teoria da cauda longa e a indústria do conteúdo 1]]
 - [[tensão  entre capitalismo e autenticidade na indústria cultural]]
 - [[como podemos ter uma relação minimalista com informações e conteúdo 1]]
 ---
+
 # Agora associe esta teoria à ascensão da indústria de conteúdo, incluindo podcasts, ensaios em vídeo do YouTube e estrelas do tiktok:
 
 A teoria da cauda longa pode ser aplicada à indústria de conteúdo, incluindo podcasts, ensaios em vídeo no YouTube e estrelas TikTok, de várias maneiras.

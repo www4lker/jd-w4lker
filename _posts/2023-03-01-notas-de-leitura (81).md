@@ -5,10 +5,13 @@ tags:
 title: Antony Beevor
 date: 2023-02-24
 ---
+
 # Antony Beevor
+
 ### criado em: 13:45 20-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[Beevor, Antony]]
 - [[band of brothers]]

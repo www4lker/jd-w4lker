@@ -6,15 +6,19 @@ tags:
   - biking
 title: 011220221700
 ---
+
 # 011220221700
+
 ## criado em: 17:00 2022-12-01
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[porque ficou mais difícil dividir a rua nas cidades]]
 - [[o chão é lava]]
 ---
+
 # Crônicas urbanas
 
 ## Andar de bicicleta em cidade grande no Brasil é um verdadeiro pesadelo

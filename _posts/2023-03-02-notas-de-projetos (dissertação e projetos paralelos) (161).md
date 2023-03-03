@@ -8,10 +8,13 @@ tags:
   - metodologia
 title: 011120221654
 ---
+
 # 011120221654
+
 ### criado em: 16:54 2022-11-01
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[metodologia]]
@@ -19,8 +22,11 @@ title: 011120221654
 - [[MdCC]]
 - [[NOTAS DE LEITURA/LIVROS/Metodologia Do Trabalho Científico]]
 ---
+
 # um plano de 5 pontos principais abordando como separar o processo metodológico de pesquisa em pequenas partes:
+
 ## (0,7)
+
 1. Definir a questão ou problema da pesquisa.
 
 2. Desenvolver um projeto ou estrutura de pesquisa.
@@ -32,7 +38,9 @@ title: 011120221654
 5. Apresentar resultados.
 
 ## um plano de 5 pontos abordando como separar o processo metodológico de pesquisa em pequenas partes:
+
 ### (0,86)
+
 1. Comece dividindo o processo de pesquisa em etapas menores e manejáveis.
 
 2. Identificar os elementos-chave de cada etapa do processo de pesquisa.
@@ -44,7 +52,9 @@ title: 011120221654
 5. Analisar as medidas tomadas e as informações coletadas para garantir a exatidão e completude.
 
 ### um plano de 5 pontos abordando como separar o processo metodológico de pesquisa em pequenas partes:
+
 #### (0,35)
+
 1. Definir o problema ou questão da pesquisa.
 
 2. Desenvolver um projeto ou plano de pesquisa.
@@ -54,5 +64,3 @@ title: 011120221654
 4. Analisar dados.
 
 5. Escrever os resultados da pesquisa.
-
-

@@ -9,12 +9,15 @@ tags:
   - episteme
 title: imagens não podem dizer não
 ---
+
 # imagens não podem dizer não
+
 ## criado em: 19:33 13-12-2022
 
 ### Relacionado
 
 Palavras-chave: 
+
 - notas: 
 - [[Eco, Umberto]]
 - [[From Internet to Gutenberg]]

@@ -7,10 +7,13 @@ tags:
   - interessesdepesquisa
 title: 030220231119
 ---
+
 # 030220231119
+
 ## criado em: 11:19 2023-02-03
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Isto não é um cachimbo]]
@@ -20,6 +23,7 @@ title: 030220231119
 - [[World Wide Web]]
 - [[Eugênio Bucci]]
 ---
+
 [Fonte](https://www.nexojornal.com.br/colunistas/2023/Uma-imagem-%C3%A9-sempre-muito-mais-do-que-uma-imagem?position-home-esquerda=1)
 
 - Tudo o que nos acontece, especialmente nesta ==Era da (Des)Informação== pode ser sintetizado pelas imagens que passam, céleres, pela internet;

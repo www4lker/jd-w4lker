@@ -9,26 +9,32 @@ tags:
   - mestredeculturacontemporanea
 title: From Internet to Gutenberg
 ---
+
 # From Internet to Gutenberg
+
 ### criado em: 23:57 23-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas: [[171020220056]] 
 - [[Globalização]]
 - [[Eco, Umberto]]
 - [[Hipertexto]]
 - [[interesses de pesquisa]]
-- 
 ---
+
 ## Conferência apresentada por Umberto Eco na Academia Americana para Estudos Avançados na América (12 de november de 1996)
+
 ### Sumário:
+
 - De acordo com Platão, quando Hermes apresentou a escrita ao faraó Thamus, o faraó não ficou satisfeito porque a escrita tornaria a memória das pessoas preguiçosa.
 - O faraó estava preocupado que escrever tornaria a memória das pessoas pior em vez de melhor.
 - Platão estava escrevendo seu argumento contra a escrita.
 - Atualmente, as pessoas não compartilham as mesmas preocupações que o Faraó porque sabemos que os livros não fazem outra pessoa pensar em nosso lugar.
 - Os livros realmente desafiam e melhoram a memória.
 ---
+
 A) A história de Notre Dame de Paris acontece no século XV, um pouco mais tarde do que a invenção da impressão. Antes disso, os manuscritos eram reservados a uma elite restrita de alfabetizados, mas o único meio de ensinar às massas sobre as histórias da Bíblia, a vida de Cristo e dos Santos, os princípios morais, até mesmo os feitos da história nacional ou as noções mais elementares de geografia e ciências naturais (a natureza dos povos desconhecidos e as virtudes das ervas ou das pedras), era fornecido pelas imagens da catedral.
 
 B) Uma catedral medieval era uma espécie de programa de televisão permanente e imutável que deveria contar às pessoas tudo o que era indispensável para sua vida cotidiana, bem como para sua salvação eterna. O livro teria distraído as pessoas de seus valores mais importantes, encorajando informações desnecessárias, interpretação livre das Escrituras, curiosidade insana.
@@ -93,8 +99,8 @@ P) Agora devemos nos perguntar se tal perspectiva é realista ou se é mera fic�
 - Os estudiosos usam enciclopédias de uma forma mais sofisticada. 
 - Com um hipertexto, ao invés disso, eu posso navegar por toda a enciclopédia. 
 - Os hipertextos certamente tornarão as enciclopédias e os manuais obsoletos. 
-- Um disco hipertextual pode substituir os livros a serem lidos? Esta pergunta esconde na verdade dois problemas diferentes e poderia ser reformulada como duas perguntas diferentes. 
-(I) Primeiro, uma pergunta prática: Algum suporte eletrônico pode substituir os livros a serem lidos? 
+- Um disco hipertextual pode substituir os livros a serem lidos? Esta pergunta esconde na verdade dois problemas diferentes e poderia ser reformulada como duas perguntas diferentes.  
+(I) Primeiro, uma pergunta prática: Algum suporte eletrônico pode substituir os livros a serem lidos?  
 (II) Segunda, uma teórica e uma estética: Um CD-ROM hipertextual e multimedial pode transformar a própria natureza de um livro-leitura, como um romance ou uma coleção de poemas? 
 - Deixe-me primeiro responder à primeira pergunta. Os livros continuarão sendo indispensáveis não apenas para a literatura, mas para qualquer circunstância na qual se precise ler cuidadosamente, não apenas para receber informações, mas também para especular e refletir sobre elas.
 
@@ -114,6 +120,3 @@ P) Agora devemos nos perguntar se tal perspectiva é realista ou se é mera fic�
 - livros ainda terão uma função primordial e precisamos de novos manuais impressos para lidar com a World Wide Web
 - uma novela hipertextual e interativa nos permite praticar a liberdade e a criatividade, mas um livro não
 - um livro nos confronta com a severa lei da Necessidade e nos ensina uma sabedoria que é necessária para sermos pessoas livres
-
-
-

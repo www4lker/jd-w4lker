@@ -1,7 +1,20 @@
+---
+tags:
+  - insight
+  - vipassana
+  - virtú
+  - literatura
+  - totalizante
+  - pessoalidades
+title: 20082022
+---
+
 # 20082022
+
 criado em: 02:35 2022-08-10
 
 ##### Relacionado
+
 - palavras-chave: #insight #vipassana #virtú #literatura #totalizante #pessoalidades 
 - notas permanentes: [[Vipassana]]
 - [[MEDITAÇÃO]] 
@@ -23,7 +36,7 @@ Eu ouvi falar do romance pela primeira vez quando ouvia a musica “a montanha m
 
 Eu era o Hans castorp em 2013 quando fui para Miguel pereira fazer um retiro e esquecer da faculdade e da vida em Cuiabá, incluindo a Fatima. Seu eu houvesse lido o livro antes talvez não houvesse
 
-malogrado pois não iria nutrir esperanças de viver de retiros- Hans castorp estava doente, mas também era rico, não precisava se preocupar em pagar para ficar lá, sua herança dava e sobrava. Também, lá era um tipo de retiro mundano, onde não haviam regras sobre não ler, sair ou fazer qualquer coisa relacionada à mundanidades como é um retiro de vipassana. Nada contra, eu me acostumaria melhor com as regras se soubessem que era um retiro diferente do de Castorp em a montanha mágica – de fato, eu queria um retiro como o dele e não como o de vipassana em Miguel pereira, posto que neste retiro eu fiz tudo o que faria o castorp em seu retiro – li, passeei, conversei, e interagi à maneira de que interagiam os personagens do sanatório (com artimanhas e influências deliberadas)... talvez o que eu quisesse mesmo fosse um spa – pois não foi isso que o Tim me m falou naquela noite tempestuosa? Que ali não era férias ou resort – que não podíamos ler ou esquivar o trabalho, que, enfim, ali eu não era livre – que eu estava convidado a me retirar?
+malogrado pois não iria nutrir esperanças de viver de retirosHans castorp estava doente, mas também era rico, não precisava se preocupar em pagar para ficar lá, sua herança dava e sobrava. Também, lá era um tipo de retiro mundano, onde não haviam regras sobre não ler, sair ou fazer qualquer coisa relacionada à mundanidades como é um retiro de vipassana. Nada contra, eu me acostumaria melhor com as regras se soubessem que era um retiro diferente do de Castorp em a montanha mágica – de fato, eu queria um retiro como o dele e não como o de vipassana em Miguel pereira, posto que neste retiro eu fiz tudo o que faria o castorp em seu retiro – li, passeei, conversei, e interagi à maneira de que interagiam os personagens do sanatório (com artimanhas e influências deliberadas)... talvez o que eu quisesse mesmo fosse um spa – pois não foi isso que o Tim me m falou naquela noite tempestuosa? Que ali não era férias ou resort – que não podíamos ler ou esquivar o trabalho, que, enfim, ali eu não era livre – que eu estava convidado a me retirar?
 
 Amadureci também como leitor, com certeza. O livro é um dos maiores que já li, e não esmoreci até acabar, apesar de ter deixado muitas lacunas no entendimento de certas partes, principalmente as filosóficas – uma segunda leitura já se faz necessária pois eu pretendo alardear que li o livro, mesmo que ninguém se importe, e também isso que dizer que só por que se leu um livro não precise nunca mais voltar a ler ou que se entendeu o livro cem por cento – ler é um prazer muito maior que o sexual e muito mais acessível – quando eu me engajei no romance, o lia como um hábito impossível de se perder
 

@@ -11,15 +11,19 @@ tags:
   - pessoalidades
 title: 091220220041
 ---
+
 # 091220220041
+
 ## criado em: 00:41 2022-12-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[de como filosofar é aprender a morrer]] 
 - notas: [[aquela vez que escrevi sobre meu avo no inumeraveis]]
 - [[when adopted people learn about their adoptee status]]
 ---
+
 # Terra Nova Do Norte
 
 ### PARA MEU AVÔ IVO DE BARROS

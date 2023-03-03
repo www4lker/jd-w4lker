@@ -6,17 +6,20 @@ tags:
   - tarefas
 title: 202208020927
 ---
+
 # 202208020927
+
 criado em: 09:27 2022-08-02
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de literatura: 
 
 ---
-🔼 - [ ] REVISAR 🛫 2022-08-03 ⏳ 2022-08-07 📅 2022-08-09
 
+🔼 - [ ] REVISAR 🛫 2022-08-03 ⏳ 2022-08-07 📅 2022-08-09
 
 novas formas de aprender: técnicas de memorização e aprendizagem.
 

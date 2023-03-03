@@ -6,10 +6,13 @@ tags:
 title: maybe its my sanna
 date: 2023-02-24
 ---
+
 # maybe its my sanna
+
 criado em: 00:34 2022-07-28
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes:
 - notas de literatura:[[📚 NOTAS 📖 DE 📘 LITERATURA/KINDLE HIGHLIGHTS/Mindfulness]] [[ottappa]] 

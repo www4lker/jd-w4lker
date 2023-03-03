@@ -5,10 +5,13 @@ feed: show
 date :  09-08-2022
 date: 2023-02-24
 ---
+
 # crime e castigo top quote
+
 criado em: 18:17 2022-08-09
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -17,7 +20,6 @@ criado em: 18:17 2022-08-09
 - [[LENDO IRMAOS KARAMAZOV]]
 
 ---
-
 
 Mentir com a própria cabeça… afinal, isso é quase melhor do que uma verdade alheia;
 

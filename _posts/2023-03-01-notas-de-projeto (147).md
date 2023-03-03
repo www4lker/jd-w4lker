@@ -8,16 +8,19 @@ tags:
   - ceticismo
 title: ceticismo
 ---
+
 # ceticismo
+
 ## criado em: 19:15 13-12-2022
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: [[ceticismo em montaigne]]
 - [[Por que os filósofos desconfiam dos seus sentidos]]
 ---
-# Como ser mais cético (no sentido filosófico) na vida cotidiana?
 
+# Como ser mais cético (no sentido filosófico) na vida cotidiana?
 
 > Ser mais cético na vida cotidiana pode ser uma forma útil de garantir que você não esteja sendo influenciado por informações falsas ou enganosas. Uma maneira de ser mais cético é questionar as informações que lhe são apresentadas, mesmo que elas venham de uma fonte confiável. Isto significa examinar cuidadosamente as evidências e o raciocínio por trás das informações, em vez de simplesmente aceitá-las pelo seu valor nominal. Também pode ser útil considerar explicações alternativas para as informações que lhe são apresentadas, e considerar os possíveis preconceitos ou motivos ulteriores da pessoa ou organização que as apresenta. Além disso, estar aberto a novas ideias e perspectivas pode ajudá-lo a ser mais cético, pois permite que você veja as coisas de ângulos diferentes e desafie suas próprias suposições e crenças.
 

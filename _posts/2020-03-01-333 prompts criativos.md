@@ -4,12 +4,21 @@ tags:
   - permanente
   - meta
   - zettelkasten
+  - criatividade
+  - disserte
+  - cotidiano
+  - householder
+  - 333parteum
 ---
+
 # 333 prompts criativos
+
 ## criado em: 10:57 05-12-2022
+
 ## do livro [[NOTAS DE LEITURA/LIVROS/333 Páginas Para Tirar Seu Projeto Do Papel]]
 
 ### Relacionado
+
 - palavras-chave: #criatividade #disserte #cotidiano #householder #333parteum 
 - notas: 
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/051220221024.md]]

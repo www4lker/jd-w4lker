@@ -9,10 +9,13 @@ tags:
   - filosofia
 title: 8 questions for my interview with a postmodern philosopher
 ---
+
 # 8 questions for my interview with a postmodern philosopher
+
 criado em: 13:22 2022-10-06
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Postmodernism]]
@@ -20,10 +23,10 @@ criado em: 13:22 2022-10-06
 - [[Deleuze]]
 - [[Derrida]]
 ---
+
 # Create a list of 8 questions for my interview with a postmodern philosopher:
 
 (0,35)
-
 
 1. O que é pós-modernismo?
 2. Quais são as principais características do pós-modernismo?

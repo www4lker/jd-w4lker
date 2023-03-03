@@ -8,10 +8,13 @@ tags:
 title: Livros Nexo História e Política Contemporânea
 date: 2023-02-24
 ---
+
 # Livros Nexo História e Política Contemporânea
+
 criado em: 12:32 20-10-2022
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

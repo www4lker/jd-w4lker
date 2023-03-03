@@ -10,15 +10,19 @@ tags:
 title: epicuro ressoa
 date: 2023-02-24
 ---
+
 # epicuro ressoa
+
 criado em: 15:33 2022-07-29
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: [[ensaios, de montaigne]] [[LENDO MONTAIGNE]]
 - notas de literatura: [[DISSERTAÇÃO E PROJETOS PARALELOS/🏡 PROJETOS E JARDIM DIGITAL🌱/Projeto Lendo Os Ensaios/LENDO MONTAIGNE 1]] [[Lendo Montaigne aos poucos]] [[Montaigne, Michel de]] [[como viver, sarah bakewell]] [[Cartas & Máximas principais]][[Carta sobre a felicidade]]
 ---
-aqui ele usa de argumento epicuriano quando diz que a morte nada é: quando ela está, nós não estamos, quando ela não está, nós estamos. 
+
+aqui ele usa de argumento epicuriano quando diz que a morte nada é: quando ela está, nós não estamos, quando ela não está, nós estamos.  
 livro I xx p 132
 
 [[📚 NOTAS 📖 DE 📘 LITERATURA/LIVROS/Carta Sobre a Felicidade]]

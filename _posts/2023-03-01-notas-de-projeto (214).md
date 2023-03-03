@@ -11,7 +11,9 @@ tags:
   - mestredeculturacontemporanea
 title: Precisa fazer
 ---
+
 # Precisa fazer
+
 1. Relatório bolsa
 2. Dispersar dúvidas sobre créditos 
 3. Avisar que esta sem bolsa novamente para a dolores

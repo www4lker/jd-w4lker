@@ -9,10 +9,13 @@ tags:
   - mestredeculturacontemporanea
 title: engenharia reversa do midjourney
 ---
+
 # engenharia reversa do midjourney
+
 ### criado em: 16:12 23-10-2022
 
 #### Relacionado
+
 - palavras-chave: 
 - notas:
 - [[gpt3]]
@@ -20,7 +23,8 @@ title: engenharia reversa do midjourney
 - [[prompts midjourney]]
 - [[digital humanities]]
 ---
->e se a gente usasse o midjourney para desfazer ideias equivocadas? 
+
+>e se a gente usasse o midjourney para desfazer ideias equivocadas?  
 de certo o aplicativo interpreta melhor algumas coisas que a gente.
 
 ## 5 maneiras de usar a inteligência artificial para desfazer mal-entendidos e erros conceituais:

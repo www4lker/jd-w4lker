@@ -10,10 +10,13 @@ tags:
   - geo
 title: 311220222346
 ---
+
 # 311220222346
+
 ## criado em: 23:46 2022-12-31
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Como se faz uma tese]]
@@ -23,6 +26,7 @@ title: 311220222346
 - [[markdown]]
 - [[DISSERTAÇÃO E PROJETOS PARALELOS/meta notas/IAW]]
 ---
+
 >O artigo discute como a economia da China, particularmente em tecnologia, se tornou mais bem sucedida e influente globalmente. Sugere que o controle do governo chinês sobre seus cidadãos e o uso da tecnologia para monitoramento e influência é semelhante à forma como as empresas de tecnologia no Ocidente coletam e utilizam dados sobre seus usuários. Também menciona o "Sistema de Crédito Social" que está sendo implementado na China, que é um sistema que monitora e classifica o comportamento dos cidadãos. O artigo sugere que já existem sistemas similares no Ocidente, com empresas como Google, Facebook e Fitbit coletando dados sobre seus usuários e influenciando seu comportamento. Também aborda o aumento do nacionalismo no Ocidente e a influência das empresas de tecnologia na sociedade, sugerindo que o Vale do Silício é semelhante ao governo chinês em termos de vigilância e controle. Além disso, destaca a importância da liberdade e da liberdade de escolha quando se trata de informações pessoais e sugere que tanto a sociedade chinesa quanto a ocidental precisam abordar os perigos de ver os humanos como ratos de laboratório e reduzi-los a números.
 
 China has outperformed the rest of the world in terms of GDP, owning the four largest banks in the world, and leading in alternative energy. It has invested heavily in Africa, with six of the ten fastest growing economies in 2018 being African states. While the US still leads in information technology, China is aggressively investing in data analytics, machine learning, and robotics, and aims to become a global power in artificial intelligence by 2030. Chinese tech companies are expanding into the West and acquiring Western game companies, startups, and movie studios. Chinese tech workers are paid lower salaries than their Silicon Valley counterparts, and Chinese firms are able to produce products at a lower cost. However, Chinese technology companies often face criticism for their ties to the Chinese government and their potentially harmful impact on American workers.

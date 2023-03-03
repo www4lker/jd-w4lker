@@ -11,14 +11,18 @@ tags:
   - leitura
 title: Nomades digitais e CT
 ---
+
 # Nomades digitais e CT
+
 ## criado em: 22:40 10-01-2023
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[Capitalismo tardio]]
 ---
+
 O artigo se refere à idéia do capitalismo tardio de várias maneiras:
 
 1. O conceito de nomadismo digital é descrito como sendo um produto do capitalismo, especificamente a flexibilidade que ele proporciona às pessoas que têm empregos que lhes permitem trabalhar de qualquer lugar, desde que tenham uma conexão com a Internet.

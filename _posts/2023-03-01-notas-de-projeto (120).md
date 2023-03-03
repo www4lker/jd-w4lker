@@ -1,12 +1,23 @@
+---
+tags:
+  - disserte
+  - 1000palavrasoumais
+  - insight
+title: 300920221651
+---
+
 # 300920221651
+
 criado em: 16:50 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave: #disserte #1000palavrasoumais #insight 
 - notas permanentes: [[quisquilae]]
 - [[Piglia, Ricardo]]
 
 ---
+
  >Escrever para os inimigos, não para o social, procurar a ocultação. Indagar sobre a sobrevivência do escritor argentino. A exterioridade desta _promoción_ (e não desta geração). Promoção: que se promove, grupos que surgem numa mesma data.
 
 Anos de Formação: Os Diários de Emilio Renzi (Ricardo Piglia)

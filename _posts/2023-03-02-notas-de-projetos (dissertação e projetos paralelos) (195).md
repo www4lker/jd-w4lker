@@ -8,22 +8,27 @@ tags:
   - interessesdepesquisa
 title: 060220232110
 ---
+
 # 060220232110
+
 ## criado em: 21:10 2023-02-06
 
 ### Conteúdo Relacionado
+
 - palavras-chave:
 - notas: 
--  [[NATURE ISSUES FOR DEBATE - CHATGPT]]
+- [[NATURE ISSUES FOR DEBATE - CHATGPT]]
 - [[disclaimer chat gpt]]
 - [[ DUAS REGRAS BÁSICAS DA NATURE PARA USO DE CHATGPT]]
+
 #### Fontes & Links
+
 [fonte revista nature]([Tools such as ChatGPT threaten transparent science; here are our ground rules for their use](https://www.nature.com/articles/d41586-023-00191-1))
 
 ---
 
-
 ### Pontos-chave: 
+
 - A Inteligência Artificial (IA) está ganhando a capacidade de gerar uma linguagem fluente. 
 - O OpenAI lançou o ChatGPT em novembro, tornando-o livre para uso e facilmente acessível. 
 - O ChatGPT pode escrever ensaios estudantis apresentáveis, resumir trabalhos de pesquisa, responder a perguntas suficientemente bem para passar em exames médicos e gerar um código de computador útil. 

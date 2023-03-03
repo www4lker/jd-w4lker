@@ -13,10 +13,13 @@ tags:
   - escrivão
 title: 181220221256
 ---
+
 # 181220221256
+
 ## criado em: 12:56 2022-12-18
 
 ### Relacionado
+
 - palavras-chave: 
 - notas: 
 - [[William Zinsser]]

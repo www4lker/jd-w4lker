@@ -10,10 +10,13 @@ tags:
   - interessesdepesquisa
 title: Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo
 ---
+
 # Livro implode teorias sobre origem da humanidade, mas não tem resposta para tudo
+
 criado em: 17:55 2022-08-25
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:
@@ -21,8 +24,6 @@ criado em: 17:55 2022-08-25
 - [[podcast o despertar de tudo]]
 - [[Humans Have Always Been Wrong About Humans]]
 - [[O despertar de tudo]]
-- 
-
 
 ---
 
@@ -40,7 +41,7 @@ O ponto de partida fictício —aquele que não deve ser respeitado— é para o
 
 Seu "Ensaio sobre os Fundamentos da Desigualdade entre os Homens" inaugurou uma forma de pensar segundo a qual, de início, os homens viviam em pequenos bandos que não tinham hierarquia (nem reis nem chefes). Esse quadro idílico se comprometeu quando a civilização de coletores-caçadores descobriu a agricultura. [Cultivar a terra teria trazido a propriedade, os litígios](https://www1.folha.uol.com.br/colunas/reinaldojoselopes/2022/01/criticando-sapiens-livro-mostra-como-povos-antigos-tentavam-combater-desigualdade.shtml), os juízes, o governo e, em suma, a instituição do Estado.
 
-O que [Graeber e Wengrow argumentam](https://www1.folha.uol.com.br/ilustrissima/2022/08/humanos-estao-errados-sobre-a-historia-da-humanidade-aponta-livro.shtml) —o primeiro faleceu semanas após a entrega das provas— é que, a rigor, nada disso faz sentido. Não há estágio primitivo de ingenuidade e pureza, uma genealogia pela qual [os bandos, ao ganharem musculatura hierárquica, deram lugar às tribos e estas às chefaturas](https://www1.folha.uol.com.br/ilustrissima/2022/08/arqueologo-propoe-nova-visao-sobre-civilizacoes-amazonicas.shtml) antes de desembocarem no Estado. E também não é necessariamente verdade que a desigualdade esteja ligada à aparição das cidades, há 3.500 anos, ao sul do atual Iraque.
+O que [Graeber e Wengrow argumentam](https://www1.folha.uol.com.br/ilustrissima/2022/08/humanos-estao-errados-sobre-a-historia-da-humanidade-aponta-livro.shtml) —o primeiro faleceu semanas após a entrega das provas— é que, a rigor, nada disso faz sentido. Não há estágio primitivo de ingenuidade e pureza, uma genealogia pela qual [os bandos, ao ganharem musculatura hierárquica, deram lugar às tribos e estas às chefaturas](https://www1.folha.uol.com.br/ilustrissima/2022/08/arqueologo-propoe-nova-visao-sobre-civilizacoes-amazonicas.shtml) antes de desembocarem no Estado. E também não é necessariamente verdade que a desigualdade esteja ligada à aparição das cidades, há 3.500 anos, ao sul do atual Iraque.  
 ![[Pasted image 20220825175702.png]]
 
 Esse conjunto de "certezas" é desmentido por descobertas de arqueólogos e antropólogos que pesquisaram ao norte da atual província canadense de Québec. E, mais para trás em termos de cronologia acadêmica, há algo familiar para nós, brasileiros, com [Claude Lévi-Strauss e os](https://www1.folha.uol.com.br/folha-100-anos/2021/12/cultura-europeia-esta-ameacada-disse-levi-strauss-a-folha-em-1989.shtml) [nhambiquaras](https://www1.folha.uol.com.br/folha-100-anos/2021/12/cultura-europeia-esta-ameacada-disse-levi-strauss-a-folha-em-1989.shtml), com os quais o antropólogo franco-belga entrou em contato em Mato Grosso nos anos 1930.

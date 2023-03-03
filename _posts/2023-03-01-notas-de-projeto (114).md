@@ -9,17 +9,21 @@ tags:
   - 2020/2021
 title: 300920221642
 ---
+
 # 300920221642
+
 criado em: 16:42 2022-09-30
 
 ##### Relacionado
+
 - palavras-chave:
 - notas: [[DISSERTAÇÃO E PROJETOS PARALELOS/DIÁRIO/DIÁRIO]]
 
 ---
-# 25/042020
-## 21:50
 
+# 25/042020
+
+## 21:50
 
 Um dia como qualquer outro; um dia de afastamento, de certa forma, do mundo.
 

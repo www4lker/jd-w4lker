@@ -5,10 +5,13 @@ tags:
 title: Bordieu, Pierre
 date: 2023-02-24
 ---
+
 # Bordieu, Pierre
+
 criado em: 08:58 2022-10-07
 
 ##### Relacionado
+
 - palavras-chave: 
 - notas permanentes: 
 - notas de dissertação:

@@ -7,7 +7,7 @@ tags:
   - pessoalidades
   - promptgpt3
   - mestredeculturacontemporanea
-title: FILME CRIMES DO FUTURO
+title: "Crimes do Futuro: Um mergulho na tirania dos cosméticos e da reabilitação de órgãos"
 date: 2023-03-02
 ---
 
