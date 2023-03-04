@@ -1,16 +1,16 @@
 ---
-title: {{title}}
+title: {{date}}
 tags:
-- tag 1
-- tag 2
+- exemplo 1
+- exemplo 2
 ---
-
 # {{title}}
 
-## criado em: {{time}} {{date}}
+## criado em (ano, mês e dia): 
+- {{date}}-{{time}}
 
 ### Conteúdo Relacionado
-
 - notas: 
-- Fontes & Links:
+- tags: 
+- Fontes & Links: 
 ---
