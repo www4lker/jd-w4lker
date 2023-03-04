@@ -50,10 +50,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"title: como se faz uma tese\"",
+                "query": "\"modelo",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,8 +150,25 @@
   },
   "active": "6a63096fffed88a9",
   "lastOpenFiles": [
-    "2023-03-01-notas-de-projeto (14).md",
+    "2023-03-01-notas-de-projeto (MODELO PARA NOTAS).md",
     "2023-03-01-notas-de-projeto (meta notas).md",
+    "nova nota teste.md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (132).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (86).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (85).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (36).md",
+    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (31).md",
+    "2023-03-01-notas-de-projeto (138).md",
+    "2023-03-01-notas-de-leitura (268).md",
+    "2023-03-01-notas-de-leitura (261).md",
+    "2023-03-01-notas-de-leitura (243).md",
+    "2023-03-01-notas-de-leitura (216).md",
+    "2023-03-01-notas-de-leitura (134).md",
+    "2023-02-28-title1 (161).md",
+    "2023-02-28-title1 (132).md",
+    "2023-02-28-title1 (67).md",
+    "2023-02-28-title1 (57).md",
+    "2023-03-01-notas-de-projeto (14).md",
     "2023-03-01-notas-de-projeto (148).md",
     "2023-03-01-notas-de-projeto (11).md",
     "2023-03-01-notas-de-projeto (100).md",
@@ -158,23 +176,6 @@
     "2023-03-01-notas-de-projeto (1).md",
     "2023-03-01-notas-de-projeto (106).md",
     "2023-03-01-notas-de-projeto (223).md",
-    "2023-03-01-notas-de-projeto (43).md",
-    "2023-03-01-notas-de-projeto (226).md",
-    "2023-03-01-notas-de-projeto (186).md",
-    "2023-03-01-notas-de-projeto (152).md",
-    "2023-03-01-notas-de-projeto (128).md",
-    "2023-03-01-notas-de-projeto (127).md",
-    "2023-03-01-notas-de-projeto (129).md",
-    "2023-03-01-notas-de-projeto (113).md",
-    "2023-03-01-notas-de-projeto (108).md",
-    "2023-03-01-notas-de-projeto (105).md",
-    "2023-03-01-notas-de-projeto (101).md",
-    "colecao-os-pensadores-soren-a-kierkegaard.md",
-    "2023-03-02-notas-de-projetos (dissertação e projetos paralelos) (131).md",
-    "to lint",
-    "2023-03-01-notas-de-leitura (kierkegaard).md",
-    "2023-03-01-notas-de-leitura (98).md",
-    "2023-03-01-notas-de-leitura (77).md",
-    "2023-03-01-notas-de-leitura (73).md"
+    "to lint"
   ]
 }

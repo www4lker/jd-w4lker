@@ -48,7 +48,7 @@
       "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
     },
     "YAML Title": {
-      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
       "Title Key": "title"
     },
     "YAML Title Alias": {
