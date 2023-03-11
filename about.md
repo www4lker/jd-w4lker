@@ -29,12 +29,12 @@ Em minha tentativa anterior de criar um jardim digital usando Jekyll, descobri o
 É importante destacar que este jardim digital é um projeto aberto e sempre em evolução. Ele não é um produto acabado, mas sim um espaço em constante desenvolvimento. Seguindo o espírito da fase beta de desenvolvimento de software, o jardim digital está sempre em fluxo e crescimento. Além disso, espero que mais pessoas possam apreciar o valor de criar seus próprios jardins digitais e convido os leitores a explorar esse conceito e criar seus próprios espaços pessoais na internet.
 
 De acordo com a ideia de um jardim digital, mantive a página inicial minimalista para incentivar a exploração e a descoberta pessoal. Conforme o projeto avança, novos recursos serão adicionados, incluindo pesquisa, backlinks, lista de arquivos e gráficos.
-**Segue um índice, embora minha sugestão seja se deixar levar por aquilo que parecer mais interessantes:** 
-  
-> 1- [[Meta Notas\|Meta Notas]] - notas que falam sobre o zettellkasten, o obsidian e sobre si mesmas
->  2 - Notas de Pesquisa acadêmica: [[Dissertação e Projetos - índice\|Dissertação e Projetos - índice]] - notas relacionadas á pesquisa de mestrado e sobre todo um mundo de outras coisas
->  3 - Notas Permanentes: [[Notas Permanentes - índice\|Notas Permanentes - índice]] - notas geralmente mais importantes e que abrangem todo o projeto; novas notas podem ser promovidas (ou removidas) a qualquer momento
->  4 - Notas de Leitura: [[Notas de leituras - índice\|Notas de leituras - índice]] - notas mais literais. muitas vezes meu entendimento sobre uma coisa que li, assisti ou ouvi
+
+ 
+>À guisa de uma apresentação: [Meta Notas](https://jardim.w4lker.com.br/posts/notas-de-projeto-(meta-notas)) - notas que falam sobre o zettellkasten, o obsidian e sobre si mesmas.
+>Notas de Pesquisa acadêmica: [Dissertação e Projetos - índice](https://jardim.w4lker.com.br/posts/notas-de-projeto-(%C3%ADndice-de-projetos)) - notas relacionadas à pesquisa de mestrado e sobre todo um mundo de outras coisas.
+>Notas Permanentes: [Notas Permanentes - índice](https://jardim.w4lker.com.br/posts/notas-de-projeto-(notas-permanentes)) - notas geralmente mais importantes e que abrangem todo o projeto; novas notas podem ser promovidas (ou removidas) a qualquer momento.
+>Notas de Leitura: [Notas de leituras - índice] - notas mais literais, muitas vezes meu entendimento sobre uma coisa que li, assisti ou ouvi. 
  
 ---
 
