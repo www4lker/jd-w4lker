@@ -223,8 +223,13 @@ table, span {
 
 ul a, li a,ol a, ul, li, ol {
     color: var(--primary-text-color);    
-    
+    display: inline;
 }
+
+li a {
+    display: inline-block;
+}
+
 
 p a,
 td a,
@@ -965,8 +970,8 @@ hr {
     margin-left: 20px;
     margin-right: 50px;
     font-size: 16.5px;
-    font-family:  var(--primary-font-family);
-    font-weight: 600;
+    font-family: "cooper-black-std", serif;
+    font-weight: 500;
 }
 
 .feed-excerpt{

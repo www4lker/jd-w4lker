@@ -80,7 +80,7 @@ preferences:
   image:
     enabled: true
   pagepreview:
-    enabled: true
+    enabled: false
   highlighting:
     enabled: true
     color: 004e82 # Takes hexadecimal and basic names like white, red, etc. 
@@ -93,7 +93,7 @@ preferences:
   wrapping:
     enabled: true
   contextmenu:
-    enabled: true
+    enabled: false
     copylink: 
       enabled: true
     newtab: 
@@ -103,7 +103,7 @@ preferences:
     related: 
       enabled: true
   flashcards:
-    enabled: true
+    enabled: false
 
 encoding: utf-8
 
