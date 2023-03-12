@@ -223,13 +223,8 @@ table, span {
 
 ul a, li a,ol a, ul, li, ol {
     color: var(--primary-text-color);    
-    display: inline;
+    
 }
-
-li a {
-    display: inline-block;
-}
-
 
 p a,
 td a,
